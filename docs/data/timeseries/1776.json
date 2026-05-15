@@ -1067,6 +1067,17 @@
     "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
+    "date": "2026-02-12",
+    "code": "1776",
+    "name": "展宇",
+    "market": "TWSE",
+    "foreign_ratio": 0.47,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.47,
+    "three_inst_ratio_change_20": -0.020000000000000018
+  },
+  {
     "date": "2026-02-17",
     "code": "1776",
     "name": "展宇",
@@ -1108,7 +1119,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.51,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-02-26",
@@ -1119,7 +1130,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.51,
-    "three_inst_ratio_change_20": 0.030000000000000027
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-03-02",
@@ -1174,7 +1185,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.51,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-03-09",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.49,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
     "date": "2026-03-12",
@@ -1251,7 +1262,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.37,
-    "three_inst_ratio_change_20": -0.09999999999999998
+    "three_inst_ratio_change_20": -0.09000000000000002
   },
   {
     "date": "2026-03-18",
@@ -1262,7 +1273,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4,
-    "three_inst_ratio_change_20": -0.06
+    "three_inst_ratio_change_20": -0.06999999999999995
   },
   {
     "date": "2026-03-19",
@@ -1659,5 +1670,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.6,
     "three_inst_ratio_change_20": 0.10999999999999999
+  },
+  {
+    "date": "2026-05-14",
+    "code": "1776",
+    "name": "展宇",
+    "market": "TWSE",
+    "foreign_ratio": 0.78,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.78,
+    "three_inst_ratio_change_20": 0.28
   }
 ]

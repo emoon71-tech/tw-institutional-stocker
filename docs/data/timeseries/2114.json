@@ -1111,6 +1111,17 @@
     "three_inst_ratio_change_20": -0.009999999999999787
   },
   {
+    "date": "2026-02-12",
+    "code": "2114",
+    "name": "鑫永銓",
+    "market": "TWSE",
+    "foreign_ratio": 3.87,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.87,
+    "three_inst_ratio_change_20": -0.020000000000000018
+  },
+  {
     "date": "2026-02-17",
     "code": "2114",
     "name": "鑫永銓",
@@ -1152,7 +1163,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.95,
-    "three_inst_ratio_change_20": 0.06000000000000005
+    "three_inst_ratio_change_20": 0.0900000000000003
   },
   {
     "date": "2026-02-26",
@@ -1174,7 +1185,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.96,
-    "three_inst_ratio_change_20": 0.10000000000000009
+    "three_inst_ratio_change_20": 0.10999999999999988
   },
   {
     "date": "2026-03-03",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.95,
-    "three_inst_ratio_change_20": 0.10000000000000009
+    "three_inst_ratio_change_20": 0.0900000000000003
   },
   {
     "date": "2026-03-04",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.94,
-    "three_inst_ratio_change_20": 0.08000000000000007
+    "three_inst_ratio_change_20": 0.06999999999999984
   },
   {
     "date": "2026-03-06",
@@ -1218,7 +1229,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.94,
-    "three_inst_ratio_change_20": 0.06999999999999984
+    "three_inst_ratio_change_20": 0.06000000000000005
   },
   {
     "date": "2026-03-09",
@@ -1229,7 +1240,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.9,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-03-10",
@@ -1284,7 +1295,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.94,
-    "three_inst_ratio_change_20": 0.08000000000000007
+    "three_inst_ratio_change_20": 0.08999999999999986
   },
   {
     "date": "2026-03-17",
@@ -1306,7 +1317,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.95,
-    "three_inst_ratio_change_20": 0.10000000000000009
+    "three_inst_ratio_change_20": 0.0900000000000003
   },
   {
     "date": "2026-03-19",
@@ -1317,7 +1328,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.95,
-    "three_inst_ratio_change_20": 0.0900000000000003
+    "three_inst_ratio_change_20": 0.08000000000000007
   },
   {
     "date": "2026-03-20",
@@ -1714,5 +1725,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.13,
     "three_inst_ratio_change_20": 0.05999999999999961
+  },
+  {
+    "date": "2026-05-14",
+    "code": "2114",
+    "name": "鑫永銓",
+    "market": "TWSE",
+    "foreign_ratio": 4.11,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.11,
+    "three_inst_ratio_change_20": 0.03000000000000025
   }
 ]

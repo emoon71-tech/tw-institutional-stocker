@@ -1166,6 +1166,17 @@
     "three_inst_ratio_change_20": -1.0
   },
   {
+    "date": "2026-02-12",
+    "code": "00634R",
+    "name": "富邦上証反1",
+    "market": "TWSE",
+    "foreign_ratio": 4.72,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.72,
+    "three_inst_ratio_change_20": -0.9800000000000004
+  },
+  {
     "date": "2026-02-17",
     "code": "00634R",
     "name": "富邦上証反1",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.72,
-    "three_inst_ratio_change_20": -0.9800000000000004
+    "three_inst_ratio_change_20": -0.9700000000000006
   },
   {
     "date": "2026-02-25",
@@ -1251,7 +1262,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.6,
-    "three_inst_ratio_change_20": -1.0900000000000007
+    "three_inst_ratio_change_20": -1.08
   },
   {
     "date": "2026-03-05",
@@ -1262,7 +1273,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.81,
-    "three_inst_ratio_change_20": -0.8700000000000001
+    "three_inst_ratio_change_20": -0.8400000000000007
   },
   {
     "date": "2026-03-06",
@@ -1284,7 +1295,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.01,
-    "three_inst_ratio_change_20": -1.6400000000000006
+    "three_inst_ratio_change_20": -1.2200000000000006
   },
   {
     "date": "2026-03-10",
@@ -1295,7 +1306,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.01,
-    "three_inst_ratio_change_20": -1.2200000000000006
+    "three_inst_ratio_change_20": -0.7400000000000002
   },
   {
     "date": "2026-03-11",
@@ -1317,7 +1328,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.01,
-    "three_inst_ratio_change_20": -0.7400000000000002
+    "three_inst_ratio_change_20": -0.7200000000000006
   },
   {
     "date": "2026-03-13",
@@ -1328,7 +1339,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.01,
-    "three_inst_ratio_change_20": -0.7200000000000006
+    "three_inst_ratio_change_20": -0.71
   },
   {
     "date": "2026-03-16",
@@ -1769,5 +1780,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.23,
     "three_inst_ratio_change_20": 1.2400000000000002
+  },
+  {
+    "date": "2026-05-14",
+    "code": "00634R",
+    "name": "富邦上証反1",
+    "market": "TWSE",
+    "foreign_ratio": 6.17,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.17,
+    "three_inst_ratio_change_20": 1.1799999999999997
   }
 ]

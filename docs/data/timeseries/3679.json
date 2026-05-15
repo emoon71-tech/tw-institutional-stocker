@@ -1166,6 +1166,17 @@
     "three_inst_ratio_change_20": 0.019999999999999574
   },
   {
+    "date": "2026-02-12",
+    "code": "3679",
+    "name": "新至陞",
+    "market": "TWSE",
+    "foreign_ratio": 8.73,
+    "trust_ratio": 0.03808180126412222,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.768081801264122,
+    "three_inst_ratio_change_20": 0.009999999999999787
+  },
+  {
     "date": "2026-02-17",
     "code": "3679",
     "name": "新至陞",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 0.03808180126412222,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.838081801264122,
-    "three_inst_ratio_change_20": 0.08000000000000007
+    "three_inst_ratio_change_20": 0.08999999999999986
   },
   {
     "date": "2026-02-24",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.03808180126412222,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.898081801264121,
-    "three_inst_ratio_change_20": 0.14999999999999858
+    "three_inst_ratio_change_20": 0.16000000000000014
   },
   {
     "date": "2026-02-25",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.03808180126412222,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.938081801264122,
-    "three_inst_ratio_change_20": 0.20000000000000107
+    "three_inst_ratio_change_20": 0.1899999999999995
   },
   {
     "date": "2026-02-26",
@@ -1218,7 +1229,7 @@
     "trust_ratio": 0.03808180126412222,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.978081801264121,
-    "three_inst_ratio_change_20": 0.22999999999999865
+    "three_inst_ratio_change_20": 0.2599999999999998
   },
   {
     "date": "2026-03-02",
@@ -1240,7 +1251,7 @@
     "trust_ratio": 0.03808180126412222,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.008081801264122,
-    "three_inst_ratio_change_20": 0.2900000000000009
+    "three_inst_ratio_change_20": 0.28000000000000114
   },
   {
     "date": "2026-03-04",
@@ -1251,7 +1262,7 @@
     "trust_ratio": 0.03808180126412222,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.978081801264121,
-    "three_inst_ratio_change_20": 0.25
+    "three_inst_ratio_change_20": 0.22999999999999865
   },
   {
     "date": "2026-03-05",
@@ -1306,7 +1317,7 @@
     "trust_ratio": 0.03808180126412222,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.748081801264123,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.010000000000001563
   },
   {
     "date": "2026-03-12",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.03808180126412222,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.808081801264121,
-    "three_inst_ratio_change_20": 0.07000000000000028
+    "three_inst_ratio_change_20": 0.05999999999999872
   },
   {
     "date": "2026-03-19",
@@ -1372,7 +1383,7 @@
     "trust_ratio": 0.03808180126412222,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.798081801264122,
-    "three_inst_ratio_change_20": 0.049999999999998934
+    "three_inst_ratio_change_20": 0.02999999999999936
   },
   {
     "date": "2026-03-20",
@@ -1769,5 +1780,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.948081801264122,
     "three_inst_ratio_change_20": 0.2400000000000002
+  },
+  {
+    "date": "2026-05-14",
+    "code": "3679",
+    "name": "新至陞",
+    "market": "TWSE",
+    "foreign_ratio": 8.9,
+    "trust_ratio": 0.03808180126412222,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.938081801264122,
+    "three_inst_ratio_change_20": 0.15000000000000036
   }
 ]

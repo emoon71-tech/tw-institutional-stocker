@@ -1166,6 +1166,17 @@
     "three_inst_ratio_change_20": 0.259999999999998
   },
   {
+    "date": "2026-02-12",
+    "code": "1337",
+    "name": "再生-KY",
+    "market": "TWSE",
+    "foreign_ratio": 25.15,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 25.15,
+    "three_inst_ratio_change_20": 0.2799999999999976
+  },
+  {
     "date": "2026-02-17",
     "code": "1337",
     "name": "再生-KY",
@@ -1174,7 +1185,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -24.87
+    "three_inst_ratio_change_20": -24.88
   },
   {
     "date": "2026-02-23",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.19,
-    "three_inst_ratio_change_20": 0.3100000000000023
+    "three_inst_ratio_change_20": 0.3200000000000003
   },
   {
     "date": "2026-02-25",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.2,
-    "three_inst_ratio_change_20": 0.3299999999999983
+    "three_inst_ratio_change_20": 0.3200000000000003
   },
   {
     "date": "2026-02-26",
@@ -1218,7 +1229,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.2,
-    "three_inst_ratio_change_20": 0.3200000000000003
+    "three_inst_ratio_change_20": 0.3299999999999983
   },
   {
     "date": "2026-03-02",
@@ -1229,7 +1240,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.24,
-    "three_inst_ratio_change_20": 0.36999999999999744
+    "three_inst_ratio_change_20": 0.5499999999999972
   },
   {
     "date": "2026-03-03",
@@ -1240,7 +1251,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.3,
-    "three_inst_ratio_change_20": 0.6099999999999994
+    "three_inst_ratio_change_20": 0.5300000000000011
   },
   {
     "date": "2026-03-04",
@@ -1251,7 +1262,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.26,
-    "three_inst_ratio_change_20": 0.490000000000002
+    "three_inst_ratio_change_20": 0.40000000000000213
   },
   {
     "date": "2026-03-05",
@@ -1262,7 +1273,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.25,
-    "three_inst_ratio_change_20": 0.39000000000000057
+    "three_inst_ratio_change_20": 0.4200000000000017
   },
   {
     "date": "2026-03-06",
@@ -1273,7 +1284,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.36,
-    "three_inst_ratio_change_20": 0.5300000000000011
+    "three_inst_ratio_change_20": 0.5500000000000007
   },
   {
     "date": "2026-03-09",
@@ -1284,7 +1295,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.1,
-    "three_inst_ratio_change_20": 0.2900000000000027
+    "three_inst_ratio_change_20": 0.3000000000000007
   },
   {
     "date": "2026-03-10",
@@ -1295,7 +1306,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.09,
-    "three_inst_ratio_change_20": 0.28999999999999915
+    "three_inst_ratio_change_20": 0.25
   },
   {
     "date": "2026-03-11",
@@ -1306,7 +1317,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.15,
-    "three_inst_ratio_change_20": 0.3099999999999987
+    "three_inst_ratio_change_20": 0.36999999999999744
   },
   {
     "date": "2026-03-12",
@@ -1328,7 +1339,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.0,
-    "three_inst_ratio_change_20": 0.21999999999999886
+    "three_inst_ratio_change_20": -0.14000000000000057
   },
   {
     "date": "2026-03-16",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.0,
-    "three_inst_ratio_change_20": -0.14000000000000057
+    "three_inst_ratio_change_20": -0.14999999999999858
   },
   {
     "date": "2026-03-18",
@@ -1769,5 +1780,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.73,
     "three_inst_ratio_change_20": 0.1999999999999993
+  },
+  {
+    "date": "2026-05-14",
+    "code": "1337",
+    "name": "再生-KY",
+    "market": "TWSE",
+    "foreign_ratio": 25.77,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 25.77,
+    "three_inst_ratio_change_20": 0.120000000000001
   }
 ]

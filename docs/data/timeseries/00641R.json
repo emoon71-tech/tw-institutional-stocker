@@ -1166,6 +1166,17 @@
     "three_inst_ratio_change_20": 0.07
   },
   {
+    "date": "2026-02-12",
+    "code": "00641R",
+    "name": "富邦日本反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.07,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.07,
+    "three_inst_ratio_change_20": -0.44
+  },
+  {
     "date": "2026-02-17",
     "code": "00641R",
     "name": "富邦日本反1",
@@ -1174,7 +1185,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -0.51
+    "three_inst_ratio_change_20": -0.53
   },
   {
     "date": "2026-02-23",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.07,
-    "three_inst_ratio_change_20": -0.46
+    "three_inst_ratio_change_20": -0.48000000000000004
   },
   {
     "date": "2026-02-25",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.07,
-    "three_inst_ratio_change_20": -0.48000000000000004
+    "three_inst_ratio_change_20": 0.04000000000000001
   },
   {
     "date": "2026-02-26",
@@ -1328,7 +1339,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -0.03
+    "three_inst_ratio_change_20": -0.07
   },
   {
     "date": "2026-03-16",
@@ -1761,6 +1772,17 @@
   },
   {
     "date": "2026-05-13",
+    "code": "00641R",
+    "name": "富邦日本反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-05-14",
     "code": "00641R",
     "name": "富邦日本反1",
     "market": "TWSE",

@@ -110,6 +110,17 @@
     "three_inst_ratio_change_20": 0.0
   },
   {
+    "date": "2026-02-12",
+    "code": "2838A",
+    "name": "聯邦銀甲特",
+    "market": "TWSE",
+    "foreign_ratio": 0.12,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.12,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
     "date": "2026-02-17",
     "code": "2838A",
     "name": "聯邦銀甲特",
@@ -217,7 +228,7 @@
     "trust_ratio": 0.005,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.115,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.115
   },
   {
     "date": "2026-03-31",
@@ -239,7 +250,7 @@
     "trust_ratio": 0.005,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.115,
-    "three_inst_ratio_change_20": 0.115
+    "three_inst_ratio_change_20": -0.015
   },
   {
     "date": "2026-04-02",
@@ -272,7 +283,7 @@
     "trust_ratio": 0.005,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.10500000000000001,
-    "three_inst_ratio_change_20": -0.024999999999999994
+    "three_inst_ratio_change_20": 0.10500000000000001
   },
   {
     "date": "2026-04-09",
@@ -283,6 +294,6 @@
     "trust_ratio": 0.005,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.10500000000000001,
-    "three_inst_ratio_change_20": 0.10500000000000001
+    "three_inst_ratio_change_20": -0.024999999999999994
   }
 ]

@@ -1166,6 +1166,17 @@
     "three_inst_ratio_change_20": -0.029999999999999916
   },
   {
+    "date": "2026-02-12",
+    "code": "1339",
+    "name": "昭輝",
+    "market": "TWSE",
+    "foreign_ratio": 0.91,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.91,
+    "three_inst_ratio_change_20": -0.04999999999999993
+  },
+  {
     "date": "2026-02-17",
     "code": "1339",
     "name": "昭輝",
@@ -1174,7 +1185,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -0.96
+    "three_inst_ratio_change_20": -0.88
   },
   {
     "date": "2026-02-23",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.93,
-    "three_inst_ratio_change_20": 0.050000000000000044
+    "three_inst_ratio_change_20": 0.06000000000000005
   },
   {
     "date": "2026-02-24",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.94,
-    "three_inst_ratio_change_20": 0.06999999999999995
+    "three_inst_ratio_change_20": 0.08999999999999997
   },
   {
     "date": "2026-02-26",
@@ -1262,7 +1273,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.9,
-    "three_inst_ratio_change_20": 0.050000000000000044
+    "three_inst_ratio_change_20": 0.06000000000000005
   },
   {
     "date": "2026-03-06",
@@ -1284,7 +1295,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.88,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-03-10",
@@ -1306,7 +1317,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.9,
-    "three_inst_ratio_change_20": 0.050000000000000044
+    "three_inst_ratio_change_20": 0.06000000000000005
   },
   {
     "date": "2026-03-12",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.91,
-    "three_inst_ratio_change_20": 0.07000000000000006
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-03-19",
@@ -1372,7 +1383,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.92,
-    "three_inst_ratio_change_20": 0.050000000000000044
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-03-20",
@@ -1768,6 +1779,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.01,
+    "three_inst_ratio_change_20": 0.040000000000000036
+  },
+  {
+    "date": "2026-05-14",
+    "code": "1339",
+    "name": "昭輝",
+    "market": "TWSE",
+    "foreign_ratio": 1.03,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.03,
     "three_inst_ratio_change_20": 0.040000000000000036
   }
 ]

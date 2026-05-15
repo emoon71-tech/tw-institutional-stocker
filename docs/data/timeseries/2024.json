@@ -803,6 +803,17 @@
     "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
+    "date": "2026-02-12",
+    "code": "2024",
+    "name": "志聯",
+    "market": "TWSE",
+    "foreign_ratio": 0.34,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.34,
+    "three_inst_ratio_change_20": 0.010000000000000009
+  },
+  {
     "date": "2026-02-17",
     "code": "2024",
     "name": "志聯",
@@ -866,7 +877,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.38,
-    "three_inst_ratio_change_20": 0.04999999999999999
+    "three_inst_ratio_change_20": 0.06
   },
   {
     "date": "2026-03-03",
@@ -998,7 +1009,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.34,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-03-19",
@@ -1009,7 +1020,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.34,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-03-20",
@@ -1362,5 +1373,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44,
     "three_inst_ratio_change_20": 0.08000000000000002
+  },
+  {
+    "date": "2026-05-14",
+    "code": "2024",
+    "name": "志聯",
+    "market": "TWSE",
+    "foreign_ratio": 0.44,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.44,
+    "three_inst_ratio_change_20": 0.06
   }
 ]

@@ -1122,6 +1122,17 @@
     "three_inst_ratio_change_20": 0.0
   },
   {
+    "date": "2026-02-12",
+    "code": "1530",
+    "name": "亞崴",
+    "market": "TWSE",
+    "foreign_ratio": 0.6,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6,
+    "three_inst_ratio_change_20": 0.010000000000000009
+  },
+  {
     "date": "2026-02-17",
     "code": "1530",
     "name": "亞崴",
@@ -1130,7 +1141,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -0.59
+    "three_inst_ratio_change_20": -0.61
   },
   {
     "date": "2026-02-23",
@@ -1141,7 +1152,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.63,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-02-24",
@@ -1152,7 +1163,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.64,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-02-25",
@@ -1240,7 +1251,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.65,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.050000000000000044
   },
   {
     "date": "2026-03-10",
@@ -1251,7 +1262,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.63,
-    "three_inst_ratio_change_20": 0.030000000000000027
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-03-11",
@@ -1262,7 +1273,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.63,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.050000000000000044
   },
   {
     "date": "2026-03-12",
@@ -1306,7 +1317,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.61,
-    "three_inst_ratio_change_20": 0.030000000000000027
+    "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
     "date": "2026-03-18",
@@ -1317,7 +1328,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.61,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-03-19",
@@ -1714,5 +1725,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.68,
     "three_inst_ratio_change_20": 0.13
+  },
+  {
+    "date": "2026-05-14",
+    "code": "1530",
+    "name": "亞崴",
+    "market": "TWSE",
+    "foreign_ratio": 0.68,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.68,
+    "three_inst_ratio_change_20": 0.1100000000000001
   }
 ]

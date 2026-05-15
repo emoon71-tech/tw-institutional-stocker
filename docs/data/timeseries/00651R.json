@@ -1166,6 +1166,17 @@
     "three_inst_ratio_change_20": -0.2200000000000002
   },
   {
+    "date": "2026-02-12",
+    "code": "00651R",
+    "name": "復華香港反1",
+    "market": "TWSE",
+    "foreign_ratio": 2.01,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.01,
+    "three_inst_ratio_change_20": -0.010000000000000231
+  },
+  {
     "date": "2026-02-17",
     "code": "00651R",
     "name": "復華香港反1",
@@ -1174,7 +1185,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -2.02
+    "three_inst_ratio_change_20": -1.61
   },
   {
     "date": "2026-02-23",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.33,
-    "three_inst_ratio_change_20": 0.72
+    "three_inst_ratio_change_20": 0.6800000000000002
   },
   {
     "date": "2026-02-24",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.34,
-    "three_inst_ratio_change_20": -0.30999999999999983
+    "three_inst_ratio_change_20": -0.25
   },
   {
     "date": "2026-02-26",
@@ -1229,7 +1240,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.29,
-    "three_inst_ratio_change_20": -0.30000000000000004
+    "three_inst_ratio_change_20": -0.33000000000000007
   },
   {
     "date": "2026-03-03",
@@ -1251,7 +1262,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.11,
-    "three_inst_ratio_change_20": -0.51
+    "three_inst_ratio_change_20": -0.44999999999999996
   },
   {
     "date": "2026-03-05",
@@ -1306,7 +1317,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.02,
-    "three_inst_ratio_change_20": -0.54
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-03-12",
@@ -1317,7 +1328,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.02,
-    "three_inst_ratio_change_20": 0.030000000000000027
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-03-13",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.02,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.9899999999999998
   },
   {
     "date": "2026-03-18",
@@ -1769,5 +1780,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.05,
     "three_inst_ratio_change_20": -0.18999999999999995
+  },
+  {
+    "date": "2026-05-14",
+    "code": "00651R",
+    "name": "復華香港反1",
+    "market": "TWSE",
+    "foreign_ratio": 1.05,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.05,
+    "three_inst_ratio_change_20": -0.06000000000000005
   }
 ]

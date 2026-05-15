@@ -1166,6 +1166,17 @@
     "three_inst_ratio_change_20": 0.07000000000000006
   },
   {
+    "date": "2026-02-12",
+    "code": "2908",
+    "name": "特力",
+    "market": "TWSE",
+    "foreign_ratio": 1.73,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.73,
+    "three_inst_ratio_change_20": 0.07000000000000006
+  },
+  {
     "date": "2026-02-17",
     "code": "2908",
     "name": "特力",
@@ -1174,7 +1185,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -1.66
+    "three_inst_ratio_change_20": -1.67
   },
   {
     "date": "2026-02-23",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.72,
-    "three_inst_ratio_change_20": 0.050000000000000044
+    "three_inst_ratio_change_20": 0.06000000000000005
   },
   {
     "date": "2026-02-24",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.72,
-    "three_inst_ratio_change_20": 0.06000000000000005
+    "three_inst_ratio_change_20": 0.050000000000000044
   },
   {
     "date": "2026-02-25",
@@ -1273,7 +1284,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.71,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-03-09",
@@ -1328,7 +1339,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.64,
-    "three_inst_ratio_change_20": -0.040000000000000036
+    "three_inst_ratio_change_20": -0.09000000000000008
   },
   {
     "date": "2026-03-16",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.63,
-    "three_inst_ratio_change_20": -0.10000000000000009
+    "three_inst_ratio_change_20": -0.09000000000000008
   },
   {
     "date": "2026-03-19",
@@ -1372,7 +1383,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.61,
-    "three_inst_ratio_change_20": -0.10999999999999988
+    "three_inst_ratio_change_20": -0.11999999999999988
   },
   {
     "date": "2026-03-20",
@@ -1769,5 +1780,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.63,
     "three_inst_ratio_change_20": 0.05999999999999983
+  },
+  {
+    "date": "2026-05-14",
+    "code": "2908",
+    "name": "特力",
+    "market": "TWSE",
+    "foreign_ratio": 1.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.61,
+    "three_inst_ratio_change_20": 0.030000000000000027
   }
 ]

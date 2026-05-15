@@ -1144,6 +1144,17 @@
     "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
+    "date": "2026-02-12",
+    "code": "1472",
+    "name": "三洋實業",
+    "market": "TWSE",
+    "foreign_ratio": 0.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.85,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
     "date": "2026-02-17",
     "code": "1472",
     "name": "三洋實業",
@@ -1152,7 +1163,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -0.85
+    "three_inst_ratio_change_20": -0.82
   },
   {
     "date": "2026-02-23",
@@ -1174,7 +1185,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.88,
-    "three_inst_ratio_change_20": 0.06000000000000005
+    "three_inst_ratio_change_20": 0.06999999999999995
   },
   {
     "date": "2026-02-25",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.89,
-    "three_inst_ratio_change_20": 0.07999999999999996
+    "three_inst_ratio_change_20": 0.08999999999999997
   },
   {
     "date": "2026-02-26",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.019999999999999907
   },
   {
     "date": "2026-03-02",
@@ -1240,7 +1251,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.83,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-03-06",
@@ -1273,7 +1284,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.81,
-    "three_inst_ratio_change_20": -0.019999999999999907
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-03-11",
@@ -1295,7 +1306,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.82,
-    "three_inst_ratio_change_20": 0.009999999999999898
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-03-13",
@@ -1328,7 +1339,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.83,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
     "date": "2026-03-18",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.88,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-03-20",
@@ -1736,5 +1747,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.83,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-05-14",
+    "code": "1472",
+    "name": "三洋實業",
+    "market": "TWSE",
+    "foreign_ratio": 0.83,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.83,
+    "three_inst_ratio_change_20": -0.010000000000000009
   }
 ]

@@ -1056,6 +1056,17 @@
     "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
+    "date": "2026-02-12",
+    "code": "1423",
+    "name": "利華",
+    "market": "TWSE",
+    "foreign_ratio": 1.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.42,
+    "three_inst_ratio_change_20": 0.030000000000000027
+  },
+  {
     "date": "2026-02-17",
     "code": "1423",
     "name": "利華",
@@ -1064,7 +1075,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -1.39
+    "three_inst_ratio_change_20": -1.4
   },
   {
     "date": "2026-02-23",
@@ -1097,7 +1108,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.45,
-    "three_inst_ratio_change_20": 0.050000000000000044
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-02-26",
@@ -1262,7 +1273,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.4,
-    "three_inst_ratio_change_20": -0.010000000000000009
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-03-20",
@@ -1659,5 +1670,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.23,
     "three_inst_ratio_change_20": -0.21999999999999997
+  },
+  {
+    "date": "2026-05-14",
+    "code": "1423",
+    "name": "利華",
+    "market": "TWSE",
+    "foreign_ratio": 1.23,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.23,
+    "three_inst_ratio_change_20": -0.24
   }
 ]

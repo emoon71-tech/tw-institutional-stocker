@@ -1166,6 +1166,17 @@
     "three_inst_ratio_change_20": 0.029999999999999805
   },
   {
+    "date": "2026-02-12",
+    "code": "4999",
+    "name": "鑫禾",
+    "market": "TWSE",
+    "foreign_ratio": 1.63,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.63,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
     "date": "2026-02-17",
     "code": "4999",
     "name": "鑫禾",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.66,
-    "three_inst_ratio_change_20": 0.030000000000000027
+    "three_inst_ratio_change_20": 0.039999999999999813
   },
   {
     "date": "2026-02-26",
@@ -1218,7 +1229,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.68,
-    "three_inst_ratio_change_20": 0.05999999999999983
+    "three_inst_ratio_change_20": 0.07999999999999985
   },
   {
     "date": "2026-03-02",
@@ -1273,7 +1284,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.69,
-    "three_inst_ratio_change_20": 0.08999999999999986
+    "three_inst_ratio_change_20": 0.07999999999999985
   },
   {
     "date": "2026-03-09",
@@ -1317,7 +1328,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.69,
-    "three_inst_ratio_change_20": 0.07999999999999985
+    "three_inst_ratio_change_20": 0.08999999999999986
   },
   {
     "date": "2026-03-13",
@@ -1328,7 +1339,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.68,
-    "three_inst_ratio_change_20": 0.07999999999999985
+    "three_inst_ratio_change_20": 0.06999999999999984
   },
   {
     "date": "2026-03-16",
@@ -1339,7 +1350,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.68,
-    "three_inst_ratio_change_20": 0.06999999999999984
+    "three_inst_ratio_change_20": 0.07999999999999985
   },
   {
     "date": "2026-03-17",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.66,
-    "three_inst_ratio_change_20": 0.05999999999999983
+    "three_inst_ratio_change_20": 0.039999999999999813
   },
   {
     "date": "2026-03-18",
@@ -1372,7 +1383,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.64,
-    "three_inst_ratio_change_20": 0.019999999999999796
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-03-20",
@@ -1769,5 +1780,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.71,
     "three_inst_ratio_change_20": 0.10999999999999988
+  },
+  {
+    "date": "2026-05-14",
+    "code": "4999",
+    "name": "鑫禾",
+    "market": "TWSE",
+    "foreign_ratio": 1.68,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.68,
+    "three_inst_ratio_change_20": 0.07999999999999985
   }
 ]

@@ -1133,6 +1133,17 @@
     "three_inst_ratio_change_20": -0.10000000000000142
   },
   {
+    "date": "2026-02-12",
+    "code": "4190",
+    "name": "佐登-KY",
+    "market": "TWSE",
+    "foreign_ratio": 60.8,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 60.8,
+    "three_inst_ratio_change_20": -0.10999999999999943
+  },
+  {
     "date": "2026-02-17",
     "code": "4190",
     "name": "佐登-KY",
@@ -1141,7 +1152,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -60.91
+    "three_inst_ratio_change_20": -60.86
   },
   {
     "date": "2026-02-23",
@@ -1152,7 +1163,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 60.81,
-    "three_inst_ratio_change_20": -0.04999999999999716
+    "three_inst_ratio_change_20": -0.0799999999999983
   },
   {
     "date": "2026-02-24",
@@ -1163,7 +1174,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 60.82,
-    "three_inst_ratio_change_20": -0.07000000000000028
+    "three_inst_ratio_change_20": -0.00999999999999801
   },
   {
     "date": "2026-02-25",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 60.82,
-    "three_inst_ratio_change_20": -0.00999999999999801
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-03-02",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 60.82,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.020000000000003126
   },
   {
     "date": "2026-03-04",
@@ -1229,7 +1240,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 60.79,
-    "three_inst_ratio_change_20": -0.00999999999999801
+    "three_inst_ratio_change_20": -0.020000000000003126
   },
   {
     "date": "2026-03-06",
@@ -1251,7 +1262,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 60.77,
-    "three_inst_ratio_change_20": -0.03999999999999915
+    "three_inst_ratio_change_20": -0.04999999999999716
   },
   {
     "date": "2026-03-10",
@@ -1273,7 +1284,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 60.74,
-    "three_inst_ratio_change_20": -0.0799999999999983
+    "three_inst_ratio_change_20": -0.0899999999999963
   },
   {
     "date": "2026-03-12",
@@ -1317,7 +1328,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 60.73,
-    "three_inst_ratio_change_20": -0.10000000000000142
+    "three_inst_ratio_change_20": -0.09000000000000341
   },
   {
     "date": "2026-03-18",
@@ -1328,7 +1339,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 60.75,
-    "three_inst_ratio_change_20": -0.07000000000000028
+    "three_inst_ratio_change_20": -0.0799999999999983
   },
   {
     "date": "2026-03-19",
@@ -1339,7 +1350,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 60.74,
-    "three_inst_ratio_change_20": -0.0899999999999963
+    "three_inst_ratio_change_20": -0.05999999999999517
   },
   {
     "date": "2026-03-20",
@@ -1736,5 +1747,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 61.53,
     "three_inst_ratio_change_20": 0.020000000000003126
+  },
+  {
+    "date": "2026-05-14",
+    "code": "4190",
+    "name": "佐登-KY",
+    "market": "TWSE",
+    "foreign_ratio": 61.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 61.52,
+    "three_inst_ratio_change_20": 0.0
   }
 ]

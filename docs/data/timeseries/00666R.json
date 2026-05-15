@@ -1166,6 +1166,17 @@
     "three_inst_ratio_change_20": 0.8700000000000001
   },
   {
+    "date": "2026-02-12",
+    "code": "00666R",
+    "name": "富邦恒生國企反1",
+    "market": "TWSE",
+    "foreign_ratio": 7.03,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.03,
+    "three_inst_ratio_change_20": 0.8700000000000001
+  },
+  {
     "date": "2026-02-17",
     "code": "00666R",
     "name": "富邦恒生國企反1",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.06,
-    "three_inst_ratio_change_20": 0.8999999999999995
+    "three_inst_ratio_change_20": 0.8899999999999997
   },
   {
     "date": "2026-02-25",
@@ -1229,7 +1240,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.1,
-    "three_inst_ratio_change_20": 0.9299999999999997
+    "three_inst_ratio_change_20": 0.9199999999999999
   },
   {
     "date": "2026-03-03",
@@ -1284,7 +1295,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.17,
-    "three_inst_ratio_change_20": 1.9900000000000002
+    "three_inst_ratio_change_20": 1.9299999999999997
   },
   {
     "date": "2026-03-10",
@@ -1295,7 +1306,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.13,
-    "three_inst_ratio_change_20": 1.8900000000000006
+    "three_inst_ratio_change_20": 1.3800000000000008
   },
   {
     "date": "2026-03-11",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.12,
-    "three_inst_ratio_change_20": 1.3699999999999992
+    "three_inst_ratio_change_20": 1.2199999999999989
   },
   {
     "date": "2026-03-18",
@@ -1372,7 +1383,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.12,
-    "three_inst_ratio_change_20": 1.2199999999999989
+    "three_inst_ratio_change_20": 1.089999999999999
   },
   {
     "date": "2026-03-20",
@@ -1769,5 +1780,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.98,
     "three_inst_ratio_change_20": -0.23000000000000043
+  },
+  {
+    "date": "2026-05-14",
+    "code": "00666R",
+    "name": "富邦恒生國企反1",
+    "market": "TWSE",
+    "foreign_ratio": 8.17,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.17,
+    "three_inst_ratio_change_20": -0.040000000000000924
   }
 ]

@@ -1155,6 +1155,17 @@
     "three_inst_ratio_change_20": -0.030000000000000027
   },
   {
+    "date": "2026-02-12",
+    "code": "1459",
+    "name": "聯發",
+    "market": "TWSE",
+    "foreign_ratio": 1.51,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.51,
+    "three_inst_ratio_change_20": -0.030000000000000027
+  },
+  {
     "date": "2026-02-17",
     "code": "1459",
     "name": "聯發",
@@ -1174,7 +1185,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.54,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-02-24",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.54,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
     "date": "2026-02-25",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.54,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-02-26",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.56,
-    "three_inst_ratio_change_20": 0.050000000000000044
+    "three_inst_ratio_change_20": 0.06000000000000005
   },
   {
     "date": "2026-03-02",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.49,
-    "three_inst_ratio_change_20": -0.010000000000000009
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-03-20",
@@ -1758,5 +1769,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7,
     "three_inst_ratio_change_20": 0.15999999999999992
+  },
+  {
+    "date": "2026-05-14",
+    "code": "1459",
+    "name": "聯發",
+    "market": "TWSE",
+    "foreign_ratio": 1.69,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.69,
+    "three_inst_ratio_change_20": 0.1399999999999999
   }
 ]
