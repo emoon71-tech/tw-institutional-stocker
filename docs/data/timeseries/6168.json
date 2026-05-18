@@ -1232,15 +1232,26 @@
     "three_inst_ratio_change_20": -1.21
   },
   {
+    "date": "2026-02-27",
+    "code": "6168",
+    "name": "宏齊",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.44
+  },
+  {
     "date": "2026-03-02",
     "code": "6168",
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.25,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0004852724635765529,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.25,
-    "three_inst_ratio_change_20": -1.1900000000000004
+    "three_inst_ratio": 3.2504852724635764,
+    "three_inst_ratio_change_20": -1.1095147275364239
   },
   {
     "date": "2026-03-03",
@@ -1248,10 +1259,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.08,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0004852724635765529,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.08,
-    "three_inst_ratio_change_20": -1.2800000000000002
+    "three_inst_ratio": 3.0804852724635765,
+    "three_inst_ratio_change_20": -0.8995147275364235
   },
   {
     "date": "2026-03-04",
@@ -1259,10 +1270,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.0,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0004852724635765529,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.0,
-    "three_inst_ratio_change_20": -0.98
+    "three_inst_ratio": 3.0004852724635764,
+    "three_inst_ratio_change_20": -0.1395147275364237
   },
   {
     "date": "2026-03-05",
@@ -1270,10 +1281,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.07,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0004852724635765529,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.07,
-    "three_inst_ratio_change_20": -0.07000000000000028
+    "three_inst_ratio": 3.0704852724635763,
+    "three_inst_ratio_change_20": -0.029514727536423813
   },
   {
     "date": "2026-03-06",
@@ -1281,10 +1292,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.04,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0004852724635765529,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.04,
-    "three_inst_ratio_change_20": -0.06000000000000005
+    "three_inst_ratio": 3.0404852724635765,
+    "three_inst_ratio_change_20": -0.21951472753642332
   },
   {
     "date": "2026-03-09",
@@ -1292,10 +1303,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.03,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0004852724635765529,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.03,
-    "three_inst_ratio_change_20": -0.22999999999999998
+    "three_inst_ratio": 3.0304852724635762,
+    "three_inst_ratio_change_20": -0.31951472753642385
   },
   {
     "date": "2026-03-10",
@@ -1303,10 +1314,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.07,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0004852724635765529,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.07,
-    "three_inst_ratio_change_20": -0.28000000000000025
+    "three_inst_ratio": 3.0704852724635763,
+    "three_inst_ratio_change_20": -0.22951472753642355
   },
   {
     "date": "2026-03-11",
@@ -1314,10 +1325,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.11,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0004852724635765529,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.11,
-    "three_inst_ratio_change_20": -0.18999999999999995
+    "three_inst_ratio": 3.1104852724635763,
+    "three_inst_ratio_change_20": -0.2795147275364238
   },
   {
     "date": "2026-03-12",
@@ -1325,10 +1336,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.39,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0004852724635765529,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.39,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 3.3904852724635766,
+    "three_inst_ratio_change_20": -0.08951472753642342
   },
   {
     "date": "2026-03-13",
@@ -1336,10 +1347,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.86,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0004852724635765529,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.86,
-    "three_inst_ratio_change_20": -0.6200000000000001
+    "three_inst_ratio": 2.8604852724635763,
+    "three_inst_ratio_change_20": -0.6495147275364235
   },
   {
     "date": "2026-03-16",
@@ -1347,10 +1358,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.06,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0004852724635765529,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.06,
-    "three_inst_ratio_change_20": -0.44999999999999973
+    "three_inst_ratio": 3.0604852724635765,
+    "three_inst_ratio_change_20": 0.24048527246357665
   },
   {
     "date": "2026-03-17",
@@ -1358,10 +1369,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.54,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0004852724635765529,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.54,
-    "three_inst_ratio_change_20": 0.7200000000000002
+    "three_inst_ratio": 3.5404852724635765,
+    "three_inst_ratio_change_20": 0.6304852724635763
   },
   {
     "date": "2026-03-18",
@@ -1369,10 +1380,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.8,
-    "trust_ratio": -0.0029116347814593176,
+    "trust_ratio": -0.0024263623178827644,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.7970883652185403,
-    "three_inst_ratio_change_20": 0.8870883652185402
+    "three_inst_ratio": 3.797573637682117,
+    "three_inst_ratio_change_20": 0.9575736376821173
   },
   {
     "date": "2026-03-19",
@@ -1380,10 +1391,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 4.02,
-    "trust_ratio": -0.0029116347814593176,
+    "trust_ratio": -0.0024263623178827644,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.01708836521854,
-    "three_inst_ratio_change_20": 1.1770883652185402
+    "three_inst_ratio": 4.0175736376821165,
+    "three_inst_ratio_change_20": 1.1775736376821166
   },
   {
     "date": "2026-03-20",
@@ -1391,10 +1402,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.25,
-    "trust_ratio": -0.0029116347814593176,
+    "trust_ratio": -0.0024263623178827644,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.2470883652185405,
-    "three_inst_ratio_change_20": 0.40708836521854064
+    "three_inst_ratio": 3.2475736376821174,
+    "three_inst_ratio_change_20": 3.2475736376821174
   },
   {
     "date": "2026-03-23",
@@ -1402,10 +1413,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.16,
-    "trust_ratio": -0.0029116347814593176,
+    "trust_ratio": -0.0024263623178827644,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.1570883652185406,
-    "three_inst_ratio_change_20": 3.1570883652185406
+    "three_inst_ratio": 3.1575736376821175,
+    "three_inst_ratio_change_20": 0.17757363768211754
   },
   {
     "date": "2026-03-24",
@@ -1413,10 +1424,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.34,
-    "trust_ratio": -0.0029116347814593176,
+    "trust_ratio": -0.0024263623178827644,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.3370883652185404,
-    "three_inst_ratio_change_20": 0.35708836521854037
+    "three_inst_ratio": 3.3375736376821172,
+    "three_inst_ratio_change_20": 0.20757363768211734
   },
   {
     "date": "2026-03-25",
@@ -1424,10 +1435,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 1.99,
-    "trust_ratio": -0.0029116347814593176,
+    "trust_ratio": -0.0024263623178827644,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.9870883652185407,
-    "three_inst_ratio_change_20": -1.1429116347814592
+    "three_inst_ratio": 1.9875736376821171,
+    "three_inst_ratio_change_20": -1.0224263623178826
   },
   {
     "date": "2026-03-26",
@@ -1435,10 +1446,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.1,
-    "trust_ratio": -0.0029116347814593176,
+    "trust_ratio": -0.0024263623178827644,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.0970883652185406,
-    "three_inst_ratio_change_20": -0.9129116347814592
+    "three_inst_ratio": 2.0975736376821175,
+    "three_inst_ratio_change_20": -1.1024263623178827
   },
   {
     "date": "2026-03-27",
@@ -1446,10 +1457,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.33,
-    "trust_ratio": -0.0029116347814593176,
+    "trust_ratio": -0.0024263623178827644,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.3270883652185406,
-    "three_inst_ratio_change_20": -0.8729116347814596
+    "three_inst_ratio": 2.3275736376821174,
+    "three_inst_ratio_change_20": 2.3275736376821174
   },
   {
     "date": "2026-03-30",
@@ -1457,10 +1468,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.8,
-    "trust_ratio": -0.0029116347814593176,
+    "trust_ratio": -0.0024263623178827644,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.7970883652185403,
-    "three_inst_ratio_change_20": -0.4529116347814597
+    "three_inst_ratio": 2.797573637682117,
+    "three_inst_ratio_change_20": -0.45291163478145924
   },
   {
     "date": "2026-03-31",
@@ -1468,10 +1479,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.96,
-    "trust_ratio": -0.0029116347814593176,
+    "trust_ratio": -0.0024263623178827644,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.9570883652185405,
-    "three_inst_ratio_change_20": -0.12291163478145961
+    "three_inst_ratio": 2.9575736376821173,
+    "three_inst_ratio_change_20": -0.12291163478145917
   },
   {
     "date": "2026-04-01",
@@ -1479,10 +1490,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.88,
-    "trust_ratio": -0.0029116347814593176,
+    "trust_ratio": -0.0024263623178827644,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.8770883652185404,
-    "three_inst_ratio_change_20": -0.12291163478145961
+    "three_inst_ratio": 2.8775736376821173,
+    "three_inst_ratio_change_20": -0.12291163478145917
   },
   {
     "date": "2026-04-02",
@@ -1490,10 +1501,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.98,
-    "trust_ratio": -0.0029116347814593176,
+    "trust_ratio": -0.0024263623178827644,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.9770883652185405,
-    "three_inst_ratio_change_20": -0.09291163478145936
+    "three_inst_ratio": 2.9775736376821174,
+    "three_inst_ratio_change_20": -0.09291163478145892
   },
   {
     "date": "2026-04-07",
@@ -1501,10 +1512,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.36,
-    "trust_ratio": -0.0029116347814593176,
+    "trust_ratio": -0.0024263623178827644,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.3570883652185404,
-    "three_inst_ratio_change_20": -0.6829116347814597
+    "three_inst_ratio": 2.3575736376821173,
+    "three_inst_ratio_change_20": -0.6829116347814592
   },
   {
     "date": "2026-04-08",
@@ -1512,10 +1523,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.91,
-    "trust_ratio": -0.0029116347814593176,
+    "trust_ratio": -0.0024263623178827644,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.9070883652185406,
-    "three_inst_ratio_change_20": -0.12291163478145917
+    "three_inst_ratio": 2.9075736376821175,
+    "three_inst_ratio_change_20": -0.12291163478145872
   },
   {
     "date": "2026-04-09",
@@ -1523,10 +1534,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.51,
-    "trust_ratio": -0.0029116347814593176,
+    "trust_ratio": -0.0024263623178827644,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.5070883652185403,
-    "three_inst_ratio_change_20": -0.5629116347814596
+    "three_inst_ratio": 2.507573637682117,
+    "three_inst_ratio_change_20": -0.5629116347814591
   },
   {
     "date": "2026-04-10",
@@ -1534,10 +1545,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.34,
-    "trust_ratio": -0.0029116347814593176,
+    "trust_ratio": -0.0024263623178827644,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.3370883652185404,
-    "three_inst_ratio_change_20": -0.7729116347814595
+    "three_inst_ratio": 2.3375736376821172,
+    "three_inst_ratio_change_20": -0.7729116347814591
   },
   {
     "date": "2026-04-13",
@@ -1545,10 +1556,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.77,
-    "trust_ratio": -0.0029116347814593176,
+    "trust_ratio": -0.0024263623178827644,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.7670883652185405,
-    "three_inst_ratio_change_20": -0.6229116347814596
+    "three_inst_ratio": 2.7675736376821174,
+    "three_inst_ratio_change_20": -0.6229116347814592
   },
   {
     "date": "2026-04-14",
@@ -1556,10 +1567,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.65,
-    "trust_ratio": -0.0029116347814593176,
+    "trust_ratio": -0.0024263623178827644,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.6470883652185404,
-    "three_inst_ratio_change_20": -0.21291163478145947
+    "three_inst_ratio": 2.6475736376821173,
+    "three_inst_ratio_change_20": -0.21291163478145902
   },
   {
     "date": "2026-04-15",
@@ -1567,10 +1578,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.93,
-    "trust_ratio": -0.0029116347814593176,
+    "trust_ratio": -0.0024263623178827644,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.9270883652185407,
-    "three_inst_ratio_change_20": -0.1329116347814594
+    "three_inst_ratio": 2.9275736376821175,
+    "three_inst_ratio_change_20": -0.13291163478145895
   },
   {
     "date": "2026-04-16",
@@ -1578,10 +1589,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.56,
-    "trust_ratio": -0.0029116347814593176,
+    "trust_ratio": -0.0024263623178827644,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.5570883652185405,
-    "three_inst_ratio_change_20": -0.9829116347814595
+    "three_inst_ratio": 2.5575736376821174,
+    "three_inst_ratio_change_20": -0.982911634781459
   },
   {
     "date": "2026-04-17",
@@ -1589,10 +1600,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.19,
-    "trust_ratio": -0.0029159931390763828,
+    "trust_ratio": -0.0024299942825636526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.1870840068609234,
-    "three_inst_ratio_change_20": -0.6100043583576169
+    "three_inst_ratio": 3.1875700057174363,
+    "three_inst_ratio_change_20": -0.6100036319646809
   },
   {
     "date": "2026-04-20",
@@ -1600,10 +1611,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.23,
-    "trust_ratio": -0.0029159931390763828,
+    "trust_ratio": -0.0024299942825636526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.2270840068609234,
-    "three_inst_ratio_change_20": -1.7900043583576166
+    "three_inst_ratio": 2.2275700057174364,
+    "three_inst_ratio_change_20": -1.7900036319646802
   },
   {
     "date": "2026-04-21",
@@ -1611,10 +1622,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.04,
-    "trust_ratio": -0.0029159931390763828,
+    "trust_ratio": -0.0024299942825636526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.0370840068609235,
-    "three_inst_ratio_change_20": -1.210004358357617
+    "three_inst_ratio": 2.0375700057174364,
+    "three_inst_ratio_change_20": -1.210003631964681
   },
   {
     "date": "2026-04-22",
@@ -1622,10 +1633,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.59,
-    "trust_ratio": -0.0029159931390763828,
+    "trust_ratio": -0.0024299942825636526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.5870840068609233,
-    "three_inst_ratio_change_20": -0.5700043583576173
+    "three_inst_ratio": 2.5875700057174362,
+    "three_inst_ratio_change_20": -0.5700036319646813
   },
   {
     "date": "2026-04-23",
@@ -1633,10 +1644,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.36,
-    "trust_ratio": -0.0029159931390763828,
+    "trust_ratio": -0.0024299942825636526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.3570840068609233,
-    "three_inst_ratio_change_20": 0.01999564164238299
+    "three_inst_ratio": 3.3575700057174362,
+    "three_inst_ratio_change_20": 0.019996368035319012
   },
   {
     "date": "2026-04-24",
@@ -1644,10 +1655,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.28,
-    "trust_ratio": -0.0029159931390763828,
+    "trust_ratio": -0.0024299942825636526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.2770840068609233,
-    "three_inst_ratio_change_20": 1.2899956416423826
+    "three_inst_ratio": 3.277570005717436,
+    "three_inst_ratio_change_20": 1.289996368035319
   },
   {
     "date": "2026-04-27",
@@ -1655,10 +1666,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.56,
-    "trust_ratio": -0.0029159931390763828,
+    "trust_ratio": -0.0024299942825636526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.5570840068609235,
-    "three_inst_ratio_change_20": 1.459995641642383
+    "three_inst_ratio": 3.5575700057174364,
+    "three_inst_ratio_change_20": 1.459996368035319
   },
   {
     "date": "2026-04-28",
@@ -1666,10 +1677,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.42,
-    "trust_ratio": -0.0029159931390763828,
+    "trust_ratio": -0.0024299942825636526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.4170840068609234,
-    "three_inst_ratio_change_20": 1.0899956416423828
+    "three_inst_ratio": 3.4175700057174363,
+    "three_inst_ratio_change_20": 1.0899963680353189
   },
   {
     "date": "2026-04-29",
@@ -1677,10 +1688,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.47,
-    "trust_ratio": -0.0029159931390763828,
+    "trust_ratio": -0.0024299942825636526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.4670840068609237,
-    "three_inst_ratio_change_20": 0.6699956416423833
+    "three_inst_ratio": 3.4675700057174366,
+    "three_inst_ratio_change_20": 0.6699963680353194
   },
   {
     "date": "2026-04-30",
@@ -1688,10 +1699,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.98,
-    "trust_ratio": -0.0029159931390763828,
+    "trust_ratio": -0.0024299942825636526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.9770840068609234,
-    "three_inst_ratio_change_20": 0.01999564164238299
+    "three_inst_ratio": 2.9775700057174364,
+    "three_inst_ratio_change_20": 0.019996368035319012
   },
   {
     "date": "2026-05-04",
@@ -1699,10 +1710,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.06,
-    "trust_ratio": -0.0029159931390763828,
+    "trust_ratio": -0.0024299942825636526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.0570840068609235,
-    "three_inst_ratio_change_20": -0.8200043583576169
+    "three_inst_ratio": 2.0575700057174364,
+    "three_inst_ratio_change_20": -0.8200036319646808
   },
   {
     "date": "2026-05-05",
@@ -1710,10 +1721,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.46,
-    "trust_ratio": -0.0029159931390763828,
+    "trust_ratio": -0.0024299942825636526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.4570840068609234,
-    "three_inst_ratio_change_20": -0.520004358357617
+    "three_inst_ratio": 2.4575700057174363,
+    "three_inst_ratio_change_20": -0.520003631964681
   },
   {
     "date": "2026-05-06",
@@ -1721,10 +1732,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.66,
-    "trust_ratio": -0.0029159931390763828,
+    "trust_ratio": -0.0024299942825636526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.6570840068609236,
-    "three_inst_ratio_change_20": 0.29999564164238324
+    "three_inst_ratio": 2.6575700057174365,
+    "three_inst_ratio_change_20": 0.29999636803531926
   },
   {
     "date": "2026-05-07",
@@ -1732,10 +1743,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.7,
-    "trust_ratio": -0.0029159931390763828,
+    "trust_ratio": -0.0024299942825636526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.6970840068609236,
-    "three_inst_ratio_change_20": -0.210004358357617
+    "three_inst_ratio": 2.6975700057174365,
+    "three_inst_ratio_change_20": -0.21000363196468097
   },
   {
     "date": "2026-05-08",
@@ -1743,10 +1754,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.69,
-    "trust_ratio": -0.0029159931390763828,
+    "trust_ratio": -0.0024299942825636526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.6870840068609234,
-    "three_inst_ratio_change_20": 0.17999564164238313
+    "three_inst_ratio": 2.6875700057174363,
+    "three_inst_ratio_change_20": 0.17999636803531915
   },
   {
     "date": "2026-05-11",
@@ -1754,10 +1765,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.75,
-    "trust_ratio": -0.0029159931390763828,
+    "trust_ratio": -0.0024299942825636526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.7470840068609235,
-    "three_inst_ratio_change_20": 0.4099956416423831
+    "three_inst_ratio": 2.7475700057174364,
+    "three_inst_ratio_change_20": 0.40999636803531914
   },
   {
     "date": "2026-05-12",
@@ -1765,10 +1776,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 3.03,
-    "trust_ratio": -0.0029159931390763828,
+    "trust_ratio": -0.0024299942825636526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.0270840068609233,
-    "three_inst_ratio_change_20": 0.25999564164238276
+    "three_inst_ratio": 3.027570005717436,
+    "three_inst_ratio_change_20": 0.2599963680353188
   },
   {
     "date": "2026-05-13",
@@ -1776,10 +1787,10 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.67,
-    "trust_ratio": -0.0029159931390763828,
+    "trust_ratio": -0.0024299942825636526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.6670840068609234,
-    "three_inst_ratio_change_20": 0.01999564164238299
+    "three_inst_ratio": 2.6675700057174363,
+    "three_inst_ratio_change_20": 0.019996368035319012
   },
   {
     "date": "2026-05-14",
@@ -1787,9 +1798,20 @@
     "name": "宏齊",
     "market": "TWSE",
     "foreign_ratio": 2.59,
-    "trust_ratio": -0.0029159931390763828,
+    "trust_ratio": -0.0024299942825636526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.5870840068609233,
-    "three_inst_ratio_change_20": -0.34000435835761733
+    "three_inst_ratio": 2.5875700057174362,
+    "three_inst_ratio_change_20": -0.3400036319646813
+  },
+  {
+    "date": "2026-05-15",
+    "code": "6168",
+    "name": "宏齊",
+    "market": "TWSE",
+    "foreign_ratio": 2.6,
+    "trust_ratio": -0.0024299942825636526,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.5975700057174365,
+    "three_inst_ratio_change_20": 0.03999636803531903
   }
 ]

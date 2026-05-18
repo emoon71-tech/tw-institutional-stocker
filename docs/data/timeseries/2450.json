@@ -1232,6 +1232,17 @@
     "three_inst_ratio_change_20": 0.07999999999999985
   },
   {
+    "date": "2026-02-27",
+    "code": "2450",
+    "name": "神腦",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.1096127822994675
+  },
+  {
     "date": "2026-03-02",
     "code": "2450",
     "name": "神腦",
@@ -1251,7 +1262,7 @@
     "trust_ratio": -0.00038721770053269964,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.2196127822994673,
-    "three_inst_ratio_change_20": 0.10999999999999988
+    "three_inst_ratio_change_20": 0.09999999999999987
   },
   {
     "date": "2026-03-04",
@@ -1262,7 +1273,7 @@
     "trust_ratio": -0.00038721770053269964,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.2196127822994673,
-    "three_inst_ratio_change_20": 0.09999999999999987
+    "three_inst_ratio_change_20": 0.09000000000000008
   },
   {
     "date": "2026-03-05",
@@ -1295,7 +1306,7 @@
     "trust_ratio": -0.00038721770053269964,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.2296127822994674,
-    "three_inst_ratio_change_20": 0.10000000000000009
+    "three_inst_ratio_change_20": 0.10999999999999988
   },
   {
     "date": "2026-03-10",
@@ -1306,7 +1317,7 @@
     "trust_ratio": -0.00038721770053269964,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.2296127822994674,
-    "three_inst_ratio_change_20": 0.10999999999999988
+    "three_inst_ratio_change_20": 0.11999999999999988
   },
   {
     "date": "2026-03-11",
@@ -1361,7 +1372,7 @@
     "trust_ratio": -0.00038721770053269964,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1596127822994673,
-    "three_inst_ratio_change_20": 0.04999999999999982
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-03-18",
@@ -1372,7 +1383,7 @@
     "trust_ratio": -0.00038721770053269964,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1696127822994673,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-03-19",
@@ -1394,7 +1405,7 @@
     "trust_ratio": -0.00038721770053269964,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1496127822994673,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 1.1496127822994673
   },
   {
     "date": "2026-03-23",
@@ -1405,7 +1416,7 @@
     "trust_ratio": -0.00038721770053269964,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1296127822994673,
-    "three_inst_ratio_change_20": 1.1296127822994673
+    "three_inst_ratio_change_20": -0.040000000000000036
   },
   {
     "date": "2026-03-24",
@@ -1416,7 +1427,7 @@
     "trust_ratio": -0.00038721770053269964,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1196127822994675,
-    "three_inst_ratio_change_20": -0.04999999999999982
+    "three_inst_ratio_change_20": -0.009999999999999787
   },
   {
     "date": "2026-03-25",
@@ -1427,7 +1438,7 @@
     "trust_ratio": -0.0005289393789276678,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1294710606210723,
-    "three_inst_ratio_change_20": -0.0001417216783949904
+    "three_inst_ratio_change_20": -0.020141721678395008
   },
   {
     "date": "2026-03-26",
@@ -1438,7 +1449,7 @@
     "trust_ratio": -0.0006656272272157107,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1393343727727843,
-    "three_inst_ratio_change_20": -0.010278409526683019
+    "three_inst_ratio_change_20": -0.06027840952668306
   },
   {
     "date": "2026-03-27",
@@ -1449,7 +1460,7 @@
     "trust_ratio": -0.0010528449277484105,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1389471550722514,
-    "three_inst_ratio_change_20": -0.06066562722721591
+    "three_inst_ratio_change_20": 1.1389471550722514
   },
   {
     "date": "2026-03-30",
@@ -1791,5 +1802,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.2566238488690553,
     "three_inst_ratio_change_20": 0.08000000000000007
+  },
+  {
+    "date": "2026-05-15",
+    "code": "2450",
+    "name": "神腦",
+    "market": "TWSE",
+    "foreign_ratio": 1.21,
+    "trust_ratio": -0.003376151130944608,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.2066238488690553,
+    "three_inst_ratio_change_20": 0.020000000000000018
   }
 ]

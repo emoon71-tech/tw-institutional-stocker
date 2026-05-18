@@ -1221,6 +1221,17 @@
     "three_inst_ratio_change_20": 0.0899999999999963
   },
   {
+    "date": "2026-02-27",
+    "code": "8411",
+    "name": "福貞-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -53.59
+  },
+  {
     "date": "2026-03-02",
     "code": "8411",
     "name": "福貞-KY",
@@ -1251,7 +1262,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.7,
-    "three_inst_ratio_change_20": 0.10999999999999943
+    "three_inst_ratio_change_20": 0.12000000000000455
   },
   {
     "date": "2026-03-05",
@@ -1262,7 +1273,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.7,
-    "three_inst_ratio_change_20": 0.12000000000000455
+    "three_inst_ratio_change_20": 0.10999999999999943
   },
   {
     "date": "2026-03-06",
@@ -1295,7 +1306,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.67,
-    "three_inst_ratio_change_20": 0.0799999999999983
+    "three_inst_ratio_change_20": 0.09000000000000341
   },
   {
     "date": "2026-03-11",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.65,
-    "three_inst_ratio_change_20": 0.07000000000000028
+    "three_inst_ratio_change_20": 0.05999999999999517
   },
   {
     "date": "2026-03-18",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.65,
-    "three_inst_ratio_change_20": 0.05999999999999517
+    "three_inst_ratio_change_20": 0.030000000000001137
   },
   {
     "date": "2026-03-19",
@@ -1383,7 +1394,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.65,
-    "three_inst_ratio_change_20": 0.030000000000001137
+    "three_inst_ratio_change_20": 53.65
   },
   {
     "date": "2026-03-23",
@@ -1394,7 +1405,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.65,
-    "three_inst_ratio_change_20": 53.65
+    "three_inst_ratio_change_20": -0.00999999999999801
   },
   {
     "date": "2026-03-24",
@@ -1416,7 +1427,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.67,
-    "three_inst_ratio_change_20": 0.010000000000005116
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-03-26",
@@ -1427,7 +1438,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.67,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.00999999999999801
   },
   {
     "date": "2026-03-27",
@@ -1438,7 +1449,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.66,
-    "three_inst_ratio_change_20": -0.020000000000003126
+    "three_inst_ratio_change_20": 53.66
   },
   {
     "date": "2026-03-30",
@@ -1780,5 +1791,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.76,
     "three_inst_ratio_change_20": 0.00999999999999801
+  },
+  {
+    "date": "2026-05-15",
+    "code": "8411",
+    "name": "福貞-KY",
+    "market": "TWSE",
+    "foreign_ratio": 53.76,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 53.76,
+    "three_inst_ratio_change_20": 0.0
   }
 ]

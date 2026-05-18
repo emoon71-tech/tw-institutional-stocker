@@ -1232,6 +1232,17 @@
     "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
+    "date": "2026-02-27",
+    "code": "4942",
+    "name": "嘉彰",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -6.87
+  },
+  {
     "date": "2026-03-02",
     "code": "4942",
     "name": "嘉彰",
@@ -1240,7 +1251,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.94,
-    "three_inst_ratio_change_20": 0.07000000000000028
+    "three_inst_ratio_change_20": 0.1200000000000001
   },
   {
     "date": "2026-03-03",
@@ -1251,7 +1262,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.92,
-    "three_inst_ratio_change_20": 0.09999999999999964
+    "three_inst_ratio_change_20": 0.1200000000000001
   },
   {
     "date": "2026-03-04",
@@ -1262,7 +1273,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.81,
-    "three_inst_ratio_change_20": 0.009999999999999787
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-03-05",
@@ -1284,7 +1295,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.88,
-    "three_inst_ratio_change_20": 0.07000000000000028
+    "three_inst_ratio_change_20": 0.09999999999999964
   },
   {
     "date": "2026-03-09",
@@ -1295,7 +1306,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.8,
-    "three_inst_ratio_change_20": 0.019999999999999574
+    "three_inst_ratio_change_20": 0.0699999999999994
   },
   {
     "date": "2026-03-10",
@@ -1339,7 +1350,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.71,
-    "three_inst_ratio_change_20": -0.020000000000000462
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-03-16",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.71,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.04999999999999982
   },
   {
     "date": "2026-03-18",
@@ -1372,7 +1383,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.71,
-    "three_inst_ratio_change_20": -0.04999999999999982
+    "three_inst_ratio_change_20": -0.08999999999999986
   },
   {
     "date": "2026-03-19",
@@ -1394,7 +1405,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.7,
-    "three_inst_ratio_change_20": -0.09999999999999964
+    "three_inst_ratio_change_20": 6.7
   },
   {
     "date": "2026-03-23",
@@ -1405,7 +1416,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.69,
-    "three_inst_ratio_change_20": 6.69
+    "three_inst_ratio_change_20": -0.13999999999999968
   },
   {
     "date": "2026-03-24",
@@ -1416,7 +1427,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.7,
-    "three_inst_ratio_change_20": -0.1299999999999999
+    "three_inst_ratio_change_20": -0.13999999999999968
   },
   {
     "date": "2026-03-25",
@@ -1427,7 +1438,7 @@
     "trust_ratio": -0.0001517198999466262,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.679848280100053,
-    "three_inst_ratio_change_20": -0.1601517198999467
+    "three_inst_ratio_change_20": -0.20015171989994673
   },
   {
     "date": "2026-03-26",
@@ -1438,7 +1449,7 @@
     "trust_ratio": -0.00029782054433967367,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.67970217945566,
-    "three_inst_ratio_change_20": -0.20029782054433998
+    "three_inst_ratio_change_20": -0.24029782054434
   },
   {
     "date": "2026-03-27",
@@ -1449,7 +1460,7 @@
     "trust_ratio": -0.00029782054433967367,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.689702179455661,
-    "three_inst_ratio_change_20": -0.23029782054433934
+    "three_inst_ratio_change_20": 6.689702179455661
   },
   {
     "date": "2026-03-30",
@@ -1791,5 +1802,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.636892551678871,
     "three_inst_ratio_change_20": 0.019999999999999574
+  },
+  {
+    "date": "2026-05-15",
+    "code": "4942",
+    "name": "嘉彰",
+    "market": "TWSE",
+    "foreign_ratio": 6.59,
+    "trust_ratio": -0.003107448321129048,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.586892551678871,
+    "three_inst_ratio_change_20": -0.0600000000000005
   }
 ]

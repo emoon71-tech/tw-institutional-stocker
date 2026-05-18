@@ -1188,6 +1188,17 @@
     "three_inst_ratio_change_20": 0.04999999999999716
   },
   {
+    "date": "2026-02-27",
+    "code": "8466",
+    "name": "美吉吉-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -50.25
+  },
+  {
     "date": "2026-03-02",
     "code": "8466",
     "name": "美吉吉-KY",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.3,
-    "three_inst_ratio_change_20": 0.04999999999999716
+    "three_inst_ratio_change_20": 0.03999999999999915
   },
   {
     "date": "2026-03-03",
@@ -1262,7 +1273,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.24,
-    "three_inst_ratio_change_20": -0.01999999999999602
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-03-11",
@@ -1295,7 +1306,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.23,
-    "three_inst_ratio_change_20": -0.010000000000005116
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-03-16",
@@ -1306,7 +1317,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.23,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.010000000000005116
   },
   {
     "date": "2026-03-17",
@@ -1328,7 +1339,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.24,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.01999999999999602
   },
   {
     "date": "2026-03-19",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.23,
-    "three_inst_ratio_change_20": -0.030000000000001137
+    "three_inst_ratio_change_20": 50.23
   },
   {
     "date": "2026-03-23",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.22,
-    "three_inst_ratio_change_20": 50.22
+    "three_inst_ratio_change_20": -0.07000000000000028
   },
   {
     "date": "2026-03-24",
@@ -1372,7 +1383,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.21,
-    "three_inst_ratio_change_20": -0.0799999999999983
+    "three_inst_ratio_change_20": -0.07000000000000028
   },
   {
     "date": "2026-03-25",
@@ -1383,7 +1394,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.23,
-    "three_inst_ratio_change_20": -0.05000000000000426
+    "three_inst_ratio_change_20": -0.060000000000002274
   },
   {
     "date": "2026-03-26",
@@ -1394,7 +1405,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.24,
-    "three_inst_ratio_change_20": -0.04999999999999716
+    "three_inst_ratio_change_20": -0.05999999999999517
   },
   {
     "date": "2026-03-27",
@@ -1405,7 +1416,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.24,
-    "three_inst_ratio_change_20": -0.05999999999999517
+    "three_inst_ratio_change_20": 50.24
   },
   {
     "date": "2026-03-30",
@@ -1747,5 +1758,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.2,
     "three_inst_ratio_change_20": -0.0899999999999963
+  },
+  {
+    "date": "2026-05-15",
+    "code": "8466",
+    "name": "美吉吉-KY",
+    "market": "TWSE",
+    "foreign_ratio": 50.2,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 50.2,
+    "three_inst_ratio_change_20": -0.10999999999999943
   }
 ]

@@ -1034,6 +1034,17 @@
     "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
+    "date": "2026-02-27",
+    "code": "9918",
+    "name": "欣天然",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.54
+  },
+  {
     "date": "2026-03-02",
     "code": "9918",
     "name": "欣天然",
@@ -1053,7 +1064,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.59,
-    "three_inst_ratio_change_20": 0.04999999999999982
+    "three_inst_ratio_change_20": 0.06000000000000005
   },
   {
     "date": "2026-03-04",
@@ -1075,7 +1086,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.56,
-    "three_inst_ratio_change_20": 0.03000000000000025
+    "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
     "date": "2026-03-06",
@@ -1174,7 +1185,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.54,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.009999999999999787
   },
   {
     "date": "2026-03-19",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.54,
-    "three_inst_ratio_change_20": -0.009999999999999787
+    "three_inst_ratio_change_20": 2.54
   },
   {
     "date": "2026-03-23",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.61,
-    "three_inst_ratio_change_20": 2.61
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-03-24",
@@ -1229,7 +1240,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.53,
-    "three_inst_ratio_change_20": -0.040000000000000036
+    "three_inst_ratio_change_20": -0.050000000000000266
   },
   {
     "date": "2026-03-26",
@@ -1251,7 +1262,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.51,
-    "three_inst_ratio_change_20": -0.07000000000000028
+    "three_inst_ratio_change_20": 2.51
   },
   {
     "date": "2026-03-30",
@@ -1593,5 +1604,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.58,
     "three_inst_ratio_change_20": 0.040000000000000036
+  },
+  {
+    "date": "2026-05-15",
+    "code": "9918",
+    "name": "欣天然",
+    "market": "TWSE",
+    "foreign_ratio": 2.59,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.59,
+    "three_inst_ratio_change_20": 0.04999999999999982
   }
 ]

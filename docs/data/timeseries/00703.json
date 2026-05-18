@@ -1232,6 +1232,17 @@
     "three_inst_ratio_change_20": -0.040000000000000036
   },
   {
+    "date": "2026-02-27",
+    "code": "00703",
+    "name": "台新MSCI中國",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.35
+  },
+  {
     "date": "2026-03-02",
     "code": "00703",
     "name": "台新MSCI中國",
@@ -1284,7 +1295,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.37,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": -0.04999999999999982
   },
   {
     "date": "2026-03-09",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.37,
-    "three_inst_ratio_change_20": -0.04999999999999982
+    "three_inst_ratio_change_20": 0.06000000000000005
   },
   {
     "date": "2026-03-17",
@@ -1394,7 +1405,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.36,
-    "three_inst_ratio_change_20": 0.050000000000000044
+    "three_inst_ratio_change_20": 1.36
   },
   {
     "date": "2026-03-23",
@@ -1405,7 +1416,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.36,
-    "three_inst_ratio_change_20": 1.36
+    "three_inst_ratio_change_20": 0.050000000000000044
   },
   {
     "date": "2026-03-24",
@@ -1449,7 +1460,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.36,
-    "three_inst_ratio_change_20": 0.050000000000000044
+    "three_inst_ratio_change_20": 1.36
   },
   {
     "date": "2026-03-30",
@@ -1783,6 +1794,17 @@
   },
   {
     "date": "2026-05-14",
+    "code": "00703",
+    "name": "台新MSCI中國",
+    "market": "TWSE",
+    "foreign_ratio": 1.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.42,
+    "three_inst_ratio_change_20": 0.04999999999999982
+  },
+  {
+    "date": "2026-05-15",
     "code": "00703",
     "name": "台新MSCI中國",
     "market": "TWSE",

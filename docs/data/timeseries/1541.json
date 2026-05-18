@@ -1155,6 +1155,17 @@
     "three_inst_ratio_change_20": 0.14000000000000057
   },
   {
+    "date": "2026-02-27",
+    "code": "1541",
+    "name": "錩泰",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -9.7
+  },
+  {
     "date": "2026-03-02",
     "code": "1541",
     "name": "錩泰",
@@ -1174,7 +1185,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.78,
-    "three_inst_ratio_change_20": 0.08000000000000007
+    "three_inst_ratio_change_20": 0.049999999999998934
   },
   {
     "date": "2026-03-04",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.78,
-    "three_inst_ratio_change_20": 0.049999999999998934
+    "three_inst_ratio_change_20": 0.02999999999999936
   },
   {
     "date": "2026-03-05",
@@ -1218,7 +1229,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.76,
-    "three_inst_ratio_change_20": 0.009999999999999787
+    "three_inst_ratio_change_20": 0.019999999999999574
   },
   {
     "date": "2026-03-10",
@@ -1273,7 +1284,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.73,
-    "three_inst_ratio_change_20": -0.009999999999999787
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-03-17",
@@ -1284,7 +1295,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.73,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.05999999999999872
   },
   {
     "date": "2026-03-18",
@@ -1317,7 +1328,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.73,
-    "three_inst_ratio_change_20": -0.05999999999999872
+    "three_inst_ratio_change_20": 9.73
   },
   {
     "date": "2026-03-23",
@@ -1328,7 +1339,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.72,
-    "three_inst_ratio_change_20": 9.72
+    "three_inst_ratio_change_20": -0.08000000000000007
   },
   {
     "date": "2026-03-24",
@@ -1339,7 +1350,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.72,
-    "three_inst_ratio_change_20": -0.08000000000000007
+    "three_inst_ratio_change_20": -0.08999999999999986
   },
   {
     "date": "2026-03-25",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.72,
-    "three_inst_ratio_change_20": -0.08999999999999986
+    "three_inst_ratio_change_20": -0.09999999999999964
   },
   {
     "date": "2026-03-26",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.72,
-    "three_inst_ratio_change_20": -0.09999999999999964
+    "three_inst_ratio_change_20": -0.10999999999999943
   },
   {
     "date": "2026-03-27",
@@ -1372,7 +1383,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.73,
-    "three_inst_ratio_change_20": -0.09999999999999964
+    "three_inst_ratio_change_20": 9.73
   },
   {
     "date": "2026-03-30",
@@ -1714,5 +1725,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.78253807106599,
     "three_inst_ratio_change_20": -0.01746192893401144
+  },
+  {
+    "date": "2026-05-15",
+    "code": "1541",
+    "name": "錩泰",
+    "market": "TWSE",
+    "foreign_ratio": 9.77,
+    "trust_ratio": 0.0025380710659898475,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.77253807106599,
+    "three_inst_ratio_change_20": -0.027461928934011226
   }
 ]

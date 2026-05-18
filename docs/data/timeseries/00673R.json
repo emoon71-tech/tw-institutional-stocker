@@ -1177,7 +1177,7 @@
     "three_inst_ratio_change_20": 0.92
   },
   {
-    "date": "2026-03-02",
+    "date": "2026-02-27",
     "code": "00673R",
     "name": "期元大S&P原油反1",
     "market": "TWSE",
@@ -1188,6 +1188,17 @@
     "three_inst_ratio_change_20": -0.14
   },
   {
+    "date": "2026-03-02",
+    "code": "00673R",
+    "name": "期元大S&P原油反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.17
+  },
+  {
     "date": "2026-03-03",
     "code": "00673R",
     "name": "期元大S&P原油反1",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.03,
-    "three_inst_ratio_change_20": -0.14
+    "three_inst_ratio_change_20": -0.2
   },
   {
     "date": "2026-03-04",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.03,
-    "three_inst_ratio_change_20": -0.2
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-03-05",
@@ -1240,7 +1251,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.03,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.03
   },
   {
     "date": "2026-03-10",
@@ -1262,7 +1273,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.09,
-    "three_inst_ratio_change_20": 0.09
+    "three_inst_ratio_change_20": -0.6
   },
   {
     "date": "2026-03-12",
@@ -1273,7 +1284,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.03,
-    "three_inst_ratio_change_20": -0.6599999999999999
+    "three_inst_ratio_change_20": -0.65
   },
   {
     "date": "2026-03-13",
@@ -1284,7 +1295,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.03,
-    "three_inst_ratio_change_20": -0.65
+    "three_inst_ratio_change_20": -0.75
   },
   {
     "date": "2026-03-16",
@@ -1295,7 +1306,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.03,
-    "three_inst_ratio_change_20": -0.75
+    "three_inst_ratio_change_20": -1.25
   },
   {
     "date": "2026-03-17",
@@ -1306,7 +1317,7 @@
     "trust_ratio": 0.04207562740590942,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.07207562740590942,
-    "three_inst_ratio_change_20": -1.2079243725940907
+    "three_inst_ratio_change_20": -1.1679243725940907
   },
   {
     "date": "2026-03-18",
@@ -1317,7 +1328,7 @@
     "trust_ratio": 0.04207562740590942,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.07207562740590942,
-    "three_inst_ratio_change_20": -1.1679243725940907
+    "three_inst_ratio_change_20": -1.1279243725940906
   },
   {
     "date": "2026-03-19",
@@ -1339,7 +1350,7 @@
     "trust_ratio": 0.04207562740590942,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.07207562740590942,
-    "three_inst_ratio_change_20": -1.1279243725940906
+    "three_inst_ratio_change_20": 0.07207562740590942
   },
   {
     "date": "2026-03-23",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.04207562740590942,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.08207562740590943,
-    "three_inst_ratio_change_20": 0.08207562740590943
+    "three_inst_ratio_change_20": -1.1079243725940906
   },
   {
     "date": "2026-03-24",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.05089147314809996,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.08089147314809997,
-    "three_inst_ratio_change_20": -1.1091085268518999
+    "three_inst_ratio_change_20": -1.0591085268519
   },
   {
     "date": "2026-03-25",
@@ -1372,7 +1383,7 @@
     "trust_ratio": 0.05089147314809996,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.05089147314809996,
-    "three_inst_ratio_change_20": -1.0891085268518998
+    "three_inst_ratio_change_20": -0.9891085268519001
   },
   {
     "date": "2026-03-26",
@@ -1383,7 +1394,7 @@
     "trust_ratio": 0.05089147314809996,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.05089147314809996,
-    "three_inst_ratio_change_20": -0.9891085268519001
+    "three_inst_ratio_change_20": -0.9991085268519001
   },
   {
     "date": "2026-03-27",
@@ -1394,7 +1405,7 @@
     "trust_ratio": 0.05089147314809996,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.05089147314809996,
-    "three_inst_ratio_change_20": -0.9991085268519001
+    "three_inst_ratio_change_20": 0.05089147314809996
   },
   {
     "date": "2026-03-30",
@@ -1736,5 +1747,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.78,
     "three_inst_ratio_change_20": -2.04
+  },
+  {
+    "date": "2026-05-15",
+    "code": "00673R",
+    "name": "期元大S&P原油反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.77,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.77,
+    "three_inst_ratio_change_20": -2.1
   }
 ]

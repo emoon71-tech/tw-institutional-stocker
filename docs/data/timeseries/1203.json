@@ -1199,6 +1199,17 @@
     "three_inst_ratio_change_20": 0.04999999999999982
   },
   {
+    "date": "2026-02-27",
+    "code": "1203",
+    "name": "味王",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.62
+  },
+  {
     "date": "2026-03-02",
     "code": "1203",
     "name": "味王",
@@ -1339,7 +1350,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.62,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.009999999999999787
   },
   {
     "date": "2026-03-19",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.61,
-    "three_inst_ratio_change_20": -0.019999999999999796
+    "three_inst_ratio_change_20": 1.61
   },
   {
     "date": "2026-03-23",
@@ -1372,7 +1383,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.61,
-    "three_inst_ratio_change_20": 1.61
+    "three_inst_ratio_change_20": -0.039999999999999813
   },
   {
     "date": "2026-03-24",
@@ -1394,7 +1405,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.61,
-    "three_inst_ratio_change_20": -0.039999999999999813
+    "three_inst_ratio_change_20": -0.04999999999999982
   },
   {
     "date": "2026-03-26",
@@ -1405,7 +1416,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.61,
-    "three_inst_ratio_change_20": -0.04999999999999982
+    "three_inst_ratio_change_20": -0.05999999999999983
   },
   {
     "date": "2026-03-27",
@@ -1416,7 +1427,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.61,
-    "three_inst_ratio_change_20": -0.05999999999999983
+    "three_inst_ratio_change_20": 1.61
   },
   {
     "date": "2026-03-30",
@@ -1747,5 +1758,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.72,
     "three_inst_ratio_change_20": 0.08000000000000007
+  },
+  {
+    "date": "2026-05-15",
+    "code": "1203",
+    "name": "味王",
+    "market": "TWSE",
+    "foreign_ratio": 1.71,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.71,
+    "three_inst_ratio_change_20": 0.050000000000000044
   }
 ]

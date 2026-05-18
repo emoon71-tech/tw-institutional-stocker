@@ -1232,18 +1232,18 @@
     "three_inst_ratio_change_20": -0.050000000000000044
   },
   {
-    "date": "2026-03-02",
+    "date": "2026-02-27",
     "code": "1419",
     "name": "新紡",
     "market": "TWSE",
-    "foreign_ratio": 1.16,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.16,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.18
   },
   {
-    "date": "2026-03-03",
+    "date": "2026-03-02",
     "code": "1419",
     "name": "新紡",
     "market": "TWSE",
@@ -1254,6 +1254,17 @@
     "three_inst_ratio_change_20": -0.08000000000000007
   },
   {
+    "date": "2026-03-03",
+    "code": "1419",
+    "name": "新紡",
+    "market": "TWSE",
+    "foreign_ratio": 1.16,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.16,
+    "three_inst_ratio_change_20": -0.07000000000000006
+  },
+  {
     "date": "2026-03-04",
     "code": "1419",
     "name": "新紡",
@@ -1262,7 +1273,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.2,
-    "three_inst_ratio_change_20": -0.030000000000000027
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-03-05",
@@ -1273,7 +1284,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.21,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-03-06",
@@ -1284,7 +1295,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.21,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-03-09",
@@ -1306,7 +1317,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.24,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
     "date": "2026-03-11",
@@ -1317,7 +1328,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.23,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
     "date": "2026-03-12",
@@ -1339,7 +1350,7 @@
     "trust_ratio": 0.0289960101490035,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.2289960101490034,
-    "three_inst_ratio_change_20": 0.01899601014900343
+    "three_inst_ratio_change_20": 0.038996010149003446
   },
   {
     "date": "2026-03-16",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0289960101490035,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1789960101490033,
-    "three_inst_ratio_change_20": -0.011003989850996598
+    "three_inst_ratio_change_20": -0.0010039898509965894
   },
   {
     "date": "2026-03-17",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0289960101490035,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1889960101490034,
-    "three_inst_ratio_change_20": 0.00899601014900342
+    "three_inst_ratio_change_20": 0.01899601014900343
   },
   {
     "date": "2026-03-18",
@@ -1372,7 +1383,7 @@
     "trust_ratio": 0.0289960101490035,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1889960101490034,
-    "three_inst_ratio_change_20": 0.01899601014900343
+    "three_inst_ratio_change_20": 0.028996010149003437
   },
   {
     "date": "2026-03-19",
@@ -1394,7 +1405,7 @@
     "trust_ratio": 0.029329297621980548,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1793292976219805,
-    "three_inst_ratio_change_20": 0.019329297621980546
+    "three_inst_ratio_change_20": 1.1793292976219805
   },
   {
     "date": "2026-03-23",
@@ -1405,7 +1416,7 @@
     "trust_ratio": 0.029329297621980548,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1793292976219805,
-    "three_inst_ratio_change_20": 1.1793292976219805
+    "three_inst_ratio_change_20": -0.0006707023780194721
   },
   {
     "date": "2026-03-24",
@@ -1427,7 +1438,7 @@
     "trust_ratio": 0.029329297621980548,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1693292976219805,
-    "three_inst_ratio_change_20": -0.010670702378019481
+    "three_inst_ratio_change_20": 0.019329297621980546
   },
   {
     "date": "2026-03-26",
@@ -1449,7 +1460,7 @@
     "trust_ratio": 0.029329297621980548,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1793292976219805,
-    "three_inst_ratio_change_20": 0.029329297621980555
+    "three_inst_ratio_change_20": 1.1793292976219805
   },
   {
     "date": "2026-03-30",
@@ -1791,5 +1802,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.2093292976219805,
     "three_inst_ratio_change_20": 0.009666712527022892
+  },
+  {
+    "date": "2026-05-15",
+    "code": "1419",
+    "name": "新紡",
+    "market": "TWSE",
+    "foreign_ratio": 1.19,
+    "trust_ratio": 0.029329297621980548,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.2193292976219805,
+    "three_inst_ratio_change_20": 0.009333425054045996
   }
 ]
