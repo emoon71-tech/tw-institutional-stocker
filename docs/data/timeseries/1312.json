@@ -2000,5 +2000,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.17,
     "three_inst_ratio_change_20": -1.3100000000000005
+  },
+  {
+    "date": "2026-06-10",
+    "code": "1312",
+    "name": "國喬",
+    "market": "TWSE",
+    "foreign_ratio": 3.44,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.44,
+    "three_inst_ratio_change_20": -0.8699999999999997
+  },
+  {
+    "date": "2026-06-11",
+    "code": "1312",
+    "name": "國喬",
+    "market": "TWSE",
+    "foreign_ratio": 3.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.35,
+    "three_inst_ratio_change_20": -1.02
   }
 ]

@@ -1956,5 +1956,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.43,
     "three_inst_ratio_change_20": -0.03999999999999998
+  },
+  {
+    "date": "2026-06-10",
+    "code": "1475",
+    "name": "業旺",
+    "market": "TWSE",
+    "foreign_ratio": 0.41,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.41,
+    "three_inst_ratio_change_20": -0.030000000000000027
+  },
+  {
+    "date": "2026-06-11",
+    "code": "1475",
+    "name": "業旺",
+    "market": "TWSE",
+    "foreign_ratio": 0.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.42,
+    "three_inst_ratio_change_20": 0.010000000000000009
   }
 ]

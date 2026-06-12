@@ -1967,5 +1967,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.32,
     "three_inst_ratio_change_20": 0.3400000000000001
+  },
+  {
+    "date": "2026-06-10",
+    "code": "6625",
+    "name": "必應",
+    "market": "TWSE",
+    "foreign_ratio": 1.38,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.38,
+    "three_inst_ratio_change_20": 0.3999999999999999
+  },
+  {
+    "date": "2026-06-11",
+    "code": "6625",
+    "name": "必應",
+    "market": "TWSE",
+    "foreign_ratio": 1.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.42,
+    "three_inst_ratio_change_20": 0.43999999999999995
   }
 ]

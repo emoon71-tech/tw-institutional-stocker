@@ -2000,5 +2000,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.0,
     "three_inst_ratio_change_20": 0.1200000000000001
+  },
+  {
+    "date": "2026-06-10",
+    "code": "6243",
+    "name": "迅杰",
+    "market": "TWSE",
+    "foreign_ratio": 1.93,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.93,
+    "three_inst_ratio_change_20": 0.17999999999999994
+  },
+  {
+    "date": "2026-06-11",
+    "code": "6243",
+    "name": "迅杰",
+    "market": "TWSE",
+    "foreign_ratio": 1.93,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.93,
+    "three_inst_ratio_change_20": -0.07999999999999985
   }
 ]

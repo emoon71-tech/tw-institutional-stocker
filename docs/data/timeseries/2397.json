@@ -2000,5 +2000,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.837193613348765,
     "three_inst_ratio_change_20": -2.51
+  },
+  {
+    "date": "2026-06-10",
+    "code": "2397",
+    "name": "友通",
+    "market": "TWSE",
+    "foreign_ratio": 13.02,
+    "trust_ratio": -0.0028063866512354125,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.017193613348764,
+    "three_inst_ratio_change_20": -2.290000000000001
+  },
+  {
+    "date": "2026-06-11",
+    "code": "2397",
+    "name": "友通",
+    "market": "TWSE",
+    "foreign_ratio": 13.03,
+    "trust_ratio": -0.0028063866512354125,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.027193613348764,
+    "three_inst_ratio_change_20": -2.42
   }
 ]

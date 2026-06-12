@@ -2000,5 +2000,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.9369421487603306,
     "three_inst_ratio_change_20": -0.06000000000000005
+  },
+  {
+    "date": "2026-06-10",
+    "code": "6504",
+    "name": "南六",
+    "market": "TWSE",
+    "foreign_ratio": 0.88,
+    "trust_ratio": -0.03305785123966942,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.8469421487603306,
+    "three_inst_ratio_change_20": -0.13
+  },
+  {
+    "date": "2026-06-11",
+    "code": "6504",
+    "name": "南六",
+    "market": "TWSE",
+    "foreign_ratio": 0.85,
+    "trust_ratio": -0.03305785123966942,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.8169421487603306,
+    "three_inst_ratio_change_20": -0.16000000000000003
   }
 ]

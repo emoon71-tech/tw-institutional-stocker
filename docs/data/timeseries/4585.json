@@ -1846,5 +1846,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.27613350667724573,
     "three_inst_ratio_change_20": -0.39095594069343936
+  },
+  {
+    "date": "2026-06-10",
+    "code": "4585",
+    "name": "達明",
+    "market": "TWSE",
+    "foreign_ratio": 0.22,
+    "trust_ratio": 0.026133506677245743,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.24613350667724573,
+    "three_inst_ratio_change_20": -0.49
+  },
+  {
+    "date": "2026-06-11",
+    "code": "4585",
+    "name": "達明",
+    "market": "TWSE",
+    "foreign_ratio": 0.23,
+    "trust_ratio": 0.026133506677245743,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.25613350667724577,
+    "three_inst_ratio_change_20": -0.41000000000000003
   }
 ]

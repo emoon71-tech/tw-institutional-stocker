@@ -2000,5 +2000,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.750344291112641,
     "three_inst_ratio_change_20": 0.8603706039963841
+  },
+  {
+    "date": "2026-06-10",
+    "code": "3048",
+    "name": "益登",
+    "market": "TWSE",
+    "foreign_ratio": 8.21,
+    "trust_ratio": 0.00034429111264117854,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.210344291112643,
+    "three_inst_ratio_change_20": 1.0600000000000014
+  },
+  {
+    "date": "2026-06-11",
+    "code": "3048",
+    "name": "益登",
+    "market": "TWSE",
+    "foreign_ratio": 8.94,
+    "trust_ratio": 0.00034429111264117854,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.940344291112641,
+    "three_inst_ratio_change_20": -0.5899999999999999
   }
 ]

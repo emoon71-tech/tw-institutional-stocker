@@ -2000,5 +2000,27 @@
     "dealer_ratio": -0.032571824945482906,
     "three_inst_ratio": 1.2126823248616103,
     "three_inst_ratio_change_20": -0.010000000000000009
+  },
+  {
+    "date": "2026-06-10",
+    "code": "3257",
+    "name": "虹冠電",
+    "market": "TWSE",
+    "foreign_ratio": 1.04,
+    "trust_ratio": 0.11525414980709336,
+    "dealer_ratio": -0.032571824945482906,
+    "three_inst_ratio": 1.1226823248616105,
+    "three_inst_ratio_change_20": -0.030000000000000027
+  },
+  {
+    "date": "2026-06-11",
+    "code": "3257",
+    "name": "虹冠電",
+    "market": "TWSE",
+    "foreign_ratio": 0.96,
+    "trust_ratio": 0.11525414980709336,
+    "dealer_ratio": -0.032571824945482906,
+    "three_inst_ratio": 1.0426823248616104,
+    "three_inst_ratio_change_20": -0.15000000000000013
   }
 ]

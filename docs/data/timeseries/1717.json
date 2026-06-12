@@ -2000,5 +2000,27 @@
     "dealer_ratio": 0.030624984715765375,
     "three_inst_ratio": 10.591091187126375,
     "three_inst_ratio_change_20": -1.4120053240930268
+  },
+  {
+    "date": "2026-06-10",
+    "code": "1717",
+    "name": "長興",
+    "market": "TWSE",
+    "foreign_ratio": 9.98,
+    "trust_ratio": 0.5104662024106089,
+    "dealer_ratio": 0.030624984715765375,
+    "three_inst_ratio": 10.521091187126375,
+    "three_inst_ratio_change_20": -0.9314531359981366
+  },
+  {
+    "date": "2026-06-11",
+    "code": "1717",
+    "name": "長興",
+    "market": "TWSE",
+    "foreign_ratio": 10.14,
+    "trust_ratio": 0.5101775256744581,
+    "dealer_ratio": 0.030624984715765375,
+    "three_inst_ratio": 10.680802510390224,
+    "three_inst_ratio_change_20": -0.22433931445569222
   }
 ]

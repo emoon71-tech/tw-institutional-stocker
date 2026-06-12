@@ -1967,5 +1967,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6,
     "three_inst_ratio_change_20": 0.67
+  },
+  {
+    "date": "2026-06-10",
+    "code": "00949",
+    "name": "復華日本龍頭",
+    "market": "TWSE",
+    "foreign_ratio": 1.58,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.58,
+    "three_inst_ratio_change_20": -0.09999999999999987
+  },
+  {
+    "date": "2026-06-11",
+    "code": "00949",
+    "name": "復華日本龍頭",
+    "market": "TWSE",
+    "foreign_ratio": 1.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.61,
+    "three_inst_ratio_change_20": 0.68
   }
 ]

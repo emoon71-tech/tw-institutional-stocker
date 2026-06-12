@@ -1967,5 +1967,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.2,
     "three_inst_ratio_change_20": 1.0500000000000003
+  },
+  {
+    "date": "2026-06-10",
+    "code": "3138",
+    "name": "耀登",
+    "market": "TWSE",
+    "foreign_ratio": 2.09,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.09,
+    "three_inst_ratio_change_20": 1.42
+  },
+  {
+    "date": "2026-06-11",
+    "code": "3138",
+    "name": "耀登",
+    "market": "TWSE",
+    "foreign_ratio": 2.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.35,
+    "three_inst_ratio_change_20": 1.75
   }
 ]
