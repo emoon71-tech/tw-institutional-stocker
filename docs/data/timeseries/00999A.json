@@ -361,5 +361,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.21,
     "three_inst_ratio_change_20": 3.5700000000000003
+  },
+  {
+    "date": "2026-06-22",
+    "code": "00999A",
+    "name": "主動野村臺灣高息",
+    "market": "TWSE",
+    "foreign_ratio": 5.88,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.88,
+    "three_inst_ratio_change_20": 3.28
+  },
+  {
+    "date": "2026-06-23",
+    "code": "00999A",
+    "name": "主動野村臺灣高息",
+    "market": "TWSE",
+    "foreign_ratio": 6.18,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.18,
+    "three_inst_ratio_change_20": 2.1999999999999997
   }
 ]

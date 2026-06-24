@@ -2044,5 +2044,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.5,
     "three_inst_ratio_change_20": 0.18
+  },
+  {
+    "date": "2026-06-22",
+    "code": "00924",
+    "name": "復華S&P500成長",
+    "market": "TWSE",
+    "foreign_ratio": 0.51,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.51,
+    "three_inst_ratio_change_20": 0.10999999999999999
+  },
+  {
+    "date": "2026-06-23",
+    "code": "00924",
+    "name": "復華S&P500成長",
+    "market": "TWSE",
+    "foreign_ratio": 0.54,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.54,
+    "three_inst_ratio_change_20": -0.010000000000000009
   }
 ]

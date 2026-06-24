@@ -2077,5 +2077,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.01,
     "three_inst_ratio_change_20": 0.1200000000000001
+  },
+  {
+    "date": "2026-06-22",
+    "code": "2342",
+    "name": "茂矽",
+    "market": "TWSE",
+    "foreign_ratio": 3.6,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.6,
+    "three_inst_ratio_change_20": -2.35
+  },
+  {
+    "date": "2026-06-23",
+    "code": "2342",
+    "name": "茂矽",
+    "market": "TWSE",
+    "foreign_ratio": 3.96,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.96,
+    "three_inst_ratio_change_20": -2.59
   }
 ]

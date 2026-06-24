@@ -2077,5 +2077,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.39,
     "three_inst_ratio_change_20": 0.010000000000000009
+  },
+  {
+    "date": "2026-06-22",
+    "code": "6152",
+    "name": "百一",
+    "market": "TWSE",
+    "foreign_ratio": 1.49,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.49,
+    "three_inst_ratio_change_20": -0.5799999999999998
+  },
+  {
+    "date": "2026-06-23",
+    "code": "6152",
+    "name": "百一",
+    "market": "TWSE",
+    "foreign_ratio": 1.63,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.63,
+    "three_inst_ratio_change_20": -0.20000000000000018
   }
 ]

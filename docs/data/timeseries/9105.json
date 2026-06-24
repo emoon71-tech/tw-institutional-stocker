@@ -2077,5 +2077,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.09,
     "three_inst_ratio_change_20": -1.51
+  },
+  {
+    "date": "2026-06-22",
+    "code": "9105",
+    "name": "泰金寶-DR",
+    "market": "TWSE",
+    "foreign_ratio": 1.07,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.07,
+    "three_inst_ratio_change_20": -2.45
+  },
+  {
+    "date": "2026-06-23",
+    "code": "9105",
+    "name": "泰金寶-DR",
+    "market": "TWSE",
+    "foreign_ratio": 0.6,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6,
+    "three_inst_ratio_change_20": -2.4299999999999997
   }
 ]

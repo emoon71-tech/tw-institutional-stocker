@@ -2077,5 +2077,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.33,
     "three_inst_ratio_change_20": 0.3900000000000001
+  },
+  {
+    "date": "2026-06-22",
+    "code": "00645",
+    "name": "富邦日本",
+    "market": "TWSE",
+    "foreign_ratio": 1.33,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.33,
+    "three_inst_ratio_change_20": 0.29000000000000004
+  },
+  {
+    "date": "2026-06-23",
+    "code": "00645",
+    "name": "富邦日本",
+    "market": "TWSE",
+    "foreign_ratio": 1.27,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.27,
+    "three_inst_ratio_change_20": 0.1200000000000001
   }
 ]
