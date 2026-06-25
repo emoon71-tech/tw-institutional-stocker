@@ -1507,15 +1507,26 @@
     "three_inst_ratio_change_20": -0.3384776374854326
   },
   {
+    "date": "2026-04-06",
+    "code": "3008",
+    "name": "大立光",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -30.8232035955352
+  },
+  {
     "date": "2026-04-07",
     "code": "3008",
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 28.92,
-    "trust_ratio": 1.398975218043891,
+    "trust_ratio": 1.3752991658379863,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 30.625271406341096,
-    "three_inst_ratio_change_20": -0.1979321891941055
+    "three_inst_ratio": 30.601595354135192,
+    "three_inst_ratio_change_20": 0.040231013010537
   },
   {
     "date": "2026-04-08",
@@ -1523,10 +1534,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 29.31,
-    "trust_ratio": 1.3956942866321929,
+    "trust_ratio": 1.3720182344262881,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 31.011990474929394,
-    "three_inst_ratio_change_20": 0.4506261338047395
+    "three_inst_ratio": 30.98831442272349,
+    "three_inst_ratio_change_20": 0.41543586319668435
   },
   {
     "date": "2026-04-09",
@@ -1534,10 +1545,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 29.54,
-    "trust_ratio": 1.3910984352324771,
+    "trust_ratio": 1.3674223830265722,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 31.23739462352968,
-    "three_inst_ratio_change_20": 0.6645160640028749
+    "three_inst_ratio": 31.213718571323774,
+    "three_inst_ratio_change_20": 0.28233849611379824
   },
   {
     "date": "2026-04-10",
@@ -1545,10 +1556,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 29.61,
-    "trust_ratio": 1.388876182990619,
+    "trust_ratio": 1.3652001307847141,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 31.30517237128782,
-    "three_inst_ratio_change_20": 0.3737922960778448
+    "three_inst_ratio": 31.281496319081917,
+    "three_inst_ratio_change_20": 0.34679974158937554
   },
   {
     "date": "2026-04-13",
@@ -1556,10 +1567,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 29.91,
-    "trust_ratio": 1.3729787628733758,
+    "trust_ratio": 1.3493027106674709,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 31.58927495117058,
-    "three_inst_ratio_change_20": 0.6545783736780386
+    "three_inst_ratio": 31.565598898964673,
+    "three_inst_ratio_change_20": 0.79334260318209
   },
   {
     "date": "2026-04-14",
@@ -1567,10 +1578,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 30.43,
-    "trust_ratio": 1.2575722439705994,
+    "trust_ratio": 1.2338961917646944,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 31.993868432267803,
-    "three_inst_ratio_change_20": 1.22161213648522
+    "three_inst_ratio": 31.970192380061896,
+    "three_inst_ratio_change_20": 1.2878260807703832
   },
   {
     "date": "2026-04-15",
@@ -1578,10 +1589,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 30.25,
-    "trust_ratio": 1.1751443679126048,
+    "trust_ratio": 1.1514683157066998,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 31.731440556209808,
-    "three_inst_ratio_change_20": 1.0490742569182956
+    "three_inst_ratio": 31.707764504003904,
+    "three_inst_ratio_change_20": 0.9165181378751974
   },
   {
     "date": "2026-04-16",
@@ -1589,10 +1600,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 30.67,
-    "trust_ratio": 1.1211322499546463,
+    "trust_ratio": 1.0974561977487416,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 32.097428438251846,
-    "three_inst_ratio_change_20": 1.3061820721231392
+    "three_inst_ratio": 32.073752386045946,
+    "three_inst_ratio_change_20": 1.2462536804179685
   },
   {
     "date": "2026-04-17",
@@ -1600,10 +1611,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 30.62,
-    "trust_ratio": 1.0040414346797537,
+    "trust_ratio": 0.9803653824738489,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 31.930337622976957,
-    "three_inst_ratio_change_20": 1.1028389173489792
+    "three_inst_ratio": 31.906661570771053,
+    "three_inst_ratio_change_20": 1.4094756305878633
   },
   {
     "date": "2026-04-20",
@@ -1611,10 +1622,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 31.18,
-    "trust_ratio": 0.9169892360200235,
+    "trust_ratio": 0.8933131838141187,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 32.403285424317225,
-    "three_inst_ratio_change_20": 1.9060994841340353
+    "three_inst_ratio": 32.379609372111325,
+    "three_inst_ratio_change_20": 1.863825878160327
   },
   {
     "date": "2026-04-21",
@@ -1622,10 +1633,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 31.12,
-    "trust_ratio": 0.8807259155527514,
+    "trust_ratio": 0.8570498633468466,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 32.30702210384995,
-    "three_inst_ratio_change_20": 1.7912386098989543
+    "three_inst_ratio": 32.28334605164405,
+    "three_inst_ratio_change_20": 1.609615272318397
   },
   {
     "date": "2026-04-22",
@@ -1633,10 +1644,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 31.26,
-    "trust_ratio": 0.8222273355502061,
+    "trust_ratio": 0.7985512833443011,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 32.38852352384741,
-    "three_inst_ratio_change_20": 1.7147927445217555
+    "three_inst_ratio": 32.364847471641504,
+    "three_inst_ratio_change_20": 1.6786028372736617
   },
   {
     "date": "2026-04-23",
@@ -1644,10 +1655,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 31.28,
-    "trust_ratio": 0.7240616279547104,
+    "trust_ratio": 0.7003855757488056,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 32.310357816251916,
-    "three_inst_ratio_change_20": 1.6241131818840735
+    "three_inst_ratio": 32.28668176404601,
+    "three_inst_ratio_change_20": 1.7525647560070077
   },
   {
     "date": "2026-04-24",
@@ -1655,10 +1666,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 31.35,
-    "trust_ratio": 0.6384142583420078,
+    "trust_ratio": 0.614738206136103,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 32.29471044663921,
-    "three_inst_ratio_change_20": 1.760593438600207
+    "three_inst_ratio": 32.27103439443331,
+    "three_inst_ratio_change_20": 1.7029117289267077
   },
   {
     "date": "2026-04-27",
@@ -1666,10 +1677,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 31.56,
-    "trust_ratio": 0.6379220062439294,
+    "trust_ratio": 0.6142459540380245,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 32.50421819454113,
-    "three_inst_ratio_change_20": 1.9360955290345316
+    "three_inst_ratio": 32.480542142335224,
+    "three_inst_ratio_change_20": 1.9974055357921685
   },
   {
     "date": "2026-04-28",
@@ -1677,10 +1688,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 31.32,
-    "trust_ratio": 0.591920036201583,
+    "trust_ratio": 0.568243983995678,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 32.21821622449878,
-    "three_inst_ratio_change_20": 1.7350796179557264
+    "three_inst_ratio": 32.19454017229288,
+    "three_inst_ratio_change_20": 1.6664442581029277
   },
   {
     "date": "2026-04-29",
@@ -1688,10 +1699,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 31.46,
-    "trust_ratio": 0.5923388625681367,
+    "trust_ratio": 0.5686628103622318,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 32.35863505086534,
-    "three_inst_ratio_change_20": 1.8305391366753838
+    "three_inst_ratio": 32.33495899865944,
+    "three_inst_ratio_change_20": 1.8031393509421605
   },
   {
     "date": "2026-04-30",
@@ -1699,10 +1710,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 31.15,
-    "trust_ratio": 0.592147805817741,
+    "trust_ratio": 0.5684717536118361,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 32.04844399411494,
-    "three_inst_ratio_change_20": 1.5166243463976627
+    "three_inst_ratio": 32.02476794190903,
+    "three_inst_ratio_change_20": 1.4424170815014392
   },
   {
     "date": "2026-05-04",
@@ -1710,10 +1721,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 31.45,
-    "trust_ratio": 0.5711690253821291,
+    "trust_ratio": 0.5474929731762241,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 32.32746521367933,
-    "three_inst_ratio_change_20": 1.7451143532717381
+    "three_inst_ratio": 32.303789161473425,
+    "three_inst_ratio_change_20": 1.820936308819693
   },
   {
     "date": "2026-05-05",
@@ -1721,10 +1732,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 31.31,
-    "trust_ratio": 0.544068936512269,
+    "trust_ratio": 0.520392884306364,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 32.160365124809466,
-    "three_inst_ratio_change_20": 1.6775122721557345
+    "three_inst_ratio": 32.136689072603566,
+    "three_inst_ratio_change_20": 32.136689072603566
   },
   {
     "date": "2026-05-06",
@@ -1732,10 +1743,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 31.3,
-    "trust_ratio": 0.5475873776881843,
+    "trust_ratio": 0.5239113254822795,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 32.15388356598539,
-    "three_inst_ratio_change_20": 1.5286121596442932
+    "three_inst_ratio": 32.13020751377948,
+    "three_inst_ratio_change_20": 1.5286121596442896
   },
   {
     "date": "2026-05-07",
@@ -1743,10 +1754,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 31.48,
-    "trust_ratio": 0.5385709975538218,
+    "trust_ratio": 0.5148949453479168,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 32.324867185851026,
-    "three_inst_ratio_change_20": 1.312876710921632
+    "three_inst_ratio": 32.30119113364512,
+    "three_inst_ratio_change_20": 1.3128767109216284
   },
   {
     "date": "2026-05-08",
@@ -1754,9 +1765,9 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 31.58,
-    "trust_ratio": 0.538475843799703,
+    "trust_ratio": 0.5147997915937982,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 32.424772032096904,
+    "three_inst_ratio": 32.401095979891,
     "three_inst_ratio_change_20": 1.1873774085672224
   },
   {
@@ -1765,10 +1776,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 31.58,
-    "trust_ratio": 0.5256031142759799,
+    "trust_ratio": 0.5019270620700751,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 32.41189930257318,
-    "three_inst_ratio_change_20": 1.1067269312853618
+    "three_inst_ratio": 32.388223250367275,
+    "three_inst_ratio_change_20": 1.1067269312853583
   },
   {
     "date": "2026-05-12",
@@ -1776,9 +1787,9 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 31.76,
-    "trust_ratio": 0.6409864066718456,
+    "trust_ratio": 0.6173103544659407,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 32.70728259496905,
+    "three_inst_ratio": 32.683606542763144,
     "three_inst_ratio_change_20": 1.118007643798471
   },
   {
@@ -1787,9 +1798,9 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 31.92,
-    "trust_ratio": 0.6532642379217874,
+    "trust_ratio": 0.6295881857158825,
     "dealer_ratio": 0.3062961882972016,
-    "three_inst_ratio": 32.879560426218994,
+    "three_inst_ratio": 32.85588437401309,
     "three_inst_ratio_change_20": 0.8856919939511911
   },
   {
@@ -1798,10 +1809,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 33.07,
-    "trust_ratio": 0.9111532324868362,
+    "trust_ratio": 0.8869938780578145,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 34.293701883291256,
-    "three_inst_ratio_change_20": 2.5622613270814476
+    "three_inst_ratio": 34.26954252886223,
+    "three_inst_ratio_change_20": 2.5617780248583273
   },
   {
     "date": "2026-05-15",
@@ -1809,10 +1820,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 33.55,
-    "trust_ratio": 0.9089223148848145,
+    "trust_ratio": 0.884762960455793,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 34.771470965689225,
-    "three_inst_ratio_change_20": 2.674042527437379
+    "three_inst_ratio": 34.74731161126021,
+    "three_inst_ratio_change_20": 2.6735592252142624
   },
   {
     "date": "2026-05-18",
@@ -1820,10 +1831,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 34.16,
-    "trust_ratio": 0.9089223148848145,
+    "trust_ratio": 0.884762960455793,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.381470965689225,
-    "three_inst_ratio_change_20": 3.451133342712268
+    "three_inst_ratio": 35.35731161126021,
+    "three_inst_ratio_change_20": 3.4506500404891547
   },
   {
     "date": "2026-05-19",
@@ -1831,10 +1842,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 34.48,
-    "trust_ratio": 1.0998523167716143,
+    "trust_ratio": 1.0756929623425926,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.89240096757603,
-    "three_inst_ratio_change_20": 3.489115543258805
+    "three_inst_ratio": 35.868241613147006,
+    "three_inst_ratio_change_20": 3.488632241035681
   },
   {
     "date": "2026-05-20",
@@ -1842,10 +1853,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 34.26,
-    "trust_ratio": 1.1921662803960515,
+    "trust_ratio": 1.16800692596703,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.764714931200466,
-    "three_inst_ratio_change_20": 3.457692827350513
+    "three_inst_ratio": 35.74055557677144,
+    "three_inst_ratio_change_20": 3.4572095251273893
   },
   {
     "date": "2026-05-21",
@@ -1853,10 +1864,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 34.41,
-    "trust_ratio": 1.2105151571775872,
+    "trust_ratio": 1.1863558027485654,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.933063807982,
-    "three_inst_ratio_change_20": 3.544540284134591
+    "three_inst_ratio": 35.90890445355298,
+    "three_inst_ratio_change_20": 3.5440569819114742
   },
   {
     "date": "2026-05-22",
@@ -1864,10 +1875,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 34.37,
-    "trust_ratio": 1.2127109060991108,
+    "trust_ratio": 1.188551551670089,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.895259556903525,
-    "three_inst_ratio_change_20": 3.5849017406516097
+    "three_inst_ratio": 35.8711002024745,
+    "three_inst_ratio_change_20": 3.584418438428493
   },
   {
     "date": "2026-05-25",
@@ -1875,10 +1886,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 34.44,
-    "trust_ratio": 1.2195917348921865,
+    "trust_ratio": 1.1954323804631648,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.9721403856966,
-    "three_inst_ratio_change_20": 3.67742993905739
+    "three_inst_ratio": 35.94798103126758,
+    "three_inst_ratio_change_20": 3.6769466368342734
   },
   {
     "date": "2026-05-26",
@@ -1886,10 +1897,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 34.18,
-    "trust_ratio": 1.2102964997292738,
+    "trust_ratio": 1.1861371453002523,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.70284515053369,
-    "three_inst_ratio_change_20": 3.198626955992559
+    "three_inst_ratio": 35.678685796104666,
+    "three_inst_ratio_change_20": 3.198143653769442
   },
   {
     "date": "2026-05-27",
@@ -1897,10 +1908,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 34.06,
-    "trust_ratio": 1.2104723431317637,
+    "trust_ratio": 1.186312988702742,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.58302099393618,
-    "three_inst_ratio_change_20": 3.3648047694373986
+    "three_inst_ratio": 35.55886163950716,
+    "three_inst_ratio_change_20": 3.3643214672142747
   },
   {
     "date": "2026-05-28",
@@ -1908,10 +1919,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 34.12,
-    "trust_ratio": 1.2035915143386877,
+    "trust_ratio": 1.1794321599096662,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.636140165143104,
-    "three_inst_ratio_change_20": 3.2775051142777656
+    "three_inst_ratio": 35.61198081071408,
+    "three_inst_ratio_change_20": 3.2770218120546417
   },
   {
     "date": "2026-05-29",
@@ -1919,10 +1930,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 34.0,
-    "trust_ratio": 1.1981441915441693,
+    "trust_ratio": 1.1739848371151476,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.51069284234858,
-    "three_inst_ratio_change_20": 3.462248848233642
+    "three_inst_ratio": 35.486533487919566,
+    "three_inst_ratio_change_20": 3.4617655460105325
   },
   {
     "date": "2026-06-01",
@@ -1930,10 +1941,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 34.03,
-    "trust_ratio": 1.1996732646092974,
+    "trust_ratio": 1.1755139101802756,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.54222191541371,
-    "three_inst_ratio_change_20": 3.2147567017343803
+    "three_inst_ratio": 35.518062560984696,
+    "three_inst_ratio_change_20": 3.2142733995112707
   },
   {
     "date": "2026-06-02",
@@ -1941,10 +1952,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 33.9,
-    "trust_ratio": 1.1971846981958016,
+    "trust_ratio": 1.17302534376678,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.40973334900022,
-    "three_inst_ratio_change_20": 3.2493682241907536
+    "three_inst_ratio": 35.385573994571196,
+    "three_inst_ratio_change_20": 3.2488849219676297
   },
   {
     "date": "2026-06-03",
@@ -1952,10 +1963,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 33.62,
-    "trust_ratio": 1.3529399032923979,
+    "trust_ratio": 1.3287805488633762,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.28548855409681,
-    "three_inst_ratio_change_20": 3.1316049881114196
+    "three_inst_ratio": 35.26132919966779,
+    "three_inst_ratio_change_20": 3.13112168588831
   },
   {
     "date": "2026-06-04",
@@ -1963,10 +1974,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 33.64,
-    "trust_ratio": 1.371273489343282,
+    "trust_ratio": 1.3471141349142604,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.3238221401477,
-    "three_inst_ratio_change_20": 2.9989549542966714
+    "three_inst_ratio": 35.299662785718674,
+    "three_inst_ratio_change_20": 2.9984716520735546
   },
   {
     "date": "2026-06-05",
@@ -1974,10 +1985,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 33.64,
-    "trust_ratio": 1.2584393651848274,
+    "trust_ratio": 1.2342800107558056,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.210988015989244,
-    "three_inst_ratio_change_20": 2.7862159838923404
+    "three_inst_ratio": 35.18682866156022,
+    "three_inst_ratio_change_20": 2.7857326816692236
   },
   {
     "date": "2026-06-08",
@@ -1985,10 +1996,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 34.09,
-    "trust_ratio": 1.2385078977808845,
+    "trust_ratio": 1.2143485433518628,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.641056548585304,
-    "three_inst_ratio_change_20": 3.2291572460121216
+    "three_inst_ratio": 35.61689719415628,
+    "three_inst_ratio_change_20": 3.228673943789005
   },
   {
     "date": "2026-06-09",
@@ -1996,10 +2007,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 33.82,
-    "trust_ratio": 1.3210342647154378,
+    "trust_ratio": 1.2968749102864163,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.45358291551985,
-    "three_inst_ratio_change_20": 2.7463003205508016
+    "three_inst_ratio": 35.429423561090836,
+    "three_inst_ratio_change_20": 2.745817018327692
   },
   {
     "date": "2026-06-10",
@@ -2007,10 +2018,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 34.42,
-    "trust_ratio": 1.437960188396175,
+    "trust_ratio": 1.4138008339671533,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 36.17050883920059,
-    "three_inst_ratio_change_20": 3.2909484129815993
+    "three_inst_ratio": 36.14634948477157,
+    "three_inst_ratio_change_20": 3.2904651107584826
   },
   {
     "date": "2026-06-11",
@@ -2018,9 +2029,9 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 33.97,
-    "trust_ratio": 1.5106064497204041,
+    "trust_ratio": 1.4864470952913824,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.79315510052482,
+    "three_inst_ratio": 35.7689957460958,
     "three_inst_ratio_change_20": 1.4994532172335653
   },
   {
@@ -2029,10 +2040,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 33.49,
-    "trust_ratio": 1.6786913354776594,
+    "trust_ratio": 1.6545319810486379,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.48123998628208,
-    "three_inst_ratio_change_20": 0.7097690205928515
+    "three_inst_ratio": 35.45708063185305,
+    "three_inst_ratio_change_20": 0.7097690205928444
   },
   {
     "date": "2026-06-15",
@@ -2040,10 +2051,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 33.66,
-    "trust_ratio": 1.790361070497019,
+    "trust_ratio": 1.7662017160679975,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.76290972130143,
-    "three_inst_ratio_change_20": 0.3814387556122085
+    "three_inst_ratio": 35.73875036687241,
+    "three_inst_ratio_change_20": 0.3814387556122014
   },
   {
     "date": "2026-06-16",
@@ -2051,10 +2062,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 33.45,
-    "trust_ratio": 1.894565870812424,
+    "trust_ratio": 1.8704065163834025,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 35.65711452161684,
-    "three_inst_ratio_change_20": -0.2352864459591899
+    "three_inst_ratio": 35.63295516718782,
+    "three_inst_ratio_change_20": -0.2352864459591828
   },
   {
     "date": "2026-06-17",
@@ -2062,9 +2073,9 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 33.79,
-    "trust_ratio": 2.2545356645856516,
+    "trust_ratio": 2.2303763101566303,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 36.35708431539007,
+    "three_inst_ratio": 36.332924960961044,
     "three_inst_ratio_change_20": 0.5923693841896025
   },
   {
@@ -2073,10 +2084,10 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 33.65,
-    "trust_ratio": 2.3955643669920006,
+    "trust_ratio": 2.371405012562979,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 36.35811301779641,
-    "three_inst_ratio_change_20": 0.42504920981441074
+    "three_inst_ratio": 36.333953663367396,
+    "three_inst_ratio_change_20": 0.42504920981441785
   },
   {
     "date": "2026-06-22",
@@ -2084,9 +2095,9 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 33.58,
-    "trust_ratio": 2.394494015846411,
+    "trust_ratio": 2.370334661417389,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 36.28704266665083,
+    "three_inst_ratio": 36.2628833122218,
     "three_inst_ratio_change_20": 0.39178310974730124
   },
   {
@@ -2095,9 +2106,20 @@
     "name": "大立光",
     "market": "TWSE",
     "foreign_ratio": 33.5,
-    "trust_ratio": 2.396815913295808,
+    "trust_ratio": 2.3726565588667863,
     "dealer_ratio": 0.3125486508044144,
-    "three_inst_ratio": 36.20936456410023,
-    "three_inst_ratio_change_20": 0.23722417840362908
+    "three_inst_ratio": 36.1852052096712,
+    "three_inst_ratio_change_20": 0.23722417840362198
+  },
+  {
+    "date": "2026-06-24",
+    "code": "3008",
+    "name": "大立光",
+    "market": "TWSE",
+    "foreign_ratio": 33.61,
+    "trust_ratio": 2.380301924192426,
+    "dealer_ratio": 0.3125486508044144,
+    "three_inst_ratio": 36.30285057499684,
+    "three_inst_ratio_change_20": 0.6241647788921725
   }
 ]

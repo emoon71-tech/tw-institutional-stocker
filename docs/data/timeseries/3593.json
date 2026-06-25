@@ -297,6 +297,17 @@
     "three_inst_ratio_change_20": -0.04999999999999999
   },
   {
+    "date": "2026-04-06",
+    "code": "3593",
+    "name": "力銘",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.31
+  },
+  {
     "date": "2026-04-07",
     "code": "3593",
     "name": "力銘",
@@ -305,7 +316,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.26,
-    "three_inst_ratio_change_20": -0.04999999999999999
+    "three_inst_ratio_change_20": -0.03999999999999998
   },
   {
     "date": "2026-04-13",
@@ -327,7 +338,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.26,
-    "three_inst_ratio_change_20": -0.03999999999999998
+    "three_inst_ratio_change_20": -0.02999999999999997
   },
   {
     "date": "2026-04-15",
@@ -371,7 +382,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.25,
-    "three_inst_ratio_change_20": -0.03999999999999998
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-04-24",
@@ -404,7 +415,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.24,
-    "three_inst_ratio_change_20": -0.030000000000000027
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-04-29",
@@ -426,7 +437,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.25,
-    "three_inst_ratio_change_20": -0.010000000000000009
+    "three_inst_ratio_change_20": 0.25
   },
   {
     "date": "2026-05-05",
@@ -448,7 +459,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.24,
-    "three_inst_ratio_change_20": 0.24
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-05-07",
@@ -514,7 +525,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.25,
-    "three_inst_ratio_change_20": -0.010000000000000009
+    "three_inst_ratio_change_20": 0.25
   },
   {
     "date": "2026-05-28",
@@ -658,5 +669,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.24,
     "three_inst_ratio_change_20": -0.010000000000000009
+  },
+  {
+    "date": "2026-06-24",
+    "code": "3593",
+    "name": "力銘",
+    "market": "TWSE",
+    "foreign_ratio": 0.25,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.25,
+    "three_inst_ratio_change_20": 0.010000000000000009
   }
 ]

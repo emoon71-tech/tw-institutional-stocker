@@ -1507,6 +1507,17 @@
     "three_inst_ratio_change_20": -0.010000000000000675
   },
   {
+    "date": "2026-04-06",
+    "code": "1416",
+    "name": "廣豐",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.96
+  },
+  {
     "date": "2026-04-07",
     "code": "1416",
     "name": "廣豐",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.93,
-    "three_inst_ratio_change_20": -0.03000000000000025
+    "three_inst_ratio_change_20": 0.04999999999999982
   },
   {
     "date": "2026-04-08",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.96,
-    "three_inst_ratio_change_20": 0.08000000000000007
+    "three_inst_ratio_change_20": 0.1200000000000001
   },
   {
     "date": "2026-04-09",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.96,
-    "three_inst_ratio_change_20": 0.1200000000000001
+    "three_inst_ratio_change_20": 0.08999999999999986
   },
   {
     "date": "2026-04-10",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.95,
-    "three_inst_ratio_change_20": 0.08000000000000007
+    "three_inst_ratio_change_20": 0.07000000000000028
   },
   {
     "date": "2026-04-13",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.98,
-    "three_inst_ratio_change_20": 0.10000000000000053
+    "three_inst_ratio_change_20": 0.09000000000000075
   },
   {
     "date": "2026-04-14",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.0,
-    "three_inst_ratio_change_20": 0.11000000000000032
+    "three_inst_ratio_change_20": 0.1299999999999999
   },
   {
     "date": "2026-04-15",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.02,
-    "three_inst_ratio_change_20": 0.14999999999999947
+    "three_inst_ratio_change_20": 0.13999999999999968
   },
   {
     "date": "2026-04-16",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.06,
-    "three_inst_ratio_change_20": 0.17999999999999972
+    "three_inst_ratio_change_20": 0.15999999999999925
   },
   {
     "date": "2026-04-17",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.06,
-    "three_inst_ratio_change_20": 0.15999999999999925
+    "three_inst_ratio_change_20": 0.16999999999999993
   },
   {
     "date": "2026-04-20",
@@ -1625,7 +1636,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.08,
-    "three_inst_ratio_change_20": 0.1900000000000004
+    "three_inst_ratio_change_20": 0.17999999999999972
   },
   {
     "date": "2026-04-22",
@@ -1636,7 +1647,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.09,
-    "three_inst_ratio_change_20": 0.1899999999999995
+    "three_inst_ratio_change_20": 0.20000000000000018
   },
   {
     "date": "2026-04-23",
@@ -1647,7 +1658,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.08,
-    "three_inst_ratio_change_20": 0.1900000000000004
+    "three_inst_ratio_change_20": 0.15000000000000036
   },
   {
     "date": "2026-04-24",
@@ -1658,7 +1669,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.08,
-    "three_inst_ratio_change_20": 0.15000000000000036
+    "three_inst_ratio_change_20": 0.13999999999999968
   },
   {
     "date": "2026-04-27",
@@ -1691,7 +1702,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.08,
-    "three_inst_ratio_change_20": 0.13999999999999968
+    "three_inst_ratio_change_20": 0.15000000000000036
   },
   {
     "date": "2026-04-30",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.07,
-    "three_inst_ratio_change_20": 0.14000000000000057
+    "three_inst_ratio_change_20": 6.07
   },
   {
     "date": "2026-05-06",
@@ -2099,5 +2110,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.03,
     "three_inst_ratio_change_20": 0.03000000000000025
+  },
+  {
+    "date": "2026-06-24",
+    "code": "1416",
+    "name": "廣豐",
+    "market": "TWSE",
+    "foreign_ratio": 6.01,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.01,
+    "three_inst_ratio_change_20": -0.020000000000000462
   }
 ]

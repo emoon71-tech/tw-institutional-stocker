@@ -1507,15 +1507,26 @@
     "three_inst_ratio_change_20": 0.28567903466914757
   },
   {
+    "date": "2026-04-06",
+    "code": "2812",
+    "name": "台中銀",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -9.75035791697264
+  },
+  {
     "date": "2026-04-07",
     "code": "2812",
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 9.93,
-    "trust_ratio": 0.31641575298712415,
+    "trust_ratio": 0.3328731020984988,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 10.24626634151391,
-    "three_inst_ratio_change_20": 0.4959084245412715
+    "three_inst_ratio": 10.262723690625286,
+    "three_inst_ratio_change_20": 0.6123657736526482
   },
   {
     "date": "2026-04-08",
@@ -1523,10 +1534,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 9.92,
-    "trust_ratio": 0.3163659325559091,
+    "trust_ratio": 0.33282328166728375,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 10.236216521082696,
-    "three_inst_ratio_change_20": 0.585858604110058
+    "three_inst_ratio": 10.252673870194071,
+    "three_inst_ratio_change_20": 0.6223159532214328
   },
   {
     "date": "2026-04-09",
@@ -1534,10 +1545,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 9.93,
-    "trust_ratio": 0.31628289850388397,
+    "trust_ratio": 0.33274024761525867,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 10.24613348703067,
-    "three_inst_ratio_change_20": 0.6157755700580321
+    "three_inst_ratio": 10.262590836142046,
+    "three_inst_ratio_change_20": 0.5723294545582913
   },
   {
     "date": "2026-04-10",
@@ -1545,10 +1556,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 9.93,
-    "trust_ratio": 0.3160275687939068,
+    "trust_ratio": 0.33248491790528145,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 10.245878157320693,
-    "three_inst_ratio_change_20": 0.5556167757369384
+    "three_inst_ratio": 10.262335506432068,
+    "three_inst_ratio_change_20": 0.5146975955549387
   },
   {
     "date": "2026-04-13",
@@ -1556,10 +1567,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 9.82,
-    "trust_ratio": 0.3173395068159034,
+    "trust_ratio": 0.33379685592727804,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 10.13719009534269,
-    "three_inst_ratio_change_20": 0.38955218446556117
+    "three_inst_ratio": 10.153647444454066,
+    "three_inst_ratio_change_20": 0.41600953357693804
   },
   {
     "date": "2026-04-14",
@@ -1567,10 +1578,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 9.71,
-    "trust_ratio": 0.3170737978494231,
+    "trust_ratio": 0.3335311469607977,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 10.02692438637621,
-    "three_inst_ratio_change_20": 0.2892864754990825
+    "three_inst_ratio": 10.043381735487586,
+    "three_inst_ratio_change_20": 0.3057438246104578
   },
   {
     "date": "2026-04-15",
@@ -1578,10 +1589,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 9.69,
-    "trust_ratio": 0.3168579093141578,
+    "trust_ratio": 0.3333152584255325,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 10.006708497840943,
-    "three_inst_ratio_change_20": 0.2690705869638155
+    "three_inst_ratio": 10.023165846952319,
+    "three_inst_ratio_change_20": 0.3365158382976219
   },
   {
     "date": "2026-04-16",
@@ -1589,10 +1600,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 9.51,
-    "trust_ratio": 0.31621024370836204,
+    "trust_ratio": 0.3326675928197367,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 9.826060832235148,
-    "three_inst_ratio_change_20": 0.13941082358045165
+    "three_inst_ratio": 9.842518181346524,
+    "three_inst_ratio_change_20": 0.18541668333734407
   },
   {
     "date": "2026-04-17",
@@ -1600,10 +1611,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 9.39,
-    "trust_ratio": 0.31556257810256627,
+    "trust_ratio": 0.3320199272139409,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 9.705413166629354,
-    "three_inst_ratio_change_20": 0.04831166862017433
+    "three_inst_ratio": 9.721870515740727,
+    "three_inst_ratio_change_20": 0.10471919730033186
   },
   {
     "date": "2026-04-20",
@@ -1611,10 +1622,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 9.3,
-    "trust_ratio": 0.31565911349145065,
+    "trust_ratio": 0.33211646260282535,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 9.615509702018239,
-    "three_inst_ratio_change_20": -0.0016416164221570995
+    "three_inst_ratio": 9.631967051129612,
+    "three_inst_ratio_change_20": -0.0443522162890595
   },
   {
     "date": "2026-04-21",
@@ -1622,10 +1633,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 9.19,
-    "trust_ratio": 0.3158324553784583,
+    "trust_ratio": 0.33228980448983286,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 9.505683043905245,
-    "three_inst_ratio_change_20": -0.17063622351342644
+    "three_inst_ratio": 9.522140393016619,
+    "three_inst_ratio_change_20": -0.10417887440205398
   },
   {
     "date": "2026-04-22",
@@ -1633,10 +1644,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 9.04,
-    "trust_ratio": 0.3161023160475398,
+    "trust_ratio": 0.3325596651589145,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 9.355952904574325,
-    "three_inst_ratio_change_20": -0.27036636284434756
+    "three_inst_ratio": 9.3724102536857,
+    "three_inst_ratio_change_20": -0.24390901373297247
   },
   {
     "date": "2026-04-23",
@@ -1644,10 +1655,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 8.87,
-    "trust_ratio": 0.3161988514364242,
+    "trust_ratio": 0.3326562005477989,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 9.18604943996321,
-    "three_inst_ratio_change_20": -0.43026982745546327
+    "three_inst_ratio": 9.202506789074585,
+    "three_inst_ratio_change_20": -0.4538124783440871
   },
   {
     "date": "2026-04-24",
@@ -1655,10 +1666,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 8.75,
-    "trust_ratio": 0.31631848689858194,
+    "trust_ratio": 0.33277583600995664,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 9.06616907542537,
-    "three_inst_ratio_change_20": -0.5901501919933025
+    "three_inst_ratio": 9.082626424536743,
+    "three_inst_ratio_change_20": -0.6636928428819289
   },
   {
     "date": "2026-04-27",
@@ -1666,10 +1677,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 8.66,
-    "trust_ratio": 0.31623545284655685,
+    "trust_ratio": 0.33269280195793155,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.976086041373344,
-    "three_inst_ratio_change_20": -0.7702332260453275
+    "three_inst_ratio": 8.992543390484718,
+    "three_inst_ratio_change_20": -0.8138256973651696
   },
   {
     "date": "2026-04-28",
@@ -1677,10 +1688,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 8.64,
-    "trust_ratio": 0.31623545284655685,
+    "trust_ratio": 0.33269280195793155,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.956086041373345,
-    "three_inst_ratio_change_20": -0.8502830464765427
+    "three_inst_ratio": 8.972543390484718,
+    "three_inst_ratio_change_20": -0.8638423041755736
   },
   {
     "date": "2026-04-29",
@@ -1688,10 +1699,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 8.59,
-    "trust_ratio": 0.3161192051737217,
+    "trust_ratio": 0.3325765542850964,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.905969793700509,
-    "three_inst_ratio_change_20": -0.9304159009597832
+    "three_inst_ratio": 8.922427142811882,
+    "three_inst_ratio_change_20": -0.9739585518484102
   },
   {
     "date": "2026-04-30",
@@ -1699,10 +1710,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 8.49,
-    "trust_ratio": 0.3159077174432138,
+    "trust_ratio": 0.3323650665545885,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.80575830597,
-    "three_inst_ratio_change_20": -1.090627388690292
+    "three_inst_ratio": 8.822215655081376,
+    "three_inst_ratio_change_20": -1.1741700395789163
   },
   {
     "date": "2026-05-04",
@@ -1710,10 +1721,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 8.41,
-    "trust_ratio": 0.3159077174432138,
+    "trust_ratio": 0.3323650665545885,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.72575830597,
-    "three_inst_ratio_change_20": -1.2706273886902917
+    "three_inst_ratio": 8.742215655081376,
+    "three_inst_ratio_change_20": -1.3140371850956765
   },
   {
     "date": "2026-05-05",
@@ -1721,10 +1732,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 8.35,
-    "trust_ratio": 0.3161778272144514,
+    "trust_ratio": 0.33263517632582607,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.666028415741238,
-    "three_inst_ratio_change_20": -1.3902244244358144
+    "three_inst_ratio": 8.682485764852613,
+    "three_inst_ratio_change_20": 8.682485764852613
   },
   {
     "date": "2026-05-06",
@@ -1732,9 +1743,9 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 8.33,
-    "trust_ratio": 0.31629407488728656,
+    "trust_ratio": 0.33275142399866126,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.646144663414074,
+    "three_inst_ratio": 8.662602012525449,
     "three_inst_ratio_change_20": -1.6001216780998373
   },
   {
@@ -1743,9 +1754,9 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 8.28,
-    "trust_ratio": 0.3162320484504238,
+    "trust_ratio": 0.3326893975617985,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.59608263697721,
+    "three_inst_ratio": 8.612539986088585,
     "three_inst_ratio_change_20": -1.6401338841054862
   },
   {
@@ -1754,9 +1765,9 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 8.26,
-    "trust_ratio": 0.3162862696863962,
+    "trust_ratio": 0.33274361879777087,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.576136858213182,
+    "three_inst_ratio": 8.592594207324558,
     "three_inst_ratio_change_20": -1.6699966288174881
   },
   {
@@ -1765,10 +1776,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 8.21,
-    "trust_ratio": 0.31673465356733177,
+    "trust_ratio": 0.3331920026787064,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.52658524209412,
-    "three_inst_ratio_change_20": -1.719292915226573
+    "three_inst_ratio": 8.543042591205493,
+    "three_inst_ratio_change_20": -1.7192929152265748
   },
   {
     "date": "2026-05-12",
@@ -1776,9 +1787,9 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 8.11,
-    "trust_ratio": 0.31648555141125645,
+    "trust_ratio": 0.33294290052263115,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.426336139938043,
+    "three_inst_ratio": 8.442793489049418,
     "three_inst_ratio_change_20": -1.710853955404648
   },
   {
@@ -1787,9 +1798,9 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 8.06,
-    "trust_ratio": 0.3163859105488263,
+    "trust_ratio": 0.332843259660201,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.376236499075613,
+    "three_inst_ratio": 8.392693848186989,
     "three_inst_ratio_change_20": -1.650687887300597
   },
   {
@@ -1798,10 +1809,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.91,
-    "trust_ratio": 0.3159917479038632,
+    "trust_ratio": 0.33244909701523784,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.22584233643065,
-    "three_inst_ratio_change_20": -1.7808661614102927
+    "three_inst_ratio": 8.242299685542024,
+    "three_inst_ratio_change_20": -1.7808661614102945
   },
   {
     "date": "2026-05-15",
@@ -1809,9 +1820,9 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.85,
-    "trust_ratio": 0.315858893420623,
+    "trust_ratio": 0.3323162425319977,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.16570948194741,
+    "three_inst_ratio": 8.182166831058785,
     "three_inst_ratio_change_20": -1.6603513502877387
   },
   {
@@ -1820,10 +1831,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.9,
-    "trust_ratio": 0.315858893420623,
+    "trust_ratio": 0.3323162425319977,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.21570948194741,
-    "three_inst_ratio_change_20": -1.4897036846819436
+    "three_inst_ratio": 8.232166831058786,
+    "three_inst_ratio_change_20": -1.4897036846819418
   },
   {
     "date": "2026-05-19",
@@ -1831,9 +1842,9 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.88,
-    "trust_ratio": 0.31569282531657283,
+    "trust_ratio": 0.3321501744279475,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.19554341384336,
+    "three_inst_ratio": 8.212000762954734,
     "three_inst_ratio_change_20": -1.4199662881748782
   },
   {
@@ -1842,10 +1853,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.76,
-    "trust_ratio": 0.31551015040211766,
+    "trust_ratio": 0.33196749951349225,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.075360738928904,
-    "three_inst_ratio_change_20": -1.4303223049763414
+    "three_inst_ratio": 8.091818088040279,
+    "three_inst_ratio_change_20": -1.4303223049763396
   },
   {
     "date": "2026-05-21",
@@ -1853,9 +1864,9 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.77,
-    "trust_ratio": 0.3153772959188774,
+    "trust_ratio": 0.3318346450302521,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.085227884445663,
+    "three_inst_ratio": 8.101685233557038,
     "three_inst_ratio_change_20": -1.270725020128662
   },
   {
@@ -1864,10 +1875,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.76,
-    "trust_ratio": 0.3151325945675595,
+    "trust_ratio": 0.33158994367893413,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.074983183094346,
-    "three_inst_ratio_change_20": -1.1110662568688632
+    "three_inst_ratio": 8.09144053220572,
+    "three_inst_ratio_change_20": -1.111066256868865
   },
   {
     "date": "2026-05-25",
@@ -1875,10 +1886,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.72,
-    "trust_ratio": 0.3151990218091796,
+    "trust_ratio": 0.3316563709205542,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.035049610335966,
-    "three_inst_ratio_change_20": -1.0311194650894038
+    "three_inst_ratio": 8.051506959447341,
+    "three_inst_ratio_change_20": -1.031119465089402
   },
   {
     "date": "2026-05-26",
@@ -1886,10 +1897,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.77,
-    "trust_ratio": 0.31500414088907663,
+    "trust_ratio": 0.33146149000045133,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.084854729415863,
-    "three_inst_ratio_change_20": -0.8912313119574815
+    "three_inst_ratio": 8.101312078527238,
+    "three_inst_ratio_change_20": -0.8912313119574797
   },
   {
     "date": "2026-05-27",
@@ -1897,10 +1908,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.72,
-    "trust_ratio": 0.31483028419094655,
+    "trust_ratio": 0.33128763330232114,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.034680872717733,
-    "three_inst_ratio_change_20": -0.9214051686556122
+    "three_inst_ratio": 8.051138221829108,
+    "three_inst_ratio_change_20": -0.9214051686556104
   },
   {
     "date": "2026-05-28",
@@ -1908,10 +1919,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.59,
-    "trust_ratio": 0.31483028419094655,
+    "trust_ratio": 0.33128763330232114,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 7.904680872717733,
-    "three_inst_ratio_change_20": -1.001288920982776
+    "three_inst_ratio": 7.921138221829107,
+    "three_inst_ratio_change_20": -1.001288920982775
   },
   {
     "date": "2026-05-29",
@@ -1919,10 +1930,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.62,
-    "trust_ratio": 0.3147638569493264,
+    "trust_ratio": 0.3312212060607011,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 7.934614445476113,
-    "three_inst_ratio_change_20": -0.8711438604938877
+    "three_inst_ratio": 7.951071794587487,
+    "three_inst_ratio_change_20": -0.8711438604938886
   },
   {
     "date": "2026-06-01",
@@ -1930,10 +1941,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.69,
-    "trust_ratio": 0.31468522370205865,
+    "trust_ratio": 0.33114257281343334,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.004535812228847,
-    "three_inst_ratio_change_20": -0.7212224937411538
+    "three_inst_ratio": 8.02099316134022,
+    "three_inst_ratio_change_20": -0.7212224937411555
   },
   {
     "date": "2026-06-02",
@@ -1941,9 +1952,9 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.71,
-    "trust_ratio": 0.3174551732503743,
+    "trust_ratio": 0.333912522361749,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.02730576177716,
+    "three_inst_ratio": 8.043763110888536,
     "three_inst_ratio_change_20": -0.6387226539640771
   },
   {
@@ -1952,9 +1963,9 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.66,
-    "trust_ratio": 0.3202871492355528,
+    "trust_ratio": 0.33674449834692743,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 7.980137737762338,
+    "three_inst_ratio": 7.996595086873714,
     "three_inst_ratio_change_20": -0.6660069256517351
   },
   {
@@ -1963,10 +1974,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.7,
-    "trust_ratio": 0.32294525191579065,
+    "trust_ratio": 0.33940260102716535,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 8.022795840442578,
-    "three_inst_ratio_change_20": -0.5732867965346315
+    "three_inst_ratio": 8.039253189553952,
+    "three_inst_ratio_change_20": -0.5732867965346333
   },
   {
     "date": "2026-06-05",
@@ -1974,9 +1985,9 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.61,
-    "trust_ratio": 0.3239504787564169,
+    "trust_ratio": 0.3404078278677916,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 7.933801067283203,
+    "three_inst_ratio": 7.950258416394578,
     "three_inst_ratio_change_20": -0.6423357909299794
   },
   {
@@ -1985,10 +1996,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.61,
-    "trust_ratio": 0.32619239816109463,
+    "trust_ratio": 0.3426497472724693,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 7.936042986687881,
-    "three_inst_ratio_change_20": -0.5905422554062385
+    "three_inst_ratio": 7.952500335799256,
+    "three_inst_ratio_change_20": -0.5905422554062376
   },
   {
     "date": "2026-06-09",
@@ -1996,9 +2007,9 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.63,
-    "trust_ratio": 0.3258783799831461,
+    "trust_ratio": 0.3423357290945207,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 7.9557289685099315,
+    "three_inst_ratio": 7.972186317621307,
     "three_inst_ratio_change_20": -0.47060717142811104
   },
   {
@@ -2007,10 +2018,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.61,
-    "trust_ratio": 0.32660315100965237,
+    "trust_ratio": 0.343060500121027,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 7.9364537395364385,
-    "three_inst_ratio_change_20": -0.4397827595391748
+    "three_inst_ratio": 7.952911088647813,
+    "three_inst_ratio_change_20": -0.43978275953917567
   },
   {
     "date": "2026-06-11",
@@ -2018,10 +2029,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.56,
-    "trust_ratio": 0.32871221593108985,
+    "trust_ratio": 0.34516956504246454,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 7.888562804457876,
-    "three_inst_ratio_change_20": -0.3372795319727748
+    "three_inst_ratio": 7.90502015356925,
+    "three_inst_ratio_change_20": -0.33727953197277394
   },
   {
     "date": "2026-06-12",
@@ -2029,10 +2040,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.61,
-    "trust_ratio": 0.32809354581626127,
+    "trust_ratio": 0.3445508949276359,
     "dealer_ratio": -0.00014941147321396355,
-    "three_inst_ratio": 7.937944134343048,
-    "three_inst_ratio_change_20": -0.22776534760436196
+    "three_inst_ratio": 7.954401483454422,
+    "three_inst_ratio_change_20": -0.22776534760436284
   },
   {
     "date": "2026-06-15",
@@ -2040,10 +2051,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.64,
-    "trust_ratio": 0.32809354581626127,
+    "trust_ratio": 0.3445508949276359,
     "dealer_ratio": -0.00043139511389120045,
-    "three_inst_ratio": 7.96766215070237,
-    "three_inst_ratio_change_20": -0.24804733124503997
+    "three_inst_ratio": 7.984119499813745,
+    "three_inst_ratio_change_20": -0.24804733124504086
   },
   {
     "date": "2026-06-16",
@@ -2051,9 +2062,9 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.8,
-    "trust_ratio": 0.33854348090448244,
+    "trust_ratio": 0.3550008300158571,
     "dealer_ratio": -0.00043139511389120045,
-    "three_inst_ratio": 8.138112085790592,
+    "three_inst_ratio": 8.154569434901966,
     "three_inst_ratio_change_20": -0.05743132805276829
   },
   {
@@ -2062,9 +2073,9 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.88,
-    "trust_ratio": 0.33836080599002727,
+    "trust_ratio": 0.35481815510140186,
     "dealer_ratio": -0.00043139511389120045,
-    "three_inst_ratio": 8.217929410876136,
+    "three_inst_ratio": 8.234386759987512,
     "three_inst_ratio_change_20": 0.14256867194723277
   },
   {
@@ -2073,9 +2084,9 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.78,
-    "trust_ratio": 0.3393240009935184,
+    "trust_ratio": 0.35578135010489303,
     "dealer_ratio": -0.00043139511389120045,
-    "three_inst_ratio": 8.118892605879628,
+    "three_inst_ratio": 8.135349954991003,
     "three_inst_ratio_change_20": 0.03366472143396493
   },
   {
@@ -2084,10 +2095,10 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.64,
-    "trust_ratio": 0.33972256444323884,
+    "trust_ratio": 0.35617991355461354,
     "dealer_ratio": -0.00043139511389120045,
-    "three_inst_ratio": 7.979291169329348,
-    "three_inst_ratio_change_20": -0.09569201376499858
+    "three_inst_ratio": 7.995748518440722,
+    "three_inst_ratio_change_20": -0.0956920137649977
   },
   {
     "date": "2026-06-23",
@@ -2095,9 +2106,20 @@
     "name": "台中銀",
     "market": "TWSE",
     "foreign_ratio": 7.84,
-    "trust_ratio": 0.34018755513457943,
+    "trust_ratio": 0.3566449042459541,
     "dealer_ratio": -0.00043139511389120045,
-    "three_inst_ratio": 8.17975616002069,
-    "three_inst_ratio_change_20": 0.14470654968472374
+    "three_inst_ratio": 8.196213509132063,
+    "three_inst_ratio_change_20": 0.14470654968472196
+  },
+  {
+    "date": "2026-06-24",
+    "code": "2812",
+    "name": "台中銀",
+    "market": "TWSE",
+    "foreign_ratio": 7.85,
+    "trust_ratio": 0.3559926053400553,
+    "dealer_ratio": -0.00043139511389120045,
+    "three_inst_ratio": 8.205561210226165,
+    "three_inst_ratio_change_20": 0.10424913169892669
   }
 ]

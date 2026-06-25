@@ -1507,6 +1507,17 @@
     "three_inst_ratio_change_20": 0.13999999999999968
   },
   {
+    "date": "2026-04-06",
+    "code": "2739",
+    "name": "寒舍",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.19
+  },
+  {
     "date": "2026-04-07",
     "code": "2739",
     "name": "寒舍",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.33,
-    "three_inst_ratio_change_20": 0.14000000000000012
+    "three_inst_ratio_change_20": 0.1499999999999999
   },
   {
     "date": "2026-04-08",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.38,
-    "three_inst_ratio_change_20": 0.19999999999999973
+    "three_inst_ratio_change_20": 0.08999999999999986
   },
   {
     "date": "2026-04-10",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.41,
-    "three_inst_ratio_change_20": 0.1200000000000001
+    "three_inst_ratio_change_20": 0.16999999999999993
   },
   {
     "date": "2026-04-13",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.74,
-    "three_inst_ratio_change_20": -0.5
+    "three_inst_ratio_change_20": -0.48999999999999977
   },
   {
     "date": "2026-04-14",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.66,
-    "three_inst_ratio_change_20": -0.5699999999999998
+    "three_inst_ratio_change_20": -0.5800000000000001
   },
   {
     "date": "2026-04-15",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.64,
-    "three_inst_ratio_change_20": -0.6000000000000001
+    "three_inst_ratio_change_20": -0.6199999999999997
   },
   {
     "date": "2026-04-17",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.6,
-    "three_inst_ratio_change_20": -0.6599999999999997
+    "three_inst_ratio_change_20": -0.6499999999999999
   },
   {
     "date": "2026-04-20",
@@ -1625,7 +1636,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.63,
-    "three_inst_ratio_change_20": -0.6200000000000001
+    "three_inst_ratio_change_20": -0.6400000000000001
   },
   {
     "date": "2026-04-22",
@@ -1636,7 +1647,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.65,
-    "three_inst_ratio_change_20": -0.6200000000000001
+    "three_inst_ratio_change_20": -0.6299999999999999
   },
   {
     "date": "2026-04-23",
@@ -1647,7 +1658,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.62,
-    "three_inst_ratio_change_20": -0.6599999999999997
+    "three_inst_ratio_change_20": -0.6799999999999997
   },
   {
     "date": "2026-04-24",
@@ -1658,7 +1669,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.61,
-    "three_inst_ratio_change_20": -0.69
+    "three_inst_ratio_change_20": -0.71
   },
   {
     "date": "2026-04-27",
@@ -1669,7 +1680,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.65,
-    "three_inst_ratio_change_20": -0.6699999999999999
+    "three_inst_ratio_change_20": -0.6600000000000001
   },
   {
     "date": "2026-04-28",
@@ -1702,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.63,
-    "three_inst_ratio_change_20": -0.6800000000000002
+    "three_inst_ratio_change_20": -0.69
   },
   {
     "date": "2026-05-04",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.64,
-    "three_inst_ratio_change_20": -0.6799999999999997
+    "three_inst_ratio_change_20": 2.64
   },
   {
     "date": "2026-05-06",
@@ -2099,5 +2110,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.92,
     "three_inst_ratio_change_20": 0.3799999999999999
+  },
+  {
+    "date": "2026-06-24",
+    "code": "2739",
+    "name": "寒舍",
+    "market": "TWSE",
+    "foreign_ratio": 3.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.0,
+    "three_inst_ratio_change_20": 0.45999999999999996
   }
 ]

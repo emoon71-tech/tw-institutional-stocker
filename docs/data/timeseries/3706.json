@@ -1507,15 +1507,26 @@
     "three_inst_ratio_change_20": 0.19821951995104392
   },
   {
+    "date": "2026-04-06",
+    "code": "3706",
+    "name": "神達",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -8.716367520682452
+  },
+  {
     "date": "2026-04-07",
     "code": "3706",
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 8.1,
-    "trust_ratio": 0.8664646601255407,
+    "trust_ratio": 1.0021626017455405,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 8.965033088281686,
-    "three_inst_ratio_change_20": 0.2486655675992342
+    "three_inst_ratio": 9.100731029901686,
+    "three_inst_ratio_change_20": 0.5820639527626863
   },
   {
     "date": "2026-04-08",
@@ -1523,10 +1534,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 8.55,
-    "trust_ratio": 0.8663139683525034,
+    "trust_ratio": 1.0020119099725033,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 9.41488239650865,
-    "three_inst_ratio_change_20": 0.8962153193696505
+    "three_inst_ratio": 9.55058033812865,
+    "three_inst_ratio_change_20": 1.0762079765212107
   },
   {
     "date": "2026-04-09",
@@ -1534,10 +1545,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 8.47,
-    "trust_ratio": 0.866389314239022,
+    "trust_ratio": 1.002087255859022,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 9.334957742395169,
-    "three_inst_ratio_change_20": 0.8605853807877288
+    "three_inst_ratio": 9.470655684015169,
+    "three_inst_ratio_change_20": 0.1463586682942477
   },
   {
     "date": "2026-04-10",
@@ -1545,10 +1556,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 9.25,
-    "trust_ratio": 0.8660290855555766,
+    "trust_ratio": 1.0017270271755765,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 10.114597513711722,
-    "three_inst_ratio_change_20": 0.7903004979908008
+    "three_inst_ratio": 10.250295455331722,
+    "three_inst_ratio_change_20": 1.1151696348590967
   },
   {
     "date": "2026-04-13",
@@ -1556,10 +1567,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 8.92,
-    "trust_ratio": 0.8669332361937999,
+    "trust_ratio": 1.0026311778137997,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 9.785501664349946,
-    "three_inst_ratio_change_20": 0.6503758438773204
+    "three_inst_ratio": 9.921199605969946,
+    "three_inst_ratio_change_20": 0.6561491313838381
   },
   {
     "date": "2026-04-14",
@@ -1567,10 +1578,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 9.0,
-    "trust_ratio": 0.8667825444207626,
+    "trust_ratio": 1.0024804860407626,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 9.865350972576909,
-    "three_inst_ratio_change_20": 0.6003004979908013
+    "three_inst_ratio": 10.00104891419691,
+    "three_inst_ratio_change_20": 0.45516963485909656
   },
   {
     "date": "2026-04-15",
@@ -1578,10 +1589,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 9.06,
-    "trust_ratio": 0.866330469101651,
+    "trust_ratio": 1.0020284107216508,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 9.924898897257798,
-    "three_inst_ratio_change_20": 0.37901961791998495
+    "three_inst_ratio": 10.060596838877798,
+    "three_inst_ratio_change_20": 0.4046422136534673
   },
   {
     "date": "2026-04-16",
@@ -1589,10 +1600,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 9.2,
-    "trust_ratio": 0.8655016643499464,
+    "trust_ratio": 1.0011996059699464,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 10.06407009250609,
-    "three_inst_ratio_change_20": 0.4081154672817604
+    "three_inst_ratio": 10.199768034126091,
+    "three_inst_ratio_change_20": 0.6486355456389514
   },
   {
     "date": "2026-04-17",
@@ -1600,10 +1611,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 9.71,
-    "trust_ratio": 0.8624908427246631,
+    "trust_ratio": 0.9981887843446631,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 10.57105927088081,
-    "three_inst_ratio_change_20": 1.0199267823936697
+    "three_inst_ratio": 10.70675721250081,
+    "three_inst_ratio_change_20": 1.2449466110350027
   },
   {
     "date": "2026-04-20",
@@ -1611,10 +1622,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 9.81,
-    "trust_ratio": 0.8624908427246631,
+    "trust_ratio": 0.9981887843446631,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 10.671059270880809,
-    "three_inst_ratio_change_20": 1.2092486694150022
+    "three_inst_ratio": 10.80675721250081,
+    "three_inst_ratio_change_20": 1.3959994191073264
   },
   {
     "date": "2026-04-21",
@@ -1622,10 +1633,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.18,
-    "trust_ratio": 0.8625661886111817,
+    "trust_ratio": 0.9982641302311817,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 11.041134616767327,
-    "three_inst_ratio_change_20": 1.6303768233738438
+    "three_inst_ratio": 11.176832558387327,
+    "three_inst_ratio_change_20": 1.8147938849230272
   },
   {
     "date": "2026-04-22",
@@ -1633,10 +1644,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.19,
-    "trust_ratio": 0.8617042316694089,
+    "trust_ratio": 0.9974021732894088,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 11.050272659825554,
-    "three_inst_ratio_change_20": 1.6882339863612543
+    "three_inst_ratio": 11.185970601445554,
+    "three_inst_ratio_change_20": 1.7837812362082186
   },
   {
     "date": "2026-04-23",
@@ -1644,10 +1655,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.11,
-    "trust_ratio": 0.8617042316694089,
+    "trust_ratio": 0.9974021732894088,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 10.970272659825554,
-    "three_inst_ratio_change_20": 1.5680832945882184
+    "three_inst_ratio": 11.105970601445554,
+    "three_inst_ratio_change_20": 1.713893350887357
   },
   {
     "date": "2026-04-24",
@@ -1655,10 +1666,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.33,
-    "trust_ratio": 0.86110146457726,
+    "trust_ratio": 0.9967994061972599,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 11.189669892733406,
-    "three_inst_ratio_change_20": 1.7975926421752089
+    "three_inst_ratio": 11.325367834353406,
+    "three_inst_ratio_change_20": 1.9973947495797635
   },
   {
     "date": "2026-04-27",
@@ -1666,10 +1677,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.27,
-    "trust_ratio": 0.8609507728042229,
+    "trust_ratio": 0.9966487144242229,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 11.129519200960369,
-    "three_inst_ratio_change_20": 1.801546116186726
+    "three_inst_ratio": 11.265217142580369,
+    "three_inst_ratio_change_20": 2.0508938125496883
   },
   {
     "date": "2026-04-28",
@@ -1677,10 +1688,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.34,
-    "trust_ratio": 0.8611768104637787,
+    "trust_ratio": 0.9968747520837786,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 11.199745238619924,
-    "three_inst_ratio_change_20": 1.9854219085892435
+    "three_inst_ratio": 11.335443180239924,
+    "three_inst_ratio_change_20": 2.170743120776649
   },
   {
     "date": "2026-04-29",
@@ -1688,10 +1699,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.4,
-    "trust_ratio": 0.861279431561217,
+    "trust_ratio": 0.9969773731812169,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 11.259847859717363,
-    "three_inst_ratio_change_20": 2.0951478002540878
+    "three_inst_ratio": 11.395545801337363,
+    "three_inst_ratio_change_20": 2.4506197042145335
   },
   {
     "date": "2026-04-30",
@@ -1699,10 +1710,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.7,
-    "trust_ratio": 0.8612137299481728,
+    "trust_ratio": 0.9969116715681727,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 11.559782158104317,
-    "three_inst_ratio_change_20": 2.614856060981488
+    "three_inst_ratio": 11.695480099724318,
+    "three_inst_ratio_change_20": 2.5705916755447475
   },
   {
     "date": "2026-05-04",
@@ -1710,10 +1721,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.83,
-    "trust_ratio": 0.8788446673935255,
+    "trust_ratio": 1.0145426090135252,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 11.707413095549672,
-    "three_inst_ratio_change_20": 2.582524671370102
+    "three_inst_ratio": 11.84311103716967,
+    "three_inst_ratio_change_20": 2.8282226129901
   },
   {
     "date": "2026-05-05",
@@ -1721,10 +1732,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.58,
-    "trust_ratio": 0.8832056873052221,
+    "trust_ratio": 1.018903628925222,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 11.461774115461369,
-    "three_inst_ratio_change_20": 2.446885691281798
+    "three_inst_ratio": 11.597472057081367,
+    "three_inst_ratio_change_20": 11.597472057081367
   },
   {
     "date": "2026-05-06",
@@ -1732,10 +1743,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 11.33,
-    "trust_ratio": 0.8832817113047193,
+    "trust_ratio": 1.0189796529247193,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 12.211850139460866,
-    "three_inst_ratio_change_20": 3.24681705117918
+    "three_inst_ratio": 12.347548081080864,
+    "three_inst_ratio_change_20": 3.2468170511791783
   },
   {
     "date": "2026-05-07",
@@ -1743,9 +1754,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.9,
-    "trust_ratio": 0.8841091598304665,
+    "trust_ratio": 1.0198071014504664,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 11.782677587986612,
+    "three_inst_ratio": 11.918375529606612,
     "three_inst_ratio_change_20": 2.3677951914779616
   },
   {
@@ -1754,9 +1765,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.94,
-    "trust_ratio": 0.8839658519543082,
+    "trust_ratio": 1.0196637935743083,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 11.822534280110453,
+    "three_inst_ratio": 11.958232221730453,
     "three_inst_ratio_change_20": 2.4875765377152845
   },
   {
@@ -1765,9 +1776,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.82,
-    "trust_ratio": 0.8861632393887366,
+    "trust_ratio": 1.0218611810087366,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 11.704731667544882,
+    "three_inst_ratio": 11.840429609164882,
     "three_inst_ratio_change_20": 1.5901341538331604
   },
   {
@@ -1776,9 +1787,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.92,
-    "trust_ratio": 0.8883573869500447,
+    "trust_ratio": 1.0240553285700447,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 11.80692581510619,
+    "three_inst_ratio": 11.94262375672619,
     "three_inst_ratio_change_20": 2.0214241507562445
   },
   {
@@ -1787,9 +1798,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 9.87,
-    "trust_ratio": 0.888508078723082,
+    "trust_ratio": 1.024206020343082,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 10.757076506879226,
+    "three_inst_ratio": 10.892774448499226,
     "three_inst_ratio_change_20": 0.8917255343023172
   },
   {
@@ -1798,9 +1809,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 9.77,
-    "trust_ratio": 0.887754619857896,
+    "trust_ratio": 1.023452561477896,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 10.656323048014041,
+    "three_inst_ratio": 10.792020989634041,
     "three_inst_ratio_change_20": 0.7314241507562436
   },
   {
@@ -1809,10 +1820,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 9.56,
-    "trust_ratio": 0.8875285821983402,
+    "trust_ratio": 1.02322652381834,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 10.446097010354487,
-    "three_inst_ratio_change_20": 0.38202691784839615
+    "three_inst_ratio": 10.581794951974485,
+    "three_inst_ratio_change_20": 0.3820269178483944
   },
   {
     "date": "2026-05-18",
@@ -1820,9 +1831,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 9.41,
-    "trust_ratio": 0.8876039280848588,
+    "trust_ratio": 1.0233018697048588,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 10.296172356241005,
+    "three_inst_ratio": 10.431870297861005,
     "three_inst_ratio_change_20": -0.2748869146398043
   },
   {
@@ -1831,9 +1842,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 9.24,
-    "trust_ratio": 1.0672304805382524,
+    "trust_ratio": 1.2029284221582524,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 10.305798908694399,
+    "three_inst_ratio": 10.4414968503144,
     "three_inst_ratio_change_20": -0.3652603621864099
   },
   {
@@ -1842,9 +1853,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 9.01,
-    "trust_ratio": 1.3057002113696239,
+    "trust_ratio": 1.4413981529896238,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 10.31426863952577,
+    "three_inst_ratio": 10.44996658114577,
     "three_inst_ratio_change_20": -0.7268659772415571
   },
   {
@@ -1853,9 +1864,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 9.59,
-    "trust_ratio": 1.5216415221319335,
+    "trust_ratio": 1.6573394637519334,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 11.110209950288079,
+    "three_inst_ratio": 11.245907891908079,
     "three_inst_ratio_change_20": 0.05993729046252483
   },
   {
@@ -1864,9 +1875,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.33,
-    "trust_ratio": 1.7165613305555536,
+    "trust_ratio": 1.8522592721755535,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 12.045129758711699,
+    "three_inst_ratio": 12.1808277003317,
     "three_inst_ratio_change_20": 1.0748570988861452
   },
   {
@@ -1875,9 +1886,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.36,
-    "trust_ratio": 1.8549717240902228,
+    "trust_ratio": 1.9906696657102227,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 12.213540152246368,
+    "three_inst_ratio": 12.349238093866369,
     "three_inst_ratio_change_20": 1.0238702595129627
   },
   {
@@ -1886,9 +1897,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.21,
-    "trust_ratio": 1.9851694159943651,
+    "trust_ratio": 2.1208673576143653,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 12.193737844150512,
+    "three_inst_ratio": 12.329435785770512,
     "three_inst_ratio_change_20": 1.0642186431901433
   },
   {
@@ -1897,10 +1908,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.16,
-    "trust_ratio": 2.0773174352066137,
+    "trust_ratio": 2.213015376826614,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 12.235885863362759,
-    "three_inst_ratio_change_20": 1.0361406247428349
+    "three_inst_ratio": 12.37158380498276,
+    "three_inst_ratio_change_20": 1.0361406247428366
   },
   {
     "date": "2026-05-28",
@@ -1908,9 +1919,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.11,
-    "trust_ratio": 2.077694164639207,
+    "trust_ratio": 2.2133921062592066,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 12.186262592795352,
+    "three_inst_ratio": 12.321960534415352,
     "three_inst_ratio_change_20": 0.9264147330779888
   },
   {
@@ -1919,9 +1930,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 11.52,
-    "trust_ratio": 2.0782969317313555,
+    "trust_ratio": 2.2139948733513557,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 13.5968653598875,
+    "three_inst_ratio": 13.7325633015075,
     "three_inst_ratio_change_20": 2.037083201783183
   },
   {
@@ -1930,10 +1941,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 12.45,
-    "trust_ratio": 2.0839478732202505,
+    "trust_ratio": 2.2196458148402503,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 14.532516301376395,
-    "three_inst_ratio_change_20": 2.825103205826723
+    "three_inst_ratio": 14.668214242996395,
+    "three_inst_ratio_change_20": 2.825103205826725
   },
   {
     "date": "2026-06-02",
@@ -1941,10 +1952,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 13.04,
-    "trust_ratio": 2.082742339035953,
+    "trust_ratio": 2.218440280655953,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 15.121310767192098,
-    "three_inst_ratio_change_20": 3.659536651730729
+    "three_inst_ratio": 15.257008708812098,
+    "three_inst_ratio_change_20": 3.659536651730731
   },
   {
     "date": "2026-06-03",
@@ -1952,10 +1963,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 13.86,
-    "trust_ratio": 2.0795778118021717,
+    "trust_ratio": 2.215275753422172,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 15.938146239958316,
-    "three_inst_ratio_change_20": 3.72629610049745
+    "three_inst_ratio": 16.07384418157832,
+    "three_inst_ratio_change_20": 3.7262961004974553
   },
   {
     "date": "2026-06-04",
@@ -1963,9 +1974,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 13.3,
-    "trust_ratio": 2.0819135342842485,
+    "trust_ratio": 2.2176114759042482,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 15.380481962440395,
+    "three_inst_ratio": 15.516179904060396,
     "three_inst_ratio_change_20": 3.5978043744537835
   },
   {
@@ -1974,9 +1985,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 13.32,
-    "trust_ratio": 2.0805573083269135,
+    "trust_ratio": 2.2162552499469133,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 15.39912573648306,
+    "three_inst_ratio": 15.53482367810306,
     "three_inst_ratio_change_20": 3.576591456372606
   },
   {
@@ -1985,9 +1996,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 12.91,
-    "trust_ratio": 2.0809340377595067,
+    "trust_ratio": 2.2166319793795064,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 14.989502465915653,
+    "three_inst_ratio": 15.125200407535653,
     "three_inst_ratio_change_20": 3.2847707983707704
   },
   {
@@ -1996,9 +2007,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 12.34,
-    "trust_ratio": 2.0698581924412722,
+    "trust_ratio": 2.2055561340612724,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 14.408426620597417,
+    "three_inst_ratio": 14.544124562217418,
     "three_inst_ratio_change_20": 2.601500805491227
   },
   {
@@ -2007,9 +2018,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 11.78,
-    "trust_ratio": 2.0698581924412722,
+    "trust_ratio": 2.2055561340612724,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 13.848426620597417,
+    "three_inst_ratio": 13.984124562217417,
     "three_inst_ratio_change_20": 3.0913501137181907
   },
   {
@@ -2018,10 +2029,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 11.43,
-    "trust_ratio": 2.071214418398607,
+    "trust_ratio": 2.206912360018607,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 13.499782846554753,
-    "three_inst_ratio_change_20": 2.843459798540712
+    "three_inst_ratio": 13.635480788174752,
+    "three_inst_ratio_change_20": 2.84345979854071
   },
   {
     "date": "2026-06-12",
@@ -2029,9 +2040,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.97,
-    "trust_ratio": 2.0705363054199397,
+    "trust_ratio": 2.2062342470399394,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 13.039104733576087,
+    "three_inst_ratio": 13.174802675196085,
     "three_inst_ratio_change_20": 2.5930077232216
   },
   {
@@ -2040,9 +2051,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.82,
-    "trust_ratio": 2.0705363054199397,
+    "trust_ratio": 2.2062342470399394,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 12.889104733576085,
+    "three_inst_ratio": 13.024802675196085,
     "three_inst_ratio_change_20": 2.59293237733508
   },
   {
@@ -2051,10 +2062,10 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.38,
-    "trust_ratio": 2.0705363054199397,
+    "trust_ratio": 2.2062342470399394,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 12.449104733576087,
-    "three_inst_ratio_change_20": 2.143305824881688
+    "three_inst_ratio": 12.584802675196086,
+    "three_inst_ratio_change_20": 2.1433058248816863
   },
   {
     "date": "2026-06-17",
@@ -2062,9 +2073,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.28,
-    "trust_ratio": 2.099695163502638,
+    "trust_ratio": 2.2353931051226383,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 12.378263591658783,
+    "three_inst_ratio": 12.513961533278783,
     "three_inst_ratio_change_20": 2.0639949521330134
   },
   {
@@ -2073,9 +2084,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.35,
-    "trust_ratio": 2.1200517383928013,
+    "trust_ratio": 2.2557496800128014,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 12.468620166548947,
+    "three_inst_ratio": 12.604318108168947,
     "three_inst_ratio_change_20": 1.358410216260868
   },
   {
@@ -2084,9 +2095,9 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 10.07,
-    "trust_ratio": 2.134819532150447,
+    "trust_ratio": 2.2705174737704468,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 12.203387960306593,
+    "three_inst_ratio": 12.339085901926593,
     "three_inst_ratio_change_20": 0.15825820159489368
   },
   {
@@ -2095,9 +2106,20 @@
     "name": "神達",
     "market": "TWSE",
     "foreign_ratio": 9.78,
-    "trust_ratio": 2.1351962615830398,
+    "trust_ratio": 2.27089420320304,
     "dealer_ratio": -0.0014315718438534138,
-    "three_inst_ratio": 11.913764689739185,
+    "three_inst_ratio": 12.049462631359185,
     "three_inst_ratio_change_20": -0.2997754625071831
+  },
+  {
+    "date": "2026-06-24",
+    "code": "3706",
+    "name": "神達",
+    "market": "TWSE",
+    "foreign_ratio": 9.58,
+    "trust_ratio": 2.271044894976077,
+    "dealer_ratio": -0.0014315718438534138,
+    "three_inst_ratio": 11.849613323132223,
+    "three_inst_ratio_change_20": -0.479822462638289
   }
 ]

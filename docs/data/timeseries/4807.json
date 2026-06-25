@@ -1353,18 +1353,18 @@
     "three_inst_ratio_change_20": -6.530000000000001
   },
   {
-    "date": "2026-04-07",
+    "date": "2026-04-06",
     "code": "4807",
     "name": "日成-KY",
     "market": "TWSE",
-    "foreign_ratio": 66.78,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 66.78,
-    "three_inst_ratio_change_20": -6.489999999999995
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -73.27
   },
   {
-    "date": "2026-04-08",
+    "date": "2026-04-07",
     "code": "4807",
     "name": "日成-KY",
     "market": "TWSE",
@@ -1375,18 +1375,18 @@
     "three_inst_ratio_change_20": -6.469999999999999
   },
   {
-    "date": "2026-04-09",
+    "date": "2026-04-08",
     "code": "4807",
     "name": "日成-KY",
     "market": "TWSE",
-    "foreign_ratio": 66.79,
+    "foreign_ratio": 66.78,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 66.79,
-    "three_inst_ratio_change_20": -6.429999999999993
+    "three_inst_ratio": 66.78,
+    "three_inst_ratio_change_20": -6.439999999999998
   },
   {
-    "date": "2026-04-10",
+    "date": "2026-04-09",
     "code": "4807",
     "name": "日成-KY",
     "market": "TWSE",
@@ -1397,7 +1397,7 @@
     "three_inst_ratio_change_20": -6.3999999999999915
   },
   {
-    "date": "2026-04-13",
+    "date": "2026-04-10",
     "code": "4807",
     "name": "日成-KY",
     "market": "TWSE",
@@ -1408,6 +1408,17 @@
     "three_inst_ratio_change_20": -6.36999999999999
   },
   {
+    "date": "2026-04-13",
+    "code": "4807",
+    "name": "日成-KY",
+    "market": "TWSE",
+    "foreign_ratio": 66.79,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.79,
+    "three_inst_ratio_change_20": -6.359999999999999
+  },
+  {
     "date": "2026-04-14",
     "code": "4807",
     "name": "日成-KY",
@@ -1416,7 +1427,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 66.81,
-    "three_inst_ratio_change_20": -6.340000000000003
+    "three_inst_ratio_change_20": -6.200000000000003
   },
   {
     "date": "2026-04-15",
@@ -1427,7 +1438,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 66.8,
-    "three_inst_ratio_change_20": -6.210000000000008
+    "three_inst_ratio_change_20": -6.260000000000005
   },
   {
     "date": "2026-04-16",
@@ -1449,7 +1460,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 66.85,
-    "three_inst_ratio_change_20": -6.210000000000008
+    "three_inst_ratio_change_20": -6.180000000000007
   },
   {
     "date": "2026-04-20",
@@ -1460,7 +1471,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 66.86,
-    "three_inst_ratio_change_20": -6.170000000000002
+    "three_inst_ratio_change_20": -6.159999999999997
   },
   {
     "date": "2026-04-21",
@@ -1471,7 +1482,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 66.85,
-    "three_inst_ratio_change_20": -6.170000000000002
+    "three_inst_ratio_change_20": -6.150000000000006
   },
   {
     "date": "2026-04-22",
@@ -1482,7 +1493,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 66.84,
-    "three_inst_ratio_change_20": -6.159999999999997
+    "three_inst_ratio_change_20": -6.1499999999999915
   },
   {
     "date": "2026-04-23",
@@ -1493,7 +1504,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 66.89,
-    "three_inst_ratio_change_20": -6.099999999999994
+    "three_inst_ratio_change_20": -6.109999999999999
   },
   {
     "date": "2026-04-24",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 66.9,
-    "three_inst_ratio_change_20": -6.099999999999994
+    "three_inst_ratio_change_20": 0.10999999999999943
   },
   {
     "date": "2026-04-27",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 66.88,
-    "three_inst_ratio_change_20": 0.0899999999999892
+    "three_inst_ratio_change_20": 0.0799999999999983
   },
   {
     "date": "2026-04-28",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 66.9,
-    "three_inst_ratio_change_20": 0.10000000000000853
+    "three_inst_ratio_change_20": 0.13000000000000966
   },
   {
     "date": "2026-04-29",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 66.96,
-    "three_inst_ratio_change_20": 0.18999999999999773
+    "three_inst_ratio_change_20": 0.1699999999999875
   },
   {
     "date": "2026-04-30",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 66.77,
-    "three_inst_ratio_change_20": -0.020000000000010232
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-05-04",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 66.77,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.009999999999990905
   },
   {
     "date": "2026-05-05",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 66.75,
-    "three_inst_ratio_change_20": -0.010000000000005116
+    "three_inst_ratio_change_20": 66.75
   },
   {
     "date": "2026-05-06",
@@ -1945,5 +1956,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 67.39,
     "three_inst_ratio_change_20": 0.730000000000004
+  },
+  {
+    "date": "2026-06-24",
+    "code": "4807",
+    "name": "日成-KY",
+    "market": "TWSE",
+    "foreign_ratio": 67.3,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 67.3,
+    "three_inst_ratio_change_20": 0.6499999999999915
   }
 ]

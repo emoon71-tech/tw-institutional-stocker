@@ -1507,6 +1507,17 @@
     "three_inst_ratio_change_20": 13.3
   },
   {
+    "date": "2026-04-06",
+    "code": "00711B",
+    "name": "復華彭博新興債",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.12
+  },
+  {
     "date": "2026-04-07",
     "code": "00711B",
     "name": "復華彭博新興債",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.43,
-    "three_inst_ratio_change_20": 13.31
+    "three_inst_ratio_change_20": 13.32
   },
   {
     "date": "2026-04-10",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.43,
-    "three_inst_ratio_change_20": 13.32
+    "three_inst_ratio_change_20": 13.33
   },
   {
     "date": "2026-04-13",
@@ -1625,7 +1636,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.15,
-    "three_inst_ratio_change_20": 0.04999999999999999
+    "three_inst_ratio_change_20": 0.06999999999999999
   },
   {
     "date": "2026-04-22",
@@ -1636,7 +1647,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.15,
-    "three_inst_ratio_change_20": 0.06999999999999999
+    "three_inst_ratio_change_20": 0.04999999999999999
   },
   {
     "date": "2026-04-23",
@@ -1669,7 +1680,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.15,
-    "three_inst_ratio_change_20": 0.04999999999999999
+    "three_inst_ratio_change_20": -13.25
   },
   {
     "date": "2026-04-28",
@@ -1691,7 +1702,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.16,
-    "three_inst_ratio_change_20": -13.24
+    "three_inst_ratio_change_20": -13.26
   },
   {
     "date": "2026-04-30",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.15,
-    "three_inst_ratio_change_20": -13.27
+    "three_inst_ratio_change_20": 0.15
   },
   {
     "date": "2026-05-06",
@@ -2099,5 +2110,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.17,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-06-24",
+    "code": "00711B",
+    "name": "復華彭博新興債",
+    "market": "TWSE",
+    "foreign_ratio": 0.17,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.17,
+    "three_inst_ratio_change_20": -0.009999999999999981
   }
 ]

@@ -1408,18 +1408,18 @@
     "three_inst_ratio_change_20": -0.15000000000000213
   },
   {
-    "date": "2026-04-07",
+    "date": "2026-04-06",
     "code": "2496",
     "name": "卓越",
     "market": "TWSE",
-    "foreign_ratio": 23.02,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.02,
-    "three_inst_ratio_change_20": -0.1700000000000017
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -23.19
   },
   {
-    "date": "2026-04-08",
+    "date": "2026-04-07",
     "code": "2496",
     "name": "卓越",
     "market": "TWSE",
@@ -1430,29 +1430,7 @@
     "three_inst_ratio_change_20": -0.08000000000000185
   },
   {
-    "date": "2026-04-09",
-    "code": "2496",
-    "name": "卓越",
-    "market": "TWSE",
-    "foreign_ratio": 23.03,
-    "trust_ratio": 0.0,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.03,
-    "three_inst_ratio_change_20": -0.03999999999999915
-  },
-  {
-    "date": "2026-04-10",
-    "code": "2496",
-    "name": "卓越",
-    "market": "TWSE",
-    "foreign_ratio": 23.02,
-    "trust_ratio": 0.0,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.02,
-    "three_inst_ratio_change_20": -0.03999999999999915
-  },
-  {
-    "date": "2026-04-13",
+    "date": "2026-04-08",
     "code": "2496",
     "name": "卓越",
     "market": "TWSE",
@@ -1463,6 +1441,39 @@
     "three_inst_ratio_change_20": -0.05000000000000071
   },
   {
+    "date": "2026-04-09",
+    "code": "2496",
+    "name": "卓越",
+    "market": "TWSE",
+    "foreign_ratio": 23.03,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.03,
+    "three_inst_ratio_change_20": -0.029999999999997584
+  },
+  {
+    "date": "2026-04-10",
+    "code": "2496",
+    "name": "卓越",
+    "market": "TWSE",
+    "foreign_ratio": 23.02,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.02,
+    "three_inst_ratio_change_20": -0.05000000000000071
+  },
+  {
+    "date": "2026-04-13",
+    "code": "2496",
+    "name": "卓越",
+    "market": "TWSE",
+    "foreign_ratio": 23.02,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.02,
+    "three_inst_ratio_change_20": -0.05999999999999872
+  },
+  {
     "date": "2026-04-14",
     "code": "2496",
     "name": "卓越",
@@ -1471,7 +1482,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.03,
-    "three_inst_ratio_change_20": -0.04999999999999716
+    "three_inst_ratio_change_20": -0.029999999999997584
   },
   {
     "date": "2026-04-15",
@@ -1493,7 +1504,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.08,
-    "three_inst_ratio_change_20": 0.019999999999999574
+    "three_inst_ratio_change_20": 0.00999999999999801
   },
   {
     "date": "2026-04-17",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.1,
-    "three_inst_ratio_change_20": 0.030000000000001137
+    "three_inst_ratio_change_20": 0.060000000000002274
   },
   {
     "date": "2026-04-21",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.09,
-    "three_inst_ratio_change_20": 0.05000000000000071
+    "three_inst_ratio_change_20": 0.03999999999999915
   },
   {
     "date": "2026-04-22",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.07,
-    "three_inst_ratio_change_20": 0.019999999999999574
+    "three_inst_ratio_change_20": 0.03999999999999915
   },
   {
     "date": "2026-04-23",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.08,
-    "three_inst_ratio_change_20": 0.04999999999999716
+    "three_inst_ratio_change_20": 0.05999999999999872
   },
   {
     "date": "2026-04-24",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.07,
-    "three_inst_ratio_change_20": 0.05000000000000071
+    "three_inst_ratio_change_20": -0.08999999999999986
   },
   {
     "date": "2026-04-28",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.08,
-    "three_inst_ratio_change_20": -0.08000000000000185
+    "three_inst_ratio_change_20": -0.030000000000001137
   },
   {
     "date": "2026-04-29",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.08,
-    "three_inst_ratio_change_20": -0.030000000000001137
+    "three_inst_ratio_change_20": 0.019999999999999574
   },
   {
     "date": "2026-04-30",
@@ -1625,7 +1636,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.07,
-    "three_inst_ratio_change_20": 0.010000000000001563
+    "three_inst_ratio_change_20": 23.07
   },
   {
     "date": "2026-05-06",
@@ -1989,5 +2000,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.23,
     "three_inst_ratio_change_20": 0.10000000000000142
+  },
+  {
+    "date": "2026-06-24",
+    "code": "2496",
+    "name": "卓越",
+    "market": "TWSE",
+    "foreign_ratio": 23.23,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.23,
+    "three_inst_ratio_change_20": 0.08000000000000185
   }
 ]

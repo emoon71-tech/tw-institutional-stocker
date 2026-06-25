@@ -1485,18 +1485,18 @@
     "three_inst_ratio_change_20": -0.029999999999999916
   },
   {
-    "date": "2026-04-08",
+    "date": "2026-04-06",
     "code": "1472",
     "name": "三洋實業",
     "market": "TWSE",
-    "foreign_ratio": 0.81,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.81,
-    "three_inst_ratio_change_20": -0.019999999999999907
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.83
   },
   {
-    "date": "2026-04-09",
+    "date": "2026-04-08",
     "code": "1472",
     "name": "三洋實業",
     "market": "TWSE",
@@ -1507,7 +1507,7 @@
     "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
-    "date": "2026-04-10",
+    "date": "2026-04-09",
     "code": "1472",
     "name": "三洋實業",
     "market": "TWSE",
@@ -1516,6 +1516,17 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.81,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-04-10",
+    "code": "1472",
+    "name": "三洋實業",
+    "market": "TWSE",
+    "foreign_ratio": 0.81,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.81,
+    "three_inst_ratio_change_20": -0.009999999999999898
   },
   {
     "date": "2026-04-13",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.83,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.019999999999999907
   },
   {
     "date": "2026-04-15",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.83,
-    "three_inst_ratio_change_20": 0.019999999999999907
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-04-17",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.84,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-04-20",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.85,
-    "three_inst_ratio_change_20": -0.010000000000000009
+    "three_inst_ratio_change_20": -0.030000000000000027
   },
   {
     "date": "2026-04-21",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.87,
-    "three_inst_ratio_change_20": -0.010000000000000009
+    "three_inst_ratio_change_20": -0.040000000000000036
   },
   {
     "date": "2026-04-22",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.85,
-    "three_inst_ratio_change_20": -0.06000000000000005
+    "three_inst_ratio_change_20": -0.050000000000000044
   },
   {
     "date": "2026-04-23",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.83,
-    "three_inst_ratio_change_20": -0.07000000000000006
+    "three_inst_ratio_change_20": -0.030000000000000027
   },
   {
     "date": "2026-04-24",
@@ -1625,7 +1636,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.82,
-    "three_inst_ratio_change_20": -0.040000000000000036
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-04-27",
@@ -1647,7 +1658,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.82,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-04-29",
@@ -1669,7 +1680,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8,
-    "three_inst_ratio_change_20": -0.019999999999999907
+    "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
     "date": "2026-05-04",
@@ -1680,7 +1691,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8,
-    "three_inst_ratio_change_20": -0.010000000000000009
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-05-05",
@@ -1702,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.82,
-    "three_inst_ratio_change_20": 0.019999999999999907
+    "three_inst_ratio_change_20": 0.82
   },
   {
     "date": "2026-05-07",
@@ -2036,6 +2047,17 @@
   },
   {
     "date": "2026-06-23",
+    "code": "1472",
+    "name": "三洋實業",
+    "market": "TWSE",
+    "foreign_ratio": 0.79,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.79,
+    "three_inst_ratio_change_20": -0.08999999999999997
+  },
+  {
+    "date": "2026-06-24",
     "code": "1472",
     "name": "三洋實業",
     "market": "TWSE",

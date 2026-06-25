@@ -1507,18 +1507,18 @@
     "three_inst_ratio_change_20": -0.2123182461839075
   },
   {
-    "date": "2026-04-07",
+    "date": "2026-04-06",
     "code": "00636",
     "name": "國泰中國A50",
     "market": "TWSE",
-    "foreign_ratio": 0.69,
-    "trust_ratio": 0.12784998934583422,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.8178499893458342,
-    "three_inst_ratio_change_20": 0.006220149491790061
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.8116298398540441
   },
   {
-    "date": "2026-04-08",
+    "date": "2026-04-07",
     "code": "00636",
     "name": "國泰中國A50",
     "market": "TWSE",
@@ -1529,7 +1529,7 @@
     "three_inst_ratio_change_20": 0.04572501478853719
   },
   {
-    "date": "2026-04-09",
+    "date": "2026-04-08",
     "code": "00636",
     "name": "國泰中國A50",
     "market": "TWSE",
@@ -1540,6 +1540,17 @@
     "three_inst_ratio_change_20": -0.08527744755135447
   },
   {
+    "date": "2026-04-09",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.69,
+    "trust_ratio": 0.12784998934583422,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.8178499893458342,
+    "three_inst_ratio_change_20": 0.3242151243138952
+  },
+  {
     "date": "2026-04-10",
     "code": "00636",
     "name": "國泰中國A50",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.1289490651192779,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8189490651192779,
-    "three_inst_ratio_change_20": 0.3253142000873389
+    "three_inst_ratio_change_20": 0.2448025722577012
   },
   {
     "date": "2026-04-13",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.1289490651192779,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8089490651192779,
-    "three_inst_ratio_change_20": 0.23480257225770118
+    "three_inst_ratio_change_20": 0.17428669237878336
   },
   {
     "date": "2026-04-14",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.12950571983595943,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8195057198359594,
-    "three_inst_ratio_change_20": 0.1848433470954649
+    "three_inst_ratio_change_20": 0.1948433470954649
   },
   {
     "date": "2026-04-15",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.13063357282821686,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8206335728282168,
-    "three_inst_ratio_change_20": 0.19597120008772229
+    "three_inst_ratio_change_20": 0.09597120008772231
   },
   {
     "date": "2026-04-16",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.13063357282821686,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8206335728282168,
-    "three_inst_ratio_change_20": 0.09597120008772231
+    "three_inst_ratio_change_20": 0.10597120008772232
   },
   {
     "date": "2026-04-17",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.1312048983162038,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8212048983162037,
-    "three_inst_ratio_change_20": 0.1065425255757092
+    "three_inst_ratio_change_20": 0.01654252557570912
   },
   {
     "date": "2026-04-20",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.1312048983162038,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8212048983162037,
-    "three_inst_ratio_change_20": 0.01654252557570912
+    "three_inst_ratio_change_20": -0.23397765958072947
   },
   {
     "date": "2026-04-21",
@@ -1625,7 +1636,7 @@
     "trust_ratio": 0.1312048983162038,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8212048983162037,
-    "three_inst_ratio_change_20": -0.23397765958072947
+    "three_inst_ratio_change_20": 0.21443540750699186
   },
   {
     "date": "2026-04-22",
@@ -1636,7 +1647,7 @@
     "trust_ratio": 0.1312048983162038,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8212048983162037,
-    "three_inst_ratio_change_20": 0.21443540750699186
+    "three_inst_ratio_change_20": 0.17443540750699182
   },
   {
     "date": "2026-04-23",
@@ -1647,7 +1658,7 @@
     "trust_ratio": 0.1312048983162038,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.3812048983162037,
-    "three_inst_ratio_change_20": 0.7344354075069919
+    "three_inst_ratio_change_20": 0.7544354075069919
   },
   {
     "date": "2026-04-24",
@@ -1658,7 +1669,7 @@
     "trust_ratio": 0.13236267372600927,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.6423626737260093,
-    "three_inst_ratio_change_20": 0.015593182916797454
+    "three_inst_ratio_change_20": 0.005593182916797446
   },
   {
     "date": "2026-04-27",
@@ -1669,7 +1680,7 @@
     "trust_ratio": 0.13236267372600927,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.7523626737260093,
-    "three_inst_ratio_change_20": 0.11559318291679743
+    "three_inst_ratio_change_20": 0.0755931829167974
   },
   {
     "date": "2026-04-28",
@@ -1680,7 +1691,7 @@
     "trust_ratio": 0.1341381623071764,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.7741381623071764,
-    "three_inst_ratio_change_20": 0.09736867149796447
+    "three_inst_ratio_change_20": 0.046830714821498476
   },
   {
     "date": "2026-04-29",
@@ -1702,7 +1713,7 @@
     "trust_ratio": 0.13596193065941536,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.9859619306594154,
-    "three_inst_ratio_change_20": 0.2586544831737375
+    "three_inst_ratio_change_20": 0.14811194131358119
   },
   {
     "date": "2026-05-04",
@@ -1713,7 +1724,7 @@
     "trust_ratio": 0.13596193065941536,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1559619306594153,
-    "three_inst_ratio_change_20": 0.3181119413135811
+    "three_inst_ratio_change_20": 0.33811194131358113
   },
   {
     "date": "2026-05-05",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.13596193065941536,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1559619306594153,
-    "three_inst_ratio_change_20": 0.33811194131358113
+    "three_inst_ratio_change_20": 1.1559619306594153
   },
   {
     "date": "2026-05-06",
@@ -2099,5 +2110,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.7973115639577707,
     "three_inst_ratio_change_20": -0.4524508399555768
+  },
+  {
+    "date": "2026-06-24",
+    "code": "00636",
+    "name": "國泰中國A50",
+    "market": "TWSE",
+    "foreign_ratio": 0.63,
+    "trust_ratio": 0.14731156395777067,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.7773115639577707,
+    "three_inst_ratio_change_20": -0.6237653229455916
   }
 ]

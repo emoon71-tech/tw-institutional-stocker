@@ -1507,6 +1507,17 @@
     "three_inst_ratio_change_20": -0.09999999999999987
   },
   {
+    "date": "2026-04-06",
+    "code": "9930",
+    "name": "中聯資源",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.0367812069868667
+  },
+  {
     "date": "2026-04-07",
     "code": "9930",
     "name": "中聯資源",
@@ -1515,7 +1526,7 @@
     "trust_ratio": -0.0032187930131333834,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9467812069868666,
-    "three_inst_ratio_change_20": -0.09000000000000008
+    "three_inst_ratio_change_20": -0.07000000000000006
   },
   {
     "date": "2026-04-08",
@@ -1526,7 +1537,7 @@
     "trust_ratio": -0.0032187930131333834,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9567812069868666,
-    "three_inst_ratio_change_20": -0.06000000000000005
+    "three_inst_ratio_change_20": -0.04999999999999982
   },
   {
     "date": "2026-04-09",
@@ -1537,7 +1548,7 @@
     "trust_ratio": -0.0036211421397750565,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9563788578602248,
-    "three_inst_ratio_change_20": -0.050402349126641655
+    "three_inst_ratio_change_20": -0.04040234912664187
   },
   {
     "date": "2026-04-10",
@@ -1548,7 +1559,7 @@
     "trust_ratio": -0.0036211421397750565,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9663788578602248,
-    "three_inst_ratio_change_20": -0.03040234912664186
+    "three_inst_ratio_change_20": -0.010402349126641841
   },
   {
     "date": "2026-04-13",
@@ -1559,7 +1570,7 @@
     "trust_ratio": -0.005230538646341748,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9647694613536582,
-    "three_inst_ratio_change_20": -0.012011745633208504
+    "three_inst_ratio_change_20": -0.002011745633208495
   },
   {
     "date": "2026-04-14",
@@ -1570,7 +1581,7 @@
     "trust_ratio": -0.005230538646341748,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9547694613536581,
-    "three_inst_ratio_change_20": -0.012011745633208504
+    "three_inst_ratio_change_20": -0.002011745633208495
   },
   {
     "date": "2026-04-15",
@@ -1603,7 +1614,7 @@
     "trust_ratio": -0.005230538646341748,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9847694613536582,
-    "three_inst_ratio_change_20": 0.027988254366791532
+    "three_inst_ratio_change_20": 0.03798825436679154
   },
   {
     "date": "2026-04-20",
@@ -1724,7 +1735,7 @@
     "trust_ratio": -0.006437586026266767,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.0135624139737334,
-    "three_inst_ratio_change_20": 0.06678120698686674
+    "three_inst_ratio_change_20": 2.0135624139737334
   },
   {
     "date": "2026-05-06",
@@ -2099,5 +2110,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9123553665938082,
     "three_inst_ratio_change_20": 0.009597650873358399
+  },
+  {
+    "date": "2026-06-24",
+    "code": "9930",
+    "name": "中聯資源",
+    "market": "TWSE",
+    "foreign_ratio": 1.93,
+    "trust_ratio": -0.0076446334061917864,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9223553665938082,
+    "three_inst_ratio_change_20": 0.019597650873358408
   }
 ]

@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": 0.010000000000001563
   },
   {
+    "date": "2026-04-06",
+    "code": "1737",
+    "name": "臺鹽",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -8.37
+  },
+  {
     "date": "2026-04-07",
     "code": "1737",
     "name": "臺鹽",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.41,
-    "three_inst_ratio_change_20": 0.040000000000000924
+    "three_inst_ratio_change_20": 0.0600000000000005
   },
   {
     "date": "2026-04-08",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.44,
-    "three_inst_ratio_change_20": 0.08999999999999986
+    "three_inst_ratio_change_20": 0.08000000000000007
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.45,
-    "three_inst_ratio_change_20": 0.08999999999999986
+    "three_inst_ratio_change_20": 0.10999999999999943
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.46,
-    "three_inst_ratio_change_20": 0.120000000000001
+    "three_inst_ratio_change_20": 0.13000000000000078
   },
   {
     "date": "2026-04-15",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.49,
-    "three_inst_ratio_change_20": 0.16000000000000014
+    "three_inst_ratio_change_20": 0.15000000000000036
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.51,
-    "three_inst_ratio_change_20": 0.16999999999999993
+    "three_inst_ratio_change_20": 0.17999999999999972
   },
   {
     "date": "2026-04-20",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.52,
-    "three_inst_ratio_change_20": 0.1899999999999995
+    "three_inst_ratio_change_20": 0.1999999999999993
   },
   {
     "date": "2026-04-22",
@@ -1636,7 +1647,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.51,
-    "three_inst_ratio_change_20": 0.1899999999999995
+    "three_inst_ratio_change_20": 0.17999999999999972
   },
   {
     "date": "2026-04-24",
@@ -1680,7 +1691,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.5,
-    "three_inst_ratio_change_20": 0.16999999999999993
+    "three_inst_ratio_change_20": 0.17999999999999972
   },
   {
     "date": "2026-04-30",
@@ -1691,7 +1702,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.5,
-    "three_inst_ratio_change_20": 0.17999999999999972
+    "three_inst_ratio_change_20": 0.14000000000000057
   },
   {
     "date": "2026-05-04",
@@ -1702,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.5,
-    "three_inst_ratio_change_20": 0.14000000000000057
+    "three_inst_ratio_change_20": 0.11999999999999922
   },
   {
     "date": "2026-05-05",
@@ -1713,7 +1724,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.5,
-    "three_inst_ratio_change_20": 0.11999999999999922
+    "three_inst_ratio_change_20": 8.5
   },
   {
     "date": "2026-05-06",
@@ -2087,6 +2098,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.68,
+    "three_inst_ratio_change_20": 0.21999999999999886
+  },
+  {
+    "date": "2026-06-24",
+    "code": "1737",
+    "name": "臺鹽",
+    "market": "TWSE",
+    "foreign_ratio": 8.7,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.7,
     "three_inst_ratio_change_20": 0.21999999999999886
   }
 ]
