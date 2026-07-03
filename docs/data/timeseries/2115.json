@@ -1683,6 +1683,17 @@
     "three_inst_ratio_change_20": 0.10000000000000142
   },
   {
+    "date": "2026-05-01",
+    "code": "2115",
+    "name": "六暉-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -44.08
+  },
+  {
     "date": "2026-05-04",
     "code": "2115",
     "name": "六暉-KY",
@@ -1691,7 +1702,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 44.17,
-    "three_inst_ratio_change_20": 0.09000000000000341
+    "three_inst_ratio_change_20": 44.17
   },
   {
     "date": "2026-05-05",
@@ -1702,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 44.16,
-    "three_inst_ratio_change_20": 44.16
+    "three_inst_ratio_change_20": 0.0799999999999983
   },
   {
     "date": "2026-05-06",
@@ -1713,7 +1724,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 44.17,
-    "three_inst_ratio_change_20": 0.09000000000000341
+    "three_inst_ratio_change_20": 0.07000000000000028
   },
   {
     "date": "2026-05-07",
@@ -1757,7 +1768,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 44.14,
-    "three_inst_ratio_change_20": 0.03999999999999915
+    "three_inst_ratio_change_20": 0.030000000000001137
   },
   {
     "date": "2026-05-13",
@@ -1768,7 +1779,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 44.13,
-    "three_inst_ratio_change_20": 0.020000000000003126
+    "three_inst_ratio_change_20": 0.010000000000005116
   },
   {
     "date": "2026-05-14",
@@ -1779,7 +1790,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 44.07,
-    "three_inst_ratio_change_20": -0.04999999999999716
+    "three_inst_ratio_change_20": -0.10999999999999943
   },
   {
     "date": "2026-05-15",
@@ -1801,7 +1812,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 44.02,
-    "three_inst_ratio_change_20": -0.1599999999999966
+    "three_inst_ratio_change_20": -0.1699999999999946
   },
   {
     "date": "2026-05-19",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 44.04,
-    "three_inst_ratio_change_20": -0.14999999999999858
+    "three_inst_ratio_change_20": -0.18999999999999773
   },
   {
     "date": "2026-05-20",
@@ -1823,7 +1834,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 44.04,
-    "three_inst_ratio_change_20": -0.18999999999999773
+    "three_inst_ratio_change_20": -0.1600000000000037
   },
   {
     "date": "2026-05-21",
@@ -1834,7 +1845,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 44.05,
-    "three_inst_ratio_change_20": -0.15000000000000568
+    "three_inst_ratio_change_20": -0.12000000000000455
   },
   {
     "date": "2026-05-22",
@@ -1856,7 +1867,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 44.05,
-    "three_inst_ratio_change_20": -0.12000000000000455
+    "three_inst_ratio_change_20": -0.10000000000000142
   },
   {
     "date": "2026-05-26",
@@ -1867,7 +1878,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 44.06,
-    "three_inst_ratio_change_20": -0.0899999999999963
+    "three_inst_ratio_change_20": -0.09999999999999432
   },
   {
     "date": "2026-05-27",
@@ -1889,7 +1900,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 44.17,
-    "three_inst_ratio_change_20": 0.010000000000005116
+    "three_inst_ratio_change_20": 0.020000000000003126
   },
   {
     "date": "2026-05-29",
@@ -1900,7 +1911,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 44.14,
-    "three_inst_ratio_change_20": -0.00999999999999801
+    "three_inst_ratio_change_20": 44.14
   },
   {
     "date": "2026-06-01",
@@ -2143,5 +2154,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 44.12,
     "three_inst_ratio_change_20": -0.060000000000002274
+  },
+  {
+    "date": "2026-07-02",
+    "code": "2115",
+    "name": "六暉-KY",
+    "market": "TWSE",
+    "foreign_ratio": 44.13,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 44.13,
+    "three_inst_ratio_change_20": -0.07000000000000028
   }
 ]

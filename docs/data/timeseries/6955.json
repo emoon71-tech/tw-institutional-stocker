@@ -1243,6 +1243,17 @@
     "three_inst_ratio_change_20": 0.08999999999999986
   },
   {
+    "date": "2026-05-01",
+    "code": "6955",
+    "name": "邦睿生技-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -17.61
+  },
+  {
     "date": "2026-05-04",
     "code": "6955",
     "name": "邦睿生技-創",
@@ -1273,7 +1284,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.73,
-    "three_inst_ratio_change_20": 0.120000000000001
+    "three_inst_ratio_change_20": 0.129999999999999
   },
   {
     "date": "2026-05-07",
@@ -1284,7 +1295,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.72,
-    "three_inst_ratio_change_20": 0.11999999999999744
+    "three_inst_ratio_change_20": 0.10999999999999943
   },
   {
     "date": "2026-05-08",
@@ -1328,7 +1339,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.74,
-    "three_inst_ratio_change_20": 0.129999999999999
+    "three_inst_ratio_change_20": 0.11999999999999744
   },
   {
     "date": "2026-05-14",
@@ -1339,7 +1350,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.73,
-    "three_inst_ratio_change_20": 0.10999999999999943
+    "three_inst_ratio_change_20": 0.08000000000000185
   },
   {
     "date": "2026-05-15",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.71,
-    "three_inst_ratio_change_20": 0.060000000000002274
+    "three_inst_ratio_change_20": 0.03999999999999915
   },
   {
     "date": "2026-05-21",
@@ -1372,7 +1383,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.7,
-    "three_inst_ratio_change_20": 0.029999999999997584
+    "three_inst_ratio_change_20": 0.019999999999999574
   },
   {
     "date": "2026-05-25",
@@ -1383,7 +1394,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.7,
-    "three_inst_ratio_change_20": 0.019999999999999574
+    "three_inst_ratio_change_20": 0.00999999999999801
   },
   {
     "date": "2026-05-26",
@@ -1427,7 +1438,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.73,
-    "three_inst_ratio_change_20": 0.03999999999999915
+    "three_inst_ratio_change_20": 0.030000000000001137
   },
   {
     "date": "2026-06-01",
@@ -1438,7 +1449,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.73,
-    "three_inst_ratio_change_20": 0.030000000000001137
+    "three_inst_ratio_change_20": 0.019999999999999574
   },
   {
     "date": "2026-06-02",
@@ -1449,7 +1460,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.74,
-    "three_inst_ratio_change_20": 0.029999999999997584
+    "three_inst_ratio_change_20": 0.03999999999999915
   },
   {
     "date": "2026-06-03",
@@ -1460,7 +1471,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.75,
-    "three_inst_ratio_change_20": 0.05000000000000071
+    "three_inst_ratio_change_20": 17.75
   },
   {
     "date": "2026-06-08",
@@ -1637,5 +1648,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.81,
     "three_inst_ratio_change_20": 0.09999999999999787
+  },
+  {
+    "date": "2026-07-02",
+    "code": "6955",
+    "name": "邦睿生技-創",
+    "market": "TWSE",
+    "foreign_ratio": 17.81,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.81,
+    "three_inst_ratio_change_20": 0.0799999999999983
   }
 ]

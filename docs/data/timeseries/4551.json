@@ -1716,6 +1716,17 @@
     "three_inst_ratio_change_20": 0.8731727732547512
   },
   {
+    "date": "2026-05-01",
+    "code": "4551",
+    "name": "智伸科",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -51.01859142578214
+  },
+  {
     "date": "2026-05-04",
     "code": "4551",
     "name": "智伸科",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.2464796415019574,
     "dealer_ratio": -0.03471544246506442,
     "three_inst_ratio": 51.911764199036895,
-    "three_inst_ratio_change_20": 0.8931727732547543
+    "three_inst_ratio_change_20": 51.911764199036895
   },
   {
     "date": "2026-05-05",
@@ -1735,7 +1746,7 @@
     "trust_ratio": 0.2464796415019574,
     "dealer_ratio": -0.03471544246506442,
     "three_inst_ratio": 52.08176419903689,
-    "three_inst_ratio_change_20": 52.08176419903689
+    "three_inst_ratio_change_20": 1.0678882157198117
   },
   {
     "date": "2026-05-06",
@@ -1746,7 +1757,7 @@
     "trust_ratio": 0.2464796415019574,
     "dealer_ratio": -0.03471544246506442,
     "three_inst_ratio": 51.701764199036894,
-    "three_inst_ratio_change_20": 0.6878882157198163
+    "three_inst_ratio_change_20": 0.837888215719822
   },
   {
     "date": "2026-05-07",
@@ -1768,7 +1779,7 @@
     "trust_ratio": 0.2464796415019574,
     "dealer_ratio": -0.03471544246506442,
     "three_inst_ratio": 51.731764199036895,
-    "three_inst_ratio_change_20": 0.8678882157198231
+    "three_inst_ratio_change_20": 0.7678882157198217
   },
   {
     "date": "2026-05-11",
@@ -1779,7 +1790,7 @@
     "trust_ratio": 0.2464796415019574,
     "dealer_ratio": -0.03471544246506442,
     "three_inst_ratio": 51.951764199036894,
-    "three_inst_ratio_change_20": 0.9878882157198206
+    "three_inst_ratio_change_20": 0.9387561017814363
   },
   {
     "date": "2026-05-12",
@@ -1790,7 +1801,7 @@
     "trust_ratio": 0.2464796415019574,
     "dealer_ratio": -0.03471544246506442,
     "three_inst_ratio": 52.40176419903689,
-    "three_inst_ratio_change_20": 1.388756101781432
+    "three_inst_ratio_change_20": 1.368756101781436
   },
   {
     "date": "2026-05-13",
@@ -1801,7 +1812,7 @@
     "trust_ratio": 0.2464796415019574,
     "dealer_ratio": -0.03471544246506442,
     "three_inst_ratio": 52.28176419903689,
-    "three_inst_ratio_change_20": 1.2487561017814386
+    "three_inst_ratio_change_20": 1.2887561017814448
   },
   {
     "date": "2026-05-14",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.2464796415019574,
     "dealer_ratio": -0.03471544246506442,
     "three_inst_ratio": 52.29176419903689,
-    "three_inst_ratio_change_20": 1.2987561017814429
+    "three_inst_ratio_change_20": 1.2087561017814394
   },
   {
     "date": "2026-05-15",
@@ -1823,7 +1834,7 @@
     "trust_ratio": 0.2464796415019574,
     "dealer_ratio": -0.03471544246506442,
     "three_inst_ratio": 52.46176419903689,
-    "three_inst_ratio_change_20": 1.3787561017814411
+    "three_inst_ratio_change_20": 1.4096239878430623
   },
   {
     "date": "2026-05-18",
@@ -1834,7 +1845,7 @@
     "trust_ratio": 0.2464796415019574,
     "dealer_ratio": -0.03471544246506442,
     "three_inst_ratio": 52.49176419903689,
-    "three_inst_ratio_change_20": 1.4396239878430634
+    "three_inst_ratio_change_20": 1.3599999999999994
   },
   {
     "date": "2026-05-19",
@@ -1845,7 +1856,7 @@
     "trust_ratio": 0.2464796415019574,
     "dealer_ratio": -0.03471544246506442,
     "three_inst_ratio": 52.62176419903689,
-    "three_inst_ratio_change_20": 1.4899999999999949
+    "three_inst_ratio_change_20": 1.3599999999999994
   },
   {
     "date": "2026-05-20",
@@ -1856,7 +1867,7 @@
     "trust_ratio": 0.4460934356760778,
     "dealer_ratio": -0.03471544246506442,
     "three_inst_ratio": 52.651377993211014,
-    "three_inst_ratio_change_20": 1.3896137941741245
+    "three_inst_ratio_change_20": 1.3296137941741222
   },
   {
     "date": "2026-05-21",
@@ -1867,7 +1878,7 @@
     "trust_ratio": 0.6457072298501982,
     "dealer_ratio": -0.03471544246506442,
     "three_inst_ratio": 53.11099178738513,
-    "three_inst_ratio_change_20": 1.7892275883482398
+    "three_inst_ratio_change_20": 1.7092275883482415
   },
   {
     "date": "2026-05-22",
@@ -1878,7 +1889,7 @@
     "trust_ratio": 0.6457072298501982,
     "dealer_ratio": -0.03471544246506442,
     "three_inst_ratio": 52.880991787385135,
-    "three_inst_ratio_change_20": 1.4792275883482446
+    "three_inst_ratio_change_20": 1.4892275883482426
   },
   {
     "date": "2026-05-25",
@@ -1889,7 +1900,7 @@
     "trust_ratio": 0.8192844421755203,
     "dealer_ratio": -0.03471544246506442,
     "three_inst_ratio": 52.96456899971046,
-    "three_inst_ratio_change_20": 1.5728048006735662
+    "three_inst_ratio_change_20": 1.512804800673564
   },
   {
     "date": "2026-05-26",
@@ -1900,7 +1911,7 @@
     "trust_ratio": 0.8192844421755203,
     "dealer_ratio": -0.03471544246506442,
     "three_inst_ratio": 52.88456899971046,
-    "three_inst_ratio_change_20": 1.4328048006735656
+    "three_inst_ratio_change_20": 1.262804800673571
   },
   {
     "date": "2026-05-27",
@@ -1911,7 +1922,7 @@
     "trust_ratio": 0.8192844421755203,
     "dealer_ratio": -0.03471544246506442,
     "three_inst_ratio": 53.084568999710456,
-    "three_inst_ratio_change_20": 1.4628048006735668
+    "three_inst_ratio_change_20": 1.4028048006735645
   },
   {
     "date": "2026-05-28",
@@ -1922,7 +1933,7 @@
     "trust_ratio": 0.6474430019734514,
     "dealer_ratio": -0.03471544246506442,
     "three_inst_ratio": 52.972727559508385,
-    "three_inst_ratio_change_20": 1.290963360471494
+    "three_inst_ratio_change_20": 1.1109633604714944
   },
   {
     "date": "2026-05-29",
@@ -1933,7 +1944,7 @@
     "trust_ratio": 0.6474430019734514,
     "dealer_ratio": -0.03471544246506442,
     "three_inst_ratio": 53.03272755950839,
-    "three_inst_ratio_change_20": 1.1709633604714966
+    "three_inst_ratio_change_20": 53.03272755950839
   },
   {
     "date": "2026-06-01",
@@ -2176,5 +2187,16 @@
     "dealer_ratio": -0.03471544246506442,
     "three_inst_ratio": 55.29341899860564,
     "three_inst_ratio_change_20": 2.058492219982945
+  },
+  {
+    "date": "2026-07-02",
+    "code": "4551",
+    "name": "智伸科",
+    "market": "TWSE",
+    "foreign_ratio": 57.43,
+    "trust_ratio": -2.1818655589292986,
+    "dealer_ratio": -0.03471544246506442,
+    "three_inst_ratio": 55.21341899860564,
+    "three_inst_ratio_change_20": 2.0582218759048274
   }
 ]

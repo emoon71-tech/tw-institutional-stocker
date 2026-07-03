@@ -1716,18 +1716,18 @@
     "three_inst_ratio_change_20": -0.009999999999999787
   },
   {
-    "date": "2026-05-04",
+    "date": "2026-05-01",
     "code": "2514",
     "name": "龍邦",
     "market": "TWSE",
-    "foreign_ratio": 2.27,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.27,
-    "three_inst_ratio_change_20": -0.009999999999999787
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.28
   },
   {
-    "date": "2026-05-05",
+    "date": "2026-05-04",
     "code": "2514",
     "name": "龍邦",
     "market": "TWSE",
@@ -1738,6 +1738,17 @@
     "three_inst_ratio_change_20": 2.27
   },
   {
+    "date": "2026-05-05",
+    "code": "2514",
+    "name": "龍邦",
+    "market": "TWSE",
+    "foreign_ratio": 2.27,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.27,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
     "date": "2026-05-06",
     "code": "2514",
     "name": "龍邦",
@@ -1746,7 +1757,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.28,
-    "three_inst_ratio_change_20": 0.009999999999999787
+    "three_inst_ratio_change_20": -0.010000000000000231
   },
   {
     "date": "2026-05-07",
@@ -1768,7 +1779,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.29,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.010000000000000231
   },
   {
     "date": "2026-05-11",
@@ -1779,7 +1790,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.29,
-    "three_inst_ratio_change_20": 0.010000000000000231
+    "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
     "date": "2026-05-12",
@@ -1790,7 +1801,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.27,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-05-13",
@@ -1801,7 +1812,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.26,
-    "three_inst_ratio_change_20": -0.03000000000000025
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-05-14",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.23,
-    "three_inst_ratio_change_20": -0.04999999999999982
+    "three_inst_ratio_change_20": -0.06000000000000005
   },
   {
     "date": "2026-05-15",
@@ -1834,7 +1845,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.21,
-    "three_inst_ratio_change_20": -0.08000000000000007
+    "three_inst_ratio_change_20": -0.08999999999999986
   },
   {
     "date": "2026-05-19",
@@ -1867,7 +1878,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.19,
-    "three_inst_ratio_change_20": -0.10999999999999988
+    "three_inst_ratio_change_20": -0.10000000000000009
   },
   {
     "date": "2026-05-22",
@@ -1900,7 +1911,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.16,
-    "three_inst_ratio_change_20": -0.1299999999999999
+    "three_inst_ratio_change_20": -0.10999999999999988
   },
   {
     "date": "2026-05-27",
@@ -1911,7 +1922,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.22,
-    "three_inst_ratio_change_20": -0.04999999999999982
+    "three_inst_ratio_change_20": -0.05999999999999961
   },
   {
     "date": "2026-05-28",
@@ -1922,7 +1933,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.22,
-    "three_inst_ratio_change_20": -0.05999999999999961
+    "three_inst_ratio_change_20": -0.04999999999999982
   },
   {
     "date": "2026-05-29",
@@ -1933,7 +1944,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.23,
-    "three_inst_ratio_change_20": -0.040000000000000036
+    "three_inst_ratio_change_20": 2.23
   },
   {
     "date": "2026-06-01",
@@ -2176,5 +2187,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.23,
     "three_inst_ratio_change_20": -0.040000000000000036
+  },
+  {
+    "date": "2026-07-02",
+    "code": "2514",
+    "name": "龍邦",
+    "market": "TWSE",
+    "foreign_ratio": 2.22,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.22,
+    "three_inst_ratio_change_20": -0.04999999999999982
   }
 ]

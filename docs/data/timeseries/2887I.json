@@ -1672,18 +1672,18 @@
     "three_inst_ratio_change_20": 0.11000000000000032
   },
   {
-    "date": "2026-05-04",
+    "date": "2026-05-01",
     "code": "2887I",
     "name": "台新新光辛特",
     "market": "TWSE",
-    "foreign_ratio": 5.46,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.46,
-    "three_inst_ratio_change_20": 0.03000000000000025
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.43
   },
   {
-    "date": "2026-05-05",
+    "date": "2026-05-04",
     "code": "2887I",
     "name": "台新新光辛特",
     "market": "TWSE",
@@ -1694,18 +1694,18 @@
     "three_inst_ratio_change_20": -0.05999999999999961
   },
   {
-    "date": "2026-05-06",
+    "date": "2026-05-05",
     "code": "2887I",
     "name": "台新新光辛特",
     "market": "TWSE",
-    "foreign_ratio": 5.43,
+    "foreign_ratio": 5.46,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.43,
-    "three_inst_ratio_change_20": -0.11000000000000032
+    "three_inst_ratio": 5.46,
+    "three_inst_ratio_change_20": -0.08000000000000007
   },
   {
-    "date": "2026-05-07",
+    "date": "2026-05-06",
     "code": "2887I",
     "name": "台新新光辛特",
     "market": "TWSE",
@@ -1716,7 +1716,7 @@
     "three_inst_ratio_change_20": -0.08999999999999986
   },
   {
-    "date": "2026-05-08",
+    "date": "2026-05-07",
     "code": "2887I",
     "name": "台新新光辛特",
     "market": "TWSE",
@@ -1727,6 +1727,17 @@
     "three_inst_ratio_change_20": -0.11000000000000032
   },
   {
+    "date": "2026-05-08",
+    "code": "2887I",
+    "name": "台新新光辛特",
+    "market": "TWSE",
+    "foreign_ratio": 5.43,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.43,
+    "three_inst_ratio_change_20": -0.1299999999999999
+  },
+  {
     "date": "2026-05-11",
     "code": "2887I",
     "name": "台新新光辛特",
@@ -1735,7 +1746,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.42,
-    "three_inst_ratio_change_20": -0.13999999999999968
+    "three_inst_ratio_change_20": -0.16000000000000014
   },
   {
     "date": "2026-05-12",
@@ -1746,7 +1757,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.38,
-    "three_inst_ratio_change_20": -0.20000000000000018
+    "three_inst_ratio_change_20": -0.17999999999999972
   },
   {
     "date": "2026-05-13",
@@ -1768,7 +1779,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.36,
-    "three_inst_ratio_change_20": -0.1999999999999993
+    "three_inst_ratio_change_20": -0.20999999999999996
   },
   {
     "date": "2026-05-15",
@@ -1790,7 +1801,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.35,
-    "three_inst_ratio_change_20": -0.22000000000000064
+    "three_inst_ratio_change_20": -0.25
   },
   {
     "date": "2026-05-19",
@@ -1801,7 +1812,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.38,
-    "three_inst_ratio_change_20": -0.21999999999999975
+    "three_inst_ratio_change_20": -0.20000000000000018
   },
   {
     "date": "2026-05-20",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.38,
-    "three_inst_ratio_change_20": -0.20000000000000018
+    "three_inst_ratio_change_20": -0.16999999999999993
   },
   {
     "date": "2026-05-21",
@@ -1823,7 +1834,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.41,
-    "three_inst_ratio_change_20": -0.13999999999999968
+    "three_inst_ratio_change_20": -0.1200000000000001
   },
   {
     "date": "2026-05-22",
@@ -1834,7 +1845,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.43,
-    "three_inst_ratio_change_20": -0.10000000000000053
+    "three_inst_ratio_change_20": -0.0600000000000005
   },
   {
     "date": "2026-05-25",
@@ -1845,7 +1856,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.43,
-    "three_inst_ratio_change_20": -0.0600000000000005
+    "three_inst_ratio_change_20": -0.05000000000000071
   },
   {
     "date": "2026-05-26",
@@ -1856,7 +1867,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.5,
-    "three_inst_ratio_change_20": 0.019999999999999574
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-05-27",
@@ -1867,7 +1878,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.53,
-    "three_inst_ratio_change_20": 0.03000000000000025
+    "three_inst_ratio_change_20": 0.020000000000000462
   },
   {
     "date": "2026-05-28",
@@ -1878,7 +1889,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.53,
-    "three_inst_ratio_change_20": 0.020000000000000462
+    "three_inst_ratio_change_20": -0.009999999999999787
   },
   {
     "date": "2026-05-29",
@@ -1889,7 +1900,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.49,
-    "three_inst_ratio_change_20": -0.04999999999999982
+    "three_inst_ratio_change_20": 5.49
   },
   {
     "date": "2026-06-01",
@@ -2132,5 +2143,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.95,
     "three_inst_ratio_change_20": 0.5
+  },
+  {
+    "date": "2026-07-02",
+    "code": "2887I",
+    "name": "台新新光辛特",
+    "market": "TWSE",
+    "foreign_ratio": 5.96,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.96,
+    "three_inst_ratio_change_20": 0.4900000000000002
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-05-01",
+    "code": "4178",
+    "name": "永笙-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
     "date": "2026-05-04",
     "code": "4178",
     "name": "永笙-KY",
@@ -217,7 +228,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.29,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 5.29
   },
   {
     "date": "2026-06-01",
@@ -460,5 +471,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.36,
     "three_inst_ratio_change_20": -0.019999999999999574
+  },
+  {
+    "date": "2026-07-02",
+    "code": "4178",
+    "name": "永笙-KY",
+    "market": "TWSE",
+    "foreign_ratio": 5.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.35,
+    "three_inst_ratio_change_20": 0.019999999999999574
   }
 ]

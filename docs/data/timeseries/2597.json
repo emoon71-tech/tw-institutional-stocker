@@ -1716,29 +1716,18 @@
     "three_inst_ratio_change_20": -0.4926986701682563
   },
   {
+    "date": "2026-05-01",
+    "code": "2597",
+    "name": "潤弘",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.2047303647060335
+  },
+  {
     "date": "2026-05-04",
-    "code": "2597",
-    "name": "潤弘",
-    "market": "TWSE",
-    "foreign_ratio": 2.55,
-    "trust_ratio": 0.1229972064521943,
-    "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 2.6726753691473886,
-    "three_inst_ratio_change_20": -0.5320549955586449
-  },
-  {
-    "date": "2026-05-05",
-    "code": "2597",
-    "name": "潤弘",
-    "market": "TWSE",
-    "foreign_ratio": 2.51,
-    "trust_ratio": 0.12267536914738861,
-    "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 2.632353531842583,
-    "three_inst_ratio_change_20": 2.632353531842583
-  },
-  {
-    "date": "2026-05-06",
     "code": "2597",
     "name": "潤弘",
     "market": "TWSE",
@@ -1746,7 +1735,29 @@
     "trust_ratio": 0.12267536914738861,
     "dealer_ratio": -0.0003218373048056746,
     "three_inst_ratio": 2.672353531842583,
-    "three_inst_ratio_change_20": -0.5220549955586451
+    "three_inst_ratio_change_20": 2.672353531842583
+  },
+  {
+    "date": "2026-05-05",
+    "code": "2597",
+    "name": "潤弘",
+    "market": "TWSE",
+    "foreign_ratio": 2.51,
+    "trust_ratio": 0.12235353184258294,
+    "dealer_ratio": -0.0003218373048056746,
+    "three_inst_ratio": 2.632031694537777,
+    "three_inst_ratio_change_20": -0.5623768328634511
+  },
+  {
+    "date": "2026-05-06",
+    "code": "2597",
+    "name": "潤弘",
+    "market": "TWSE",
+    "foreign_ratio": 2.55,
+    "trust_ratio": 0.12235353184258294,
+    "dealer_ratio": -0.0003218373048056746,
+    "three_inst_ratio": 2.672031694537777,
+    "three_inst_ratio_change_20": -0.5423768328634511
   },
   {
     "date": "2026-05-07",
@@ -1754,10 +1765,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 2.61,
-    "trust_ratio": 0.12267536914738861,
+    "trust_ratio": 0.12235353184258294,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 2.732353531842583,
-    "three_inst_ratio_change_20": -0.48205499555864506
+    "three_inst_ratio": 2.732031694537777,
+    "three_inst_ratio_change_20": -0.4820549955586455
   },
   {
     "date": "2026-05-08",
@@ -1765,10 +1776,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 2.64,
-    "trust_ratio": 0.12267536914738861,
+    "trust_ratio": 0.12235353184258294,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 2.7623535318425834,
-    "three_inst_ratio_change_20": -0.4517331582538393
+    "three_inst_ratio": 2.7620316945377774,
+    "three_inst_ratio_change_20": -0.4817331582538391
   },
   {
     "date": "2026-05-11",
@@ -1776,10 +1787,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 2.78,
-    "trust_ratio": 0.12267536914738861,
+    "trust_ratio": 0.12235353184258294,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 2.902353531842583,
-    "three_inst_ratio_change_20": -0.3414113209490335
+    "three_inst_ratio": 2.902031694537777,
+    "three_inst_ratio_change_20": -0.2914113209490341
   },
   {
     "date": "2026-05-12",
@@ -1787,10 +1798,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 2.83,
-    "trust_ratio": 0.12267536914738861,
+    "trust_ratio": 0.12235353184258294,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 2.9523535318425833,
-    "three_inst_ratio_change_20": -0.2410894836442279
+    "three_inst_ratio": 2.9520316945377774,
+    "three_inst_ratio_change_20": -0.21076764633942213
   },
   {
     "date": "2026-05-13",
@@ -1798,10 +1809,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 2.86,
-    "trust_ratio": 0.12267536914738861,
+    "trust_ratio": 0.12235353184258294,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 2.982353531842583,
-    "three_inst_ratio_change_20": -0.18044580903461638
+    "three_inst_ratio": 2.982031694537777,
+    "three_inst_ratio_change_20": -0.11012397172981103
   },
   {
     "date": "2026-05-14",
@@ -1809,10 +1820,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 2.86,
-    "trust_ratio": 0.12138801992816592,
+    "trust_ratio": 0.12106618262336025,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 2.98106618262336,
-    "three_inst_ratio_change_20": -0.111089483644228
+    "three_inst_ratio": 2.9807443453185547,
+    "three_inst_ratio_change_20": -0.07141132094903346
   },
   {
     "date": "2026-05-15",
@@ -1820,10 +1831,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 2.93,
-    "trust_ratio": 0.12138801992816592,
+    "trust_ratio": 0.12106618262336025,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 3.0510661826233605,
-    "three_inst_ratio_change_20": -0.0010894836442276734
+    "three_inst_ratio": 3.050744345318555,
+    "three_inst_ratio_change_20": -0.008836622510588032
   },
   {
     "date": "2026-05-18",
@@ -1831,10 +1842,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 2.97,
-    "trust_ratio": 0.12106618262336025,
+    "trust_ratio": 0.12074434531855456,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 3.090744345318555,
-    "three_inst_ratio_change_20": 0.031163377489412003
+    "three_inst_ratio": 3.090422508013749,
+    "three_inst_ratio_change_20": 0.11079545308255767
   },
   {
     "date": "2026-05-19",
@@ -1842,10 +1853,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 3.02,
-    "trust_ratio": 0.12106618262336025,
+    "trust_ratio": 0.12074434531855456,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 3.140744345318555,
-    "three_inst_ratio_change_20": 0.16111729038736344
+    "three_inst_ratio": 3.140422508013749,
+    "three_inst_ratio_change_20": 0.26392165192651795
   },
   {
     "date": "2026-05-20",
@@ -1853,10 +1864,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 3.05,
-    "trust_ratio": 0.12106618262336025,
+    "trust_ratio": 0.12074434531855456,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 3.1707443453185546,
-    "three_inst_ratio_change_20": 0.2942434892313237
+    "three_inst_ratio": 3.1704225080137487,
+    "three_inst_ratio_change_20": 0.36340194904671774
   },
   {
     "date": "2026-05-21",
@@ -1864,10 +1875,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 3.06,
-    "trust_ratio": 0.12106618262336025,
+    "trust_ratio": 0.12074434531855456,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 3.180744345318555,
-    "three_inst_ratio_change_20": 0.3737237863515239
+    "three_inst_ratio": 3.180422508013749,
+    "three_inst_ratio_change_20": 0.3637237863515237
   },
   {
     "date": "2026-05-22",
@@ -1875,10 +1886,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 3.05,
-    "trust_ratio": 0.12106618262336025,
+    "trust_ratio": 0.12074434531855456,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 3.1707443453185546,
-    "three_inst_ratio_change_20": 0.3540456236563294
+    "three_inst_ratio": 3.1704225080137487,
+    "three_inst_ratio_change_20": 0.38340194904671776
   },
   {
     "date": "2026-05-25",
@@ -1886,10 +1897,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 3.04,
-    "trust_ratio": 0.12106618262336025,
+    "trust_ratio": 0.12074434531855456,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 3.160744345318555,
-    "three_inst_ratio_change_20": 0.3737237863515239
+    "three_inst_ratio": 3.160422508013749,
+    "three_inst_ratio_change_20": 0.4237237863515233
   },
   {
     "date": "2026-05-26",
@@ -1897,10 +1908,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 2.97,
-    "trust_ratio": 0.12106618262336025,
+    "trust_ratio": 0.12074434531855456,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 3.090744345318555,
-    "three_inst_ratio_change_20": 0.3540456236563294
+    "three_inst_ratio": 3.090422508013749,
+    "three_inst_ratio_change_20": 0.3837237863515237
   },
   {
     "date": "2026-05-27",
@@ -1908,10 +1919,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 2.96,
-    "trust_ratio": 0.12106618262336025,
+    "trust_ratio": 0.12074434531855456,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 3.080744345318555,
-    "three_inst_ratio_change_20": 0.37404562365632943
+    "three_inst_ratio": 3.080422508013749,
+    "three_inst_ratio_change_20": 0.38372378635152327
   },
   {
     "date": "2026-05-28",
@@ -1919,10 +1930,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 2.95,
-    "trust_ratio": 0.12106618262336025,
+    "trust_ratio": 0.12074434531855456,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 3.070744345318555,
-    "three_inst_ratio_change_20": 0.37404562365632943
+    "three_inst_ratio": 3.070422508013749,
+    "three_inst_ratio_change_20": 0.38806897617116576
   },
   {
     "date": "2026-05-29",
@@ -1930,10 +1941,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 3.12,
-    "trust_ratio": 0.12074434531855456,
+    "trust_ratio": 0.12042250801374889,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 3.240422508013749,
-    "three_inst_ratio_change_20": 0.5580689761711657
+    "three_inst_ratio": 3.2401006707089435,
+    "three_inst_ratio_change_20": 3.2401006707089435
   },
   {
     "date": "2026-06-01",
@@ -1941,9 +1952,9 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 3.21,
-    "trust_ratio": 0.12074434531855456,
+    "trust_ratio": 0.12042250801374889,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 3.330422508013749,
+    "three_inst_ratio": 3.3301006707089433,
     "three_inst_ratio_change_20": 0.6577471388663603
   },
   {
@@ -1952,10 +1963,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 3.13,
-    "trust_ratio": 0.7161433592090527,
+    "trust_ratio": 0.715821521904247,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 3.845821521904247,
-    "three_inst_ratio_change_20": 1.2134679900616638
+    "three_inst_ratio": 3.8454996845994414,
+    "three_inst_ratio_change_20": 1.2134679900616643
   },
   {
     "date": "2026-06-03",
@@ -1963,10 +1974,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 2.76,
-    "trust_ratio": 1.3115423730995506,
+    "trust_ratio": 1.311220535794745,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 4.071220535794745,
-    "three_inst_ratio_change_20": 1.3988670039521618
+    "three_inst_ratio": 4.070898698489939,
+    "three_inst_ratio_change_20": 1.3988670039521622
   },
   {
     "date": "2026-06-04",
@@ -1974,10 +1985,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 2.51,
-    "trust_ratio": 1.906941386990049,
+    "trust_ratio": 1.9066195496852432,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 4.416619549685243,
-    "three_inst_ratio_change_20": 1.6842660178426598
+    "three_inst_ratio": 4.4162977123804374,
+    "three_inst_ratio_change_20": 1.6842660178426603
   },
   {
     "date": "2026-06-05",
@@ -1985,10 +1996,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 2.41,
-    "trust_ratio": 2.5020185635757413,
+    "trust_ratio": 2.5016967262709358,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 4.911696726270936,
-    "three_inst_ratio_change_20": 2.1493431944283525
+    "three_inst_ratio": 4.91137488896613,
+    "three_inst_ratio_change_20": 2.149343194428353
   },
   {
     "date": "2026-06-08",
@@ -1996,10 +2007,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 2.17,
-    "trust_ratio": 3.0523603547934446,
+    "trust_ratio": 3.052038517488639,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 5.222038517488639,
-    "three_inst_ratio_change_20": 2.319684985646056
+    "three_inst_ratio": 5.2217166801838335,
+    "three_inst_ratio_change_20": 2.3196849856460564
   },
   {
     "date": "2026-06-09",
@@ -2007,10 +2018,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 2.04,
-    "trust_ratio": 3.6027021460111484,
+    "trust_ratio": 3.6023803087063424,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 5.642380308706342,
-    "three_inst_ratio_change_20": 2.690026776863759
+    "three_inst_ratio": 5.642058471401537,
+    "three_inst_ratio_change_20": 2.6900267768637596
   },
   {
     "date": "2026-06-10",
@@ -2018,10 +2029,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 2.11,
-    "trust_ratio": 4.153043937228852,
+    "trust_ratio": 4.152722099924047,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 6.262722099924047,
-    "three_inst_ratio_change_20": 3.280368568081464
+    "three_inst_ratio": 6.2624002626192405,
+    "three_inst_ratio_change_20": 3.2803685680814634
   },
   {
     "date": "2026-06-11",
@@ -2029,10 +2040,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 1.96,
-    "trust_ratio": 4.629363148341251,
+    "trust_ratio": 4.629041311036445,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 6.589041311036445,
-    "three_inst_ratio_change_20": 3.607975128413085
+    "three_inst_ratio": 6.588719473731639,
+    "three_inst_ratio_change_20": 3.6079751284130843
   },
   {
     "date": "2026-06-12",
@@ -2040,9 +2051,9 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 1.99,
-    "trust_ratio": 4.6283976364268336,
+    "trust_ratio": 4.628075799122028,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 6.618075799122028,
+    "three_inst_ratio": 6.617753961817223,
     "three_inst_ratio_change_20": 3.5670096164986678
   },
   {
@@ -2051,10 +2062,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 1.97,
-    "trust_ratio": 4.650604410458425,
+    "trust_ratio": 4.6502825731536195,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 6.620282573153619,
-    "three_inst_ratio_change_20": 3.529538227835064
+    "three_inst_ratio": 6.619960735848814,
+    "three_inst_ratio_change_20": 3.5295382278350647
   },
   {
     "date": "2026-06-16",
@@ -2062,10 +2073,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 1.96,
-    "trust_ratio": 4.686006513987049,
+    "trust_ratio": 4.685684676682243,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 6.645684676682244,
-    "three_inst_ratio_change_20": 3.504940331363689
+    "three_inst_ratio": 6.645362839377437,
+    "three_inst_ratio_change_20": 3.5049403313636884
   },
   {
     "date": "2026-06-17",
@@ -2073,10 +2084,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 2.0,
-    "trust_ratio": 4.686006513987049,
+    "trust_ratio": 4.685684676682243,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 6.685684676682244,
-    "three_inst_ratio_change_20": 3.514940331363689
+    "three_inst_ratio": 6.685362839377437,
+    "three_inst_ratio_change_20": 3.5149403313636887
   },
   {
     "date": "2026-06-18",
@@ -2084,10 +2095,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 1.99,
-    "trust_ratio": 4.686006513987049,
+    "trust_ratio": 4.685684676682243,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 6.675684676682244,
-    "three_inst_ratio_change_20": 3.494940331363689
+    "three_inst_ratio": 6.675362839377438,
+    "three_inst_ratio_change_20": 3.4949403313636886
   },
   {
     "date": "2026-06-22",
@@ -2095,10 +2106,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 1.92,
-    "trust_ratio": 4.686006513987049,
+    "trust_ratio": 4.685684676682243,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 6.605684676682244,
-    "three_inst_ratio_change_20": 3.434940331363689
+    "three_inst_ratio": 6.605362839377437,
+    "three_inst_ratio_change_20": 3.4349403313636886
   },
   {
     "date": "2026-06-23",
@@ -2106,10 +2117,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 1.99,
-    "trust_ratio": 4.686328351291855,
+    "trust_ratio": 4.686006513987049,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 6.6760065139870495,
-    "three_inst_ratio_change_20": 3.5152621686684946
+    "three_inst_ratio": 6.675684676682244,
+    "three_inst_ratio_change_20": 3.515262168668495
   },
   {
     "date": "2026-06-24",
@@ -2117,10 +2128,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 1.94,
-    "trust_ratio": 4.686328351291855,
+    "trust_ratio": 4.686006513987049,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 6.62600651398705,
-    "three_inst_ratio_change_20": 3.5352621686684946
+    "three_inst_ratio": 6.625684676682243,
+    "three_inst_ratio_change_20": 3.535262168668494
   },
   {
     "date": "2026-06-25",
@@ -2128,10 +2139,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 1.91,
-    "trust_ratio": 4.686328351291855,
+    "trust_ratio": 4.686006513987049,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 6.596006513987049,
-    "three_inst_ratio_change_20": 3.5152621686684946
+    "three_inst_ratio": 6.595684676682244,
+    "three_inst_ratio_change_20": 3.515262168668495
   },
   {
     "date": "2026-06-26",
@@ -2139,10 +2150,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 1.85,
-    "trust_ratio": 4.684075490158215,
+    "trust_ratio": 4.68375365285341,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 6.53375365285341,
-    "three_inst_ratio_change_20": 3.4630093075348554
+    "three_inst_ratio": 6.533431815548604,
+    "three_inst_ratio_change_20": 3.463009307534855
   },
   {
     "date": "2026-06-29",
@@ -2150,10 +2161,10 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 1.85,
-    "trust_ratio": 4.684075490158215,
+    "trust_ratio": 4.68375365285341,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 6.53375365285341,
-    "three_inst_ratio_change_20": 3.2933311448396614
+    "three_inst_ratio": 6.533431815548604,
+    "three_inst_ratio_change_20": 3.2933311448396605
   },
   {
     "date": "2026-06-30",
@@ -2161,9 +2172,9 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 1.84,
-    "trust_ratio": 4.7033857284465554,
+    "trust_ratio": 4.70306389114175,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 6.54306389114175,
+    "three_inst_ratio": 6.542742053836944,
     "three_inst_ratio_change_20": 3.212641383128001
   },
   {
@@ -2172,9 +2183,20 @@
     "name": "潤弘",
     "market": "TWSE",
     "foreign_ratio": 1.85,
-    "trust_ratio": 4.76498731961019,
+    "trust_ratio": 4.764665482305385,
     "dealer_ratio": -0.0003218373048056746,
-    "three_inst_ratio": 6.6146654823053845,
-    "three_inst_ratio_change_20": 2.7688439604011377
+    "three_inst_ratio": 6.61434364500058,
+    "three_inst_ratio_change_20": 2.7688439604011386
+  },
+  {
+    "date": "2026-07-02",
+    "code": "2597",
+    "name": "潤弘",
+    "market": "TWSE",
+    "foreign_ratio": 1.87,
+    "trust_ratio": 4.765309156914997,
+    "dealer_ratio": -0.0003218373048056746,
+    "three_inst_ratio": 6.634987319610191,
+    "three_inst_ratio_change_20": 2.564088621120252
   }
 ]

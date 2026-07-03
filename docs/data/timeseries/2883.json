@@ -1716,15 +1716,26 @@
     "three_inst_ratio_change_20": 0.7080227765045031
   },
   {
+    "date": "2026-05-01",
+    "code": "2883",
+    "name": "凱基金",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -30.042363224310975
+  },
+  {
     "date": "2026-05-04",
     "code": "2883",
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.05,
-    "trust_ratio": 0.7735816451869483,
+    "trust_ratio": 0.7412455658864069,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.823581645186948,
-    "three_inst_ratio_change_20": 0.7812184208759732
+    "three_inst_ratio": 30.791245565886406,
+    "three_inst_ratio_change_20": 30.791245565886406
   },
   {
     "date": "2026-05-05",
@@ -1732,10 +1743,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.31,
-    "trust_ratio": 0.6709148702879858,
+    "trust_ratio": 0.6385787909874444,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.980914870287986,
-    "three_inst_ratio_change_20": 30.980914870287986
+    "three_inst_ratio": 30.948578790987444,
+    "three_inst_ratio_change_20": 0.7611521849919427
   },
   {
     "date": "2026-05-06",
@@ -1743,10 +1754,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.55,
-    "trust_ratio": 0.6284579339573242,
+    "trust_ratio": 0.5961218546567828,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.178457933957326,
-    "three_inst_ratio_change_20": 0.9910313279618244
+    "three_inst_ratio": 31.146121854656784,
+    "three_inst_ratio_change_20": 0.6928165918601401
   },
   {
     "date": "2026-05-07",
@@ -1754,10 +1765,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.71,
-    "trust_ratio": 0.6305422355075313,
+    "trust_ratio": 0.5982061562069899,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.34054223550753,
-    "three_inst_ratio_change_20": 0.8872369727108875
+    "three_inst_ratio": 31.308206156206992,
+    "three_inst_ratio_change_20": 0.8384908462303322
   },
   {
     "date": "2026-05-08",
@@ -1765,10 +1776,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.8,
-    "trust_ratio": 0.6326512383112467,
+    "trust_ratio": 0.6003151590107053,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.432651238311248,
-    "three_inst_ratio_change_20": 0.9629359283345877
+    "three_inst_ratio": 31.400315159010706,
+    "three_inst_ratio_change_20": 0.9541962154847212
   },
   {
     "date": "2026-05-11",
@@ -1776,10 +1787,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.84,
-    "trust_ratio": 0.6307780726841825,
+    "trust_ratio": 0.5984419933836411,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.470778072684183,
-    "three_inst_ratio_change_20": 1.0246591291581986
+    "three_inst_ratio": 31.43844199338364,
+    "three_inst_ratio_change_20": 1.0303843908098038
   },
   {
     "date": "2026-05-12",
@@ -1787,10 +1798,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.72,
-    "trust_ratio": 0.5903271514840113,
+    "trust_ratio": 0.5579910721834699,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.31032715148401,
-    "three_inst_ratio_change_20": 0.9022695489101729
+    "three_inst_ratio": 31.277991072183468,
+    "three_inst_ratio_change_20": 1.0222354167145369
   },
   {
     "date": "2026-05-13",
@@ -1798,10 +1809,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.81,
-    "trust_ratio": 0.5635110041026915,
+    "trust_ratio": 0.5311749248021501,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.37351100410269,
-    "three_inst_ratio_change_20": 1.1177553486337573
+    "three_inst_ratio": 31.34117492480215,
+    "three_inst_ratio_change_20": 1.1214737232766225
   },
   {
     "date": "2026-05-14",
@@ -1809,10 +1820,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.77,
-    "trust_ratio": 0.5534726220425489,
+    "trust_ratio": 0.5211365427420075,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.323472622042548,
-    "three_inst_ratio_change_20": 1.1037714205170204
+    "three_inst_ratio": 31.291136542742006,
+    "three_inst_ratio_change_20": 0.9762664834239345
   },
   {
     "date": "2026-05-15",
@@ -1820,10 +1831,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.8,
-    "trust_ratio": 0.5145647604021061,
+    "trust_ratio": 0.48222868110156475,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.314564760402106,
-    "three_inst_ratio_change_20": 0.9996947010840351
+    "three_inst_ratio": 31.282228681101564,
+    "three_inst_ratio_change_20": 1.0339072168746917
   },
   {
     "date": "2026-05-18",
@@ -1831,10 +1842,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.63,
-    "trust_ratio": 0.48222868110156475,
+    "trust_ratio": 0.44989260180102336,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.112228681101563,
-    "three_inst_ratio_change_20": 0.86390721687469
+    "three_inst_ratio": 31.07989260180102,
+    "three_inst_ratio_change_20": 0.8379671068423349
   },
   {
     "date": "2026-05-19",
@@ -1842,10 +1853,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.7,
-    "trust_ratio": 0.4042014684333792,
+    "trust_ratio": 0.3718653891328378,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.104201468433377,
-    "three_inst_ratio_change_20": 0.8622759734746914
+    "three_inst_ratio": 31.07186538913284,
+    "three_inst_ratio_change_20": 0.852172026216973
   },
   {
     "date": "2026-05-20",
@@ -1853,10 +1864,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.76,
-    "trust_ratio": 0.4393004592281734,
+    "trust_ratio": 0.406964379927632,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.199300459228176,
-    "three_inst_ratio_change_20": 0.9796070963123107
+    "three_inst_ratio": 31.166964379927634,
+    "three_inst_ratio_change_20": 0.9474652414187545
   },
   {
     "date": "2026-05-21",
@@ -1864,10 +1875,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.65,
-    "trust_ratio": 0.4676011560690917,
+    "trust_ratio": 0.4352650767685503,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.11760115606909,
-    "three_inst_ratio_change_20": 0.898102017560209
+    "three_inst_ratio": 31.08526507676855,
+    "three_inst_ratio_change_20": 0.9232590543802637
   },
   {
     "date": "2026-05-22",
@@ -1875,10 +1886,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.54,
-    "trust_ratio": 0.49608922425966084,
+    "trust_ratio": 0.46375314495911946,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.03608922425966,
-    "three_inst_ratio_change_20": 0.8740832018713718
+    "three_inst_ratio": 31.00375314495912,
+    "three_inst_ratio_change_20": 0.8480155855354354
   },
   {
     "date": "2026-05-25",
@@ -1886,10 +1897,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.43,
-    "trust_ratio": 0.4934794805667952,
+    "trust_ratio": 0.4611434012662538,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.923479480566794,
-    "three_inst_ratio_change_20": 0.7677419211431094
+    "three_inst_ratio": 30.891143401266252,
+    "three_inst_ratio_change_20": 0.6684727089476006
   },
   {
     "date": "2026-05-26",
@@ -1897,10 +1908,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.41,
-    "trust_ratio": 0.4412830750314673,
+    "trust_ratio": 0.4089469957309259,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.851283075031468,
-    "three_inst_ratio_change_20": 0.6286123827128165
+    "three_inst_ratio": 30.818946995730926,
+    "three_inst_ratio_change_20": 0.3303755138638351
   },
   {
     "date": "2026-05-27",
@@ -1908,10 +1919,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.49,
-    "trust_ratio": 0.4182479219559436,
+    "trust_ratio": 0.3859118426554022,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.90824792195594,
-    "three_inst_ratio_change_20": 0.41967644008884974
+    "three_inst_ratio": 30.875911842655402,
+    "three_inst_ratio_change_20": 0.19421220299843966
   },
   {
     "date": "2026-05-28",
@@ -1919,10 +1930,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.42,
-    "trust_ratio": 0.3574897132033303,
+    "trust_ratio": 0.32515363390278895,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.77748971320333,
-    "three_inst_ratio_change_20": 0.09579007354636815
+    "three_inst_ratio": 30.74515363390279,
+    "three_inst_ratio_change_20": 0.023401335061457473
   },
   {
     "date": "2026-05-29",
@@ -1930,10 +1941,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.4,
-    "trust_ratio": 0.31617523193893826,
+    "trust_ratio": 0.2838391526383969,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.716175231938937,
-    "three_inst_ratio_change_20": -0.005577066902397121
+    "three_inst_ratio": 30.683839152638395,
+    "three_inst_ratio_change_20": 30.683839152638395
   },
   {
     "date": "2026-06-01",
@@ -1941,9 +1952,9 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.54,
-    "trust_ratio": 0.3051824966547681,
+    "trust_ratio": 0.2728464173542267,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.84518249665477,
+    "three_inst_ratio": 30.812846417354226,
     "three_inst_ratio_change_20": 0.021600851467820092
   },
   {
@@ -1952,10 +1963,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.16,
-    "trust_ratio": 0.8943070982747424,
+    "trust_ratio": 0.8619710189742009,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.05430709827474,
-    "three_inst_ratio_change_20": 0.07339222798675493
+    "three_inst_ratio": 31.021971018974202,
+    "three_inst_ratio_change_20": 0.07339222798675848
   },
   {
     "date": "2026-06-03",
@@ -1963,10 +1974,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 30.19,
-    "trust_ratio": 0.9283144150204962,
+    "trust_ratio": 0.8959783357199547,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.118314415020496,
-    "three_inst_ratio_change_20": -0.060143518936829565
+    "three_inst_ratio": 31.085978335719957,
+    "three_inst_ratio_change_20": -0.06014351893682601
   },
   {
     "date": "2026-06-04",
@@ -1974,10 +1985,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 29.41,
-    "trust_ratio": 2.200259254883984,
+    "trust_ratio": 2.1679231755834425,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.610259254883985,
-    "three_inst_ratio_change_20": 0.2697170193764542
+    "three_inst_ratio": 31.577923175583443,
+    "three_inst_ratio_change_20": 0.26971701937645065
   },
   {
     "date": "2026-06-05",
@@ -1985,9 +1996,9 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 28.84,
-    "trust_ratio": 2.803157365004451,
+    "trust_ratio": 2.770821285703909,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.643157365004452,
+    "three_inst_ratio": 31.61082128570391,
     "three_inst_ratio_change_20": 0.210506126693204
   },
   {
@@ -1996,9 +2007,9 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 28.19,
-    "trust_ratio": 3.362838402342387,
+    "trust_ratio": 3.330502323041846,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.55283840234239,
+    "three_inst_ratio": 31.520502323041846,
     "three_inst_ratio_change_20": 0.08206032965820498
   },
   {
@@ -2007,10 +2018,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 25.83,
-    "trust_ratio": 3.5818831393983355,
+    "trust_ratio": 3.552303987966267,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.411883139398334,
-    "three_inst_ratio_change_20": -1.898444012085676
+    "three_inst_ratio": 29.382303987966264,
+    "three_inst_ratio_change_20": -1.8956870842172044
   },
   {
     "date": "2026-06-10",
@@ -2018,10 +2029,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 25.35,
-    "trust_ratio": 4.087159576799659,
+    "trust_ratio": 4.057580425367591,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.43715957679966,
-    "three_inst_ratio_change_20": -1.936351427303027
+    "three_inst_ratio": 29.40758042536759,
+    "three_inst_ratio_change_20": -1.9335944994345589
   },
   {
     "date": "2026-06-11",
@@ -2029,10 +2040,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 24.92,
-    "trust_ratio": 4.527571942063727,
+    "trust_ratio": 4.497992790631658,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.44757194206373,
-    "three_inst_ratio_change_20": -1.8759006799788196
+    "three_inst_ratio": 29.417992790631658,
+    "three_inst_ratio_change_20": -1.873143752110348
   },
   {
     "date": "2026-06-12",
@@ -2040,10 +2051,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 24.79,
-    "trust_ratio": 4.50579419078177,
+    "trust_ratio": 4.476215039349701,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.29579419078177,
-    "three_inst_ratio_change_20": -2.0187705696203366
+    "three_inst_ratio": 29.2662150393497,
+    "three_inst_ratio_change_20": -2.016013641751865
   },
   {
     "date": "2026-06-15",
@@ -2051,10 +2062,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 24.92,
-    "trust_ratio": 4.520026025165463,
+    "trust_ratio": 4.4904468737333945,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.440026025165466,
-    "three_inst_ratio_change_20": -1.672202655936097
+    "three_inst_ratio": 29.410446873733395,
+    "three_inst_ratio_change_20": -1.6694457280676254
   },
   {
     "date": "2026-06-16",
@@ -2062,10 +2073,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 24.97,
-    "trust_ratio": 4.56337720579356,
+    "trust_ratio": 4.533798054361491,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.53337720579356,
-    "three_inst_ratio_change_20": -1.5708242626398174
+    "three_inst_ratio": 29.50379805436149,
+    "three_inst_ratio_change_20": -1.5680673347713494
   },
   {
     "date": "2026-06-17",
@@ -2073,10 +2084,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 24.91,
-    "trust_ratio": 4.558456121992591,
+    "trust_ratio": 4.528876970560522,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.468456121992592,
-    "three_inst_ratio_change_20": -1.7308443372355846
+    "three_inst_ratio": 29.43887697056052,
+    "three_inst_ratio_change_20": -1.728087409367113
   },
   {
     "date": "2026-06-18",
@@ -2084,10 +2095,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 24.95,
-    "trust_ratio": 4.5328448393972876,
+    "trust_ratio": 4.503265687965219,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.482844839397288,
-    "three_inst_ratio_change_20": -1.634756316671801
+    "three_inst_ratio": 29.453265687965217,
+    "three_inst_ratio_change_20": -1.631999388803333
   },
   {
     "date": "2026-06-22",
@@ -2095,10 +2106,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 25.03,
-    "trust_ratio": 4.529097458911769,
+    "trust_ratio": 4.4995183074797005,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.559097458911772,
-    "three_inst_ratio_change_20": -1.4769917653478863
+    "three_inst_ratio": 29.5295183074797,
+    "three_inst_ratio_change_20": -1.4742348374794183
   },
   {
     "date": "2026-06-23",
@@ -2106,10 +2117,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 24.97,
-    "trust_ratio": 4.5184778915022346,
+    "trust_ratio": 4.488898740070166,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.488477891502235,
-    "three_inst_ratio_change_20": -1.4350015890645587
+    "three_inst_ratio": 29.458898740070165,
+    "three_inst_ratio_change_20": -1.432244661196087
   },
   {
     "date": "2026-06-24",
@@ -2117,10 +2128,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 24.85,
-    "trust_ratio": 4.558351164234813,
+    "trust_ratio": 4.528772012802745,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.408351164234816,
-    "three_inst_ratio_change_20": -1.442931910796652
+    "three_inst_ratio": 29.378772012802745,
+    "three_inst_ratio_change_20": -1.4401749829281805
   },
   {
     "date": "2026-06-25",
@@ -2128,10 +2139,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 24.9,
-    "trust_ratio": 4.599176752001137,
+    "trust_ratio": 4.569597600569068,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.499176752001134,
-    "three_inst_ratio_change_20": -1.4090711699548066
+    "three_inst_ratio": 29.469597600569067,
+    "three_inst_ratio_change_20": -1.406314242086335
   },
   {
     "date": "2026-06-26",
@@ -2139,10 +2150,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 24.9,
-    "trust_ratio": 4.5936975280962455,
+    "trust_ratio": 4.564118376664177,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.493697528096245,
-    "three_inst_ratio_change_20": -1.2837921851070853
+    "three_inst_ratio": 29.464118376664175,
+    "three_inst_ratio_change_20": -1.2810352572386172
   },
   {
     "date": "2026-06-29",
@@ -2150,10 +2161,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 24.94,
-    "trust_ratio": 4.581071633088555,
+    "trust_ratio": 4.551492481656486,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.521071633088557,
-    "three_inst_ratio_change_20": -1.1951035988503804
+    "three_inst_ratio": 29.491492481656486,
+    "three_inst_ratio_change_20": -1.1923466709819088
   },
   {
     "date": "2026-06-30",
@@ -2161,10 +2172,10 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 25.01,
-    "trust_ratio": 4.577343496026203,
+    "trust_ratio": 4.5477643445941345,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.587343496026204,
-    "three_inst_ratio_change_20": -1.2578390006285645
+    "three_inst_ratio": 29.557764344594137,
+    "three_inst_ratio_change_20": -1.2550820727600893
   },
   {
     "date": "2026-07-01",
@@ -2172,9 +2183,20 @@
     "name": "凱基金",
     "market": "TWSE",
     "foreign_ratio": 25.07,
-    "trust_ratio": 4.535982180196549,
+    "trust_ratio": 4.50640302876448,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.60598218019655,
-    "three_inst_ratio_change_20": -1.4483249180781925
+    "three_inst_ratio": 29.57640302876448,
+    "three_inst_ratio_change_20": -1.445567990209721
+  },
+  {
+    "date": "2026-07-02",
+    "code": "2883",
+    "name": "凱基金",
+    "market": "TWSE",
+    "foreign_ratio": 25.16,
+    "trust_ratio": 4.485462638524949,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 29.64546263852495,
+    "three_inst_ratio_change_20": -1.440515697195007
   }
 ]

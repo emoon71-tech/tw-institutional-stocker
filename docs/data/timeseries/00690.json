@@ -1716,6 +1716,17 @@
     "three_inst_ratio_change_20": 0.0
   },
   {
+    "date": "2026-05-01",
+    "code": "00690",
+    "name": "兆豐藍籌30",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.29
+  },
+  {
     "date": "2026-05-04",
     "code": "00690",
     "name": "兆豐藍籌30",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.22,
-    "three_inst_ratio_change_20": -0.06999999999999998
+    "three_inst_ratio_change_20": 0.22
   },
   {
     "date": "2026-05-05",
@@ -1735,7 +1746,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.23,
-    "three_inst_ratio_change_20": 0.23
+    "three_inst_ratio_change_20": -0.05999999999999997
   },
   {
     "date": "2026-05-06",
@@ -1779,7 +1790,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.2,
-    "three_inst_ratio_change_20": -0.08999999999999997
+    "three_inst_ratio_change_20": -0.09999999999999998
   },
   {
     "date": "2026-05-12",
@@ -1801,7 +1812,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.16,
-    "three_inst_ratio_change_20": -0.13999999999999999
+    "three_inst_ratio_change_20": -0.12999999999999998
   },
   {
     "date": "2026-05-14",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.15,
-    "three_inst_ratio_change_20": -0.13999999999999999
+    "three_inst_ratio_change_20": -0.15
   },
   {
     "date": "2026-05-15",
@@ -1856,7 +1867,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.16,
-    "three_inst_ratio_change_20": -0.13999999999999999
+    "three_inst_ratio_change_20": -0.12999999999999998
   },
   {
     "date": "2026-05-21",
@@ -1867,7 +1878,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.14,
-    "three_inst_ratio_change_20": -0.14999999999999997
+    "three_inst_ratio_change_20": -0.13
   },
   {
     "date": "2026-05-22",
@@ -1878,7 +1889,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.13,
-    "three_inst_ratio_change_20": -0.14
+    "three_inst_ratio_change_20": -0.10999999999999999
   },
   {
     "date": "2026-05-25",
@@ -1889,7 +1900,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.18,
-    "three_inst_ratio_change_20": -0.06
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-05-26",
@@ -1911,7 +1922,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.16,
-    "three_inst_ratio_change_20": -0.01999999999999999
+    "three_inst_ratio_change_20": -0.13999999999999999
   },
   {
     "date": "2026-05-28",
@@ -1933,7 +1944,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.22,
-    "three_inst_ratio_change_20": -0.07999999999999999
+    "three_inst_ratio_change_20": 0.22
   },
   {
     "date": "2026-06-01",
@@ -2176,5 +2187,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.19,
     "three_inst_ratio_change_20": 0.04999999999999999
+  },
+  {
+    "date": "2026-07-02",
+    "code": "00690",
+    "name": "兆豐藍籌30",
+    "market": "TWSE",
+    "foreign_ratio": 0.22,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.22,
+    "three_inst_ratio_change_20": 0.010000000000000009
   }
 ]

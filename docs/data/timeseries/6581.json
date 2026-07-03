@@ -1584,6 +1584,17 @@
     "three_inst_ratio_change_20": 0.13
   },
   {
+    "date": "2026-05-01",
+    "code": "6581",
+    "name": "鋼聯",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.85
+  },
+  {
     "date": "2026-05-04",
     "code": "6581",
     "name": "鋼聯",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.98,
-    "three_inst_ratio_change_20": 0.13
+    "three_inst_ratio_change_20": 0.14
   },
   {
     "date": "2026-05-05",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.99,
-    "three_inst_ratio_change_20": 0.15000000000000002
+    "three_inst_ratio_change_20": 0.14
   },
   {
     "date": "2026-05-07",
@@ -1636,7 +1647,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.01,
-    "three_inst_ratio_change_20": 0.16000000000000003
+    "three_inst_ratio_change_20": 0.15000000000000002
   },
   {
     "date": "2026-05-11",
@@ -1647,7 +1658,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.02,
-    "three_inst_ratio_change_20": 0.16000000000000003
+    "three_inst_ratio_change_20": 0.15000000000000002
   },
   {
     "date": "2026-05-12",
@@ -1658,7 +1669,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.01,
-    "three_inst_ratio_change_20": 0.14
+    "three_inst_ratio_change_20": 0.12
   },
   {
     "date": "2026-05-13",
@@ -1669,7 +1680,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.01,
-    "three_inst_ratio_change_20": 0.12
+    "three_inst_ratio_change_20": 0.09999999999999998
   },
   {
     "date": "2026-05-14",
@@ -1691,7 +1702,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.99,
-    "three_inst_ratio_change_20": 0.07999999999999996
+    "three_inst_ratio_change_20": 0.06999999999999995
   },
   {
     "date": "2026-05-18",
@@ -1702,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.99,
-    "three_inst_ratio_change_20": 0.06999999999999995
+    "three_inst_ratio_change_20": 0.05999999999999994
   },
   {
     "date": "2026-05-19",
@@ -1713,7 +1724,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.99,
-    "three_inst_ratio_change_20": 0.05999999999999994
+    "three_inst_ratio_change_20": 0.050000000000000044
   },
   {
     "date": "2026-05-20",
@@ -1746,7 +1757,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.97,
-    "three_inst_ratio_change_20": 0.030000000000000027
+    "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
     "date": "2026-05-25",
@@ -1801,7 +1812,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.0,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": 1.0
   },
   {
     "date": "2026-06-01",
@@ -2036,6 +2047,17 @@
   },
   {
     "date": "2026-07-01",
+    "code": "6581",
+    "name": "鋼聯",
+    "market": "TWSE",
+    "foreign_ratio": 1.03,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.03,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-07-02",
     "code": "6581",
     "name": "鋼聯",
     "market": "TWSE",

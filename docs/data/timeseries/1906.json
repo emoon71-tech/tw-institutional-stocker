@@ -1716,15 +1716,26 @@
     "three_inst_ratio_change_20": -0.19999999999999996
   },
   {
+    "date": "2026-05-01",
+    "code": "1906",
+    "name": "寶隆",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.77
+  },
+  {
     "date": "2026-05-04",
     "code": "1906",
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.5,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.5,
-    "three_inst_ratio_change_20": -0.27
+    "three_inst_ratio": 0.5031258278145695,
+    "three_inst_ratio_change_20": 0.5031258278145695
   },
   {
     "date": "2026-05-05",
@@ -1732,10 +1743,10 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.52,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.52,
-    "three_inst_ratio_change_20": 0.52
+    "three_inst_ratio": 0.5231258278145695,
+    "three_inst_ratio_change_20": -0.2368741721854305
   },
   {
     "date": "2026-05-06",
@@ -1743,10 +1754,10 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.52,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.52,
-    "three_inst_ratio_change_20": -0.24
+    "three_inst_ratio": 0.5231258278145695,
+    "three_inst_ratio_change_20": -0.2468741721854305
   },
   {
     "date": "2026-05-07",
@@ -1754,10 +1765,10 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.55,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.55,
-    "three_inst_ratio_change_20": -0.21999999999999997
+    "three_inst_ratio": 0.5531258278145695,
+    "three_inst_ratio_change_20": -0.2268741721854305
   },
   {
     "date": "2026-05-08",
@@ -1765,10 +1776,10 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.56,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.56,
-    "three_inst_ratio_change_20": -0.21999999999999997
+    "three_inst_ratio": 0.5631258278145695,
+    "three_inst_ratio_change_20": -0.18687417218543045
   },
   {
     "date": "2026-05-11",
@@ -1776,10 +1787,10 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.55,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.55,
-    "three_inst_ratio_change_20": -0.19999999999999996
+    "three_inst_ratio": 0.5531258278145695,
+    "three_inst_ratio_change_20": -0.20687417218543047
   },
   {
     "date": "2026-05-12",
@@ -1787,10 +1798,10 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.53,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.53,
-    "three_inst_ratio_change_20": -0.22999999999999998
+    "three_inst_ratio": 0.5331258278145695,
+    "three_inst_ratio_change_20": 0.04312582781456953
   },
   {
     "date": "2026-05-13",
@@ -1798,10 +1809,10 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.54,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.54,
-    "three_inst_ratio_change_20": 0.050000000000000044
+    "three_inst_ratio": 0.5431258278145695,
+    "three_inst_ratio_change_20": 0.03312582781456952
   },
   {
     "date": "2026-05-14",
@@ -1809,10 +1820,10 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.53,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.53,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio": 0.5331258278145695,
+    "three_inst_ratio_change_20": 0.02312582781456951
   },
   {
     "date": "2026-05-15",
@@ -1820,10 +1831,10 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.59,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.59,
-    "three_inst_ratio_change_20": 0.07999999999999996
+    "three_inst_ratio": 0.5931258278145695,
+    "three_inst_ratio_change_20": 0.09312582781456946
   },
   {
     "date": "2026-05-18",
@@ -1831,10 +1842,10 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.58,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.58,
-    "three_inst_ratio_change_20": 0.07999999999999996
+    "three_inst_ratio": 0.5831258278145695,
+    "three_inst_ratio_change_20": 0.07312582781456944
   },
   {
     "date": "2026-05-19",
@@ -1842,10 +1853,10 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.57,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.57,
-    "three_inst_ratio_change_20": 0.05999999999999994
+    "three_inst_ratio": 0.5731258278145694,
+    "three_inst_ratio_change_20": 0.0231258278145694
   },
   {
     "date": "2026-05-20",
@@ -1853,10 +1864,10 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.56,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.56,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio": 0.5631258278145695,
+    "three_inst_ratio_change_20": 0.04312582781456953
   },
   {
     "date": "2026-05-21",
@@ -1864,10 +1875,10 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.6,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.6,
-    "three_inst_ratio_change_20": 0.07999999999999996
+    "three_inst_ratio": 0.6031258278145695,
+    "three_inst_ratio_change_20": 0.10312582781456947
   },
   {
     "date": "2026-05-22",
@@ -1875,10 +1886,10 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.62,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.62,
-    "three_inst_ratio_change_20": 0.12
+    "three_inst_ratio": 0.6231258278145695,
+    "three_inst_ratio_change_20": 0.12312582781456949
   },
   {
     "date": "2026-05-25",
@@ -1886,10 +1897,10 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.62,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.62,
-    "three_inst_ratio_change_20": 0.12
+    "three_inst_ratio": 0.6231258278145695,
+    "three_inst_ratio_change_20": 0.10312582781456947
   },
   {
     "date": "2026-05-26",
@@ -1897,10 +1908,10 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.61,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.61,
-    "three_inst_ratio_change_20": 0.08999999999999997
+    "three_inst_ratio": 0.6131258278145695,
+    "three_inst_ratio_change_20": 0.09312582781456946
   },
   {
     "date": "2026-05-27",
@@ -1908,10 +1919,10 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.61,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.61,
-    "three_inst_ratio_change_20": 0.08999999999999997
+    "three_inst_ratio": 0.6131258278145695,
+    "three_inst_ratio_change_20": 0.10312582781456947
   },
   {
     "date": "2026-05-28",
@@ -1919,10 +1930,10 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.61,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.61,
-    "three_inst_ratio_change_20": 0.09999999999999998
+    "three_inst_ratio": 0.6131258278145695,
+    "three_inst_ratio_change_20": 0.11312582781456948
   },
   {
     "date": "2026-05-29",
@@ -1930,10 +1941,10 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.62,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.62,
-    "three_inst_ratio_change_20": 0.12
+    "three_inst_ratio": 0.6231258278145695,
+    "three_inst_ratio_change_20": 0.6231258278145695
   },
   {
     "date": "2026-06-01",
@@ -1941,9 +1952,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.64,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.64,
+    "three_inst_ratio": 0.6431258278145695,
     "three_inst_ratio_change_20": 0.14
   },
   {
@@ -1952,9 +1963,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.65,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.65,
+    "three_inst_ratio": 0.6531258278145695,
     "three_inst_ratio_change_20": 0.13
   },
   {
@@ -1963,9 +1974,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.63,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.63,
+    "three_inst_ratio": 0.6331258278145695,
     "three_inst_ratio_change_20": 0.10999999999999999
   },
   {
@@ -1974,9 +1985,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.51,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.51,
+    "three_inst_ratio": 0.5131258278145695,
     "three_inst_ratio_change_20": -0.040000000000000036
   },
   {
@@ -1985,9 +1996,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.54,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.54,
+    "three_inst_ratio": 0.5431258278145695,
     "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
@@ -1996,9 +2007,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.56,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.56,
+    "three_inst_ratio": 0.5631258278145695,
     "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
@@ -2007,9 +2018,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.7,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7,
+    "three_inst_ratio": 0.7031258278145694,
     "three_inst_ratio_change_20": 0.16999999999999993
   },
   {
@@ -2018,9 +2029,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.66,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.66,
+    "three_inst_ratio": 0.6631258278145695,
     "three_inst_ratio_change_20": 0.12
   },
   {
@@ -2029,9 +2040,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.66,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.66,
+    "three_inst_ratio": 0.6631258278145695,
     "three_inst_ratio_change_20": 0.13
   },
   {
@@ -2040,9 +2051,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.66,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.66,
+    "three_inst_ratio": 0.6631258278145695,
     "three_inst_ratio_change_20": 0.07000000000000006
   },
   {
@@ -2051,9 +2062,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.67,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.67,
+    "three_inst_ratio": 0.6731258278145695,
     "three_inst_ratio_change_20": 0.09000000000000008
   },
   {
@@ -2062,9 +2073,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.66,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.66,
+    "three_inst_ratio": 0.6631258278145695,
     "three_inst_ratio_change_20": 0.09000000000000008
   },
   {
@@ -2073,9 +2084,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.67,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.67,
+    "three_inst_ratio": 0.6731258278145695,
     "three_inst_ratio_change_20": 0.10999999999999999
   },
   {
@@ -2084,9 +2095,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.66,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.66,
+    "three_inst_ratio": 0.6631258278145695,
     "three_inst_ratio_change_20": 0.06000000000000005
   },
   {
@@ -2095,9 +2106,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.67,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.67,
+    "three_inst_ratio": 0.6731258278145695,
     "three_inst_ratio_change_20": 0.050000000000000044
   },
   {
@@ -2106,9 +2117,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.68,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.68,
+    "three_inst_ratio": 0.6831258278145695,
     "three_inst_ratio_change_20": 0.06000000000000005
   },
   {
@@ -2117,9 +2128,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.69,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.69,
+    "three_inst_ratio": 0.6931258278145694,
     "three_inst_ratio_change_20": 0.07999999999999996
   },
   {
@@ -2128,9 +2139,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.7,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7,
+    "three_inst_ratio": 0.7031258278145694,
     "three_inst_ratio_change_20": 0.08999999999999997
   },
   {
@@ -2139,9 +2150,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.68,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.68,
+    "three_inst_ratio": 0.6831258278145695,
     "three_inst_ratio_change_20": 0.07000000000000006
   },
   {
@@ -2150,9 +2161,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.68,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.68,
+    "three_inst_ratio": 0.6831258278145695,
     "three_inst_ratio_change_20": 0.06000000000000005
   },
   {
@@ -2161,9 +2172,9 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.68,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.68,
+    "three_inst_ratio": 0.6831258278145695,
     "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
@@ -2172,9 +2183,20 @@
     "name": "寶隆",
     "market": "TWSE",
     "foreign_ratio": 0.7,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0031258278145695362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7,
+    "three_inst_ratio": 0.7031258278145694,
     "three_inst_ratio_change_20": 0.04999999999999993
+  },
+  {
+    "date": "2026-07-02",
+    "code": "1906",
+    "name": "寶隆",
+    "market": "TWSE",
+    "foreign_ratio": 0.69,
+    "trust_ratio": 0.0031258278145695362,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6931258278145694,
+    "three_inst_ratio_change_20": 0.05999999999999994
   }
 ]

@@ -1617,6 +1617,17 @@
     "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
+    "date": "2026-05-01",
+    "code": "6936",
+    "name": "永鴻生技",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.5113744004178178
+  },
+  {
     "date": "2026-05-04",
     "code": "6936",
     "name": "永鴻生技",
@@ -1625,7 +1636,7 @@
     "trust_ratio": 0.001374400417817727,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.5513744004178178,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.050000000000000044
   },
   {
     "date": "2026-05-05",
@@ -1636,7 +1647,7 @@
     "trust_ratio": 0.001374400417817727,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.5613744004178178,
-    "three_inst_ratio_change_20": 0.06000000000000005
+    "three_inst_ratio_change_20": 0.050000000000000044
   },
   {
     "date": "2026-05-06",
@@ -1647,7 +1658,7 @@
     "trust_ratio": 0.001374400417817727,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.5713744004178177,
-    "three_inst_ratio_change_20": 0.05999999999999994
+    "three_inst_ratio_change_20": 0.04999999999999993
   },
   {
     "date": "2026-05-07",
@@ -1669,7 +1680,7 @@
     "trust_ratio": 0.001374400417817727,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.6013744004178178,
-    "three_inst_ratio_change_20": 0.07999999999999996
+    "three_inst_ratio_change_20": 0.04999999999999993
   },
   {
     "date": "2026-05-11",
@@ -1702,7 +1713,7 @@
     "trust_ratio": 0.001374400417817727,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.5613744004178178,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-05-14",
@@ -1713,7 +1724,7 @@
     "trust_ratio": 0.001374400417817727,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.5413744004178178,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": -0.029999999999999916
   },
   {
     "date": "2026-05-15",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.001374400417817727,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.5313744004178178,
-    "three_inst_ratio_change_20": -0.039999999999999925
+    "three_inst_ratio_change_20": -0.04999999999999993
   },
   {
     "date": "2026-05-18",
@@ -1757,7 +1768,7 @@
     "trust_ratio": 0.0013735509037964948,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.5113735509037965,
-    "three_inst_ratio_change_20": -0.07000084951402119
+    "three_inst_ratio_change_20": -0.06000084951402118
   },
   {
     "date": "2026-05-21",
@@ -1779,7 +1790,7 @@
     "trust_ratio": 0.0013735509037964948,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.5013735509037965,
-    "three_inst_ratio_change_20": -0.07000084951402119
+    "three_inst_ratio_change_20": -0.06000084951402129
   },
   {
     "date": "2026-05-25",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.0013735509037964948,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.47137355090379646,
-    "three_inst_ratio_change_20": -0.09000084951402137
+    "three_inst_ratio_change_20": -0.08000084951402137
   },
   {
     "date": "2026-05-28",
@@ -1834,7 +1845,7 @@
     "trust_ratio": 0.0013735509037964948,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.48137355090379647,
-    "three_inst_ratio_change_20": -0.07000084951402136
+    "three_inst_ratio_change_20": 0.48137355090379647
   },
   {
     "date": "2026-06-01",
@@ -2077,5 +2088,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4513735509037965,
     "three_inst_ratio_change_20": -0.02999999999999997
+  },
+  {
+    "date": "2026-07-02",
+    "code": "6936",
+    "name": "永鴻生技",
+    "market": "TWSE",
+    "foreign_ratio": 0.45,
+    "trust_ratio": 0.0013735509037964948,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.4513735509037965,
+    "three_inst_ratio_change_20": -0.03999999999999998
   }
 ]

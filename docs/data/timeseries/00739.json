@@ -1672,6 +1672,17 @@
     "three_inst_ratio_change_20": 1.2799999999999998
   },
   {
+    "date": "2026-05-01",
+    "code": "00739",
+    "name": "元大MSCI A股",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.93
+  },
+  {
     "date": "2026-05-04",
     "code": "00739",
     "name": "元大MSCI A股",
@@ -1691,7 +1702,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.25,
-    "three_inst_ratio_change_20": 1.3199999999999998
+    "three_inst_ratio_change_20": 1.3399999999999999
   },
   {
     "date": "2026-05-06",
@@ -1702,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.59,
-    "three_inst_ratio_change_20": 1.6799999999999997
+    "three_inst_ratio_change_20": 1.77
   },
   {
     "date": "2026-05-07",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.66,
-    "three_inst_ratio_change_20": -0.15999999999999992
+    "three_inst_ratio_change_20": -0.15000000000000002
   },
   {
     "date": "2026-05-11",
@@ -1735,7 +1746,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.66,
-    "three_inst_ratio_change_20": -0.15000000000000002
+    "three_inst_ratio_change_20": -0.14
   },
   {
     "date": "2026-05-12",
@@ -1790,7 +1801,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.73,
-    "three_inst_ratio_change_20": -0.07000000000000006
+    "three_inst_ratio_change_20": -0.13
   },
   {
     "date": "2026-05-19",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.73,
-    "three_inst_ratio_change_20": -0.13
+    "three_inst_ratio_change_20": -0.19000000000000006
   },
   {
     "date": "2026-05-21",
@@ -1823,7 +1834,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.75,
-    "three_inst_ratio_change_20": -0.17000000000000004
+    "three_inst_ratio_change_20": -0.25
   },
   {
     "date": "2026-05-22",
@@ -1834,7 +1845,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.72,
-    "three_inst_ratio_change_20": -0.28
+    "three_inst_ratio_change_20": -0.29000000000000004
   },
   {
     "date": "2026-05-25",
@@ -1845,7 +1856,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.76,
-    "three_inst_ratio_change_20": -0.25
+    "three_inst_ratio_change_20": -0.3799999999999999
   },
   {
     "date": "2026-05-26",
@@ -1856,7 +1867,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.72,
-    "three_inst_ratio_change_20": -0.41999999999999993
+    "three_inst_ratio_change_20": -0.51
   },
   {
     "date": "2026-05-27",
@@ -1867,7 +1878,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.75,
-    "three_inst_ratio_change_20": -0.48
+    "three_inst_ratio_change_20": -0.8899999999999999
   },
   {
     "date": "2026-05-28",
@@ -1878,7 +1889,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.75,
-    "three_inst_ratio_change_20": -0.8899999999999999
+    "three_inst_ratio_change_20": -1.46
   },
   {
     "date": "2026-05-29",
@@ -1889,7 +1900,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.83,
-    "three_inst_ratio_change_20": -1.38
+    "three_inst_ratio_change_20": 0.83
   },
   {
     "date": "2026-06-01",
@@ -2132,5 +2143,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.81,
     "three_inst_ratio_change_20": 3.04
+  },
+  {
+    "date": "2026-07-02",
+    "code": "00739",
+    "name": "元大MSCI A股",
+    "market": "TWSE",
+    "foreign_ratio": 4.36,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.36,
+    "three_inst_ratio_change_20": 3.5900000000000003
   }
 ]

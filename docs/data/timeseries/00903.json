@@ -1672,18 +1672,18 @@
     "three_inst_ratio_change_20": 0.48
   },
   {
-    "date": "2026-05-04",
+    "date": "2026-05-01",
     "code": "00903",
     "name": "富邦元宇宙",
     "market": "TWSE",
-    "foreign_ratio": 1.93,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.93,
-    "three_inst_ratio_change_20": -0.1100000000000001
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.04
   },
   {
-    "date": "2026-05-05",
+    "date": "2026-05-04",
     "code": "00903",
     "name": "富邦元宇宙",
     "market": "TWSE",
@@ -1694,18 +1694,18 @@
     "three_inst_ratio_change_20": 0.5799999999999998
   },
   {
-    "date": "2026-05-06",
+    "date": "2026-05-05",
     "code": "00903",
     "name": "富邦元宇宙",
     "market": "TWSE",
-    "foreign_ratio": 1.63,
+    "foreign_ratio": 1.93,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.63,
-    "three_inst_ratio_change_20": 0.31999999999999984
+    "three_inst_ratio": 1.93,
+    "three_inst_ratio_change_20": 0.6199999999999999
   },
   {
-    "date": "2026-05-07",
+    "date": "2026-05-06",
     "code": "00903",
     "name": "富邦元宇宙",
     "market": "TWSE",
@@ -1716,6 +1716,17 @@
     "three_inst_ratio_change_20": -2.5600000000000005
   },
   {
+    "date": "2026-05-07",
+    "code": "00903",
+    "name": "富邦元宇宙",
+    "market": "TWSE",
+    "foreign_ratio": 1.63,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.63,
+    "three_inst_ratio_change_20": -2.8899999999999997
+  },
+  {
     "date": "2026-05-08",
     "code": "00903",
     "name": "富邦元宇宙",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.77,
-    "three_inst_ratio_change_20": -2.7499999999999996
+    "three_inst_ratio_change_20": -0.1299999999999999
   },
   {
     "date": "2026-05-11",
@@ -1735,7 +1746,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.41,
-    "three_inst_ratio_change_20": 0.5100000000000002
+    "three_inst_ratio_change_20": 0.5000000000000002
   },
   {
     "date": "2026-05-12",
@@ -1746,7 +1757,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.46,
-    "three_inst_ratio_change_20": 0.55
+    "three_inst_ratio_change_20": -0.28000000000000025
   },
   {
     "date": "2026-05-13",
@@ -1757,7 +1768,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.17,
-    "three_inst_ratio_change_20": -0.5700000000000003
+    "three_inst_ratio_change_20": -0.6499999999999999
   },
   {
     "date": "2026-05-14",
@@ -1768,7 +1779,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.07,
-    "three_inst_ratio_change_20": -0.75
+    "three_inst_ratio_change_20": -1.29
   },
   {
     "date": "2026-05-15",
@@ -1779,7 +1790,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.95,
-    "three_inst_ratio_change_20": -1.41
+    "three_inst_ratio_change_20": -1.6500000000000001
   },
   {
     "date": "2026-05-18",
@@ -1790,7 +1801,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.02,
-    "three_inst_ratio_change_20": -1.58
+    "three_inst_ratio_change_20": 0.10000000000000009
   },
   {
     "date": "2026-05-19",
@@ -1801,7 +1812,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.08,
-    "three_inst_ratio_change_20": 0.16000000000000014
+    "three_inst_ratio_change_20": -0.27
   },
   {
     "date": "2026-05-20",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.08,
-    "three_inst_ratio_change_20": -0.27
+    "three_inst_ratio_change_20": -1.31
   },
   {
     "date": "2026-05-21",
@@ -1823,7 +1834,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.11,
-    "three_inst_ratio_change_20": -1.2800000000000002
+    "three_inst_ratio_change_20": -1.3000000000000003
   },
   {
     "date": "2026-05-22",
@@ -1834,7 +1845,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.12,
-    "three_inst_ratio_change_20": -1.29
+    "three_inst_ratio_change_20": 0.40000000000000013
   },
   {
     "date": "2026-05-25",
@@ -1845,7 +1856,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.35,
-    "three_inst_ratio_change_20": 1.6300000000000001
+    "three_inst_ratio_change_20": -1.4099999999999997
   },
   {
     "date": "2026-05-26",
@@ -1856,7 +1867,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.35,
-    "three_inst_ratio_change_20": -1.4099999999999997
+    "three_inst_ratio_change_20": 2.06
   },
   {
     "date": "2026-05-27",
@@ -1867,7 +1878,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.36,
-    "three_inst_ratio_change_20": 2.07
+    "three_inst_ratio_change_20": 2.0599999999999996
   },
   {
     "date": "2026-05-28",
@@ -1878,7 +1889,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.39,
-    "three_inst_ratio_change_20": 2.09
+    "three_inst_ratio_change_20": 1.58
   },
   {
     "date": "2026-05-29",
@@ -1889,7 +1900,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.28,
-    "three_inst_ratio_change_20": 1.4699999999999998
+    "three_inst_ratio_change_20": 3.28
   },
   {
     "date": "2026-06-01",
@@ -2132,5 +2143,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.54,
     "three_inst_ratio_change_20": -2.2
+  },
+  {
+    "date": "2026-07-02",
+    "code": "00903",
+    "name": "富邦元宇宙",
+    "market": "TWSE",
+    "foreign_ratio": 1.54,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.54,
+    "three_inst_ratio_change_20": -1.63
   }
 ]

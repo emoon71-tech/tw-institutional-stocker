@@ -1584,6 +1584,17 @@
     "three_inst_ratio_change_20": 0.0
   },
   {
+    "date": "2026-05-01",
+    "code": "00775B",
+    "name": "新光投等債15+",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.18
+  },
+  {
     "date": "2026-05-04",
     "code": "00775B",
     "name": "新光投等債15+",
@@ -1801,7 +1812,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.19,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.19
   },
   {
     "date": "2026-06-02",
@@ -2014,6 +2025,17 @@
   },
   {
     "date": "2026-07-01",
+    "code": "00775B",
+    "name": "新光投等債15+",
+    "market": "TWSE",
+    "foreign_ratio": 0.2,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.2,
+    "three_inst_ratio_change_20": 0.010000000000000009
+  },
+  {
+    "date": "2026-07-02",
     "code": "00775B",
     "name": "新光投等債15+",
     "market": "TWSE",

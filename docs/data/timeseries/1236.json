@@ -1650,6 +1650,17 @@
     "three_inst_ratio_change_20": 0.044614993689919114
   },
   {
+    "date": "2026-05-01",
+    "code": "1236",
+    "name": "宏亞",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.45
+  },
+  {
     "date": "2026-05-04",
     "code": "1236",
     "name": "宏亞",
@@ -1658,7 +1669,7 @@
     "trust_ratio": 0.004614993689919128,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4946149936899191,
-    "three_inst_ratio_change_20": 0.044614993689919114
+    "three_inst_ratio_change_20": 0.05461499368991912
   },
   {
     "date": "2026-05-05",
@@ -1680,7 +1691,7 @@
     "trust_ratio": 0.004614993689919128,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.5146149936899191,
-    "three_inst_ratio_change_20": 0.07461499368991914
+    "three_inst_ratio_change_20": 0.05461499368991912
   },
   {
     "date": "2026-05-07",
@@ -1713,7 +1724,7 @@
     "trust_ratio": 0.004614993689919128,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.5046149936899191,
-    "three_inst_ratio_change_20": 0.044614993689919114
+    "three_inst_ratio_change_20": 0.014614993689919142
   },
   {
     "date": "2026-05-12",
@@ -1735,7 +1746,7 @@
     "trust_ratio": 0.004614993689919128,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.46461499368991915,
-    "three_inst_ratio_change_20": -0.025385006310080838
+    "three_inst_ratio_change_20": -0.06
   },
   {
     "date": "2026-05-14",
@@ -1779,7 +1790,7 @@
     "trust_ratio": 0.004614993689919128,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.45461499368991914,
-    "three_inst_ratio_change_20": -0.07
+    "three_inst_ratio_change_20": -0.06
   },
   {
     "date": "2026-05-20",
@@ -1801,7 +1812,7 @@
     "trust_ratio": 0.004614993689919128,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44461499368991914,
-    "three_inst_ratio_change_20": -0.07
+    "three_inst_ratio_change_20": -0.06
   },
   {
     "date": "2026-05-22",
@@ -1856,7 +1867,7 @@
     "trust_ratio": 0.004614993689919128,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.46461499368991915,
-    "three_inst_ratio_change_20": -0.03999999999999998
+    "three_inst_ratio_change_20": -0.02999999999999997
   },
   {
     "date": "2026-05-29",
@@ -1867,7 +1878,7 @@
     "trust_ratio": 0.004614993689919128,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4746149936899191,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": 0.4746149936899191
   },
   {
     "date": "2026-06-01",
@@ -2110,5 +2121,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4946149936899191,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-07-02",
+    "code": "1236",
+    "name": "宏亞",
+    "market": "TWSE",
+    "foreign_ratio": 0.5,
+    "trust_ratio": 0.004614993689919128,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.5046149936899191,
+    "three_inst_ratio_change_20": 0.010000000000000009
   }
 ]

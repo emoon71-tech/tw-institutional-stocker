@@ -1485,6 +1485,17 @@
     "three_inst_ratio_change_20": 0.04999999999999716
   },
   {
+    "date": "2026-05-01",
+    "code": "8482",
+    "name": "商億-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -91.67
+  },
+  {
     "date": "2026-05-04",
     "code": "8482",
     "name": "商億-KY",
@@ -1493,7 +1504,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 91.72,
-    "three_inst_ratio_change_20": 0.04999999999999716
+    "three_inst_ratio_change_20": 0.060000000000002274
   },
   {
     "date": "2026-05-05",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 91.74,
-    "three_inst_ratio_change_20": 0.0799999999999983
+    "three_inst_ratio_change_20": 0.06999999999999318
   },
   {
     "date": "2026-05-11",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 91.73,
-    "three_inst_ratio_change_20": 0.060000000000002274
+    "three_inst_ratio_change_20": 0.04000000000000625
   },
   {
     "date": "2026-05-18",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 91.72,
-    "three_inst_ratio_change_20": 0.030000000000001137
+    "three_inst_ratio_change_20": 0.01999999999999602
   },
   {
     "date": "2026-05-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 91.72,
-    "three_inst_ratio_change_20": 0.01999999999999602
+    "three_inst_ratio_change_20": 0.010000000000005116
   },
   {
     "date": "2026-05-22",
@@ -1625,7 +1636,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 91.72,
-    "three_inst_ratio_change_20": 0.010000000000005116
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-05-26",
@@ -1702,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 91.75,
-    "three_inst_ratio_change_20": 0.030000000000001137
+    "three_inst_ratio_change_20": 91.75
   },
   {
     "date": "2026-06-04",
@@ -1846,5 +1857,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 91.74,
     "three_inst_ratio_change_20": 0.01999999999999602
+  },
+  {
+    "date": "2026-07-02",
+    "code": "8482",
+    "name": "商億-KY",
+    "market": "TWSE",
+    "foreign_ratio": 91.71,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 91.71,
+    "three_inst_ratio_change_20": -0.010000000000005116
   }
 ]

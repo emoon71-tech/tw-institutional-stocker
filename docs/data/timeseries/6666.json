@@ -1518,6 +1518,17 @@
     "three_inst_ratio_change_20": 0.030000000000001137
   },
   {
+    "date": "2026-05-01",
+    "code": "6666",
+    "name": "羅麗芬-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -75.14
+  },
+  {
     "date": "2026-05-04",
     "code": "6666",
     "name": "羅麗芬-KY",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 75.19,
-    "three_inst_ratio_change_20": 0.04999999999999716
+    "three_inst_ratio_change_20": 0.03999999999999204
   },
   {
     "date": "2026-05-11",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 75.19,
-    "three_inst_ratio_change_20": 0.03999999999999204
+    "three_inst_ratio_change_20": 0.030000000000001137
   },
   {
     "date": "2026-05-13",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 75.18,
-    "three_inst_ratio_change_20": 0.020000000000010232
+    "three_inst_ratio_change_20": 0.010000000000005116
   },
   {
     "date": "2026-05-15",
@@ -1636,7 +1647,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 75.16,
-    "three_inst_ratio_change_20": -0.010000000000005116
+    "three_inst_ratio_change_20": -0.030000000000001137
   },
   {
     "date": "2026-05-19",
@@ -1647,7 +1658,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 75.16,
-    "three_inst_ratio_change_20": -0.030000000000001137
+    "three_inst_ratio_change_20": -0.060000000000002274
   },
   {
     "date": "2026-05-20",
@@ -1680,7 +1691,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 75.14,
-    "three_inst_ratio_change_20": -0.0799999999999983
+    "three_inst_ratio_change_20": -0.06999999999999318
   },
   {
     "date": "2026-05-25",
@@ -1713,7 +1724,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 75.18,
-    "three_inst_ratio_change_20": -0.029999999999986926
+    "three_inst_ratio_change_20": -0.01999999999999602
   },
   {
     "date": "2026-05-28",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 75.18,
-    "three_inst_ratio_change_20": -0.01999999999999602
+    "three_inst_ratio_change_20": 0.010000000000005116
   },
   {
     "date": "2026-05-29",
@@ -1735,7 +1746,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 75.19,
-    "three_inst_ratio_change_20": 0.01999999999999602
+    "three_inst_ratio_change_20": 75.19
   },
   {
     "date": "2026-06-01",
@@ -1978,5 +1989,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 75.25,
     "three_inst_ratio_change_20": 0.04999999999999716
+  },
+  {
+    "date": "2026-07-02",
+    "code": "6666",
+    "name": "羅麗芬-KY",
+    "market": "TWSE",
+    "foreign_ratio": 75.25,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 75.25,
+    "three_inst_ratio_change_20": 0.060000000000002274
   }
 ]

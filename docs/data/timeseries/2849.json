@@ -1716,18 +1716,18 @@
     "three_inst_ratio_change_20": 0.07000000000000028
   },
   {
-    "date": "2026-05-04",
+    "date": "2026-05-01",
     "code": "2849",
     "name": "安泰銀",
     "market": "TWSE",
-    "foreign_ratio": 58.88,
-    "trust_ratio": -0.00020954129597385775,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 58.87979045870403,
-    "three_inst_ratio_change_20": 0.0800000000000054
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -58.799790458704024
   },
   {
-    "date": "2026-05-05",
+    "date": "2026-05-04",
     "code": "2849",
     "name": "安泰銀",
     "market": "TWSE",
@@ -1738,6 +1738,17 @@
     "three_inst_ratio_change_20": 58.87979045870403
   },
   {
+    "date": "2026-05-05",
+    "code": "2849",
+    "name": "安泰銀",
+    "market": "TWSE",
+    "foreign_ratio": 58.88,
+    "trust_ratio": -0.00020954129597385775,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 58.87979045870403,
+    "three_inst_ratio_change_20": 0.0800000000000054
+  },
+  {
     "date": "2026-05-06",
     "code": "2849",
     "name": "安泰銀",
@@ -1746,7 +1757,7 @@
     "trust_ratio": -0.00020954129597385775,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.88979045870403,
-    "three_inst_ratio_change_20": 0.09000000000000341
+    "three_inst_ratio_change_20": 0.0799999999999983
   },
   {
     "date": "2026-05-07",
@@ -1757,7 +1768,7 @@
     "trust_ratio": -0.00020954129597385775,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.88979045870403,
-    "three_inst_ratio_change_20": 0.0799999999999983
+    "three_inst_ratio_change_20": 0.07000000000000028
   },
   {
     "date": "2026-05-08",
@@ -1768,7 +1779,7 @@
     "trust_ratio": -0.00020954129597385775,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.899790458704025,
-    "three_inst_ratio_change_20": 0.0799999999999983
+    "three_inst_ratio_change_20": 0.0899999999999963
   },
   {
     "date": "2026-05-11",
@@ -1790,7 +1801,7 @@
     "trust_ratio": -0.00020954129597385775,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.899790458704025,
-    "three_inst_ratio_change_20": 0.0899999999999963
+    "three_inst_ratio_change_20": 0.07000000000000028
   },
   {
     "date": "2026-05-13",
@@ -1812,7 +1823,7 @@
     "trust_ratio": -0.00020954129597385775,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.88979045870403,
-    "three_inst_ratio_change_20": 0.060000000000002274
+    "three_inst_ratio_change_20": 0.03999999999999915
   },
   {
     "date": "2026-05-15",
@@ -1834,7 +1845,7 @@
     "trust_ratio": -0.00020954129597385775,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.88979045870403,
-    "three_inst_ratio_change_20": 0.03999999999999915
+    "three_inst_ratio_change_20": 0.030000000000001137
   },
   {
     "date": "2026-05-19",
@@ -1845,7 +1856,7 @@
     "trust_ratio": -0.00020954129597385775,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.88979045870403,
-    "three_inst_ratio_change_20": 0.030000000000001137
+    "three_inst_ratio_change_20": 0.020000000000003126
   },
   {
     "date": "2026-05-20",
@@ -1889,7 +1900,7 @@
     "trust_ratio": -0.00020954129597385775,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.87979045870403,
-    "three_inst_ratio_change_20": 0.010000000000005116
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-05-26",
@@ -1933,7 +1944,7 @@
     "trust_ratio": -0.00020954129597385775,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.899790458704025,
-    "three_inst_ratio_change_20": 0.01999999999999602
+    "three_inst_ratio_change_20": 58.899790458704025
   },
   {
     "date": "2026-06-01",
@@ -2176,5 +2187,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.92040345128123,
     "three_inst_ratio_change_20": 0.020612992577206057
+  },
+  {
+    "date": "2026-07-02",
+    "code": "2849",
+    "name": "安泰銀",
+    "market": "TWSE",
+    "foreign_ratio": 58.92,
+    "trust_ratio": 0.00040345128122904156,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 58.92040345128123,
+    "three_inst_ratio_change_20": 0.010612992577208047
   }
 ]

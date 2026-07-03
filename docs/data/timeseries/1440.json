@@ -1716,15 +1716,26 @@
     "three_inst_ratio_change_20": 0.09036214042584412
   },
   {
+    "date": "2026-05-01",
+    "code": "1440",
+    "name": "南紡",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -7.691211867584148
+  },
+  {
     "date": "2026-05-04",
     "code": "1440",
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.76,
-    "trust_ratio": 0.011574008009992144,
+    "trust_ratio": 0.01682184527764331,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.771574008009992,
-    "three_inst_ratio_change_20": 0.08036214042584433
+    "three_inst_ratio": 7.776821845277643,
+    "three_inst_ratio_change_20": 7.776821845277643
   },
   {
     "date": "2026-05-05",
@@ -1732,10 +1743,10 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.75,
-    "trust_ratio": 0.011574008009992144,
+    "trust_ratio": 0.01682184527764331,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.761574008009992,
-    "three_inst_ratio_change_20": 7.761574008009992
+    "three_inst_ratio": 7.766821845277644,
+    "three_inst_ratio_change_20": 0.10560997769349534
   },
   {
     "date": "2026-05-06",
@@ -1743,10 +1754,10 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.73,
-    "trust_ratio": 0.011574008009992144,
+    "trust_ratio": 0.01682184527764331,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.741574008009993,
-    "three_inst_ratio_change_20": 0.08036214042584433
+    "three_inst_ratio": 7.746821845277644,
+    "three_inst_ratio_change_20": 0.09560997769349644
   },
   {
     "date": "2026-05-07",
@@ -1754,10 +1765,10 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.68,
-    "trust_ratio": 0.011634364747632905,
+    "trust_ratio": 0.016882202015284068,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.691634364747633,
-    "three_inst_ratio_change_20": 0.040422497163485005
+    "three_inst_ratio": 7.696882202015284,
+    "three_inst_ratio_change_20": 0.06554962095585459
   },
   {
     "date": "2026-05-08",
@@ -1765,10 +1776,10 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.65,
-    "trust_ratio": 0.011634364747632905,
+    "trust_ratio": 0.016882202015284068,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.661634364747633,
-    "three_inst_ratio_change_20": 0.0303017836882038
+    "three_inst_ratio": 7.666882202015285,
+    "three_inst_ratio_change_20": 0.015549620955855659
   },
   {
     "date": "2026-05-11",
@@ -1776,10 +1787,10 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.63,
-    "trust_ratio": 0.011634364747632905,
+    "trust_ratio": 0.016882202015284068,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.641634364747633,
-    "three_inst_ratio_change_20": -0.009698216311796237
+    "three_inst_ratio": 7.646882202015284,
+    "three_inst_ratio_change_20": -0.10445037904414534
   },
   {
     "date": "2026-05-12",
@@ -1787,10 +1798,10 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.55,
-    "trust_ratio": 0.011634364747632905,
+    "trust_ratio": 0.016882202015284068,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.561634364747633,
-    "three_inst_ratio_change_20": -0.18969821631179684
+    "three_inst_ratio": 7.566882202015284,
+    "three_inst_ratio_change_20": -0.3244503790441451
   },
   {
     "date": "2026-05-13",
@@ -1798,10 +1809,10 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.52,
-    "trust_ratio": 0.011634364747632905,
+    "trust_ratio": 0.016882202015284068,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.5316343647476325,
-    "three_inst_ratio_change_20": -0.35969821631179677
+    "three_inst_ratio": 7.536882202015284,
+    "three_inst_ratio_change_20": -0.35445037904414534
   },
   {
     "date": "2026-05-14",
@@ -1809,10 +1820,10 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.5,
-    "trust_ratio": 0.011211867584147585,
+    "trust_ratio": 0.016459704851798748,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.511211867584148,
-    "three_inst_ratio_change_20": -0.3801207134752813
+    "three_inst_ratio": 7.5164597048517985,
+    "three_inst_ratio_change_20": -0.41511430315819364
   },
   {
     "date": "2026-05-15",
@@ -1820,10 +1831,10 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.44,
-    "trust_ratio": 0.011211867584147585,
+    "trust_ratio": 0.016459704851798748,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.451211867584148,
-    "three_inst_ratio_change_20": -0.4803621404258438
+    "three_inst_ratio": 7.456459704851799,
+    "three_inst_ratio_change_20": -0.3951143031581932
   },
   {
     "date": "2026-05-18",
@@ -1831,10 +1842,10 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.41,
-    "trust_ratio": 0.011211867584147585,
+    "trust_ratio": 0.016459704851798748,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.421211867584148,
-    "three_inst_ratio_change_20": -0.430362140425844
+    "three_inst_ratio": 7.426459704851799,
+    "three_inst_ratio_change_20": -0.4451143031581939
   },
   {
     "date": "2026-05-19",
@@ -1842,10 +1853,10 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.4,
-    "trust_ratio": 0.011211867584147585,
+    "trust_ratio": 0.016459704851798748,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.411211867584148,
-    "three_inst_ratio_change_20": -0.4603621404258442
+    "three_inst_ratio": 7.416459704851799,
+    "three_inst_ratio_change_20": -0.46511430315819347
   },
   {
     "date": "2026-05-20",
@@ -1853,10 +1864,10 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.4,
-    "trust_ratio": 0.011151510846506825,
+    "trust_ratio": 0.016399348114157986,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.411151510846508,
-    "three_inst_ratio_change_20": -0.4704224971634847
+    "three_inst_ratio": 7.416399348114158,
+    "three_inst_ratio_change_20": -0.4651746598958342
   },
   {
     "date": "2026-05-21",
@@ -1864,10 +1875,10 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.4,
-    "trust_ratio": 0.011151510846506825,
+    "trust_ratio": 0.016399348114157986,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.411151510846508,
-    "three_inst_ratio_change_20": -0.4704224971634847
+    "three_inst_ratio": 7.416399348114158,
+    "three_inst_ratio_change_20": -0.42517465989583414
   },
   {
     "date": "2026-05-22",
@@ -1875,10 +1886,10 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.35,
-    "trust_ratio": 0.011151510846506825,
+    "trust_ratio": 0.016399348114157986,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.361151510846507,
-    "three_inst_ratio_change_20": -0.4804224971634854
+    "three_inst_ratio": 7.366399348114157,
+    "three_inst_ratio_change_20": -0.4351746598958348
   },
   {
     "date": "2026-05-25",
@@ -1886,10 +1897,10 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.32,
-    "trust_ratio": 0.011151510846506825,
+    "trust_ratio": 0.016399348114157986,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.3311515108465075,
-    "three_inst_ratio_change_20": -0.4704224971634847
+    "three_inst_ratio": 7.336399348114158,
+    "three_inst_ratio_change_20": -0.4651746598958342
   },
   {
     "date": "2026-05-26",
@@ -1897,10 +1908,10 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.2,
-    "trust_ratio": 0.011211867584147585,
+    "trust_ratio": 0.016459704851798748,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.211211867584148,
-    "three_inst_ratio_change_20": -0.5903621404258441
+    "three_inst_ratio": 7.216459704851799,
+    "three_inst_ratio_change_20": -0.6351143031581934
   },
   {
     "date": "2026-05-27",
@@ -1908,10 +1919,10 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.23,
-    "trust_ratio": 0.011211867584147585,
+    "trust_ratio": 0.016459704851798748,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.241211867584148,
-    "three_inst_ratio_change_20": -0.6103621404258437
+    "three_inst_ratio": 7.246459704851799,
+    "three_inst_ratio_change_20": -0.5951143031581934
   },
   {
     "date": "2026-05-28",
@@ -1919,10 +1930,10 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.24,
-    "trust_ratio": 0.011211867584147585,
+    "trust_ratio": 0.016459704851798748,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.251211867584148,
-    "three_inst_ratio_change_20": -0.5903621404258441
+    "three_inst_ratio": 7.256459704851799,
+    "three_inst_ratio_change_20": -0.5451143031581935
   },
   {
     "date": "2026-05-29",
@@ -1930,10 +1941,10 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.34,
-    "trust_ratio": 0.010970440633584544,
+    "trust_ratio": 0.016218277901235707,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.350970440633584,
-    "three_inst_ratio_change_20": -0.45060356737640817
+    "three_inst_ratio": 7.3562182779012355,
+    "three_inst_ratio_change_20": 7.3562182779012355
   },
   {
     "date": "2026-06-01",
@@ -1941,9 +1952,9 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.37,
-    "trust_ratio": 0.011030797371225304,
+    "trust_ratio": 0.016278634638876466,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.381030797371225,
+    "three_inst_ratio": 7.3862786346388765,
     "three_inst_ratio_change_20": -0.39054321063876696
   },
   {
@@ -1952,9 +1963,9 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.39,
-    "trust_ratio": 0.011030797371225304,
+    "trust_ratio": 0.016278634638876466,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.401030797371225,
+    "three_inst_ratio": 7.406278634638876,
     "three_inst_ratio_change_20": -0.3605432106387676
   },
   {
@@ -1963,9 +1974,9 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.48,
-    "trust_ratio": 0.011030797371225304,
+    "trust_ratio": 0.016278634638876466,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.491030797371225,
+    "three_inst_ratio": 7.496278634638877,
     "three_inst_ratio_change_20": -0.2505432106387673
   },
   {
@@ -1974,9 +1985,9 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.34,
-    "trust_ratio": 0.011030797371225304,
+    "trust_ratio": 0.016278634638876466,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.351030797371225,
+    "three_inst_ratio": 7.356278634638876,
     "three_inst_ratio_change_20": -0.34060356737640785
   },
   {
@@ -1985,9 +1996,9 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.37,
-    "trust_ratio": 0.010849727158303025,
+    "trust_ratio": 0.016097564425954187,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.380849727158303,
+    "three_inst_ratio": 7.386097564425954,
     "three_inst_ratio_change_20": -0.28078463758933037
   },
   {
@@ -1996,9 +2007,9 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.48,
-    "trust_ratio": 0.010789370420662263,
+    "trust_ratio": 0.016037207688313425,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.4907893704206625,
+    "three_inst_ratio": 7.496037207688314,
     "three_inst_ratio_change_20": -0.1508449943269703
   },
   {
@@ -2007,9 +2018,9 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.16,
-    "trust_ratio": 0.010789370420662263,
+    "trust_ratio": 0.016037207688313425,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.170789370420662,
+    "three_inst_ratio": 7.176037207688314,
     "three_inst_ratio_change_20": -0.3908449943269705
   },
   {
@@ -2018,9 +2029,9 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.2,
-    "trust_ratio": 0.010789370420662263,
+    "trust_ratio": 0.016037207688313425,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.210789370420662,
+    "three_inst_ratio": 7.216037207688314,
     "three_inst_ratio_change_20": -0.3208449943269702
   },
   {
@@ -2029,10 +2040,10 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.22,
-    "trust_ratio": 0.010789370420662263,
+    "trust_ratio": 0.016037207688313425,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.230789370420662,
-    "three_inst_ratio_change_20": -0.2804224971634861
+    "three_inst_ratio": 7.236037207688313,
+    "three_inst_ratio_change_20": -0.2804224971634852
   },
   {
     "date": "2026-06-12",
@@ -2040,9 +2051,9 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.25,
-    "trust_ratio": 0.010125446306613904,
+    "trust_ratio": 0.015373283574265066,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.260125446306614,
+    "three_inst_ratio": 7.265373283574265,
     "three_inst_ratio_change_20": -0.19108642127753406
   },
   {
@@ -2051,9 +2062,9 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.26,
-    "trust_ratio": 0.010125446306613904,
+    "trust_ratio": 0.015373283574265066,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.270125446306614,
+    "three_inst_ratio": 7.275373283574265,
     "three_inst_ratio_change_20": -0.15108642127753402
   },
   {
@@ -2062,9 +2073,9 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.26,
-    "trust_ratio": 0.010125446306613904,
+    "trust_ratio": 0.015373283574265066,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.270125446306614,
+    "three_inst_ratio": 7.275373283574265,
     "three_inst_ratio_change_20": -0.14108642127753424
   },
   {
@@ -2073,9 +2084,9 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.24,
-    "trust_ratio": 0.010125446306613904,
+    "trust_ratio": 0.015373283574265066,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.2501254463066145,
+    "three_inst_ratio": 7.255373283574265,
     "three_inst_ratio_change_20": -0.1610260645398931
   },
   {
@@ -2084,9 +2095,9 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.15,
-    "trust_ratio": 0.010125446306613904,
+    "trust_ratio": 0.015373283574265066,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.160125446306615,
+    "three_inst_ratio": 7.165373283574265,
     "three_inst_ratio_change_20": -0.25102606453989296
   },
   {
@@ -2095,9 +2106,9 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.19,
-    "trust_ratio": 0.010065089568973144,
+    "trust_ratio": 0.015312926836624307,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.200065089568974,
+    "three_inst_ratio": 7.2053129268366245,
     "three_inst_ratio_change_20": -0.16108642127753292
   },
   {
@@ -2106,9 +2117,9 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.18,
-    "trust_ratio": 0.010065089568973144,
+    "trust_ratio": 0.015312926836624307,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.190065089568973,
+    "three_inst_ratio": 7.195312926836624,
     "three_inst_ratio_change_20": -0.14108642127753424
   },
   {
@@ -2117,9 +2128,9 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.2,
-    "trust_ratio": 0.010065089568973144,
+    "trust_ratio": 0.015312926836624307,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.210065089568974,
+    "three_inst_ratio": 7.215312926836624,
     "three_inst_ratio_change_20": -0.0011467780151743767
   },
   {
@@ -2128,9 +2139,9 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.18,
-    "trust_ratio": 0.010065089568973144,
+    "trust_ratio": 0.015312926836624307,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.190065089568973,
+    "three_inst_ratio": 7.195312926836624,
     "three_inst_ratio_change_20": -0.05114677801517509
   },
   {
@@ -2139,9 +2150,9 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.16,
-    "trust_ratio": 0.010065089568973144,
+    "trust_ratio": 0.015312926836624307,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.170065089568974,
+    "three_inst_ratio": 7.175312926836624,
     "three_inst_ratio_change_20": -0.08114677801517445
   },
   {
@@ -2150,9 +2161,9 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.19,
-    "trust_ratio": 0.009702949143128584,
+    "trust_ratio": 0.014950786410779748,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.199702949143129,
+    "three_inst_ratio": 7.20495078641078,
     "three_inst_ratio_change_20": -0.15126749149045526
   },
   {
@@ -2161,9 +2172,9 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.21,
-    "trust_ratio": 0.009702949143128584,
+    "trust_ratio": 0.014950786410779748,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.219702949143128,
+    "three_inst_ratio": 7.22495078641078,
     "three_inst_ratio_change_20": -0.16132784822809665
   },
   {
@@ -2172,9 +2183,20 @@
     "name": "南紡",
     "market": "TWSE",
     "foreign_ratio": 7.2,
-    "trust_ratio": 0.009702949143128584,
+    "trust_ratio": 0.014950786410779748,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.209702949143129,
+    "three_inst_ratio": 7.21495078641078,
     "three_inst_ratio_change_20": -0.191327848228096
+  },
+  {
+    "date": "2026-07-02",
+    "code": "1440",
+    "name": "南紡",
+    "market": "TWSE",
+    "foreign_ratio": 7.33,
+    "trust_ratio": 0.015493997049546588,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.345493997049546,
+    "three_inst_ratio_change_20": -0.15078463758933047
   }
 ]

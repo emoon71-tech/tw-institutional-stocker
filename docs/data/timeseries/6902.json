@@ -1672,6 +1672,17 @@
     "three_inst_ratio_change_20": 0.18999999999999995
   },
   {
+    "date": "2026-05-01",
+    "code": "6902",
+    "name": "GOGOLOOK",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.05
+  },
+  {
     "date": "2026-05-04",
     "code": "6902",
     "name": "GOGOLOOK",
@@ -1680,7 +1691,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.32,
-    "three_inst_ratio_change_20": 0.27
+    "three_inst_ratio_change_20": 0.2999999999999998
   },
   {
     "date": "2026-05-05",
@@ -1713,7 +1724,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.3,
-    "three_inst_ratio_change_20": 0.2799999999999998
+    "three_inst_ratio_change_20": 0.21999999999999975
   },
   {
     "date": "2026-05-08",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.39,
-    "three_inst_ratio_change_20": 0.31000000000000005
+    "three_inst_ratio_change_20": 0.3200000000000003
   },
   {
     "date": "2026-05-11",
@@ -1757,7 +1768,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.29,
-    "three_inst_ratio_change_20": 0.2200000000000002
+    "three_inst_ratio_change_20": 0.18000000000000016
   },
   {
     "date": "2026-05-14",
@@ -1768,7 +1779,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.33,
-    "three_inst_ratio_change_20": 0.2200000000000002
+    "three_inst_ratio_change_20": 0.18999999999999995
   },
   {
     "date": "2026-05-15",
@@ -1779,7 +1790,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.36,
-    "three_inst_ratio_change_20": 0.21999999999999975
+    "three_inst_ratio_change_20": 0.5099999999999998
   },
   {
     "date": "2026-05-18",
@@ -1790,7 +1801,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.34,
-    "three_inst_ratio_change_20": 0.48999999999999977
+    "three_inst_ratio_change_20": 0.3799999999999999
   },
   {
     "date": "2026-05-19",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.41,
-    "three_inst_ratio_change_20": 0.4500000000000002
+    "three_inst_ratio_change_20": 0.3700000000000001
   },
   {
     "date": "2026-05-21",
@@ -1823,7 +1834,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.48,
-    "three_inst_ratio_change_20": 0.43999999999999995
+    "three_inst_ratio_change_20": 0.5899999999999999
   },
   {
     "date": "2026-05-22",
@@ -1834,7 +1845,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.21,
-    "three_inst_ratio_change_20": 0.31999999999999984
+    "three_inst_ratio_change_20": 0.3900000000000001
   },
   {
     "date": "2026-05-25",
@@ -1845,7 +1856,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.48,
-    "three_inst_ratio_change_20": 0.6600000000000001
+    "three_inst_ratio_change_20": 0.6200000000000001
   },
   {
     "date": "2026-05-26",
@@ -1856,7 +1867,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.5,
-    "three_inst_ratio_change_20": 0.6400000000000001
+    "three_inst_ratio_change_20": 0.3999999999999999
   },
   {
     "date": "2026-05-27",
@@ -1867,7 +1878,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.64,
-    "three_inst_ratio_change_20": 0.54
+    "three_inst_ratio_change_20": 0.56
   },
   {
     "date": "2026-05-28",
@@ -1878,7 +1889,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.87,
-    "three_inst_ratio_change_20": 0.79
+    "three_inst_ratio_change_20": 0.6200000000000001
   },
   {
     "date": "2026-05-29",
@@ -1889,7 +1900,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.03,
-    "three_inst_ratio_change_20": 0.7800000000000002
+    "three_inst_ratio_change_20": 4.03
   },
   {
     "date": "2026-06-01",
@@ -2132,5 +2143,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.6,
     "three_inst_ratio_change_20": -0.18999999999999995
+  },
+  {
+    "date": "2026-07-02",
+    "code": "6902",
+    "name": "GOGOLOOK",
+    "market": "TWSE",
+    "foreign_ratio": 3.69,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.69,
+    "three_inst_ratio_change_20": -0.14000000000000012
   }
 ]

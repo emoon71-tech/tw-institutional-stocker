@@ -1716,6 +1716,17 @@
     "three_inst_ratio_change_20": -0.6799999999999997
   },
   {
+    "date": "2026-05-01",
+    "code": "2477",
+    "name": "美隆電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -23.98
+  },
+  {
     "date": "2026-05-04",
     "code": "2477",
     "name": "美隆電",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.32,
-    "three_inst_ratio_change_20": -0.6600000000000001
+    "three_inst_ratio_change_20": 23.32
   },
   {
     "date": "2026-05-05",
@@ -1735,7 +1746,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.3,
-    "three_inst_ratio_change_20": 23.3
+    "three_inst_ratio_change_20": -0.6499999999999986
   },
   {
     "date": "2026-05-06",
@@ -1757,7 +1768,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.38,
-    "three_inst_ratio_change_20": -0.5700000000000003
+    "three_inst_ratio_change_20": -0.5
   },
   {
     "date": "2026-05-08",
@@ -1768,7 +1779,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.38,
-    "three_inst_ratio_change_20": -0.5
+    "three_inst_ratio_change_20": -0.4800000000000004
   },
   {
     "date": "2026-05-11",
@@ -1801,7 +1812,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.36,
-    "three_inst_ratio_change_20": -0.5
+    "three_inst_ratio_change_20": -0.4800000000000004
   },
   {
     "date": "2026-05-14",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.31,
-    "three_inst_ratio_change_20": -0.5300000000000011
+    "three_inst_ratio_change_20": -0.5400000000000027
   },
   {
     "date": "2026-05-15",
@@ -1834,7 +1845,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.28,
-    "three_inst_ratio_change_20": -0.5700000000000003
+    "three_inst_ratio_change_20": -0.5299999999999976
   },
   {
     "date": "2026-05-19",
@@ -1845,7 +1856,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.28,
-    "three_inst_ratio_change_20": -0.5299999999999976
+    "three_inst_ratio_change_20": -0.39000000000000057
   },
   {
     "date": "2026-05-20",
@@ -1856,7 +1867,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.28,
-    "three_inst_ratio_change_20": -0.39000000000000057
+    "three_inst_ratio_change_20": -0.36999999999999744
   },
   {
     "date": "2026-05-21",
@@ -1867,7 +1878,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.3,
-    "three_inst_ratio_change_20": -0.34999999999999787
+    "three_inst_ratio_change_20": -0.2699999999999996
   },
   {
     "date": "2026-05-22",
@@ -1878,7 +1889,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.33,
-    "three_inst_ratio_change_20": -0.240000000000002
+    "three_inst_ratio_change_20": -0.15000000000000213
   },
   {
     "date": "2026-05-25",
@@ -1889,7 +1900,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.3,
-    "three_inst_ratio_change_20": -0.17999999999999972
+    "three_inst_ratio_change_20": -0.07000000000000028
   },
   {
     "date": "2026-05-26",
@@ -1911,7 +1922,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.33,
-    "three_inst_ratio_change_20": -0.0400000000000027
+    "three_inst_ratio_change_20": -0.030000000000001137
   },
   {
     "date": "2026-05-28",
@@ -1922,7 +1933,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.36,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.019999999999999574
   },
   {
     "date": "2026-05-29",
@@ -1933,7 +1944,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.37,
-    "three_inst_ratio_change_20": 0.030000000000001137
+    "three_inst_ratio_change_20": 23.37
   },
   {
     "date": "2026-06-01",
@@ -2176,5 +2187,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.758660231230433,
     "three_inst_ratio_change_20": 0.2586602312304329
+  },
+  {
+    "date": "2026-07-02",
+    "code": "2477",
+    "name": "美隆電",
+    "market": "TWSE",
+    "foreign_ratio": 23.48,
+    "trust_ratio": 0.2632537428571493,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.74325374285715,
+    "three_inst_ratio_change_20": 0.003253742857150854
   }
 ]

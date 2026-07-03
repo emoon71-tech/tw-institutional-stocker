@@ -1683,6 +1683,17 @@
     "three_inst_ratio_change_20": 0.09000000000000341
   },
   {
+    "date": "2026-05-01",
+    "code": "2227",
+    "name": "裕日車",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -40.211715999999996
+  },
+  {
     "date": "2026-05-04",
     "code": "2227",
     "name": "裕日車",
@@ -1702,7 +1713,7 @@
     "trust_ratio": -0.008284,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 40.311716,
-    "three_inst_ratio_change_20": 0.10000000000000142
+    "three_inst_ratio_change_20": 40.311716
   },
   {
     "date": "2026-05-06",
@@ -1713,7 +1724,7 @@
     "trust_ratio": -0.008284,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 40.331716,
-    "three_inst_ratio_change_20": 40.331716
+    "three_inst_ratio_change_20": 0.11000000000000654
   },
   {
     "date": "2026-05-07",
@@ -1735,7 +1746,7 @@
     "trust_ratio": -0.008284,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 40.341716,
-    "three_inst_ratio_change_20": 0.12000000000000455
+    "three_inst_ratio_change_20": 0.10999999999999943
   },
   {
     "date": "2026-05-11",
@@ -1757,7 +1768,7 @@
     "trust_ratio": -0.008284,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 40.341716,
-    "three_inst_ratio_change_20": 0.10999999999999943
+    "three_inst_ratio_change_20": 0.09000000000000341
   },
   {
     "date": "2026-05-13",
@@ -1768,7 +1779,7 @@
     "trust_ratio": -0.008284,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 40.351715999999996,
-    "three_inst_ratio_change_20": 0.10000000000000142
+    "three_inst_ratio_change_20": 0.0899999999999963
   },
   {
     "date": "2026-05-14",
@@ -1779,7 +1790,7 @@
     "trust_ratio": -0.008284,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 40.331716,
-    "three_inst_ratio_change_20": 0.07000000000000028
+    "three_inst_ratio_change_20": 0.060000000000002274
   },
   {
     "date": "2026-05-15",
@@ -1790,7 +1801,7 @@
     "trust_ratio": -0.008284,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 40.331716,
-    "three_inst_ratio_change_20": 0.060000000000002274
+    "three_inst_ratio_change_20": 0.05000000000000426
   },
   {
     "date": "2026-05-18",
@@ -1801,7 +1812,7 @@
     "trust_ratio": -0.008284,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 40.331716,
-    "three_inst_ratio_change_20": 0.05000000000000426
+    "three_inst_ratio_change_20": 0.04000000000000625
   },
   {
     "date": "2026-05-19",
@@ -1812,7 +1823,7 @@
     "trust_ratio": -0.008284,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 40.331716,
-    "three_inst_ratio_change_20": 0.04000000000000625
+    "three_inst_ratio_change_20": 0.020000000000003126
   },
   {
     "date": "2026-05-20",
@@ -1900,7 +1911,7 @@
     "trust_ratio": -0.008284,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 40.351715999999996,
-    "three_inst_ratio_change_20": 0.03999999999999915
+    "three_inst_ratio_change_20": 40.351715999999996
   },
   {
     "date": "2026-06-01",
@@ -2135,6 +2146,17 @@
   },
   {
     "date": "2026-07-01",
+    "code": "2227",
+    "name": "裕日車",
+    "market": "TWSE",
+    "foreign_ratio": 40.38,
+    "trust_ratio": -0.008284,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 40.371716,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-07-02",
     "code": "2227",
     "name": "裕日車",
     "market": "TWSE",

@@ -1606,6 +1606,17 @@
     "three_inst_ratio_change_20": 0.08999999999999986
   },
   {
+    "date": "2026-05-01",
+    "code": "6641",
+    "name": "基士德-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -29.82
+  },
+  {
     "date": "2026-05-04",
     "code": "6641",
     "name": "基士德-KY",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.9,
-    "three_inst_ratio_change_20": 0.0799999999999983
+    "three_inst_ratio_change_20": 0.07000000000000028
   },
   {
     "date": "2026-05-05",
@@ -1625,7 +1636,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.91,
-    "three_inst_ratio_change_20": 0.08000000000000185
+    "three_inst_ratio_change_20": 0.10000000000000142
   },
   {
     "date": "2026-05-06",
@@ -1636,7 +1647,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 30.39,
-    "three_inst_ratio_change_20": 0.5800000000000018
+    "three_inst_ratio_change_20": 0.5500000000000007
   },
   {
     "date": "2026-05-07",
@@ -1658,7 +1669,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.98,
-    "three_inst_ratio_change_20": 0.14000000000000057
+    "three_inst_ratio_change_20": 0.15000000000000213
   },
   {
     "date": "2026-05-11",
@@ -1680,7 +1691,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.97,
-    "three_inst_ratio_change_20": 0.14000000000000057
+    "three_inst_ratio_change_20": 0.10999999999999943
   },
   {
     "date": "2026-05-13",
@@ -1691,7 +1702,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.96,
-    "three_inst_ratio_change_20": 0.10000000000000142
+    "three_inst_ratio_change_20": 0.030000000000001137
   },
   {
     "date": "2026-05-14",
@@ -1702,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.96,
-    "three_inst_ratio_change_20": 0.030000000000001137
+    "three_inst_ratio_change_20": 0.019999999999999574
   },
   {
     "date": "2026-05-15",
@@ -1713,7 +1724,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.94,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.00999999999999801
   },
   {
     "date": "2026-05-18",
@@ -1735,7 +1746,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.92,
-    "three_inst_ratio_change_20": -0.029999999999997584
+    "three_inst_ratio_change_20": -0.04999999999999716
   },
   {
     "date": "2026-05-20",
@@ -1746,7 +1757,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.9,
-    "three_inst_ratio_change_20": -0.07000000000000028
+    "three_inst_ratio_change_20": -0.060000000000002274
   },
   {
     "date": "2026-05-21",
@@ -1757,7 +1768,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.91,
-    "three_inst_ratio_change_20": -0.05000000000000071
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-05-22",
@@ -1768,7 +1779,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.91,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.010000000000001563
   },
   {
     "date": "2026-05-25",
@@ -1779,7 +1790,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.91,
-    "three_inst_ratio_change_20": 0.010000000000001563
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-05-26",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.93,
-    "three_inst_ratio_change_20": 0.019999999999999574
+    "three_inst_ratio_change_20": 0.030000000000001137
   },
   {
     "date": "2026-05-29",
@@ -1823,7 +1834,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.94,
-    "three_inst_ratio_change_20": 0.0400000000000027
+    "three_inst_ratio_change_20": 29.94
   },
   {
     "date": "2026-06-01",
@@ -2066,5 +2077,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.89,
     "three_inst_ratio_change_20": -0.08999999999999986
+  },
+  {
+    "date": "2026-07-02",
+    "code": "6641",
+    "name": "基士德-KY",
+    "market": "TWSE",
+    "foreign_ratio": 28.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 28.52,
+    "three_inst_ratio_change_20": -1.4699999999999989
   }
 ]

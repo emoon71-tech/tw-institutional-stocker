@@ -1617,6 +1617,17 @@
     "three_inst_ratio_change_20": 0.06
   },
   {
+    "date": "2026-05-01",
+    "code": "1583",
+    "name": "程泰",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.29
+  },
+  {
     "date": "2026-05-04",
     "code": "1583",
     "name": "程泰",
@@ -1625,7 +1636,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.35,
-    "three_inst_ratio_change_20": 0.06
+    "three_inst_ratio_change_20": 0.35
   },
   {
     "date": "2026-05-05",
@@ -1636,7 +1647,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.36,
-    "three_inst_ratio_change_20": 0.36
+    "three_inst_ratio_change_20": 0.07999999999999996
   },
   {
     "date": "2026-05-06",
@@ -1647,7 +1658,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.38,
-    "three_inst_ratio_change_20": 0.09999999999999998
+    "three_inst_ratio_change_20": 0.08000000000000002
   },
   {
     "date": "2026-05-07",
@@ -1691,7 +1702,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.43,
-    "three_inst_ratio_change_20": 0.13
+    "three_inst_ratio_change_20": 0.10999999999999999
   },
   {
     "date": "2026-05-13",
@@ -1702,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.43,
-    "three_inst_ratio_change_20": 0.10999999999999999
+    "three_inst_ratio_change_20": 0.09999999999999998
   },
   {
     "date": "2026-05-14",
@@ -1713,7 +1724,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4,
-    "three_inst_ratio_change_20": 0.07
+    "three_inst_ratio_change_20": 0.06
   },
   {
     "date": "2026-05-15",
@@ -1735,7 +1746,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.36,
-    "three_inst_ratio_change_20": 0.019999999999999962
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-05-19",
@@ -1746,7 +1757,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.36,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-05-20",
@@ -1757,7 +1768,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.35,
-    "three_inst_ratio_change_20": -0.010000000000000009
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-05-21",
@@ -1834,7 +1845,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.35,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.35
   },
   {
     "date": "2026-06-01",
@@ -2069,6 +2080,17 @@
   },
   {
     "date": "2026-07-01",
+    "code": "1583",
+    "name": "程泰",
+    "market": "TWSE",
+    "foreign_ratio": 0.36,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.36,
+    "three_inst_ratio_change_20": -0.020000000000000018
+  },
+  {
+    "date": "2026-07-02",
     "code": "1583",
     "name": "程泰",
     "market": "TWSE",

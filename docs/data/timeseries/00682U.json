@@ -1562,6 +1562,17 @@
     "three_inst_ratio_change_20": 0.0
   },
   {
+    "date": "2026-05-01",
+    "code": "00682U",
+    "name": "期元大美元指數",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.18
+  },
+  {
     "date": "2026-05-04",
     "code": "00682U",
     "name": "期元大美元指數",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.18,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 2.18
   },
   {
     "date": "2026-05-06",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.18,
-    "three_inst_ratio_change_20": 2.18
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-05-07",
@@ -1779,7 +1790,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.18,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 2.18
   },
   {
     "date": "2026-06-03",
@@ -1959,6 +1970,17 @@
   },
   {
     "date": "2026-07-01",
+    "code": "00682U",
+    "name": "期元大美元指數",
+    "market": "TWSE",
+    "foreign_ratio": 2.18,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.18,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-07-02",
     "code": "00682U",
     "name": "期元大美元指數",
     "market": "TWSE",

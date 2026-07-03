@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-05-01",
+    "code": "7768",
+    "name": "頌勝科技",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
     "date": "2026-05-07",
     "code": "7768",
     "name": "頌勝科技",
@@ -217,7 +228,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.02,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 1.02
   },
   {
     "date": "2026-06-04",
@@ -427,5 +438,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.76,
     "three_inst_ratio_change_20": -0.14
+  },
+  {
+    "date": "2026-07-02",
+    "code": "7768",
+    "name": "頌勝科技",
+    "market": "TWSE",
+    "foreign_ratio": 0.83,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.83,
+    "three_inst_ratio_change_20": -0.19000000000000006
   }
 ]

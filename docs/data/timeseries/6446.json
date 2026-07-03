@@ -1672,15 +1672,26 @@
     "three_inst_ratio_change_20": 0.38017428379196616
   },
   {
+    "date": "2026-05-01",
+    "code": "6446",
+    "name": "藥華藥",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -23.40351056200588
+  },
+  {
     "date": "2026-05-04",
     "code": "6446",
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 21.86,
-    "trust_ratio": 1.5697374190552715,
+    "trust_ratio": 1.4747185077914322,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.42973741905527,
-    "three_inst_ratio_change_20": 0.026226857049390873
+    "three_inst_ratio": 23.334718507791433,
+    "three_inst_ratio_change_20": -0.05852883354157967
   },
   {
     "date": "2026-05-05",
@@ -1688,10 +1699,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 21.91,
-    "trust_ratio": 1.4547145264727293,
+    "trust_ratio": 1.3596956152088902,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.364714526472728,
-    "three_inst_ratio_change_20": -0.02853281486028436
+    "three_inst_ratio": 23.26969561520889,
+    "three_inst_ratio_change_20": -0.004078167469860006
   },
   {
     "date": "2026-05-06",
@@ -1699,10 +1710,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 21.99,
-    "trust_ratio": 1.4547145264727293,
+    "trust_ratio": 1.3596956152088902,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.444714526472726,
-    "three_inst_ratio_change_20": 0.1709407437939774
+    "three_inst_ratio": 23.349695615208887,
+    "three_inst_ratio_change_20": -0.004604608815593991
   },
   {
     "date": "2026-05-07",
@@ -1710,10 +1721,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 22.12,
-    "trust_ratio": 1.3378491619266224,
+    "trust_ratio": 1.2428302506627833,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.457849161926625,
-    "three_inst_ratio_change_20": 0.10354893790214348
+    "three_inst_ratio": 23.362830250662785,
+    "three_inst_ratio_change_20": 0.10800358529256826
   },
   {
     "date": "2026-05-08",
@@ -1721,10 +1732,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 22.47,
-    "trust_ratio": 1.3378491619266224,
+    "trust_ratio": 1.2428302506627833,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.807849161926622,
-    "three_inst_ratio_change_20": 0.5530224965564052
+    "three_inst_ratio": 23.712830250662783,
+    "three_inst_ratio_change_20": 0.3785300266383018
   },
   {
     "date": "2026-05-11",
@@ -1732,10 +1743,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 22.35,
-    "trust_ratio": 1.3381123722071315,
+    "trust_ratio": 1.2430934609432924,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.688112372207133,
-    "three_inst_ratio_change_20": 0.3538121481826515
+    "three_inst_ratio": 23.593093460943294,
+    "three_inst_ratio_change_20": 0.24695069220873833
   },
   {
     "date": "2026-05-12",
@@ -1743,10 +1754,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 22.38,
-    "trust_ratio": 1.3372437782814512,
+    "trust_ratio": 1.242224867017612,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.71724377828145,
-    "three_inst_ratio_change_20": 0.3711010095468943
+    "three_inst_ratio": 23.62222486701761,
+    "three_inst_ratio_change_20": 0.3326697718116165
   },
   {
     "date": "2026-05-13",
@@ -1754,10 +1765,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 22.77,
-    "trust_ratio": 1.335927726878905,
+    "trust_ratio": 1.2409088156150656,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.105927726878903,
-    "three_inst_ratio_change_20": 0.816372631672909
+    "three_inst_ratio": 24.010908815615064,
+    "three_inst_ratio_change_20": 0.5924066031005353
   },
   {
     "date": "2026-05-14",
@@ -1765,10 +1776,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 22.96,
-    "trust_ratio": 1.335138096037377,
+    "trust_ratio": 1.240119184773538,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.295138096037377,
-    "three_inst_ratio_change_20": 0.876635883522848
+    "three_inst_ratio": 24.200119184773538,
+    "three_inst_ratio_change_20": 0.6416169722590084
   },
   {
     "date": "2026-05-15",
@@ -1776,10 +1787,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 23.53,
-    "trust_ratio": 1.3348748857568677,
+    "trust_ratio": 1.2398559744930289,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.86487488575687,
-    "three_inst_ratio_change_20": 1.3063726732423397
+    "three_inst_ratio": 24.76985597449303,
+    "three_inst_ratio_change_20": 1.2413537619785018
   },
   {
     "date": "2026-05-18",
@@ -1787,10 +1798,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 23.35,
-    "trust_ratio": 1.2398559744930289,
+    "trust_ratio": 1.1448370632291895,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.58985597449303,
-    "three_inst_ratio_change_20": 1.061353761978502
+    "three_inst_ratio": 24.49483706322919,
+    "three_inst_ratio_change_20": 0.8258012526620568
   },
   {
     "date": "2026-05-19",
@@ -1798,10 +1809,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 23.59,
-    "trust_ratio": 1.0553455678560446,
+    "trust_ratio": 0.9603266565922055,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.645345567856044,
-    "three_inst_ratio_change_20": 0.9763097572889095
+    "three_inst_ratio": 24.550326656592205,
+    "three_inst_ratio_change_20": 0.9612908460250686
   },
   {
     "date": "2026-05-20",
@@ -1809,10 +1820,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 23.61,
-    "trust_ratio": 1.0497420841942833,
+    "trust_ratio": 0.954723172930444,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.65974208419428,
-    "three_inst_ratio_change_20": 1.0707062736271453
+    "three_inst_ratio": 24.564723172930442,
+    "three_inst_ratio_change_20": 0.9956873623633093
   },
   {
     "date": "2026-05-21",
@@ -1820,10 +1831,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 23.65,
-    "trust_ratio": 1.0500052944747924,
+    "trust_ratio": 0.9549863832109533,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.700005294474792,
-    "three_inst_ratio_change_20": 1.1309694839076592
+    "three_inst_ratio": 24.604986383210953,
+    "three_inst_ratio_change_20": 1.0862795984849
   },
   {
     "date": "2026-05-22",
@@ -1831,10 +1842,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 23.74,
-    "trust_ratio": 1.0497420841942833,
+    "trust_ratio": 0.954723172930444,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.78974208419428,
-    "three_inst_ratio_change_20": 1.2710352994682275
+    "three_inst_ratio": 24.69472317293044,
+    "three_inst_ratio_change_20": 1.226279608877256
   },
   {
     "date": "2026-05-25",
@@ -1842,10 +1853,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 23.9,
-    "trust_ratio": 1.0518477664383572,
+    "trust_ratio": 0.956828855174518,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.951847766438355,
-    "three_inst_ratio_change_20": 1.4834042023851701
+    "three_inst_ratio": 24.856828855174516,
+    "three_inst_ratio_change_20": 1.3989117324670666
   },
   {
     "date": "2026-05-26",
@@ -1853,10 +1864,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 24.13,
-    "trust_ratio": 1.0568811366325357,
+    "trust_ratio": 0.9618622253686964,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.186881136632536,
-    "three_inst_ratio_change_20": 1.7289640139250864
+    "three_inst_ratio": 25.091862225368697,
+    "three_inst_ratio_change_20": 1.6816345274192344
   },
   {
     "date": "2026-05-27",
@@ -1864,10 +1875,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 24.3,
-    "trust_ratio": 1.0663791612875224,
+    "trust_ratio": 0.9713582491852089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.366379161287522,
-    "three_inst_ratio_change_20": 1.9561514633380597
+    "three_inst_ratio": 25.27135824918521,
+    "three_inst_ratio_change_20": 1.7392479562866505
   },
   {
     "date": "2026-05-28",
@@ -1875,10 +1886,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 24.41,
-    "trust_ratio": 1.068221672048509,
+    "trust_ratio": 0.9732007599461955,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.47822167204851,
-    "three_inst_ratio_change_20": 1.9461113791499507
+    "three_inst_ratio": 25.383200759946195,
+    "three_inst_ratio_change_20": 1.7410904670476377
   },
   {
     "date": "2026-05-29",
@@ -1886,10 +1897,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 24.68,
-    "trust_ratio": 1.1076853571747909,
+    "trust_ratio": 1.0126644450724773,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.78768535717479,
-    "three_inst_ratio_change_20": 2.1455750642762332
+    "three_inst_ratio": 25.692664445072477,
+    "three_inst_ratio_change_20": 25.692664445072477
   },
   {
     "date": "2026-06-01",
@@ -1897,10 +1908,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 24.78,
-    "trust_ratio": 1.129795486306631,
+    "trust_ratio": 1.0347745742043177,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.90979548630663,
-    "three_inst_ratio_change_20": 2.4800580672513597
+    "three_inst_ratio": 25.814774574204318,
+    "three_inst_ratio_change_20": 2.4800560664128852
   },
   {
     "date": "2026-06-02",
@@ -1908,10 +1919,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 24.21,
-    "trust_ratio": 1.1442723565715265,
+    "trust_ratio": 1.049251444469213,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.354272356571528,
-    "three_inst_ratio_change_20": 1.9895578300988
+    "three_inst_ratio": 25.259251444469214,
+    "three_inst_ratio_change_20": 1.9895558292603255
   },
   {
     "date": "2026-06-03",
@@ -1919,10 +1930,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 24.08,
-    "trust_ratio": 1.1548009894914506,
+    "trust_ratio": 1.059780077389137,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.23480098949145,
-    "three_inst_ratio_change_20": 1.7900864630187243
+    "three_inst_ratio": 25.139780077389137,
+    "three_inst_ratio_change_20": 1.7900844621802499
   },
   {
     "date": "2026-06-04",
@@ -1930,10 +1941,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 24.22,
-    "trust_ratio": 1.1611181692434047,
+    "trust_ratio": 1.0660972571410914,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.381118169243404,
-    "three_inst_ratio_change_20": 1.9232690073167795
+    "three_inst_ratio": 25.28609725714109,
+    "three_inst_ratio_change_20": 1.923267006478305
   },
   {
     "date": "2026-06-05",
@@ -1941,10 +1952,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 24.21,
-    "trust_ratio": 1.161091847661105,
+    "trust_ratio": 1.0660709355587916,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.371091847661106,
-    "three_inst_ratio_change_20": 1.5632426857344832
+    "three_inst_ratio": 25.276070935558792,
+    "three_inst_ratio_change_20": 1.5632406848960088
   },
   {
     "date": "2026-06-08",
@@ -1952,10 +1963,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 24.2,
-    "trust_ratio": 1.1609865613319057,
+    "trust_ratio": 1.0659656492295924,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.360986561331906,
-    "three_inst_ratio_change_20": 1.672874189124773
+    "three_inst_ratio": 25.265965649229592,
+    "three_inst_ratio_change_20": 1.6728721882862985
   },
   {
     "date": "2026-06-09",
@@ -1963,10 +1974,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 24.49,
-    "trust_ratio": 1.2436363297533086,
+    "trust_ratio": 1.148615417650995,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.733636329753306,
-    "three_inst_ratio_change_20": 2.0163925514718564
+    "three_inst_ratio": 25.638615417650993,
+    "three_inst_ratio_change_20": 2.016390550633382
   },
   {
     "date": "2026-06-10",
@@ -1974,10 +1985,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 24.75,
-    "trust_ratio": 1.2355084638655272,
+    "trust_ratio": 1.1409083658640184,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.98550846386553,
-    "three_inst_ratio_change_20": 1.8795807369866253
+    "three_inst_ratio": 25.890908365864018,
+    "three_inst_ratio_change_20": 1.8799995502489537
   },
   {
     "date": "2026-06-11",
@@ -1985,10 +1996,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 24.44,
-    "trust_ratio": 1.2355084638655272,
+    "trust_ratio": 1.1409083658640184,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.67550846386553,
-    "three_inst_ratio_change_20": 1.380370367828153
+    "three_inst_ratio": 25.58090836586402,
+    "three_inst_ratio_change_20": 1.3807891810904813
   },
   {
     "date": "2026-06-12",
@@ -1996,10 +2007,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 24.46,
-    "trust_ratio": 1.2352464137325592,
+    "trust_ratio": 1.1406463157310505,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.69524641373256,
-    "three_inst_ratio_change_20": 0.8303715279756894
+    "three_inst_ratio": 25.60064631573105,
+    "three_inst_ratio_change_20": 0.8307903412380213
   },
   {
     "date": "2026-06-15",
@@ -2007,10 +2018,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 24.61,
-    "trust_ratio": 1.2318397620039727,
+    "trust_ratio": 1.137239664002464,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.84183976200397,
-    "three_inst_ratio_change_20": 1.251983787510941
+    "three_inst_ratio": 25.747239664002464,
+    "three_inst_ratio_change_20": 1.252402600773273
   },
   {
     "date": "2026-06-16",
@@ -2018,10 +2029,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 24.73,
-    "trust_ratio": 1.2289572105413231,
+    "trust_ratio": 1.1343571125398142,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.958957210541325,
-    "three_inst_ratio_change_20": 1.3136116426852809
+    "three_inst_ratio": 25.864357112539814,
+    "three_inst_ratio_change_20": 1.3140304559476093
   },
   {
     "date": "2026-06-17",
@@ -2029,10 +2040,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 24.94,
-    "trust_ratio": 1.2307915614721003,
+    "trust_ratio": 1.1361914634705914,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.1707915614721,
-    "three_inst_ratio_change_20": 1.511049477277819
+    "three_inst_ratio": 26.076191463470593,
+    "three_inst_ratio_change_20": 1.5114682905401509
   },
   {
     "date": "2026-06-18",
@@ -2040,10 +2051,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 25.17,
-    "trust_ratio": 1.233739887518125,
+    "trust_ratio": 1.1391397895166162,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.403739887518128,
-    "three_inst_ratio_change_20": 1.703734593043336
+    "three_inst_ratio": 26.309139789516617,
+    "three_inst_ratio_change_20": 1.7041534063056645
   },
   {
     "date": "2026-06-22",
@@ -2051,10 +2062,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 25.21,
-    "trust_ratio": 1.2526077591419662,
+    "trust_ratio": 1.1580076611404575,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.462607759141967,
-    "three_inst_ratio_change_20": 1.672865674947687
+    "three_inst_ratio": 26.36800766114046,
+    "three_inst_ratio_change_20": 1.6732844882100188
   },
   {
     "date": "2026-06-23",
@@ -2062,10 +2073,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 25.19,
-    "trust_ratio": 1.3089485377301222,
+    "trust_ratio": 1.2143484397286135,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.498948537730122,
-    "three_inst_ratio_change_20": 1.5471007712917668
+    "three_inst_ratio": 26.404348439728615,
+    "three_inst_ratio_change_20": 1.5475195845540988
   },
   {
     "date": "2026-06-24",
@@ -2073,10 +2084,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 25.26,
-    "trust_ratio": 1.3891358784183818,
+    "trust_ratio": 1.2945357804168731,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.649135878418384,
-    "three_inst_ratio_change_20": 1.4622547417858485
+    "three_inst_ratio": 26.554535780416874,
+    "three_inst_ratio_change_20": 1.4626735550481769
   },
   {
     "date": "2026-06-25",
@@ -2084,10 +2095,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 25.33,
-    "trust_ratio": 1.397259432540395,
+    "trust_ratio": 1.3026593345388864,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.727259432540393,
-    "three_inst_ratio_change_20": 1.3608802712528707
+    "three_inst_ratio": 26.632659334538886,
+    "three_inst_ratio_change_20": 1.361301085353677
   },
   {
     "date": "2026-06-26",
@@ -2095,10 +2106,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 25.35,
-    "trust_ratio": 1.4276572479647025,
+    "trust_ratio": 1.3330571499631938,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.777657247964704,
-    "three_inst_ratio_change_20": 1.2994355759161955
+    "three_inst_ratio": 26.683057149963194,
+    "three_inst_ratio_change_20": 1.2998563900169984
   },
   {
     "date": "2026-06-29",
@@ -2106,10 +2117,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 25.47,
-    "trust_ratio": 1.4273951978317343,
+    "trust_ratio": 1.3327950998302256,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.897395197831734,
-    "three_inst_ratio_change_20": 1.1097098406569437
+    "three_inst_ratio": 26.802795099830224,
+    "three_inst_ratio_change_20": 1.1101306547577465
   },
   {
     "date": "2026-06-30",
@@ -2117,10 +2128,10 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 25.64,
-    "trust_ratio": 1.4289674986295433,
+    "trust_ratio": 1.3343674006280346,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.068967498629544,
-    "three_inst_ratio_change_20": 1.1591720123229123
+    "three_inst_ratio": 26.974367400628037,
+    "three_inst_ratio_change_20": 1.1595928264237187
   },
   {
     "date": "2026-07-01",
@@ -2128,9 +2139,20 @@
     "name": "藥華藥",
     "market": "TWSE",
     "foreign_ratio": 25.68,
-    "trust_ratio": 1.4506188667657722,
+    "trust_ratio": 1.3560187687642635,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.130618866765772,
-    "three_inst_ratio_change_20": 1.7763465101942444
+    "three_inst_ratio": 27.036018768764265,
+    "three_inst_ratio_change_20": 1.7767673242950508
+  },
+  {
+    "date": "2026-07-02",
+    "code": "6446",
+    "name": "藥華藥",
+    "market": "TWSE",
+    "foreign_ratio": 25.66,
+    "trust_ratio": 1.3667890292292553,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 27.026789029229256,
+    "three_inst_ratio_change_20": 1.8870089518401194
   }
 ]

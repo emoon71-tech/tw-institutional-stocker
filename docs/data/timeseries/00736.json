@@ -1672,6 +1672,17 @@
     "three_inst_ratio_change_20": 0.0
   },
   {
+    "date": "2026-05-01",
+    "code": "00736",
+    "name": "國泰新興市場",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -16.39
+  },
+  {
     "date": "2026-05-04",
     "code": "00736",
     "name": "國泰新興市場",
@@ -1889,7 +1900,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.71,
-    "three_inst_ratio_change_20": 1.3200000000000003
+    "three_inst_ratio_change_20": 17.71
   },
   {
     "date": "2026-06-01",
@@ -2132,5 +2143,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.39,
     "three_inst_ratio_change_20": 5.68
+  },
+  {
+    "date": "2026-07-02",
+    "code": "00736",
+    "name": "國泰新興市場",
+    "market": "TWSE",
+    "foreign_ratio": 23.41,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.41,
+    "three_inst_ratio_change_20": 5.699999999999999
   }
 ]

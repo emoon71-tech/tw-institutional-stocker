@@ -1716,15 +1716,26 @@
     "three_inst_ratio_change_20": -0.1507150102144319
   },
   {
+    "date": "2026-05-01",
+    "code": "2530",
+    "name": "華建",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.197137982923565
+  },
+  {
     "date": "2026-05-04",
     "code": "2530",
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.77,
-    "trust_ratio": 0.3111848026400377,
+    "trust_ratio": 0.3086847669252418,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.0811848026400375,
-    "three_inst_ratio_change_20": -0.11595318028352786
+    "three_inst_ratio": 4.0786847669252415,
+    "three_inst_ratio_change_20": 4.0786847669252415
   },
   {
     "date": "2026-05-05",
@@ -1732,10 +1743,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.81,
-    "trust_ratio": 0.30558948461168495,
+    "trust_ratio": 0.30308944889688905,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.115589484611685,
-    "three_inst_ratio_change_20": 4.115589484611685
+    "three_inst_ratio": 4.113089448896889,
+    "three_inst_ratio_change_20": -0.024048534026676727
   },
   {
     "date": "2026-05-06",
@@ -1743,10 +1754,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.8,
-    "trust_ratio": 0.3015418077401106,
+    "trust_ratio": 0.2990417720253147,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.1015418077401105,
-    "three_inst_ratio_change_20": -0.03559617518345526
+    "three_inst_ratio": 4.0990417720253145,
+    "three_inst_ratio_change_20": -0.038096210898251215
   },
   {
     "date": "2026-05-07",
@@ -1754,10 +1765,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.79,
-    "trust_ratio": 0.2984465254265537,
+    "trust_ratio": 0.2959464897117578,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.088446525426554,
-    "three_inst_ratio_change_20": -0.04869145749701165
+    "three_inst_ratio": 4.085946489711758,
+    "three_inst_ratio_change_20": -0.030358147973542415
   },
   {
     "date": "2026-05-08",
@@ -1765,10 +1776,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.77,
-    "trust_ratio": 0.2949940951537403,
+    "trust_ratio": 0.29249405943894435,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.06499409515374,
-    "three_inst_ratio_change_20": -0.05131054253156009
+    "three_inst_ratio": 4.0624940594389445,
+    "three_inst_ratio_change_20": -0.020001000014286063
   },
   {
     "date": "2026-05-11",
@@ -1776,10 +1787,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.65,
-    "trust_ratio": 0.2949940951537403,
+    "trust_ratio": 0.29249405943894435,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.9449940951537403,
-    "three_inst_ratio_change_20": -0.1375009642994902
+    "three_inst_ratio": 3.9424940594389444,
+    "three_inst_ratio_change_20": -0.16000100001428574
   },
   {
     "date": "2026-05-12",
@@ -1787,10 +1798,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.6,
-    "trust_ratio": 0.29300424462725,
+    "trust_ratio": 0.2905079763432839,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.89300424462725,
-    "three_inst_ratio_change_20": -0.2094908148259802
+    "three_inst_ratio": 3.890507976343284,
+    "three_inst_ratio_change_20": -0.23198708310994576
   },
   {
     "date": "2026-05-13",
@@ -1798,10 +1809,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.18,
-    "trust_ratio": 0.2920532852809772,
+    "trust_ratio": 0.2895570169970111,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.4720532852809773,
-    "three_inst_ratio_change_20": -0.6504417741722524
+    "three_inst_ratio": 3.4695570169970114,
+    "three_inst_ratio_change_20": -0.6892475135439011
   },
   {
     "date": "2026-05-14",
@@ -1809,10 +1820,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.02,
-    "trust_ratio": 0.29110232593470436,
+    "trust_ratio": 0.2886060576507383,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.3111023259347045,
-    "three_inst_ratio_change_20": -0.8477022046062079
+    "three_inst_ratio": 3.3086060576507386,
+    "three_inst_ratio_change_20": -0.8363888946581044
   },
   {
     "date": "2026-05-15",
@@ -1820,10 +1831,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 2.99,
-    "trust_ratio": 0.29110232593470436,
+    "trust_ratio": 0.2886060576507383,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.2811023259347047,
-    "three_inst_ratio_change_20": -0.8638926263741382
+    "three_inst_ratio": 3.2786060576507383,
+    "three_inst_ratio_change_20": -0.8432936123445476
   },
   {
     "date": "2026-05-18",
@@ -1831,10 +1842,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 2.96,
-    "trust_ratio": 0.2886060576507383,
+    "trust_ratio": 0.2861097893667722,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.248606057650738,
-    "three_inst_ratio_change_20": -0.8732936123445478
+    "three_inst_ratio": 3.246109789366772,
+    "three_inst_ratio_change_20": -0.8805517105594176
   },
   {
     "date": "2026-05-19",
@@ -1842,10 +1853,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 2.97,
-    "trust_ratio": 0.2861097893667722,
+    "trust_ratio": 0.2836135210828062,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.2561097893667723,
-    "three_inst_ratio_change_20": -0.8705517105594174
+    "three_inst_ratio": 3.2536135210828063,
+    "three_inst_ratio_change_20": -0.8578098087742867
   },
   {
     "date": "2026-05-20",
@@ -1853,10 +1864,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 2.92,
-    "trust_ratio": 0.28503996010221533,
+    "trust_ratio": 0.28254369181824923,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.2050399601022153,
-    "three_inst_ratio_change_20": -0.9063833697548778
+    "three_inst_ratio": 3.2025436918182493,
+    "three_inst_ratio_change_20": -0.8948319611672693
   },
   {
     "date": "2026-05-21",
@@ -1864,10 +1875,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 2.93,
-    "trust_ratio": 0.2840890007559425,
+    "trust_ratio": 0.28159273247197647,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.214089000755943,
-    "three_inst_ratio_change_20": -0.8832866522295757
+    "three_inst_ratio": 3.211592732471977,
+    "three_inst_ratio_change_20": -0.9284018626889061
   },
   {
     "date": "2026-05-22",
@@ -1875,10 +1886,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 2.89,
-    "trust_ratio": 0.28099838288055595,
+    "trust_ratio": 0.2785021145965899,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.170998382880556,
-    "three_inst_ratio_change_20": -0.9689962122803268
+    "three_inst_ratio": 3.16850211459659,
+    "three_inst_ratio_change_20": -0.9664924091347009
   },
   {
     "date": "2026-05-25",
@@ -1886,10 +1897,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 2.87,
-    "trust_ratio": 0.2800474235342832,
+    "trust_ratio": 0.2775511552503171,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.1500474235342835,
-    "three_inst_ratio_change_20": -0.9849471001970076
+    "three_inst_ratio": 3.147551155250317,
+    "three_inst_ratio_change_20": -1.0253004807254347
   },
   {
     "date": "2026-05-26",
@@ -1897,10 +1908,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 2.85,
-    "trust_ratio": 0.2800474235342832,
+    "trust_ratio": 0.2775511552503171,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.1300474235342834,
-    "three_inst_ratio_change_20": -1.0428042124414683
+    "three_inst_ratio": 3.127551155250317,
+    "three_inst_ratio_change_20": -1.0553004807254345
   },
   {
     "date": "2026-05-27",
@@ -1908,10 +1919,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 2.84,
-    "trust_ratio": 0.2788587243514422,
+    "trust_ratio": 0.2763624560674761,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.1188587243514423,
-    "three_inst_ratio_change_20": -1.0639929116243092
+    "three_inst_ratio": 3.116362456067476,
+    "three_inst_ratio_change_20": -1.042798650995958
   },
   {
     "date": "2026-05-28",
@@ -1919,10 +1930,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 2.83,
-    "trust_ratio": 0.2782643747600217,
+    "trust_ratio": 0.2757681064760556,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.108264374760022,
-    "three_inst_ratio_change_20": -1.050896732303412
+    "three_inst_ratio": 3.105768106476056,
+    "three_inst_ratio_change_20": -1.000654866233078
   },
   {
     "date": "2026-05-29",
@@ -1930,10 +1941,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 2.85,
-    "trust_ratio": 0.2770756755771807,
+    "trust_ratio": 0.2745794072932146,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.127075675577181,
-    "three_inst_ratio_change_20": -0.979347297131953
+    "three_inst_ratio": 3.124579407293215,
+    "three_inst_ratio_change_20": 3.124579407293215
   },
   {
     "date": "2026-06-01",
@@ -1941,10 +1952,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 2.93,
-    "trust_ratio": 0.2770756755771807,
+    "trust_ratio": 0.2745794072932146,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.207075675577181,
-    "three_inst_ratio_change_20": -0.8741091270628565
+    "three_inst_ratio": 3.204579407293215,
+    "three_inst_ratio_change_20": -0.8741053596320265
   },
   {
     "date": "2026-06-02",
@@ -1952,10 +1963,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 2.95,
-    "trust_ratio": 0.2770756755771807,
+    "trust_ratio": 0.2745794072932146,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.227075675577181,
-    "three_inst_ratio_change_20": -0.8885138090345039
+    "three_inst_ratio": 3.2245794072932146,
+    "three_inst_ratio_change_20": -0.8885100416036744
   },
   {
     "date": "2026-06-03",
@@ -1963,10 +1974,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 2.98,
-    "trust_ratio": 0.2739850577017941,
+    "trust_ratio": 0.27148878941782806,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.253985057701794,
-    "three_inst_ratio_change_20": -0.8475567500383163
+    "three_inst_ratio": 3.251488789417828,
+    "three_inst_ratio_change_20": -0.8475529826074863
   },
   {
     "date": "2026-06-04",
@@ -1974,10 +1985,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.04,
-    "trust_ratio": 0.2739850577017941,
+    "trust_ratio": 0.27148878941782806,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.313985057701794,
-    "three_inst_ratio_change_20": -0.7744614677247599
+    "three_inst_ratio": 3.311488789417828,
+    "three_inst_ratio_change_20": -0.7744577002939299
   },
   {
     "date": "2026-06-05",
@@ -1985,10 +1996,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.08,
-    "trust_ratio": 0.2725586186823849,
+    "trust_ratio": 0.27006235039841886,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.352558618682385,
-    "three_inst_ratio_change_20": -0.7124354764713554
+    "three_inst_ratio": 3.350062350398419,
+    "three_inst_ratio_change_20": -0.7124317090405254
   },
   {
     "date": "2026-06-08",
@@ -1996,10 +2007,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.13,
-    "trust_ratio": 0.2705378300715553,
+    "trust_ratio": 0.2680415617875892,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.4005378300715554,
-    "three_inst_ratio_change_20": -0.5444562650821849
+    "three_inst_ratio": 3.398041561787589,
+    "three_inst_ratio_change_20": -0.5444524976513554
   },
   {
     "date": "2026-06-09",
@@ -2007,10 +2018,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.12,
-    "trust_ratio": 0.2705378300715553,
+    "trust_ratio": 0.2680415617875892,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.3905378300715556,
-    "three_inst_ratio_change_20": -0.5024664145556943
+    "three_inst_ratio": 3.388041561787589,
+    "three_inst_ratio_change_20": -0.5024664145556947
   },
   {
     "date": "2026-06-10",
@@ -2018,9 +2029,9 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.17,
-    "trust_ratio": 0.2695868707252825,
+    "trust_ratio": 0.2670906024413164,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.4395868707252824,
+    "three_inst_ratio": 3.4370906024413164,
     "three_inst_ratio_change_20": -0.03246641455569499
   },
   {
@@ -2029,9 +2040,9 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.16,
-    "trust_ratio": 0.2695868707252825,
+    "trust_ratio": 0.2670906024413164,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.4295868707252826,
+    "three_inst_ratio": 3.4270906024413166,
     "three_inst_ratio_change_20": 0.11848454479057802
   },
   {
@@ -2040,9 +2051,9 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.1,
-    "trust_ratio": 0.268992521133862,
+    "trust_ratio": 0.26649625284989586,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.3689925211338623,
+    "three_inst_ratio": 3.366496252849896,
     "three_inst_ratio_change_20": 0.08789019519915753
   },
   {
@@ -2051,10 +2062,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.08,
-    "trust_ratio": 0.268992521133862,
+    "trust_ratio": 0.26649625284989586,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.3489925211338623,
-    "three_inst_ratio_change_20": 0.10038646348312419
+    "three_inst_ratio": 3.346496252849896,
+    "three_inst_ratio_change_20": 0.10038646348312374
   },
   {
     "date": "2026-06-16",
@@ -2062,10 +2073,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.08,
-    "trust_ratio": 0.268992521133862,
+    "trust_ratio": 0.26649625284989586,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.3489925211338623,
-    "three_inst_ratio_change_20": 0.09288273176708994
+    "three_inst_ratio": 3.346496252849896,
+    "three_inst_ratio_change_20": 0.0928827317670895
   },
   {
     "date": "2026-06-17",
@@ -2073,9 +2084,9 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.11,
-    "trust_ratio": 0.26566416342190724,
+    "trust_ratio": 0.26316789513794114,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.375664163421907,
+    "three_inst_ratio": 3.373167895137941,
     "three_inst_ratio_change_20": 0.17062420331969186
   },
   {
@@ -2084,9 +2095,9 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.07,
-    "trust_ratio": 0.26566416342190724,
+    "trust_ratio": 0.26316789513794114,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.335664163421907,
+    "three_inst_ratio": 3.333167895137941,
     "three_inst_ratio_change_20": 0.12157516266596424
   },
   {
@@ -2095,9 +2106,9 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.01,
-    "trust_ratio": 0.26566416342190724,
+    "trust_ratio": 0.26316789513794114,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.275664163421907,
+    "three_inst_ratio": 3.273167895137941,
     "three_inst_ratio_change_20": 0.1046657805413509
   },
   {
@@ -2106,10 +2117,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.02,
-    "trust_ratio": 0.2625735455465206,
+    "trust_ratio": 0.26007727726255453,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.2825735455465206,
-    "three_inst_ratio_change_20": 0.13252612201223712
+    "three_inst_ratio": 3.2800772772625546,
+    "three_inst_ratio_change_20": 0.13252612201223757
   },
   {
     "date": "2026-06-24",
@@ -2117,9 +2128,9 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.03,
-    "trust_ratio": 0.261860326036816,
+    "trust_ratio": 0.25936405775284993,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.291860326036816,
+    "three_inst_ratio": 3.2893640577528496,
     "three_inst_ratio_change_20": 0.16181290250253255
   },
   {
@@ -2128,10 +2139,10 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.01,
-    "trust_ratio": 0.2612659764453955,
+    "trust_ratio": 0.25876970816142947,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.2712659764453953,
-    "three_inst_ratio_change_20": 0.152407252093953
+    "three_inst_ratio": 3.2687697081614293,
+    "three_inst_ratio_change_20": 0.15240725209395345
   },
   {
     "date": "2026-06-26",
@@ -2139,9 +2150,9 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.04,
-    "trust_ratio": 0.25853196832486125,
+    "trust_ratio": 0.25603570004089515,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.2985319683248613,
+    "three_inst_ratio": 3.2960357000408953,
     "three_inst_ratio_change_20": 0.19026759356483947
   },
   {
@@ -2150,9 +2161,9 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.13,
-    "trust_ratio": 0.25817535857000895,
+    "trust_ratio": 0.2556790902860429,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.3881753585700087,
+    "three_inst_ratio": 3.3856790902860427,
     "three_inst_ratio_change_20": 0.2610996829928278
   },
   {
@@ -2161,9 +2172,9 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.27,
-    "trust_ratio": 0.25817535857000895,
+    "trust_ratio": 0.2556790902860429,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.528175358570009,
+    "three_inst_ratio": 3.525679090286043,
     "three_inst_ratio_change_20": 0.3210996829928279
   },
   {
@@ -2172,9 +2183,20 @@
     "name": "華建",
     "market": "TWSE",
     "foreign_ratio": 3.34,
-    "trust_ratio": 0.37099479801344737,
+    "trust_ratio": 0.3684985297294813,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.7109947980134472,
-    "three_inst_ratio_change_20": 0.4839191224362662
+    "three_inst_ratio": 3.7084985297294812,
+    "three_inst_ratio_change_20": 0.48391912243626667
+  },
+  {
+    "date": "2026-07-02",
+    "code": "2530",
+    "name": "華建",
+    "market": "TWSE",
+    "foreign_ratio": 3.17,
+    "trust_ratio": 0.44029596037307706,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.610295960373077,
+    "three_inst_ratio_change_20": 0.3588071709552487
   }
 ]

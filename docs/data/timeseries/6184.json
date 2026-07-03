@@ -1716,6 +1716,17 @@
     "three_inst_ratio_change_20": 0.08000000000000007
   },
   {
+    "date": "2026-05-01",
+    "code": "6184",
+    "name": "大豐電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.847362658238554
+  },
+  {
     "date": "2026-05-04",
     "code": "6184",
     "name": "大豐電",
@@ -1724,7 +1735,7 @@
     "trust_ratio": -0.01263734176144615,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.927362658238554,
-    "three_inst_ratio_change_20": 0.08000000000000007
+    "three_inst_ratio_change_20": 2.927362658238554
   },
   {
     "date": "2026-05-05",
@@ -1735,7 +1746,7 @@
     "trust_ratio": -0.01263734176144615,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.937362658238554,
-    "three_inst_ratio_change_20": 2.937362658238554
+    "three_inst_ratio_change_20": 0.10000000000000009
   },
   {
     "date": "2026-05-06",
@@ -1746,7 +1757,7 @@
     "trust_ratio": -0.01263734176144615,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.957362658238554,
-    "three_inst_ratio_change_20": 0.1200000000000001
+    "three_inst_ratio_change_20": 0.10000000000000009
   },
   {
     "date": "2026-05-07",
@@ -1757,7 +1768,7 @@
     "trust_ratio": -0.01263734176144615,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.967362658238554,
-    "three_inst_ratio_change_20": 0.10999999999999988
+    "three_inst_ratio_change_20": 0.10000000000000009
   },
   {
     "date": "2026-05-08",
@@ -1790,7 +1801,7 @@
     "trust_ratio": -0.01263734176144615,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.937362658238554,
-    "three_inst_ratio_change_20": 0.07000000000000028
+    "three_inst_ratio_change_20": 0.050000000000000266
   },
   {
     "date": "2026-05-13",
@@ -1801,7 +1812,7 @@
     "trust_ratio": -0.01263734176144615,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.937362658238554,
-    "three_inst_ratio_change_20": 0.050000000000000266
+    "three_inst_ratio_change_20": 0.03000000000000025
   },
   {
     "date": "2026-05-14",
@@ -1812,7 +1823,7 @@
     "trust_ratio": -0.01263734176144615,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.907362658238554,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.010000000000000231
   },
   {
     "date": "2026-05-15",
@@ -1823,7 +1834,7 @@
     "trust_ratio": -0.01263734176144615,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.897362658238554,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": -0.029999999999999805
   },
   {
     "date": "2026-05-18",
@@ -1834,7 +1845,7 @@
     "trust_ratio": -0.01263734176144615,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.877362658238554,
-    "three_inst_ratio_change_20": -0.04999999999999982
+    "three_inst_ratio_change_20": -0.06000000000000005
   },
   {
     "date": "2026-05-19",
@@ -1845,7 +1856,7 @@
     "trust_ratio": -0.01263734176144615,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.887362658238554,
-    "three_inst_ratio_change_20": -0.050000000000000266
+    "three_inst_ratio_change_20": -0.06000000000000005
   },
   {
     "date": "2026-05-20",
@@ -1856,7 +1867,7 @@
     "trust_ratio": -0.01263734176144615,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.877362658238554,
-    "three_inst_ratio_change_20": -0.06999999999999984
+    "three_inst_ratio_change_20": -0.06000000000000005
   },
   {
     "date": "2026-05-21",
@@ -1867,7 +1878,7 @@
     "trust_ratio": -0.012335960331597768,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.8076640396684023,
-    "three_inst_ratio_change_20": -0.12969861857015186
+    "three_inst_ratio_change_20": -0.10969861857015184
   },
   {
     "date": "2026-05-22",
@@ -1911,7 +1922,7 @@
     "trust_ratio": -0.012335960331597768,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.7376640396684024,
-    "three_inst_ratio_change_20": -0.17969861857015168
+    "three_inst_ratio_change_20": -0.1996986185701517
   },
   {
     "date": "2026-05-28",
@@ -1922,7 +1933,7 @@
     "trust_ratio": -0.012335960331597768,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.7476640396684022,
-    "three_inst_ratio_change_20": -0.1896986185701519
+    "three_inst_ratio_change_20": -0.17969861857015168
   },
   {
     "date": "2026-05-29",
@@ -1933,7 +1944,7 @@
     "trust_ratio": -0.012335960331597768,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.7476640396684022,
-    "three_inst_ratio_change_20": -0.17969861857015168
+    "three_inst_ratio_change_20": 2.7476640396684022
   },
   {
     "date": "2026-06-01",
@@ -2176,5 +2187,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.6376640396684023,
     "three_inst_ratio_change_20": -0.1299999999999999
+  },
+  {
+    "date": "2026-07-02",
+    "code": "6184",
+    "name": "大豐電",
+    "market": "TWSE",
+    "foreign_ratio": 2.64,
+    "trust_ratio": -0.012335960331597768,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.6276640396684026,
+    "three_inst_ratio_change_20": -0.1499999999999999
   }
 ]

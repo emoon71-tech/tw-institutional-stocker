@@ -1309,18 +1309,18 @@
     "three_inst_ratio_change_20": 0.08999999999999997
   },
   {
-    "date": "2026-05-04",
+    "date": "2026-05-01",
     "code": "2024",
     "name": "志聯",
     "market": "TWSE",
-    "foreign_ratio": 0.42,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.42,
-    "three_inst_ratio_change_20": 0.08999999999999997
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.33
   },
   {
-    "date": "2026-05-05",
+    "date": "2026-05-04",
     "code": "2024",
     "name": "志聯",
     "market": "TWSE",
@@ -1331,6 +1331,17 @@
     "three_inst_ratio_change_20": 0.42
   },
   {
+    "date": "2026-05-05",
+    "code": "2024",
+    "name": "志聯",
+    "market": "TWSE",
+    "foreign_ratio": 0.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.42,
+    "three_inst_ratio_change_20": 0.08999999999999997
+  },
+  {
     "date": "2026-05-06",
     "code": "2024",
     "name": "志聯",
@@ -1339,7 +1350,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44,
-    "three_inst_ratio_change_20": 0.10999999999999999
+    "three_inst_ratio_change_20": 0.09999999999999998
   },
   {
     "date": "2026-05-07",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.45,
-    "three_inst_ratio_change_20": 0.10999999999999999
+    "three_inst_ratio_change_20": 0.10000000000000003
   },
   {
     "date": "2026-05-11",
@@ -1383,7 +1394,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.45,
-    "three_inst_ratio_change_20": 0.10000000000000003
+    "three_inst_ratio_change_20": 0.09000000000000002
   },
   {
     "date": "2026-05-13",
@@ -1394,7 +1405,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44,
-    "three_inst_ratio_change_20": 0.08000000000000002
+    "three_inst_ratio_change_20": 0.06
   },
   {
     "date": "2026-05-14",
@@ -1405,7 +1416,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44,
-    "three_inst_ratio_change_20": 0.06
+    "three_inst_ratio_change_20": 0.04999999999999999
   },
   {
     "date": "2026-05-15",
@@ -1416,7 +1427,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44,
-    "three_inst_ratio_change_20": 0.04999999999999999
+    "three_inst_ratio_change_20": 0.03999999999999998
   },
   {
     "date": "2026-05-18",
@@ -1427,7 +1438,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44,
-    "three_inst_ratio_change_20": 0.03999999999999998
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-05-19",
@@ -1438,7 +1449,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44,
-    "three_inst_ratio_change_20": 0.030000000000000027
+    "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
     "date": "2026-05-20",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-05-29",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
     "date": "2026-06-01",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.46,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.46
   },
   {
     "date": "2026-06-02",
@@ -1758,5 +1769,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.59,
     "three_inst_ratio_change_20": 0.12999999999999995
+  },
+  {
+    "date": "2026-07-02",
+    "code": "2024",
+    "name": "志聯",
+    "market": "TWSE",
+    "foreign_ratio": 0.58,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.58,
+    "three_inst_ratio_change_20": 0.10999999999999999
   }
 ]

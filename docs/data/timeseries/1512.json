@@ -1628,18 +1628,18 @@
     "three_inst_ratio_change_20": 0.22999999999999954
   },
   {
-    "date": "2026-05-04",
+    "date": "2026-05-01",
     "code": "1512",
     "name": "瑞利",
     "market": "TWSE",
-    "foreign_ratio": 5.39,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.39,
-    "three_inst_ratio_change_20": 0.22999999999999954
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.16
   },
   {
-    "date": "2026-05-05",
+    "date": "2026-05-04",
     "code": "1512",
     "name": "瑞利",
     "market": "TWSE",
@@ -1650,6 +1650,17 @@
     "three_inst_ratio_change_20": 5.39
   },
   {
+    "date": "2026-05-05",
+    "code": "1512",
+    "name": "瑞利",
+    "market": "TWSE",
+    "foreign_ratio": 5.39,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.39,
+    "three_inst_ratio_change_20": 0.22999999999999954
+  },
+  {
     "date": "2026-05-06",
     "code": "1512",
     "name": "瑞利",
@@ -1658,7 +1669,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.41,
-    "three_inst_ratio_change_20": 0.25
+    "three_inst_ratio_change_20": 0.20999999999999996
   },
   {
     "date": "2026-05-07",
@@ -1669,7 +1680,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.42,
-    "three_inst_ratio_change_20": 0.21999999999999975
+    "three_inst_ratio_change_20": 0.2599999999999998
   },
   {
     "date": "2026-05-08",
@@ -1680,7 +1691,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.43,
-    "three_inst_ratio_change_20": 0.2699999999999996
+    "three_inst_ratio_change_20": 0.23999999999999932
   },
   {
     "date": "2026-05-11",
@@ -1691,7 +1702,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.43,
-    "three_inst_ratio_change_20": 0.23999999999999932
+    "three_inst_ratio_change_20": 0.22999999999999954
   },
   {
     "date": "2026-05-12",
@@ -1702,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.43,
-    "three_inst_ratio_change_20": 0.22999999999999954
+    "three_inst_ratio_change_20": 0.1899999999999995
   },
   {
     "date": "2026-05-13",
@@ -1713,7 +1724,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.42,
-    "three_inst_ratio_change_20": 0.17999999999999972
+    "three_inst_ratio_change_20": 0.1200000000000001
   },
   {
     "date": "2026-05-14",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.38,
-    "three_inst_ratio_change_20": 0.08000000000000007
+    "three_inst_ratio_change_20": 0.04999999999999982
   },
   {
     "date": "2026-05-15",
@@ -1735,7 +1746,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.38,
-    "three_inst_ratio_change_20": 0.04999999999999982
+    "three_inst_ratio_change_20": 0.03000000000000025
   },
   {
     "date": "2026-05-18",
@@ -1757,7 +1768,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.38,
-    "three_inst_ratio_change_20": 0.03000000000000025
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-05-20",
@@ -1823,7 +1834,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.41,
-    "three_inst_ratio_change_20": 0.03000000000000025
+    "three_inst_ratio_change_20": 0.009999999999999787
   },
   {
     "date": "2026-05-28",
@@ -1834,7 +1845,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.41,
-    "three_inst_ratio_change_20": 0.009999999999999787
+    "three_inst_ratio_change_20": 0.020000000000000462
   },
   {
     "date": "2026-05-29",
@@ -1845,7 +1856,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.34,
-    "three_inst_ratio_change_20": -0.04999999999999982
+    "three_inst_ratio_change_20": 5.34
   },
   {
     "date": "2026-06-01",
@@ -2088,5 +2099,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.5,
     "three_inst_ratio_change_20": 0.1299999999999999
+  },
+  {
+    "date": "2026-07-02",
+    "code": "1512",
+    "name": "瑞利",
+    "market": "TWSE",
+    "foreign_ratio": 5.49,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.49,
+    "three_inst_ratio_change_20": 0.08999999999999986
   }
 ]

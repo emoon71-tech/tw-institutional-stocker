@@ -1716,6 +1716,17 @@
     "three_inst_ratio_change_20": 3.05
   },
   {
+    "date": "2026-05-01",
+    "code": "00678",
+    "name": "群益那斯達克生技",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.74
+  },
+  {
     "date": "2026-05-04",
     "code": "00678",
     "name": "群益那斯達克生技",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.32,
-    "three_inst_ratio_change_20": 0.5799999999999998
+    "three_inst_ratio_change_20": 2.32
   },
   {
     "date": "2026-05-05",
@@ -1735,7 +1746,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.51,
-    "three_inst_ratio_change_20": 2.51
+    "three_inst_ratio_change_20": 0.7699999999999998
   },
   {
     "date": "2026-05-06",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.04,
-    "three_inst_ratio_change_20": 4.3
+    "three_inst_ratio_change_20": 3.32
   },
   {
     "date": "2026-05-15",
@@ -1823,7 +1834,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.03,
-    "three_inst_ratio_change_20": 5.309999999999999
+    "three_inst_ratio_change_20": 5.359999999999999
   },
   {
     "date": "2026-05-18",
@@ -1845,7 +1856,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.35,
-    "three_inst_ratio_change_20": 5.68
+    "three_inst_ratio_change_20": 5.629999999999999
   },
   {
     "date": "2026-05-20",
@@ -1856,7 +1867,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.35,
-    "three_inst_ratio_change_20": 5.629999999999999
+    "three_inst_ratio_change_20": 5.56
   },
   {
     "date": "2026-05-21",
@@ -1867,7 +1878,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.48,
-    "three_inst_ratio_change_20": 2.6900000000000004
+    "three_inst_ratio_change_20": 2.6800000000000006
   },
   {
     "date": "2026-05-22",
@@ -1889,7 +1900,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.26,
-    "three_inst_ratio_change_20": 1.46
+    "three_inst_ratio_change_20": 1.4899999999999998
   },
   {
     "date": "2026-05-26",
@@ -1900,7 +1911,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.34,
-    "three_inst_ratio_change_20": 1.5699999999999998
+    "three_inst_ratio_change_20": 1.3899999999999997
   },
   {
     "date": "2026-05-27",
@@ -1911,7 +1922,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.55,
-    "three_inst_ratio_change_20": 3.5999999999999996
+    "three_inst_ratio_change_20": 3.54
   },
   {
     "date": "2026-05-28",
@@ -1922,7 +1933,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.17,
-    "three_inst_ratio_change_20": 4.16
+    "three_inst_ratio_change_20": 2.38
   },
   {
     "date": "2026-05-29",
@@ -1933,7 +1944,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.28,
-    "three_inst_ratio_change_20": 2.49
+    "three_inst_ratio_change_20": 7.28
   },
   {
     "date": "2026-06-01",
@@ -2176,5 +2187,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.11,
     "three_inst_ratio_change_20": -4.14
+  },
+  {
+    "date": "2026-07-02",
+    "code": "00678",
+    "name": "群益那斯達克生技",
+    "market": "TWSE",
+    "foreign_ratio": 3.06,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.06,
+    "three_inst_ratio_change_20": -5.1899999999999995
   }
 ]

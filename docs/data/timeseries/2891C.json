@@ -1375,15 +1375,26 @@
     "three_inst_ratio_change_20": 0.13000480019200766
   },
   {
+    "date": "2026-05-01",
+    "code": "2891C",
+    "name": "中信金丙特",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.006000240009600384
+  },
+  {
     "date": "2026-05-04",
     "code": "2891C",
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.12600504020160805,
+    "trust_ratio": 0.14400576023040923,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.13600504020160806,
-    "three_inst_ratio_change_20": 0.13000480019200766
+    "three_inst_ratio": 0.15400576023040924,
+    "three_inst_ratio_change_20": 0.14800552022080884
   },
   {
     "date": "2026-05-06",
@@ -1391,10 +1402,10 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.15360614424576982,
+    "trust_ratio": 0.17160686427457097,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.16360614424576983,
-    "three_inst_ratio_change_20": 0.15760590423616944
+    "three_inst_ratio": 0.18160686427457098,
+    "three_inst_ratio_change_20": 0.1756066242649706
   },
   {
     "date": "2026-05-07",
@@ -1402,10 +1413,10 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.15360614424576982,
+    "trust_ratio": 0.17160686427457097,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.16360614424576983,
-    "three_inst_ratio_change_20": 0.15760590423616944
+    "three_inst_ratio": 0.18160686427457098,
+    "three_inst_ratio_change_20": 0.1756066242649706
   },
   {
     "date": "2026-05-11",
@@ -1413,10 +1424,10 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.15360614424576982,
+    "trust_ratio": 0.17160686427457097,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.16360614424576983,
-    "three_inst_ratio_change_20": 0.15760590423616944
+    "three_inst_ratio": 0.18160686427457098,
+    "three_inst_ratio_change_20": 0.1656066242649706
   },
   {
     "date": "2026-05-12",
@@ -1424,10 +1435,10 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.20160806432257292,
+    "trust_ratio": 0.21960878435137404,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.21160806432257293,
-    "three_inst_ratio_change_20": 0.19560782431297255
+    "three_inst_ratio": 0.22960878435137405,
+    "three_inst_ratio_change_20": 0.21360854434177368
   },
   {
     "date": "2026-05-13",
@@ -1435,10 +1446,10 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.20160806432257292,
+    "trust_ratio": 0.21960878435137404,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.21160806432257293,
-    "three_inst_ratio_change_20": 0.19560782431297255
+    "three_inst_ratio": 0.22960878435137405,
+    "three_inst_ratio_change_20": 0.21360854434177368
   },
   {
     "date": "2026-05-14",
@@ -1446,24 +1457,13 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.20160806432257292,
+    "trust_ratio": 0.21960878435137404,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.21160806432257293,
-    "three_inst_ratio_change_20": 0.19560782431297255
+    "three_inst_ratio": 0.22960878435137405,
+    "three_inst_ratio_change_20": 0.21360854434177368
   },
   {
     "date": "2026-05-15",
-    "code": "2891C",
-    "name": "中信金丙特",
-    "market": "TWSE",
-    "foreign_ratio": 0.01,
-    "trust_ratio": 0.20160806432257292,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.21160806432257293,
-    "three_inst_ratio_change_20": 0.19560782431297255
-  },
-  {
-    "date": "2026-05-18",
     "code": "2891C",
     "name": "中信金丙特",
     "market": "TWSE",
@@ -1474,15 +1474,26 @@
     "three_inst_ratio_change_20": 0.18360734429377173
   },
   {
+    "date": "2026-05-18",
+    "code": "2891C",
+    "name": "中信金丙特",
+    "market": "TWSE",
+    "foreign_ratio": 0.01,
+    "trust_ratio": 0.2376095043801752,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.2476095043801752,
+    "three_inst_ratio_change_20": 0.171606864274571
+  },
+  {
     "date": "2026-05-19",
     "code": "2891C",
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
-    "three_inst_ratio_change_20": 0.15360614424576985
+    "three_inst_ratio": 0.2476095043801752,
+    "three_inst_ratio_change_20": 0.171606864274571
   },
   {
     "date": "2026-05-20",
@@ -1490,10 +1501,10 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
-    "three_inst_ratio_change_20": 0.15360614424576985
+    "three_inst_ratio": 0.2476095043801752,
+    "three_inst_ratio_change_20": 0.171606864274571
   },
   {
     "date": "2026-05-21",
@@ -1501,10 +1512,10 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
-    "three_inst_ratio_change_20": 0.15360614424576985
+    "three_inst_ratio": 0.2476095043801752,
+    "three_inst_ratio_change_20": 0.171606864274571
   },
   {
     "date": "2026-05-22",
@@ -1512,10 +1523,10 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
-    "three_inst_ratio_change_20": 0.15360614424576985
+    "three_inst_ratio": 0.2476095043801752,
+    "three_inst_ratio_change_20": 0.11160446417856715
   },
   {
     "date": "2026-05-25",
@@ -1523,10 +1534,10 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
-    "three_inst_ratio_change_20": 0.093603744149766
+    "three_inst_ratio": 0.2476095043801752,
+    "three_inst_ratio_change_20": 0.11160446417856715
   },
   {
     "date": "2026-05-26",
@@ -1534,10 +1545,10 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
-    "three_inst_ratio_change_20": 0.093603744149766
+    "three_inst_ratio": 0.2476095043801752,
+    "three_inst_ratio_change_20": 0.11160446417856715
   },
   {
     "date": "2026-05-27",
@@ -1545,10 +1556,10 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
-    "three_inst_ratio_change_20": 0.093603744149766
+    "three_inst_ratio": 0.2476095043801752,
+    "three_inst_ratio_change_20": 0.11160446417856715
   },
   {
     "date": "2026-05-28",
@@ -1556,10 +1567,10 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
-    "three_inst_ratio_change_20": 0.093603744149766
+    "three_inst_ratio": 0.2476095043801752,
+    "three_inst_ratio_change_20": 0.11160446417856715
   },
   {
     "date": "2026-05-29",
@@ -1567,10 +1578,10 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
-    "three_inst_ratio_change_20": 0.093603744149766
+    "three_inst_ratio": 0.2476095043801752,
+    "three_inst_ratio_change_20": 0.11160446417856715
   },
   {
     "date": "2026-06-01",
@@ -1578,10 +1589,10 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
-    "three_inst_ratio_change_20": 0.093603744149766
+    "three_inst_ratio": 0.2476095043801752,
+    "three_inst_ratio_change_20": 0.11160446417856715
   },
   {
     "date": "2026-06-02",
@@ -1589,10 +1600,10 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
-    "three_inst_ratio_change_20": 0.093603744149766
+    "three_inst_ratio": 0.2476095043801752,
+    "three_inst_ratio_change_20": 0.2476095043801752
   },
   {
     "date": "2026-06-03",
@@ -1600,10 +1611,10 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
-    "three_inst_ratio_change_20": 0.093603744149766
+    "three_inst_ratio": 0.2476095043801752,
+    "three_inst_ratio_change_20": 0.09360374414976597
   },
   {
     "date": "2026-06-04",
@@ -1611,9 +1622,9 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
+    "three_inst_ratio": 0.2476095043801752,
     "three_inst_ratio_change_20": 0.06600264010560422
   },
   {
@@ -1622,9 +1633,9 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
+    "three_inst_ratio": 0.2476095043801752,
     "three_inst_ratio_change_20": 0.06600264010560422
   },
   {
@@ -1633,9 +1644,9 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
+    "three_inst_ratio": 0.2476095043801752,
     "three_inst_ratio_change_20": 0.06600264010560422
   },
   {
@@ -1644,10 +1655,10 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
-    "three_inst_ratio_change_20": 0.018000720028801126
+    "three_inst_ratio": 0.2476095043801752,
+    "three_inst_ratio_change_20": 0.018000720028801154
   },
   {
     "date": "2026-06-11",
@@ -1655,10 +1666,10 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
-    "three_inst_ratio_change_20": 0.018000720028801126
+    "three_inst_ratio": 0.2476095043801752,
+    "three_inst_ratio_change_20": 0.018000720028801154
   },
   {
     "date": "2026-06-15",
@@ -1666,10 +1677,10 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
-    "three_inst_ratio_change_20": 0.018000720028801126
+    "three_inst_ratio": 0.2476095043801752,
+    "three_inst_ratio_change_20": 0.018000720028801154
   },
   {
     "date": "2026-06-17",
@@ -1677,10 +1688,10 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
-    "three_inst_ratio_change_20": 0.018000720028801126
+    "three_inst_ratio": 0.2476095043801752,
+    "three_inst_ratio_change_20": 0.018000720028801154
   },
   {
     "date": "2026-06-18",
@@ -1688,9 +1699,9 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
+    "three_inst_ratio": 0.2476095043801752,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -1699,9 +1710,9 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
+    "three_inst_ratio": 0.2476095043801752,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -1710,9 +1721,9 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
+    "three_inst_ratio": 0.2476095043801752,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -1721,9 +1732,9 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
+    "three_inst_ratio": 0.2476095043801752,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -1732,9 +1743,9 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.21960878435137404,
+    "trust_ratio": 0.2376095043801752,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.22960878435137405,
+    "three_inst_ratio": 0.2476095043801752,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -1743,9 +1754,9 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.01,
-    "trust_ratio": 0.2166086643465739,
+    "trust_ratio": 0.234609384375375,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.2266086643465739,
-    "three_inst_ratio_change_20": -0.0030001200048001553
+    "three_inst_ratio": 0.24460938437537502,
+    "three_inst_ratio_change_20": -0.003000120004800183
   }
 ]

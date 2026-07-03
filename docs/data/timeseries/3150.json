@@ -1661,15 +1661,26 @@
     "three_inst_ratio_change_20": 0.22000000000000008
   },
   {
+    "date": "2026-05-01",
+    "code": "3150",
+    "name": "鈺寶-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.81
+  },
+  {
     "date": "2026-05-04",
     "code": "3150",
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 1.03,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.03,
-    "three_inst_ratio_change_20": 0.21999999999999997
+    "three_inst_ratio": 1.0457739365938676,
+    "three_inst_ratio_change_20": 0.2557739365938676
   },
   {
     "date": "2026-05-05",
@@ -1677,10 +1688,10 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 1.01,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.01,
-    "three_inst_ratio_change_20": 0.21999999999999997
+    "three_inst_ratio": 1.0257739365938676,
+    "three_inst_ratio_change_20": 0.2457739365938676
   },
   {
     "date": "2026-05-06",
@@ -1688,10 +1699,10 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 1.03,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.03,
-    "three_inst_ratio_change_20": 0.25
+    "three_inst_ratio": 1.0457739365938676,
+    "three_inst_ratio_change_20": 0.2657739365938676
   },
   {
     "date": "2026-05-07",
@@ -1699,10 +1710,10 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 1.06,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.06,
-    "three_inst_ratio_change_20": 0.28
+    "three_inst_ratio": 1.0757739365938677,
+    "three_inst_ratio_change_20": 0.2457739365938677
   },
   {
     "date": "2026-05-08",
@@ -1710,10 +1721,10 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 1.04,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.04,
-    "three_inst_ratio_change_20": 0.21000000000000008
+    "three_inst_ratio": 1.0557739365938676,
+    "three_inst_ratio_change_20": 0.2457739365938676
   },
   {
     "date": "2026-05-11",
@@ -1721,10 +1732,10 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 1.01,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.01,
-    "three_inst_ratio_change_20": 0.19999999999999996
+    "three_inst_ratio": 1.0257739365938676,
+    "three_inst_ratio_change_20": 0.21577393659386757
   },
   {
     "date": "2026-05-12",
@@ -1732,10 +1743,10 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 1.03,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.03,
-    "three_inst_ratio_change_20": 0.21999999999999997
+    "three_inst_ratio": 1.0457739365938676,
+    "three_inst_ratio_change_20": 0.21577393659386768
   },
   {
     "date": "2026-05-13",
@@ -1743,10 +1754,10 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.98,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.98,
-    "three_inst_ratio_change_20": 0.15000000000000002
+    "three_inst_ratio": 0.9957739365938676,
+    "three_inst_ratio_change_20": 0.14577393659386761
   },
   {
     "date": "2026-05-14",
@@ -1754,10 +1765,10 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.95,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.95,
-    "three_inst_ratio_change_20": 0.09999999999999998
+    "three_inst_ratio": 0.9657739365938676,
+    "three_inst_ratio_change_20": 0.07577393659386755
   },
   {
     "date": "2026-05-15",
@@ -1765,10 +1776,10 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.91,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.91,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio": 0.9257739365938676,
+    "three_inst_ratio_change_20": 0.055773936593867646
   },
   {
     "date": "2026-05-18",
@@ -1776,10 +1787,10 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.9,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.9,
-    "three_inst_ratio_change_20": 0.030000000000000027
+    "three_inst_ratio": 0.9157739365938676,
+    "three_inst_ratio_change_20": 0.03577393659386763
   },
   {
     "date": "2026-05-19",
@@ -1787,10 +1798,10 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.9,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.9,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio": 0.9157739365938676,
+    "three_inst_ratio_change_20": -0.07422606340613236
   },
   {
     "date": "2026-05-20",
@@ -1798,10 +1809,10 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.9,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.9,
-    "three_inst_ratio_change_20": -0.08999999999999997
+    "three_inst_ratio": 0.9157739365938676,
+    "three_inst_ratio_change_20": -0.08422606340613237
   },
   {
     "date": "2026-05-21",
@@ -1809,10 +1820,10 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.89,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.89,
-    "three_inst_ratio_change_20": -0.10999999999999999
+    "three_inst_ratio": 0.9057739365938676,
+    "three_inst_ratio_change_20": 0.005773936593867601
   },
   {
     "date": "2026-05-22",
@@ -1820,10 +1831,10 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.95,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.95,
-    "three_inst_ratio_change_20": 0.04999999999999993
+    "three_inst_ratio": 0.9657739365938676,
+    "three_inst_ratio_change_20": 0.03577393659386752
   },
   {
     "date": "2026-05-25",
@@ -1831,10 +1842,10 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.94,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.94,
-    "three_inst_ratio_change_20": 0.009999999999999898
+    "three_inst_ratio": 0.9557739365938676,
+    "three_inst_ratio_change_20": -0.024226063406132425
   },
   {
     "date": "2026-05-26",
@@ -1842,10 +1853,10 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.97,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.97,
-    "three_inst_ratio_change_20": -0.010000000000000009
+    "three_inst_ratio": 0.9857739365938676,
+    "three_inst_ratio_change_20": -0.07422606340613247
   },
   {
     "date": "2026-05-27",
@@ -1853,10 +1864,10 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.96,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.96,
-    "three_inst_ratio_change_20": -0.10000000000000009
+    "three_inst_ratio": 0.9757739365938676,
+    "three_inst_ratio_change_20": -0.1042260634061325
   },
   {
     "date": "2026-05-28",
@@ -1864,10 +1875,10 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.99,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.99,
-    "three_inst_ratio_change_20": -0.09000000000000008
+    "three_inst_ratio": 1.0057739365938676,
+    "three_inst_ratio_change_20": -0.04422606340613244
   },
   {
     "date": "2026-05-29",
@@ -1875,10 +1886,10 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.94,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.94,
-    "three_inst_ratio_change_20": -0.1100000000000001
+    "three_inst_ratio": 0.9557739365938676,
+    "three_inst_ratio_change_20": 0.9557739365938676
   },
   {
     "date": "2026-06-01",
@@ -1886,9 +1897,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.95,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.95,
+    "three_inst_ratio": 0.9657739365938676,
     "three_inst_ratio_change_20": -0.08000000000000007
   },
   {
@@ -1897,9 +1908,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.95,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.95,
+    "three_inst_ratio": 0.9657739365938676,
     "three_inst_ratio_change_20": -0.06000000000000005
   },
   {
@@ -1908,9 +1919,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.94,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.94,
+    "three_inst_ratio": 0.9557739365938676,
     "three_inst_ratio_change_20": -0.09000000000000008
   },
   {
@@ -1919,9 +1930,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.96,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.96,
+    "three_inst_ratio": 0.9757739365938676,
     "three_inst_ratio_change_20": -0.10000000000000009
   },
   {
@@ -1930,9 +1941,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.97,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.97,
+    "three_inst_ratio": 0.9857739365938676,
     "three_inst_ratio_change_20": -0.07000000000000006
   },
   {
@@ -1941,9 +1952,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.91,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.91,
+    "three_inst_ratio": 0.9257739365938676,
     "three_inst_ratio_change_20": -0.09999999999999998
   },
   {
@@ -1952,9 +1963,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.88,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.88,
+    "three_inst_ratio": 0.8957739365938676,
     "three_inst_ratio_change_20": -0.15000000000000002
   },
   {
@@ -1963,9 +1974,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.85,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.85,
+    "three_inst_ratio": 0.8657739365938676,
     "three_inst_ratio_change_20": -0.13
   },
   {
@@ -1974,9 +1985,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.86,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.86,
+    "three_inst_ratio": 0.8757739365938676,
     "three_inst_ratio_change_20": -0.08999999999999997
   },
   {
@@ -1985,9 +1996,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.86,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.86,
+    "three_inst_ratio": 0.8757739365938676,
     "three_inst_ratio_change_20": -0.050000000000000044
   },
   {
@@ -1996,9 +2007,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.85,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.85,
+    "three_inst_ratio": 0.8657739365938676,
     "three_inst_ratio_change_20": -0.050000000000000044
   },
   {
@@ -2007,9 +2018,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.87,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.87,
+    "three_inst_ratio": 0.8857739365938676,
     "three_inst_ratio_change_20": -0.030000000000000027
   },
   {
@@ -2018,9 +2029,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.89,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.89,
+    "three_inst_ratio": 0.9057739365938676,
     "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
@@ -2029,9 +2040,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.89,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.89,
+    "three_inst_ratio": 0.9057739365938676,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -2040,9 +2051,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.92,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.92,
+    "three_inst_ratio": 0.9357739365938677,
     "three_inst_ratio_change_20": -0.029999999999999916
   },
   {
@@ -2051,9 +2062,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.9,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.9,
+    "three_inst_ratio": 0.9157739365938676,
     "three_inst_ratio_change_20": -0.039999999999999925
   },
   {
@@ -2062,9 +2073,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.91,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.91,
+    "three_inst_ratio": 0.9257739365938676,
     "three_inst_ratio_change_20": -0.05999999999999994
   },
   {
@@ -2073,9 +2084,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.95,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.95,
+    "three_inst_ratio": 0.9657739365938676,
     "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
@@ -2084,9 +2095,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.97,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.97,
+    "three_inst_ratio": 0.9857739365938676,
     "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
@@ -2095,9 +2106,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.98,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.98,
+    "three_inst_ratio": 0.9957739365938676,
     "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
@@ -2106,9 +2117,9 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.96,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.96,
+    "three_inst_ratio": 0.9757739365938676,
     "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
@@ -2117,9 +2128,20 @@
     "name": "鈺寶-創",
     "market": "TWSE",
     "foreign_ratio": 0.96,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.01577393659386762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.96,
+    "three_inst_ratio": 0.9757739365938676,
     "three_inst_ratio_change_20": 0.010000000000000009
+  },
+  {
+    "date": "2026-07-02",
+    "code": "3150",
+    "name": "鈺寶-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.96,
+    "trust_ratio": 0.01577393659386762,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.9757739365938676,
+    "three_inst_ratio_change_20": 0.020000000000000018
   }
 ]
