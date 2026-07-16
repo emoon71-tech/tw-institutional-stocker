@@ -240,5 +240,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8,
     "three_inst_ratio_change_20": -1.24
+  },
+  {
+    "date": "2026-07-15",
+    "code": "00406A",
+    "name": "主動中信台灣收益",
+    "market": "TWSE",
+    "foreign_ratio": 0.73,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.73,
+    "three_inst_ratio_change_20": -1.33
   }
 ]
