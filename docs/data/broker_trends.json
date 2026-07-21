@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T12:30:45.249470",
+  "updated": "2026-07-21T12:01:21.046275",
   "brokers": {
     "元大-三峽": [
       {
@@ -134,210 +134,210 @@
         "date": "2026-07-17",
         "net_vol": -3070,
         "cumulative": -2424
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 322,
+        "cumulative": -2102
       }
     ],
     "元大-中壢": [
       {
-        "date": "2026-05-22",
-        "net_vol": -11,
-        "cumulative": -11
-      },
-      {
         "date": "2026-05-27",
         "net_vol": 6,
-        "cumulative": -5
+        "cumulative": 6
       },
       {
         "date": "2026-05-28",
         "net_vol": -70,
-        "cumulative": -75
+        "cumulative": -64
       },
       {
         "date": "2026-06-01",
         "net_vol": 19,
-        "cumulative": -56
+        "cumulative": -45
       },
       {
         "date": "2026-06-02",
         "net_vol": -350,
-        "cumulative": -406
+        "cumulative": -395
       },
       {
         "date": "2026-06-09",
         "net_vol": 45,
-        "cumulative": -361
+        "cumulative": -350
       },
       {
         "date": "2026-06-11",
         "net_vol": 62,
-        "cumulative": -299
+        "cumulative": -288
       },
       {
         "date": "2026-06-12",
         "net_vol": -51,
-        "cumulative": -350
+        "cumulative": -339
       },
       {
         "date": "2026-06-22",
         "net_vol": -16,
-        "cumulative": -366
+        "cumulative": -355
       },
       {
         "date": "2026-06-24",
         "net_vol": 42,
-        "cumulative": -324
+        "cumulative": -313
       },
       {
         "date": "2026-06-26",
         "net_vol": 1182,
-        "cumulative": 858
+        "cumulative": 869
       },
       {
         "date": "2026-06-30",
         "net_vol": -28,
-        "cumulative": 830
+        "cumulative": 841
       },
       {
         "date": "2026-07-01",
         "net_vol": -1009,
-        "cumulative": -179
+        "cumulative": -168
       },
       {
         "date": "2026-07-03",
         "net_vol": 9,
-        "cumulative": -170
+        "cumulative": -159
       },
       {
         "date": "2026-07-06",
         "net_vol": 67,
-        "cumulative": -103
+        "cumulative": -92
       },
       {
         "date": "2026-07-08",
         "net_vol": 42,
-        "cumulative": -61
+        "cumulative": -50
       },
       {
         "date": "2026-07-09",
         "net_vol": 222,
-        "cumulative": 161
+        "cumulative": 172
       },
       {
         "date": "2026-07-10",
         "net_vol": 222,
-        "cumulative": 383
+        "cumulative": 394
       },
       {
         "date": "2026-07-14",
         "net_vol": -144,
-        "cumulative": 239
+        "cumulative": 250
       },
       {
         "date": "2026-07-16",
         "net_vol": -5,
-        "cumulative": 234
+        "cumulative": 245
       },
       {
         "date": "2026-07-20",
         "net_vol": -153,
-        "cumulative": 81
+        "cumulative": 92
       }
     ],
     "元大-中山北路": [
       {
-        "date": "2026-05-22",
-        "net_vol": -82,
-        "cumulative": -82
-      },
-      {
         "date": "2026-05-25",
         "net_vol": 42,
-        "cumulative": -40
+        "cumulative": 42
       },
       {
         "date": "2026-05-26",
         "net_vol": -15,
-        "cumulative": -55
+        "cumulative": 27
       },
       {
         "date": "2026-05-27",
         "net_vol": -20,
-        "cumulative": -75
+        "cumulative": 7
       },
       {
         "date": "2026-06-10",
         "net_vol": 13,
-        "cumulative": -62
+        "cumulative": 20
       },
       {
         "date": "2026-06-12",
         "net_vol": 252,
-        "cumulative": 190
+        "cumulative": 272
       },
       {
         "date": "2026-06-15",
         "net_vol": -199,
-        "cumulative": -9
+        "cumulative": 73
       },
       {
         "date": "2026-06-18",
         "net_vol": -625,
-        "cumulative": -634
+        "cumulative": -552
       },
       {
         "date": "2026-06-19",
         "net_vol": -625,
-        "cumulative": -1259
+        "cumulative": -1177
       },
       {
         "date": "2026-06-22",
         "net_vol": 20,
-        "cumulative": -1239
+        "cumulative": -1157
       },
       {
         "date": "2026-06-23",
         "net_vol": -211,
-        "cumulative": -1450
+        "cumulative": -1368
       },
       {
         "date": "2026-06-26",
         "net_vol": -190,
-        "cumulative": -1640
+        "cumulative": -1558
       },
       {
         "date": "2026-06-29",
         "net_vol": -102,
-        "cumulative": -1742
+        "cumulative": -1660
       },
       {
         "date": "2026-06-30",
         "net_vol": -21,
-        "cumulative": -1763
+        "cumulative": -1681
       },
       {
         "date": "2026-07-09",
         "net_vol": 34,
-        "cumulative": -1729
+        "cumulative": -1647
       },
       {
         "date": "2026-07-10",
         "net_vol": 34,
-        "cumulative": -1695
+        "cumulative": -1613
       },
       {
         "date": "2026-07-13",
         "net_vol": -207,
-        "cumulative": -1902
+        "cumulative": -1820
       },
       {
         "date": "2026-07-14",
         "net_vol": 39,
-        "cumulative": -1863
+        "cumulative": -1781
       },
       {
         "date": "2026-07-16",
         "net_vol": -10,
-        "cumulative": -1873
+        "cumulative": -1791
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -18,
+        "cumulative": -1809
       }
     ],
     "元大-中崙": [
@@ -380,6 +380,11 @@
         "date": "2026-07-06",
         "net_vol": 56,
         "cumulative": -1120
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -566,
+        "cumulative": -1686
       }
     ],
     "元大-仁愛": [
@@ -607,109 +612,104 @@
     ],
     "元大-內湖": [
       {
-        "date": "2026-05-22",
-        "net_vol": -13,
-        "cumulative": -13
-      },
-      {
         "date": "2026-05-27",
         "net_vol": -288,
-        "cumulative": -301
+        "cumulative": -288
       },
       {
         "date": "2026-05-28",
         "net_vol": 34,
-        "cumulative": -267
+        "cumulative": -254
       },
       {
         "date": "2026-05-29",
         "net_vol": 62,
-        "cumulative": -205
+        "cumulative": -192
       },
       {
         "date": "2026-06-04",
         "net_vol": -21,
-        "cumulative": -226
+        "cumulative": -213
       },
       {
         "date": "2026-06-05",
         "net_vol": -928,
-        "cumulative": -1154
+        "cumulative": -1141
       },
       {
         "date": "2026-06-09",
         "net_vol": -138,
-        "cumulative": -1292
+        "cumulative": -1279
       },
       {
         "date": "2026-06-15",
         "net_vol": -1134,
-        "cumulative": -2426
+        "cumulative": -2413
       },
       {
         "date": "2026-06-16",
         "net_vol": -857,
-        "cumulative": -3283
+        "cumulative": -3270
       },
       {
         "date": "2026-06-17",
         "net_vol": -1306,
-        "cumulative": -4589
+        "cumulative": -4576
       },
       {
         "date": "2026-06-18",
         "net_vol": -1220,
-        "cumulative": -5809
+        "cumulative": -5796
       },
       {
         "date": "2026-06-19",
         "net_vol": -1220,
-        "cumulative": -7029
+        "cumulative": -7016
       },
       {
         "date": "2026-06-23",
         "net_vol": 37,
-        "cumulative": -6992
+        "cumulative": -6979
       },
       {
         "date": "2026-06-29",
         "net_vol": -361,
-        "cumulative": -7353
+        "cumulative": -7340
       },
       {
         "date": "2026-07-01",
         "net_vol": 527,
-        "cumulative": -6826
+        "cumulative": -6813
       },
       {
         "date": "2026-07-02",
         "net_vol": 3,
-        "cumulative": -6823
+        "cumulative": -6810
       },
       {
         "date": "2026-07-03",
         "net_vol": -153,
-        "cumulative": -6976
+        "cumulative": -6963
       },
       {
         "date": "2026-07-06",
         "net_vol": -33,
-        "cumulative": -7009
+        "cumulative": -6996
       },
       {
         "date": "2026-07-15",
         "net_vol": 3566,
-        "cumulative": -3443
+        "cumulative": -3430
       },
       {
         "date": "2026-07-16",
         "net_vol": 2759,
-        "cumulative": -684
+        "cumulative": -671
       },
       {
         "date": "2026-07-17",
         "net_vol": -5973,
-        "cumulative": -6657
+        "cumulative": -6644
       }
     ],
     "元大-內湖民權": [
@@ -762,6 +762,11 @@
         "date": "2026-07-03",
         "net_vol": 278,
         "cumulative": 107
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -86,
+        "cumulative": 21
       }
     ],
     "元大-六合": [
@@ -901,6 +906,11 @@
         "date": "2026-07-17",
         "net_vol": -29,
         "cumulative": -415
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 5,
+        "cumulative": -410
       }
     ],
     "元大-北屯": [
@@ -1063,6 +1073,11 @@
         "date": "2026-07-17",
         "net_vol": -38,
         "cumulative": -6050
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -513,
+        "cumulative": -6563
       }
     ],
     "元大-北府": [
@@ -1152,6 +1167,11 @@
         "date": "2026-07-16",
         "net_vol": 69,
         "cumulative": -337
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -630,
+        "cumulative": -967
       }
     ],
     "元大-北港": [
@@ -1291,6 +1311,11 @@
         "date": "2026-07-20",
         "net_vol": -114,
         "cumulative": -1012
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 124,
+        "cumulative": -888
       }
     ],
     "元大-南勢角": [
@@ -1525,34 +1550,29 @@
     ],
     "元大-古亭": [
       {
-        "date": "2026-05-22",
-        "net_vol": -41,
-        "cumulative": -41
-      },
-      {
         "date": "2026-06-23",
         "net_vol": 94,
-        "cumulative": 53
+        "cumulative": 94
       },
       {
         "date": "2026-06-24",
         "net_vol": -56,
-        "cumulative": -3
+        "cumulative": 38
       },
       {
         "date": "2026-06-29",
         "net_vol": -99,
-        "cumulative": -102
+        "cumulative": -61
       },
       {
         "date": "2026-07-08",
         "net_vol": -7,
-        "cumulative": -109
+        "cumulative": -68
       },
       {
         "date": "2026-07-15",
         "net_vol": -66,
-        "cumulative": -175
+        "cumulative": -134
       }
     ],
     "元大-台中": [
@@ -1586,211 +1606,206 @@
     ],
     "元大-台北": [
       {
-        "date": "2026-05-22",
-        "net_vol": -181,
-        "cumulative": -181
-      },
-      {
         "date": "2026-05-25",
         "net_vol": -436,
-        "cumulative": -617
+        "cumulative": -436
       },
       {
         "date": "2026-05-28",
         "net_vol": -325,
-        "cumulative": -942
+        "cumulative": -761
       },
       {
         "date": "2026-05-29",
         "net_vol": 660,
-        "cumulative": -282
+        "cumulative": -101
       },
       {
         "date": "2026-06-01",
         "net_vol": -640,
-        "cumulative": -922
+        "cumulative": -741
       },
       {
         "date": "2026-06-04",
         "net_vol": 55,
-        "cumulative": -867
+        "cumulative": -686
       },
       {
         "date": "2026-06-09",
         "net_vol": -257,
-        "cumulative": -1124
+        "cumulative": -943
       },
       {
         "date": "2026-06-11",
         "net_vol": -180,
-        "cumulative": -1304
+        "cumulative": -1123
       },
       {
         "date": "2026-06-12",
         "net_vol": -209,
-        "cumulative": -1513
+        "cumulative": -1332
       },
       {
         "date": "2026-06-15",
         "net_vol": -52,
-        "cumulative": -1565
+        "cumulative": -1384
       },
       {
         "date": "2026-06-16",
         "net_vol": -62,
-        "cumulative": -1627
+        "cumulative": -1446
       },
       {
         "date": "2026-06-17",
         "net_vol": -21,
-        "cumulative": -1648
+        "cumulative": -1467
       },
       {
         "date": "2026-06-18",
         "net_vol": -265,
-        "cumulative": -1913
+        "cumulative": -1732
       },
       {
         "date": "2026-06-19",
         "net_vol": -265,
-        "cumulative": -2178
+        "cumulative": -1997
       },
       {
         "date": "2026-06-22",
         "net_vol": 574,
-        "cumulative": -1604
+        "cumulative": -1423
       },
       {
         "date": "2026-06-23",
         "net_vol": 45,
-        "cumulative": -1559
+        "cumulative": -1378
       },
       {
         "date": "2026-06-25",
         "net_vol": 20,
-        "cumulative": -1539
+        "cumulative": -1358
       },
       {
         "date": "2026-06-26",
         "net_vol": 216,
-        "cumulative": -1323
+        "cumulative": -1142
       },
       {
         "date": "2026-06-29",
         "net_vol": -97,
-        "cumulative": -1420
+        "cumulative": -1239
       },
       {
         "date": "2026-06-30",
         "net_vol": -329,
-        "cumulative": -1749
+        "cumulative": -1568
       },
       {
         "date": "2026-07-01",
         "net_vol": -40,
-        "cumulative": -1789
+        "cumulative": -1608
       },
       {
         "date": "2026-07-02",
         "net_vol": 55,
-        "cumulative": -1734
+        "cumulative": -1553
       },
       {
         "date": "2026-07-03",
         "net_vol": -98,
-        "cumulative": -1832
+        "cumulative": -1651
       },
       {
         "date": "2026-07-06",
         "net_vol": 153,
-        "cumulative": -1679
+        "cumulative": -1498
       },
       {
         "date": "2026-07-07",
         "net_vol": -78,
-        "cumulative": -1757
+        "cumulative": -1576
       },
       {
         "date": "2026-07-08",
         "net_vol": 163,
-        "cumulative": -1594
+        "cumulative": -1413
       },
       {
         "date": "2026-07-13",
         "net_vol": 42,
-        "cumulative": -1552
+        "cumulative": -1371
       },
       {
         "date": "2026-07-15",
         "net_vol": -101,
-        "cumulative": -1653
+        "cumulative": -1472
       },
       {
         "date": "2026-07-16",
         "net_vol": 76,
-        "cumulative": -1577
+        "cumulative": -1396
       },
       {
         "date": "2026-07-17",
         "net_vol": -46,
-        "cumulative": -1623
+        "cumulative": -1442
       },
       {
         "date": "2026-07-20",
         "net_vol": 30,
-        "cumulative": -1593
+        "cumulative": -1412
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -350,
+        "cumulative": -1762
       }
     ],
     "元大-台南": [
       {
-        "date": "2026-05-22",
-        "net_vol": -319,
-        "cumulative": -319
-      },
-      {
         "date": "2026-06-04",
         "net_vol": -343,
-        "cumulative": -662
+        "cumulative": -343
       },
       {
         "date": "2026-06-08",
         "net_vol": 500,
-        "cumulative": -162
+        "cumulative": 157
       },
       {
         "date": "2026-06-12",
         "net_vol": -566,
-        "cumulative": -728
+        "cumulative": -409
       },
       {
         "date": "2026-06-16",
         "net_vol": 66,
-        "cumulative": -662
+        "cumulative": -343
       },
       {
         "date": "2026-06-17",
         "net_vol": -46,
-        "cumulative": -708
+        "cumulative": -389
       },
       {
         "date": "2026-06-18",
         "net_vol": -52,
-        "cumulative": -760
+        "cumulative": -441
       },
       {
         "date": "2026-06-19",
         "net_vol": -52,
-        "cumulative": -812
+        "cumulative": -493
       },
       {
         "date": "2026-06-22",
         "net_vol": 56,
-        "cumulative": -756
+        "cumulative": -437
       },
       {
         "date": "2026-06-23",
         "net_vol": 29,
-        "cumulative": -727
+        "cumulative": -408
       }
     ],
     "元大-向上": [
@@ -1842,79 +1857,74 @@
     ],
     "元大-和平": [
       {
-        "date": "2026-05-22",
-        "net_vol": -109,
-        "cumulative": -109
-      },
-      {
         "date": "2026-05-28",
         "net_vol": -322,
-        "cumulative": -431
+        "cumulative": -322
       },
       {
         "date": "2026-05-29",
         "net_vol": -379,
-        "cumulative": -810
+        "cumulative": -701
       },
       {
         "date": "2026-06-03",
         "net_vol": -296,
-        "cumulative": -1106
+        "cumulative": -997
       },
       {
         "date": "2026-06-09",
         "net_vol": -13,
-        "cumulative": -1119
+        "cumulative": -1010
       },
       {
         "date": "2026-06-11",
         "net_vol": -169,
-        "cumulative": -1288
+        "cumulative": -1179
       },
       {
         "date": "2026-06-12",
         "net_vol": 26,
-        "cumulative": -1262
+        "cumulative": -1153
       },
       {
         "date": "2026-06-15",
         "net_vol": -2028,
-        "cumulative": -3290
+        "cumulative": -3181
       },
       {
         "date": "2026-06-16",
         "net_vol": -2047,
-        "cumulative": -5337
+        "cumulative": -5228
       },
       {
         "date": "2026-06-26",
         "net_vol": -195,
-        "cumulative": -5532
+        "cumulative": -5423
       },
       {
         "date": "2026-07-03",
         "net_vol": -147,
-        "cumulative": -5679
+        "cumulative": -5570
       },
       {
         "date": "2026-07-09",
         "net_vol": 11,
-        "cumulative": -5668
+        "cumulative": -5559
       },
       {
         "date": "2026-07-10",
         "net_vol": 11,
-        "cumulative": -5657
+        "cumulative": -5548
       },
       {
         "date": "2026-07-15",
         "net_vol": -20,
-        "cumulative": -5677
+        "cumulative": -5568
       },
       {
         "date": "2026-07-16",
         "net_vol": -13,
-        "cumulative": -5690
+        "cumulative": -5581
       }
     ],
     "元大-員林": [
@@ -2219,54 +2229,49 @@
     ],
     "元大-土城": [
       {
-        "date": "2026-05-22",
-        "net_vol": -394,
-        "cumulative": -394
-      },
-      {
         "date": "2026-05-26",
         "net_vol": -309,
-        "cumulative": -703
+        "cumulative": -309
       },
       {
         "date": "2026-05-27",
         "net_vol": -164,
-        "cumulative": -867
+        "cumulative": -473
       },
       {
         "date": "2026-05-29",
         "net_vol": -237,
-        "cumulative": -1104
+        "cumulative": -710
       },
       {
         "date": "2026-06-05",
         "net_vol": 119,
-        "cumulative": -985
+        "cumulative": -591
       },
       {
         "date": "2026-06-22",
         "net_vol": -36,
-        "cumulative": -1021
+        "cumulative": -627
       },
       {
         "date": "2026-06-24",
         "net_vol": 71,
-        "cumulative": -950
+        "cumulative": -556
       },
       {
         "date": "2026-06-30",
         "net_vol": -17,
-        "cumulative": -967
+        "cumulative": -573
       },
       {
         "date": "2026-07-01",
         "net_vol": -22,
-        "cumulative": -989
+        "cumulative": -595
       },
       {
         "date": "2026-07-03",
         "net_vol": 70,
-        "cumulative": -919
+        "cumulative": -525
       }
     ],
     "元大-土城學府": [
@@ -2401,18 +2406,18 @@
         "date": "2026-07-20",
         "net_vol": 3083,
         "cumulative": 40
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 100,
+        "cumulative": 140
       }
     ],
     "元大-基隆": [
       {
-        "date": "2026-05-22",
-        "net_vol": -48,
-        "cumulative": -48
-      },
-      {
         "date": "2026-07-16",
         "net_vol": -28,
-        "cumulative": -76
+        "cumulative": -28
       }
     ],
     "元大-基隆孝二": [
@@ -2586,149 +2591,149 @@
     ],
     "元大-大同": [
       {
-        "date": "2026-05-22",
-        "net_vol": -203,
-        "cumulative": -203
-      },
-      {
         "date": "2026-05-26",
         "net_vol": -344,
-        "cumulative": -547
+        "cumulative": -344
       },
       {
         "date": "2026-05-27",
         "net_vol": -200,
-        "cumulative": -747
+        "cumulative": -544
       },
       {
         "date": "2026-05-29",
         "net_vol": -46,
-        "cumulative": -793
+        "cumulative": -590
       },
       {
         "date": "2026-06-01",
         "net_vol": -30,
-        "cumulative": -823
+        "cumulative": -620
       },
       {
         "date": "2026-06-03",
         "net_vol": 1370,
-        "cumulative": 547
+        "cumulative": 750
       },
       {
         "date": "2026-06-04",
         "net_vol": 716,
-        "cumulative": 1263
+        "cumulative": 1466
       },
       {
         "date": "2026-06-08",
         "net_vol": 57,
-        "cumulative": 1320
+        "cumulative": 1523
       },
       {
         "date": "2026-06-09",
         "net_vol": -46,
-        "cumulative": 1274
+        "cumulative": 1477
       },
       {
         "date": "2026-06-10",
         "net_vol": 71,
-        "cumulative": 1345
+        "cumulative": 1548
       },
       {
         "date": "2026-06-16",
         "net_vol": 316,
-        "cumulative": 1661
+        "cumulative": 1864
       },
       {
         "date": "2026-06-17",
         "net_vol": 386,
-        "cumulative": 2047
+        "cumulative": 2250
       },
       {
         "date": "2026-06-18",
         "net_vol": -614,
-        "cumulative": 1433
+        "cumulative": 1636
       },
       {
         "date": "2026-06-19",
         "net_vol": -614,
-        "cumulative": 819
+        "cumulative": 1022
       },
       {
         "date": "2026-06-23",
         "net_vol": 43,
-        "cumulative": 862
+        "cumulative": 1065
       },
       {
         "date": "2026-06-25",
         "net_vol": 17,
-        "cumulative": 879
+        "cumulative": 1082
       },
       {
         "date": "2026-06-26",
         "net_vol": 179,
-        "cumulative": 1058
+        "cumulative": 1261
       },
       {
         "date": "2026-06-29",
         "net_vol": 123,
-        "cumulative": 1181
+        "cumulative": 1384
       },
       {
         "date": "2026-06-30",
         "net_vol": -118,
-        "cumulative": 1063
+        "cumulative": 1266
       },
       {
         "date": "2026-07-01",
         "net_vol": -25,
-        "cumulative": 1038
+        "cumulative": 1241
       },
       {
         "date": "2026-07-02",
         "net_vol": -57,
-        "cumulative": 981
+        "cumulative": 1184
       },
       {
         "date": "2026-07-03",
         "net_vol": -501,
-        "cumulative": 480
+        "cumulative": 683
       },
       {
         "date": "2026-07-07",
         "net_vol": 443,
-        "cumulative": 923
+        "cumulative": 1126
       },
       {
         "date": "2026-07-08",
         "net_vol": -302,
-        "cumulative": 621
+        "cumulative": 824
       },
       {
         "date": "2026-07-13",
         "net_vol": 49,
-        "cumulative": 670
+        "cumulative": 873
       },
       {
         "date": "2026-07-14",
         "net_vol": -67,
-        "cumulative": 603
+        "cumulative": 806
       },
       {
         "date": "2026-07-16",
         "net_vol": 383,
-        "cumulative": 986
+        "cumulative": 1189
       },
       {
         "date": "2026-07-17",
         "net_vol": -326,
-        "cumulative": 660
+        "cumulative": 863
       },
       {
         "date": "2026-07-20",
         "net_vol": -59,
-        "cumulative": 601
+        "cumulative": 804
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 444,
+        "cumulative": 1248
       }
     ],
     "元大-大天母": [
@@ -2826,6 +2831,11 @@
         "date": "2026-07-20",
         "net_vol": 59,
         "cumulative": -355
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -126,
+        "cumulative": -481
       }
     ],
     "元大-大安": [
@@ -2932,38 +2942,38 @@
         "date": "2026-07-20",
         "net_vol": -16,
         "cumulative": -1835
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -38,
+        "cumulative": -1873
       }
     ],
     "元大-大益": [
       {
-        "date": "2026-05-22",
-        "net_vol": -32,
-        "cumulative": -32
-      },
-      {
         "date": "2026-05-27",
         "net_vol": -40,
-        "cumulative": -72
+        "cumulative": -40
       },
       {
         "date": "2026-06-04",
         "net_vol": 55,
-        "cumulative": -17
+        "cumulative": 15
       },
       {
         "date": "2026-06-08",
         "net_vol": 10,
-        "cumulative": -7
+        "cumulative": 25
       },
       {
         "date": "2026-06-09",
         "net_vol": -12,
-        "cumulative": -19
+        "cumulative": 13
       },
       {
         "date": "2026-06-22",
         "net_vol": -118,
-        "cumulative": -137
+        "cumulative": -105
       }
     ],
     "元大-大直": [
@@ -3048,113 +3058,118 @@
         "date": "2026-07-20",
         "net_vol": -152,
         "cumulative": -394
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -21,
+        "cumulative": -415
       }
     ],
     "元大-大里": [
       {
-        "date": "2026-05-22",
-        "net_vol": 77,
-        "cumulative": 77
-      },
-      {
         "date": "2026-05-25",
         "net_vol": 126,
-        "cumulative": 203
+        "cumulative": 126
       },
       {
         "date": "2026-05-27",
         "net_vol": -10,
-        "cumulative": 193
+        "cumulative": 116
       },
       {
         "date": "2026-05-29",
         "net_vol": 34,
-        "cumulative": 227
+        "cumulative": 150
       },
       {
         "date": "2026-06-01",
         "net_vol": 30,
-        "cumulative": 257
+        "cumulative": 180
       },
       {
         "date": "2026-06-05",
         "net_vol": 105,
-        "cumulative": 362
+        "cumulative": 285
       },
       {
         "date": "2026-06-08",
         "net_vol": -15,
-        "cumulative": 347
+        "cumulative": 270
       },
       {
         "date": "2026-06-09",
         "net_vol": -72,
-        "cumulative": 275
+        "cumulative": 198
       },
       {
         "date": "2026-06-10",
         "net_vol": 110,
-        "cumulative": 385
+        "cumulative": 308
       },
       {
         "date": "2026-06-12",
         "net_vol": -34,
-        "cumulative": 351
+        "cumulative": 274
       },
       {
         "date": "2026-06-15",
         "net_vol": -64,
-        "cumulative": 287
+        "cumulative": 210
       },
       {
         "date": "2026-06-16",
         "net_vol": 151,
-        "cumulative": 438
+        "cumulative": 361
       },
       {
         "date": "2026-06-17",
         "net_vol": -74,
-        "cumulative": 364
+        "cumulative": 287
       },
       {
         "date": "2026-06-24",
         "net_vol": 20,
-        "cumulative": 384
+        "cumulative": 307
       },
       {
         "date": "2026-06-29",
         "net_vol": -193,
-        "cumulative": 191
+        "cumulative": 114
       },
       {
         "date": "2026-07-01",
         "net_vol": 48,
-        "cumulative": 239
+        "cumulative": 162
       },
       {
         "date": "2026-07-03",
         "net_vol": 34,
-        "cumulative": 273
+        "cumulative": 196
       },
       {
         "date": "2026-07-07",
         "net_vol": 59,
-        "cumulative": 332
+        "cumulative": 255
       },
       {
         "date": "2026-07-13",
         "net_vol": -36,
-        "cumulative": 296
+        "cumulative": 219
       },
       {
         "date": "2026-07-15",
         "net_vol": -130,
-        "cumulative": 166
+        "cumulative": 89
       },
       {
         "date": "2026-07-20",
         "net_vol": -13,
-        "cumulative": 153
+        "cumulative": 76
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 35,
+        "cumulative": 111
       }
     ],
     "元大-大里德芳": [
@@ -3243,129 +3258,129 @@
     ],
     "元大-天母": [
       {
-        "date": "2026-05-22",
-        "net_vol": 27,
-        "cumulative": 27
-      },
-      {
         "date": "2026-05-25",
         "net_vol": 56,
-        "cumulative": 83
+        "cumulative": 56
       },
       {
         "date": "2026-05-28",
         "net_vol": -248,
-        "cumulative": -165
+        "cumulative": -192
       },
       {
         "date": "2026-06-01",
         "net_vol": -983,
-        "cumulative": -1148
+        "cumulative": -1175
       },
       {
         "date": "2026-06-03",
         "net_vol": -20,
-        "cumulative": -1168
+        "cumulative": -1195
       },
       {
         "date": "2026-06-10",
         "net_vol": 12,
-        "cumulative": -1156
+        "cumulative": -1183
       },
       {
         "date": "2026-06-12",
         "net_vol": -14,
-        "cumulative": -1170
+        "cumulative": -1197
       },
       {
         "date": "2026-06-16",
         "net_vol": 166,
-        "cumulative": -1004
+        "cumulative": -1031
       },
       {
         "date": "2026-06-18",
         "net_vol": 593,
-        "cumulative": -411
+        "cumulative": -438
       },
       {
         "date": "2026-06-19",
         "net_vol": 593,
-        "cumulative": 182
+        "cumulative": 155
       },
       {
         "date": "2026-06-22",
         "net_vol": -607,
-        "cumulative": -425
+        "cumulative": -452
       },
       {
         "date": "2026-06-23",
         "net_vol": -291,
-        "cumulative": -716
+        "cumulative": -743
       },
       {
         "date": "2026-06-24",
         "net_vol": 22,
-        "cumulative": -694
+        "cumulative": -721
       },
       {
         "date": "2026-06-25",
         "net_vol": 91,
-        "cumulative": -603
+        "cumulative": -630
       },
       {
         "date": "2026-06-26",
         "net_vol": 70,
-        "cumulative": -533
+        "cumulative": -560
       },
       {
         "date": "2026-06-29",
         "net_vol": 34,
-        "cumulative": -499
+        "cumulative": -526
       },
       {
         "date": "2026-07-01",
         "net_vol": -106,
-        "cumulative": -605
+        "cumulative": -632
       },
       {
         "date": "2026-07-02",
         "net_vol": -39,
-        "cumulative": -644
+        "cumulative": -671
       },
       {
         "date": "2026-07-08",
         "net_vol": 50,
-        "cumulative": -594
+        "cumulative": -621
       },
       {
         "date": "2026-07-09",
         "net_vol": -49,
-        "cumulative": -643
+        "cumulative": -670
       },
       {
         "date": "2026-07-10",
         "net_vol": -49,
-        "cumulative": -692
+        "cumulative": -719
       },
       {
         "date": "2026-07-14",
         "net_vol": 154,
-        "cumulative": -538
+        "cumulative": -565
       },
       {
         "date": "2026-07-16",
         "net_vol": -223,
-        "cumulative": -761
+        "cumulative": -788
       },
       {
         "date": "2026-07-17",
         "net_vol": -283,
-        "cumulative": -1044
+        "cumulative": -1071
       },
       {
         "date": "2026-07-20",
         "net_vol": -101,
-        "cumulative": -1145
+        "cumulative": -1172
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -414,
+        "cumulative": -1586
       }
     ],
     "元大-太平": [
@@ -3658,54 +3673,49 @@
     ],
     "元大-彰化": [
       {
-        "date": "2026-05-22",
-        "net_vol": -23,
-        "cumulative": -23
-      },
-      {
         "date": "2026-05-28",
         "net_vol": 55,
-        "cumulative": 32
+        "cumulative": 55
       },
       {
         "date": "2026-06-04",
         "net_vol": -100,
-        "cumulative": -68
+        "cumulative": -45
       },
       {
         "date": "2026-06-15",
         "net_vol": -24,
-        "cumulative": -92
+        "cumulative": -69
       },
       {
         "date": "2026-06-24",
         "net_vol": 215,
-        "cumulative": 123
+        "cumulative": 146
       },
       {
         "date": "2026-06-26",
         "net_vol": 513,
-        "cumulative": 636
+        "cumulative": 659
       },
       {
         "date": "2026-07-09",
         "net_vol": -36,
-        "cumulative": 600
+        "cumulative": 623
       },
       {
         "date": "2026-07-10",
         "net_vol": -36,
-        "cumulative": 564
+        "cumulative": 587
       },
       {
         "date": "2026-07-13",
         "net_vol": -52,
-        "cumulative": 512
+        "cumulative": 535
       },
       {
         "date": "2026-07-14",
         "net_vol": 648,
-        "cumulative": 1160
+        "cumulative": 1183
       }
     ],
     "元大-彰化民生": [
@@ -3812,139 +3822,139 @@
     ],
     "元大-復北": [
       {
-        "date": "2026-05-22",
-        "net_vol": 528,
-        "cumulative": 528
-      },
-      {
         "date": "2026-05-25",
         "net_vol": -2109,
-        "cumulative": -1581
+        "cumulative": -2109
       },
       {
         "date": "2026-05-27",
         "net_vol": 99,
-        "cumulative": -1482
+        "cumulative": -2010
       },
       {
         "date": "2026-05-28",
         "net_vol": -234,
-        "cumulative": -1716
+        "cumulative": -2244
       },
       {
         "date": "2026-05-29",
         "net_vol": -1083,
-        "cumulative": -2799
+        "cumulative": -3327
       },
       {
         "date": "2026-06-01",
         "net_vol": 32,
-        "cumulative": -2767
+        "cumulative": -3295
       },
       {
         "date": "2026-06-02",
         "net_vol": 70,
-        "cumulative": -2697
+        "cumulative": -3225
       },
       {
         "date": "2026-06-04",
         "net_vol": -214,
-        "cumulative": -2911
+        "cumulative": -3439
       },
       {
         "date": "2026-06-08",
         "net_vol": 19,
-        "cumulative": -2892
+        "cumulative": -3420
       },
       {
         "date": "2026-06-09",
         "net_vol": -179,
-        "cumulative": -3071
+        "cumulative": -3599
       },
       {
         "date": "2026-06-11",
         "net_vol": -202,
-        "cumulative": -3273
+        "cumulative": -3801
       },
       {
         "date": "2026-06-15",
         "net_vol": -252,
-        "cumulative": -3525
+        "cumulative": -4053
       },
       {
         "date": "2026-06-16",
         "net_vol": 1008,
-        "cumulative": -2517
+        "cumulative": -3045
       },
       {
         "date": "2026-06-17",
         "net_vol": 71,
-        "cumulative": -2446
+        "cumulative": -2974
       },
       {
         "date": "2026-06-18",
         "net_vol": -171,
-        "cumulative": -2617
+        "cumulative": -3145
       },
       {
         "date": "2026-06-19",
         "net_vol": -171,
-        "cumulative": -2788
+        "cumulative": -3316
       },
       {
         "date": "2026-06-22",
         "net_vol": 120,
-        "cumulative": -2668
+        "cumulative": -3196
       },
       {
         "date": "2026-06-24",
         "net_vol": 242,
-        "cumulative": -2426
+        "cumulative": -2954
       },
       {
         "date": "2026-06-26",
         "net_vol": 61,
-        "cumulative": -2365
+        "cumulative": -2893
       },
       {
         "date": "2026-06-30",
         "net_vol": 232,
-        "cumulative": -2133
+        "cumulative": -2661
       },
       {
         "date": "2026-07-03",
         "net_vol": -116,
-        "cumulative": -2249
+        "cumulative": -2777
       },
       {
         "date": "2026-07-07",
         "net_vol": -1595,
-        "cumulative": -3844
+        "cumulative": -4372
       },
       {
         "date": "2026-07-08",
         "net_vol": 876,
-        "cumulative": -2968
+        "cumulative": -3496
       },
       {
         "date": "2026-07-09",
         "net_vol": -127,
-        "cumulative": -3095
+        "cumulative": -3623
       },
       {
         "date": "2026-07-10",
         "net_vol": -127,
-        "cumulative": -3222
+        "cumulative": -3750
       },
       {
         "date": "2026-07-13",
         "net_vol": 196,
-        "cumulative": -3026
+        "cumulative": -3554
       },
       {
         "date": "2026-07-15",
         "net_vol": -12,
-        "cumulative": -3038
+        "cumulative": -3566
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -24,
+        "cumulative": -3590
       }
     ],
     "元大-忠孝": [
@@ -4062,6 +4072,11 @@
         "date": "2026-07-20",
         "net_vol": -26,
         "cumulative": -2144
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -232,
+        "cumulative": -2376
       }
     ],
     "元大-忠孝鼎富": [
@@ -4305,6 +4320,11 @@
         "date": "2026-07-20",
         "net_vol": -51,
         "cumulative": 1480
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -1795,
+        "cumulative": -315
       }
     ],
     "元大-文心": [
@@ -4468,99 +4488,94 @@
     ],
     "元大-新盛": [
       {
-        "date": "2026-05-22",
-        "net_vol": 99,
-        "cumulative": 99
-      },
-      {
         "date": "2026-05-25",
         "net_vol": 207,
-        "cumulative": 306
+        "cumulative": 207
       },
       {
         "date": "2026-06-03",
         "net_vol": -203,
-        "cumulative": 103
+        "cumulative": 4
       },
       {
         "date": "2026-06-08",
         "net_vol": 104,
-        "cumulative": 207
+        "cumulative": 108
       },
       {
         "date": "2026-06-09",
         "net_vol": 224,
-        "cumulative": 431
+        "cumulative": 332
       },
       {
         "date": "2026-06-12",
         "net_vol": 100,
-        "cumulative": 531
+        "cumulative": 432
       },
       {
         "date": "2026-06-17",
         "net_vol": 200,
-        "cumulative": 731
+        "cumulative": 632
       },
       {
         "date": "2026-06-18",
         "net_vol": 78,
-        "cumulative": 809
+        "cumulative": 710
       },
       {
         "date": "2026-06-19",
         "net_vol": 78,
-        "cumulative": 887
+        "cumulative": 788
       },
       {
         "date": "2026-06-22",
         "net_vol": -101,
-        "cumulative": 786
+        "cumulative": 687
       },
       {
         "date": "2026-06-26",
         "net_vol": -499,
-        "cumulative": 287
+        "cumulative": 188
       },
       {
         "date": "2026-06-29",
         "net_vol": -79,
-        "cumulative": 208
+        "cumulative": 109
       },
       {
         "date": "2026-07-01",
         "net_vol": -20,
-        "cumulative": 188
+        "cumulative": 89
       },
       {
         "date": "2026-07-02",
         "net_vol": -68,
-        "cumulative": 120
+        "cumulative": 21
       },
       {
         "date": "2026-07-06",
         "net_vol": -433,
-        "cumulative": -313
+        "cumulative": -412
       },
       {
         "date": "2026-07-07",
         "net_vol": -431,
-        "cumulative": -744
+        "cumulative": -843
       },
       {
         "date": "2026-07-08",
         "net_vol": 564,
-        "cumulative": -180
+        "cumulative": -279
       },
       {
         "date": "2026-07-15",
         "net_vol": -179,
-        "cumulative": -359
+        "cumulative": -458
       },
       {
         "date": "2026-07-16",
         "net_vol": 8,
-        "cumulative": -351
+        "cumulative": -450
       }
     ],
     "元大-新竹": [
@@ -4665,6 +4680,11 @@
         "date": "2026-07-01",
         "net_vol": -450,
         "cumulative": -892
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -166,
+        "cumulative": -1058
       }
     ],
     "元大-新莊": [
@@ -4732,6 +4752,11 @@
         "date": "2026-07-20",
         "net_vol": 21,
         "cumulative": 78
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -24,
+        "cumulative": 54
       }
     ],
     "元大-旗山": [
@@ -4889,76 +4914,66 @@
     ],
     "元大-東港": [
       {
-        "date": "2026-05-22",
-        "net_vol": -206,
-        "cumulative": -206
-      },
-      {
         "date": "2026-05-25",
         "net_vol": 60,
-        "cumulative": -146
+        "cumulative": 60
       },
       {
         "date": "2026-06-15",
         "net_vol": 12,
-        "cumulative": -134
+        "cumulative": 72
       },
       {
         "date": "2026-07-20",
         "net_vol": -31,
-        "cumulative": -165
+        "cumulative": 41
       }
     ],
     "元大-松山": [
       {
-        "date": "2026-05-22",
-        "net_vol": 94,
-        "cumulative": 94
-      },
-      {
         "date": "2026-05-25",
         "net_vol": 101,
-        "cumulative": 195
+        "cumulative": 101
       },
       {
         "date": "2026-06-12",
         "net_vol": -453,
-        "cumulative": -258
+        "cumulative": -352
       },
       {
         "date": "2026-06-15",
         "net_vol": -91,
-        "cumulative": -349
+        "cumulative": -443
       },
       {
         "date": "2026-06-23",
         "net_vol": -217,
-        "cumulative": -566
+        "cumulative": -660
       },
       {
         "date": "2026-06-26",
         "net_vol": 206,
-        "cumulative": -360
+        "cumulative": -454
       },
       {
         "date": "2026-07-07",
         "net_vol": -250,
-        "cumulative": -610
+        "cumulative": -704
       },
       {
         "date": "2026-07-08",
         "net_vol": -142,
-        "cumulative": -752
+        "cumulative": -846
       },
       {
         "date": "2026-07-17",
         "net_vol": -69,
-        "cumulative": -821
+        "cumulative": -915
       },
       {
         "date": "2026-07-20",
         "net_vol": 24,
-        "cumulative": -797
+        "cumulative": -891
       }
     ],
     "元大-松江": [
@@ -5111,6 +5126,11 @@
         "date": "2026-07-20",
         "net_vol": -10,
         "cumulative": 18568
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 5,
+        "cumulative": 18573
       }
     ],
     "元大-板橋": [
@@ -5203,44 +5223,39 @@
     ],
     "元大-桃興": [
       {
-        "date": "2026-05-22",
-        "net_vol": -93,
-        "cumulative": -93
-      },
-      {
         "date": "2026-05-26",
         "net_vol": -178,
-        "cumulative": -271
+        "cumulative": -178
       },
       {
         "date": "2026-06-03",
         "net_vol": 61,
-        "cumulative": -210
+        "cumulative": -117
       },
       {
         "date": "2026-06-04",
         "net_vol": 150,
-        "cumulative": -60
+        "cumulative": 33
       },
       {
         "date": "2026-06-05",
         "net_vol": -138,
-        "cumulative": -198
+        "cumulative": -105
       },
       {
         "date": "2026-06-22",
         "net_vol": -89,
-        "cumulative": -287
+        "cumulative": -194
       },
       {
         "date": "2026-06-25",
         "net_vol": 249,
-        "cumulative": -38
+        "cumulative": 55
       },
       {
         "date": "2026-06-26",
         "net_vol": -202,
-        "cumulative": -240
+        "cumulative": -147
       }
     ],
     "元大-楊梅": [
@@ -5294,29 +5309,24 @@
     ],
     "元大-歸仁": [
       {
-        "date": "2026-05-22",
-        "net_vol": 30,
-        "cumulative": 30
-      },
-      {
         "date": "2026-05-28",
         "net_vol": -89,
-        "cumulative": -59
+        "cumulative": -89
       },
       {
         "date": "2026-06-15",
         "net_vol": -15,
-        "cumulative": -74
+        "cumulative": -104
       },
       {
         "date": "2026-06-29",
         "net_vol": 55,
-        "cumulative": -19
+        "cumulative": -49
       },
       {
         "date": "2026-07-02",
         "net_vol": -48,
-        "cumulative": -67
+        "cumulative": -97
       }
     ],
     "元大-民生三民": [
@@ -5359,6 +5369,11 @@
         "date": "2026-07-20",
         "net_vol": 77,
         "cumulative": 528
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -34,
+        "cumulative": 494
       }
     ],
     "元大-民雄": [
@@ -5713,29 +5728,24 @@
     ],
     "元大-福營": [
       {
-        "date": "2026-05-22",
-        "net_vol": -131,
-        "cumulative": -131
-      },
-      {
         "date": "2026-05-28",
         "net_vol": -79,
-        "cumulative": -210
+        "cumulative": -79
       },
       {
         "date": "2026-06-01",
         "net_vol": 188,
-        "cumulative": -22
+        "cumulative": 109
       },
       {
         "date": "2026-06-02",
         "net_vol": -242,
-        "cumulative": -264
+        "cumulative": -133
       },
       {
         "date": "2026-06-12",
         "net_vol": -145,
-        "cumulative": -409
+        "cumulative": -278
       }
     ],
     "元大-竹北": [
@@ -5763,6 +5773,11 @@
         "date": "2026-06-22",
         "net_vol": -51,
         "cumulative": 177
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 80,
+        "cumulative": 257
       }
     ],
     "元大-竹南": [
@@ -5982,6 +5997,11 @@
         "date": "2026-07-01",
         "net_vol": -49,
         "cumulative": -950
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 6,
+        "cumulative": -944
       }
     ],
     "元大-草屯": [
@@ -6117,39 +6137,34 @@
     ],
     "元大-萬華": [
       {
-        "date": "2026-05-22",
-        "net_vol": 91,
-        "cumulative": 91
-      },
-      {
         "date": "2026-06-02",
         "net_vol": -53,
-        "cumulative": 38
+        "cumulative": -53
       },
       {
         "date": "2026-06-03",
         "net_vol": 111,
-        "cumulative": 149
+        "cumulative": 58
       },
       {
         "date": "2026-06-04",
         "net_vol": -39,
-        "cumulative": 110
+        "cumulative": 19
       },
       {
         "date": "2026-06-30",
         "net_vol": -52,
-        "cumulative": 58
+        "cumulative": -33
       },
       {
         "date": "2026-07-07",
         "net_vol": 105,
-        "cumulative": 163
+        "cumulative": 72
       },
       {
         "date": "2026-07-13",
         "net_vol": -63,
-        "cumulative": 100
+        "cumulative": 9
       }
     ],
     "元大-蘆洲": [
@@ -6321,6 +6336,11 @@
         "date": "2026-07-15",
         "net_vol": 423,
         "cumulative": -1057
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -44,
+        "cumulative": -1101
       }
     ],
     "元大-西屯": [
@@ -6384,44 +6404,39 @@
     ],
     "元大-豐原": [
       {
-        "date": "2026-05-22",
-        "net_vol": -117,
-        "cumulative": -117
-      },
-      {
         "date": "2026-05-27",
         "net_vol": -41,
-        "cumulative": -158
+        "cumulative": -41
       },
       {
         "date": "2026-05-28",
         "net_vol": -27,
-        "cumulative": -185
+        "cumulative": -68
       },
       {
         "date": "2026-06-01",
         "net_vol": -35,
-        "cumulative": -220
+        "cumulative": -103
       },
       {
         "date": "2026-06-18",
         "net_vol": -405,
-        "cumulative": -625
+        "cumulative": -508
       },
       {
         "date": "2026-06-19",
         "net_vol": -405,
-        "cumulative": -1030
+        "cumulative": -913
       },
       {
         "date": "2026-06-22",
         "net_vol": 255,
-        "cumulative": -775
+        "cumulative": -658
       },
       {
         "date": "2026-07-17",
         "net_vol": 82,
-        "cumulative": -693
+        "cumulative": -576
       }
     ],
     "元大-豐原站前": [
@@ -6682,6 +6697,11 @@
         "date": "2026-07-16",
         "net_vol": -14,
         "cumulative": -1105
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 51,
+        "cumulative": -1054
       }
     ],
     "元大-頭份": [
@@ -6703,124 +6723,124 @@
     ],
     "元大-館前": [
       {
-        "date": "2026-05-22",
-        "net_vol": 164,
-        "cumulative": 164
-      },
-      {
         "date": "2026-05-25",
         "net_vol": 105,
-        "cumulative": 269
+        "cumulative": 105
       },
       {
         "date": "2026-05-27",
         "net_vol": -89,
-        "cumulative": 180
+        "cumulative": 16
       },
       {
         "date": "2026-06-01",
         "net_vol": -1300,
-        "cumulative": -1120
+        "cumulative": -1284
       },
       {
         "date": "2026-06-02",
         "net_vol": 233,
-        "cumulative": -887
+        "cumulative": -1051
       },
       {
         "date": "2026-06-04",
         "net_vol": -667,
-        "cumulative": -1554
+        "cumulative": -1718
       },
       {
         "date": "2026-06-05",
         "net_vol": -336,
-        "cumulative": -1890
+        "cumulative": -2054
       },
       {
         "date": "2026-06-09",
         "net_vol": -73,
-        "cumulative": -1963
+        "cumulative": -2127
       },
       {
         "date": "2026-06-10",
         "net_vol": -573,
-        "cumulative": -2536
+        "cumulative": -2700
       },
       {
         "date": "2026-06-11",
         "net_vol": -277,
-        "cumulative": -2813
+        "cumulative": -2977
       },
       {
         "date": "2026-06-12",
         "net_vol": 67,
-        "cumulative": -2746
+        "cumulative": -2910
       },
       {
         "date": "2026-06-16",
         "net_vol": 114,
-        "cumulative": -2632
+        "cumulative": -2796
       },
       {
         "date": "2026-06-22",
         "net_vol": -105,
-        "cumulative": -2737
+        "cumulative": -2901
       },
       {
         "date": "2026-06-30",
         "net_vol": -158,
-        "cumulative": -2895
+        "cumulative": -3059
       },
       {
         "date": "2026-07-02",
         "net_vol": -7,
-        "cumulative": -2902
+        "cumulative": -3066
       },
       {
         "date": "2026-07-03",
         "net_vol": 586,
-        "cumulative": -2316
+        "cumulative": -2480
       },
       {
         "date": "2026-07-06",
         "net_vol": 78,
-        "cumulative": -2238
+        "cumulative": -2402
       },
       {
         "date": "2026-07-07",
         "net_vol": -142,
-        "cumulative": -2380
+        "cumulative": -2544
       },
       {
         "date": "2026-07-08",
         "net_vol": 94,
-        "cumulative": -2286
+        "cumulative": -2450
       },
       {
         "date": "2026-07-09",
         "net_vol": 654,
-        "cumulative": -1632
+        "cumulative": -1796
       },
       {
         "date": "2026-07-10",
         "net_vol": 654,
-        "cumulative": -978
+        "cumulative": -1142
       },
       {
         "date": "2026-07-14",
         "net_vol": 432,
-        "cumulative": -546
+        "cumulative": -710
       },
       {
         "date": "2026-07-15",
         "net_vol": 975,
-        "cumulative": 429
+        "cumulative": 265
       },
       {
         "date": "2026-07-17",
         "net_vol": -999,
-        "cumulative": -570
+        "cumulative": -734
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -1008,
+        "cumulative": -1742
       }
     ],
     "元大-高雄": [
@@ -7115,518 +7135,513 @@
     ],
     "元大證券": [
       {
-        "date": "2026-05-22",
-        "net_vol": -7752,
-        "cumulative": -7752
-      },
-      {
         "date": "2026-05-25",
         "net_vol": 28156,
-        "cumulative": 20404
+        "cumulative": 28156
       },
       {
         "date": "2026-05-26",
         "net_vol": -4611,
-        "cumulative": 15793
+        "cumulative": 23545
       },
       {
         "date": "2026-05-27",
         "net_vol": 27434,
-        "cumulative": 43227
+        "cumulative": 50979
       },
       {
         "date": "2026-05-28",
         "net_vol": -22810,
-        "cumulative": 20417
+        "cumulative": 28169
       },
       {
         "date": "2026-05-29",
         "net_vol": -8968,
-        "cumulative": 11449
+        "cumulative": 19201
       },
       {
         "date": "2026-06-01",
         "net_vol": -4819,
-        "cumulative": 6630
+        "cumulative": 14382
       },
       {
         "date": "2026-06-02",
         "net_vol": -26144,
-        "cumulative": -19514
+        "cumulative": -11762
       },
       {
         "date": "2026-06-03",
         "net_vol": -7801,
-        "cumulative": -27315
+        "cumulative": -19563
       },
       {
         "date": "2026-06-04",
         "net_vol": 10241,
-        "cumulative": -17074
+        "cumulative": -9322
       },
       {
         "date": "2026-06-05",
         "net_vol": -22178,
-        "cumulative": -39252
+        "cumulative": -31500
       },
       {
         "date": "2026-06-08",
         "net_vol": -22194,
-        "cumulative": -61446
+        "cumulative": -53694
       },
       {
         "date": "2026-06-09",
         "net_vol": 3444,
-        "cumulative": -58002
+        "cumulative": -50250
       },
       {
         "date": "2026-06-10",
         "net_vol": -24440,
-        "cumulative": -82442
+        "cumulative": -74690
       },
       {
         "date": "2026-06-11",
         "net_vol": 4225,
-        "cumulative": -78217
+        "cumulative": -70465
       },
       {
         "date": "2026-06-12",
         "net_vol": 10193,
-        "cumulative": -68024
+        "cumulative": -60272
       },
       {
         "date": "2026-06-15",
         "net_vol": 5836,
-        "cumulative": -62188
+        "cumulative": -54436
       },
       {
         "date": "2026-06-16",
         "net_vol": 11298,
-        "cumulative": -50890
+        "cumulative": -43138
       },
       {
         "date": "2026-06-17",
         "net_vol": 437,
-        "cumulative": -50453
+        "cumulative": -42701
       },
       {
         "date": "2026-06-18",
         "net_vol": 2993,
-        "cumulative": -47460
+        "cumulative": -39708
       },
       {
         "date": "2026-06-19",
         "net_vol": 2993,
-        "cumulative": -44467
+        "cumulative": -36715
       },
       {
         "date": "2026-06-22",
         "net_vol": 12546,
-        "cumulative": -31921
+        "cumulative": -24169
       },
       {
         "date": "2026-06-23",
         "net_vol": 5768,
-        "cumulative": -26153
+        "cumulative": -18401
       },
       {
         "date": "2026-06-24",
         "net_vol": -2502,
-        "cumulative": -28655
+        "cumulative": -20903
       },
       {
         "date": "2026-06-25",
         "net_vol": -44167,
-        "cumulative": -72822
+        "cumulative": -65070
       },
       {
         "date": "2026-06-26",
         "net_vol": -24131,
-        "cumulative": -96953
+        "cumulative": -89201
       },
       {
         "date": "2026-06-29",
         "net_vol": -28206,
-        "cumulative": -125159
+        "cumulative": -117407
       },
       {
         "date": "2026-06-30",
         "net_vol": -24795,
-        "cumulative": -149954
+        "cumulative": -142202
       },
       {
         "date": "2026-07-01",
         "net_vol": 3288,
-        "cumulative": -146666
+        "cumulative": -138914
       },
       {
         "date": "2026-07-02",
         "net_vol": -16005,
-        "cumulative": -162671
+        "cumulative": -154919
       },
       {
         "date": "2026-07-03",
         "net_vol": 414,
-        "cumulative": -162257
+        "cumulative": -154505
       },
       {
         "date": "2026-07-06",
         "net_vol": -15910,
-        "cumulative": -178167
+        "cumulative": -170415
       },
       {
         "date": "2026-07-07",
         "net_vol": -24235,
-        "cumulative": -202402
+        "cumulative": -194650
       },
       {
         "date": "2026-07-08",
         "net_vol": -4501,
-        "cumulative": -206903
+        "cumulative": -199151
       },
       {
         "date": "2026-07-09",
         "net_vol": -6215,
-        "cumulative": -213118
+        "cumulative": -205366
       },
       {
         "date": "2026-07-10",
         "net_vol": -6215,
-        "cumulative": -219333
+        "cumulative": -211581
       },
       {
         "date": "2026-07-13",
         "net_vol": -2411,
-        "cumulative": -221744
+        "cumulative": -213992
       },
       {
         "date": "2026-07-14",
         "net_vol": 15310,
-        "cumulative": -206434
+        "cumulative": -198682
       },
       {
         "date": "2026-07-15",
         "net_vol": 9554,
-        "cumulative": -196880
+        "cumulative": -189128
       },
       {
         "date": "2026-07-16",
         "net_vol": -16061,
-        "cumulative": -212941
+        "cumulative": -205189
       },
       {
         "date": "2026-07-17",
         "net_vol": 2450,
-        "cumulative": -210491
+        "cumulative": -202739
       },
       {
         "date": "2026-07-20",
         "net_vol": 18097,
-        "cumulative": -192394
+        "cumulative": -184642
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 9779,
+        "cumulative": -174863
       }
     ],
     "凱基": [
       {
-        "date": "2026-05-22",
-        "net_vol": -9000,
-        "cumulative": -9000
-      },
-      {
         "date": "2026-05-25",
         "net_vol": 17235,
-        "cumulative": 8235
+        "cumulative": 17235
       },
       {
         "date": "2026-05-26",
         "net_vol": -29260,
-        "cumulative": -21025
+        "cumulative": -12025
       },
       {
         "date": "2026-05-27",
         "net_vol": 4444,
-        "cumulative": -16581
+        "cumulative": -7581
       },
       {
         "date": "2026-05-28",
         "net_vol": -9128,
-        "cumulative": -25709
+        "cumulative": -16709
       },
       {
         "date": "2026-05-29",
         "net_vol": 23638,
-        "cumulative": -2071
+        "cumulative": 6929
       },
       {
         "date": "2026-06-01",
         "net_vol": 3027,
-        "cumulative": 956
+        "cumulative": 9956
       },
       {
         "date": "2026-06-02",
         "net_vol": -1556,
-        "cumulative": -600
+        "cumulative": 8400
       },
       {
         "date": "2026-06-03",
         "net_vol": 9268,
-        "cumulative": 8668
+        "cumulative": 17668
       },
       {
         "date": "2026-06-04",
         "net_vol": 1860,
-        "cumulative": 10528
+        "cumulative": 19528
       },
       {
         "date": "2026-06-05",
         "net_vol": 9065,
-        "cumulative": 19593
+        "cumulative": 28593
       },
       {
         "date": "2026-06-08",
         "net_vol": 1245,
-        "cumulative": 20838
+        "cumulative": 29838
       },
       {
         "date": "2026-06-09",
         "net_vol": 9673,
-        "cumulative": 30511
+        "cumulative": 39511
       },
       {
         "date": "2026-06-10",
         "net_vol": 2399,
-        "cumulative": 32910
+        "cumulative": 41910
       },
       {
         "date": "2026-06-11",
         "net_vol": 5512,
-        "cumulative": 38422
+        "cumulative": 47422
       },
       {
         "date": "2026-06-12",
         "net_vol": 1108,
-        "cumulative": 39530
+        "cumulative": 48530
       },
       {
         "date": "2026-06-15",
         "net_vol": 826,
-        "cumulative": 40356
+        "cumulative": 49356
       },
       {
         "date": "2026-06-16",
         "net_vol": 12591,
-        "cumulative": 52947
+        "cumulative": 61947
       },
       {
         "date": "2026-06-17",
         "net_vol": 21084,
-        "cumulative": 74031
+        "cumulative": 83031
       },
       {
         "date": "2026-06-18",
         "net_vol": 12858,
-        "cumulative": 86889
+        "cumulative": 95889
       },
       {
         "date": "2026-06-19",
         "net_vol": 12858,
-        "cumulative": 99747
+        "cumulative": 108747
       },
       {
         "date": "2026-06-22",
         "net_vol": 6624,
-        "cumulative": 106371
+        "cumulative": 115371
       },
       {
         "date": "2026-06-23",
         "net_vol": 14063,
-        "cumulative": 120434
+        "cumulative": 129434
       },
       {
         "date": "2026-06-24",
         "net_vol": 10148,
-        "cumulative": 130582
+        "cumulative": 139582
       },
       {
         "date": "2026-06-25",
         "net_vol": 4727,
-        "cumulative": 135309
+        "cumulative": 144309
       },
       {
         "date": "2026-06-26",
         "net_vol": -11419,
-        "cumulative": 123890
+        "cumulative": 132890
       },
       {
         "date": "2026-06-29",
         "net_vol": 4374,
-        "cumulative": 128264
+        "cumulative": 137264
       },
       {
         "date": "2026-06-30",
         "net_vol": -3754,
-        "cumulative": 124510
+        "cumulative": 133510
       },
       {
         "date": "2026-07-01",
         "net_vol": 9742,
-        "cumulative": 134252
+        "cumulative": 143252
       },
       {
         "date": "2026-07-02",
         "net_vol": -33085,
-        "cumulative": 101167
+        "cumulative": 110167
       },
       {
         "date": "2026-07-03",
         "net_vol": -10556,
-        "cumulative": 90611
+        "cumulative": 99611
       },
       {
         "date": "2026-07-06",
         "net_vol": -4896,
-        "cumulative": 85715
+        "cumulative": 94715
       },
       {
         "date": "2026-07-07",
         "net_vol": 635,
-        "cumulative": 86350
+        "cumulative": 95350
       },
       {
         "date": "2026-07-08",
         "net_vol": 1487,
-        "cumulative": 87837
+        "cumulative": 96837
       },
       {
         "date": "2026-07-09",
         "net_vol": 2131,
-        "cumulative": 89968
+        "cumulative": 98968
       },
       {
         "date": "2026-07-10",
         "net_vol": 2131,
-        "cumulative": 92099
+        "cumulative": 101099
       },
       {
         "date": "2026-07-13",
         "net_vol": -3128,
-        "cumulative": 88971
+        "cumulative": 97971
       },
       {
         "date": "2026-07-14",
         "net_vol": -9819,
-        "cumulative": 79152
+        "cumulative": 88152
       },
       {
         "date": "2026-07-15",
         "net_vol": 2043,
-        "cumulative": 81195
+        "cumulative": 90195
       },
       {
         "date": "2026-07-16",
         "net_vol": 3306,
-        "cumulative": 84501
+        "cumulative": 93501
       },
       {
         "date": "2026-07-17",
         "net_vol": -3590,
-        "cumulative": 80911
+        "cumulative": 89911
       },
       {
         "date": "2026-07-20",
         "net_vol": 6819,
-        "cumulative": 87730
+        "cumulative": 96730
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 1398,
+        "cumulative": 98128
       }
     ],
     "凱基-三多": [
       {
-        "date": "2026-05-22",
-        "net_vol": 1383,
-        "cumulative": 1383
-      },
-      {
         "date": "2026-05-25",
         "net_vol": -2372,
-        "cumulative": -989
+        "cumulative": -2372
       },
       {
         "date": "2026-05-27",
         "net_vol": -504,
-        "cumulative": -1493
+        "cumulative": -2876
       },
       {
         "date": "2026-05-29",
         "net_vol": -1448,
-        "cumulative": -2941
+        "cumulative": -4324
       },
       {
         "date": "2026-06-01",
         "net_vol": -47,
-        "cumulative": -2988
+        "cumulative": -4371
       },
       {
         "date": "2026-06-03",
         "net_vol": -90,
-        "cumulative": -3078
+        "cumulative": -4461
       },
       {
         "date": "2026-06-09",
         "net_vol": 130,
-        "cumulative": -2948
+        "cumulative": -4331
       },
       {
         "date": "2026-06-10",
         "net_vol": -195,
-        "cumulative": -3143
+        "cumulative": -4526
       },
       {
         "date": "2026-06-11",
         "net_vol": -390,
-        "cumulative": -3533
+        "cumulative": -4916
       },
       {
         "date": "2026-06-12",
         "net_vol": -132,
-        "cumulative": -3665
+        "cumulative": -5048
       },
       {
         "date": "2026-06-16",
         "net_vol": -71,
-        "cumulative": -3736
+        "cumulative": -5119
       },
       {
         "date": "2026-06-17",
         "net_vol": -110,
-        "cumulative": -3846
+        "cumulative": -5229
       },
       {
         "date": "2026-06-25",
         "net_vol": -97,
-        "cumulative": -3943
+        "cumulative": -5326
       },
       {
         "date": "2026-06-26",
         "net_vol": -493,
-        "cumulative": -4436
+        "cumulative": -5819
       },
       {
         "date": "2026-06-30",
         "net_vol": -71,
-        "cumulative": -4507
+        "cumulative": -5890
       },
       {
         "date": "2026-07-02",
         "net_vol": 141,
-        "cumulative": -4366
+        "cumulative": -5749
       },
       {
         "date": "2026-07-06",
         "net_vol": 10,
-        "cumulative": -4356
+        "cumulative": -5739
       },
       {
         "date": "2026-07-17",
         "net_vol": 295,
-        "cumulative": -4061
+        "cumulative": -5444
       }
     ],
     "凱基-三峽": [
@@ -7716,58 +7731,63 @@
         "date": "2026-07-20",
         "net_vol": -4,
         "cumulative": -1304
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -82,
+        "cumulative": -1386
       }
     ],
     "凱基-中壢": [
       {
-        "date": "2026-05-22",
-        "net_vol": -119,
-        "cumulative": -119
-      },
-      {
         "date": "2026-05-28",
         "net_vol": -28,
-        "cumulative": -147
+        "cumulative": -28
       },
       {
         "date": "2026-06-03",
         "net_vol": 16,
-        "cumulative": -131
+        "cumulative": -12
       },
       {
         "date": "2026-06-08",
         "net_vol": -101,
-        "cumulative": -232
+        "cumulative": -113
       },
       {
         "date": "2026-06-22",
         "net_vol": -84,
-        "cumulative": -316
+        "cumulative": -197
       },
       {
         "date": "2026-06-24",
         "net_vol": 60,
-        "cumulative": -256
+        "cumulative": -137
       },
       {
         "date": "2026-07-03",
         "net_vol": 55,
-        "cumulative": -201
+        "cumulative": -82
       },
       {
         "date": "2026-07-07",
         "net_vol": -37,
-        "cumulative": -238
+        "cumulative": -119
       },
       {
         "date": "2026-07-15",
         "net_vol": 190,
-        "cumulative": -48
+        "cumulative": 71
       },
       {
         "date": "2026-07-17",
         "net_vol": -214,
-        "cumulative": -262
+        "cumulative": -143
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 198,
+        "cumulative": 55
       }
     ],
     "凱基-中山": [
@@ -8076,6 +8096,11 @@
         "date": "2026-07-20",
         "net_vol": 3997,
         "cumulative": 13760
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -4097,
+        "cumulative": 9663
       }
     ],
     "凱基-內埔": [
@@ -8180,214 +8205,214 @@
     ],
     "凱基-台北": [
       {
-        "date": "2026-05-22",
-        "net_vol": -1409,
-        "cumulative": -1409
-      },
-      {
         "date": "2026-05-25",
         "net_vol": -1087,
-        "cumulative": -2496
+        "cumulative": -1087
       },
       {
         "date": "2026-05-26",
         "net_vol": 12680,
-        "cumulative": 10184
+        "cumulative": 11593
       },
       {
         "date": "2026-05-27",
         "net_vol": 17380,
-        "cumulative": 27564
+        "cumulative": 28973
       },
       {
         "date": "2026-05-28",
         "net_vol": 9776,
-        "cumulative": 37340
+        "cumulative": 38749
       },
       {
         "date": "2026-05-29",
         "net_vol": 65275,
-        "cumulative": 102615
+        "cumulative": 104024
       },
       {
         "date": "2026-06-01",
         "net_vol": 11873,
-        "cumulative": 114488
+        "cumulative": 115897
       },
       {
         "date": "2026-06-02",
         "net_vol": 7068,
-        "cumulative": 121556
+        "cumulative": 122965
       },
       {
         "date": "2026-06-03",
         "net_vol": 21438,
-        "cumulative": 142994
+        "cumulative": 144403
       },
       {
         "date": "2026-06-04",
         "net_vol": 19596,
-        "cumulative": 162590
+        "cumulative": 163999
       },
       {
         "date": "2026-06-05",
         "net_vol": 18326,
-        "cumulative": 180916
+        "cumulative": 182325
       },
       {
         "date": "2026-06-08",
         "net_vol": 5979,
-        "cumulative": 186895
+        "cumulative": 188304
       },
       {
         "date": "2026-06-09",
         "net_vol": -5979,
-        "cumulative": 180916
+        "cumulative": 182325
       },
       {
         "date": "2026-06-10",
         "net_vol": -14273,
-        "cumulative": 166643
+        "cumulative": 168052
       },
       {
         "date": "2026-06-11",
         "net_vol": 4184,
-        "cumulative": 170827
+        "cumulative": 172236
       },
       {
         "date": "2026-06-12",
         "net_vol": 530,
-        "cumulative": 171357
+        "cumulative": 172766
       },
       {
         "date": "2026-06-15",
         "net_vol": 11320,
-        "cumulative": 182677
+        "cumulative": 184086
       },
       {
         "date": "2026-06-16",
         "net_vol": 2102,
-        "cumulative": 184779
+        "cumulative": 186188
       },
       {
         "date": "2026-06-17",
         "net_vol": -1007,
-        "cumulative": 183772
+        "cumulative": 185181
       },
       {
         "date": "2026-06-18",
         "net_vol": 26653,
-        "cumulative": 210425
+        "cumulative": 211834
       },
       {
         "date": "2026-06-19",
         "net_vol": 26653,
-        "cumulative": 237078
+        "cumulative": 238487
       },
       {
         "date": "2026-06-22",
         "net_vol": 10172,
-        "cumulative": 247250
+        "cumulative": 248659
       },
       {
         "date": "2026-06-23",
         "net_vol": 688,
-        "cumulative": 247938
+        "cumulative": 249347
       },
       {
         "date": "2026-06-24",
         "net_vol": 8881,
-        "cumulative": 256819
+        "cumulative": 258228
       },
       {
         "date": "2026-06-25",
         "net_vol": 5230,
-        "cumulative": 262049
+        "cumulative": 263458
       },
       {
         "date": "2026-06-26",
         "net_vol": -3712,
-        "cumulative": 258337
+        "cumulative": 259746
       },
       {
         "date": "2026-06-29",
         "net_vol": 9129,
-        "cumulative": 267466
+        "cumulative": 268875
       },
       {
         "date": "2026-06-30",
         "net_vol": -561,
-        "cumulative": 266905
+        "cumulative": 268314
       },
       {
         "date": "2026-07-01",
         "net_vol": 4904,
-        "cumulative": 271809
+        "cumulative": 273218
       },
       {
         "date": "2026-07-02",
         "net_vol": -1813,
-        "cumulative": 269996
+        "cumulative": 271405
       },
       {
         "date": "2026-07-03",
         "net_vol": -2631,
-        "cumulative": 267365
+        "cumulative": 268774
       },
       {
         "date": "2026-07-06",
         "net_vol": 2572,
-        "cumulative": 269937
+        "cumulative": 271346
       },
       {
         "date": "2026-07-07",
         "net_vol": -2461,
-        "cumulative": 267476
+        "cumulative": 268885
       },
       {
         "date": "2026-07-08",
         "net_vol": 2038,
-        "cumulative": 269514
+        "cumulative": 270923
       },
       {
         "date": "2026-07-09",
         "net_vol": -6315,
-        "cumulative": 263199
+        "cumulative": 264608
       },
       {
         "date": "2026-07-10",
         "net_vol": -6315,
-        "cumulative": 256884
+        "cumulative": 258293
       },
       {
         "date": "2026-07-13",
         "net_vol": 2398,
-        "cumulative": 259282
+        "cumulative": 260691
       },
       {
         "date": "2026-07-14",
         "net_vol": 5577,
-        "cumulative": 264859
+        "cumulative": 266268
       },
       {
         "date": "2026-07-15",
         "net_vol": 7650,
-        "cumulative": 272509
+        "cumulative": 273918
       },
       {
         "date": "2026-07-16",
         "net_vol": -2674,
-        "cumulative": 269835
+        "cumulative": 271244
       },
       {
         "date": "2026-07-17",
         "net_vol": -1393,
-        "cumulative": 268442
+        "cumulative": 269851
       },
       {
         "date": "2026-07-20",
         "net_vol": 1148,
-        "cumulative": 269590
+        "cumulative": 270999
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -4706,
+        "cumulative": 266293
       }
     ],
     "凱基-台南": [
@@ -8567,164 +8592,164 @@
     ],
     "凱基-城中": [
       {
-        "date": "2026-05-22",
-        "net_vol": -1398,
-        "cumulative": -1398
-      },
-      {
         "date": "2026-05-25",
         "net_vol": 12,
-        "cumulative": -1386
+        "cumulative": 12
       },
       {
         "date": "2026-05-26",
         "net_vol": -369,
-        "cumulative": -1755
+        "cumulative": -357
       },
       {
         "date": "2026-05-27",
         "net_vol": -63,
-        "cumulative": -1818
+        "cumulative": -420
       },
       {
         "date": "2026-05-28",
         "net_vol": 211,
-        "cumulative": -1607
+        "cumulative": -209
       },
       {
         "date": "2026-05-29",
         "net_vol": 47,
-        "cumulative": -1560
+        "cumulative": -162
       },
       {
         "date": "2026-06-01",
         "net_vol": 206,
-        "cumulative": -1354
+        "cumulative": 44
       },
       {
         "date": "2026-06-03",
         "net_vol": 676,
-        "cumulative": -678
+        "cumulative": 720
       },
       {
         "date": "2026-06-04",
         "net_vol": -144,
-        "cumulative": -822
+        "cumulative": 576
       },
       {
         "date": "2026-06-05",
         "net_vol": -198,
-        "cumulative": -1020
+        "cumulative": 378
       },
       {
         "date": "2026-06-08",
         "net_vol": -547,
-        "cumulative": -1567
+        "cumulative": -169
       },
       {
         "date": "2026-06-09",
         "net_vol": -244,
-        "cumulative": -1811
+        "cumulative": -413
       },
       {
         "date": "2026-06-11",
         "net_vol": 119,
-        "cumulative": -1692
+        "cumulative": -294
       },
       {
         "date": "2026-06-15",
         "net_vol": 56,
-        "cumulative": -1636
+        "cumulative": -238
       },
       {
         "date": "2026-06-17",
         "net_vol": -719,
-        "cumulative": -2355
+        "cumulative": -957
       },
       {
         "date": "2026-06-18",
         "net_vol": -5,
-        "cumulative": -2360
+        "cumulative": -962
       },
       {
         "date": "2026-06-19",
         "net_vol": -5,
-        "cumulative": -2365
+        "cumulative": -967
       },
       {
         "date": "2026-06-24",
         "net_vol": 1023,
-        "cumulative": -1342
+        "cumulative": 56
       },
       {
         "date": "2026-06-25",
         "net_vol": 93,
-        "cumulative": -1249
+        "cumulative": 149
       },
       {
         "date": "2026-06-26",
         "net_vol": -468,
-        "cumulative": -1717
+        "cumulative": -319
       },
       {
         "date": "2026-06-29",
         "net_vol": -739,
-        "cumulative": -2456
+        "cumulative": -1058
       },
       {
         "date": "2026-06-30",
         "net_vol": 333,
-        "cumulative": -2123
+        "cumulative": -725
       },
       {
         "date": "2026-07-01",
         "net_vol": -230,
-        "cumulative": -2353
+        "cumulative": -955
       },
       {
         "date": "2026-07-02",
         "net_vol": -261,
-        "cumulative": -2614
+        "cumulative": -1216
       },
       {
         "date": "2026-07-03",
         "net_vol": 63,
-        "cumulative": -2551
+        "cumulative": -1153
       },
       {
         "date": "2026-07-06",
         "net_vol": 382,
-        "cumulative": -2169
+        "cumulative": -771
       },
       {
         "date": "2026-07-07",
         "net_vol": -168,
-        "cumulative": -2337
+        "cumulative": -939
       },
       {
         "date": "2026-07-08",
         "net_vol": -63,
-        "cumulative": -2400
+        "cumulative": -1002
       },
       {
         "date": "2026-07-13",
         "net_vol": -41,
-        "cumulative": -2441
+        "cumulative": -1043
       },
       {
         "date": "2026-07-14",
         "net_vol": -28,
-        "cumulative": -2469
+        "cumulative": -1071
       },
       {
         "date": "2026-07-15",
         "net_vol": 595,
-        "cumulative": -1874
+        "cumulative": -476
       },
       {
         "date": "2026-07-20",
         "net_vol": -412,
-        "cumulative": -2286
+        "cumulative": -888
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 68,
+        "cumulative": -820
       }
     ],
     "凱基-埔墘": [
@@ -8773,114 +8798,109 @@
     ],
     "凱基-士林": [
       {
-        "date": "2026-05-22",
-        "net_vol": 123,
-        "cumulative": 123
-      },
-      {
         "date": "2026-05-26",
         "net_vol": 116,
-        "cumulative": 239
+        "cumulative": 116
       },
       {
         "date": "2026-05-27",
         "net_vol": 199,
-        "cumulative": 438
+        "cumulative": 315
       },
       {
         "date": "2026-05-28",
         "net_vol": 84,
-        "cumulative": 522
+        "cumulative": 399
       },
       {
         "date": "2026-05-29",
         "net_vol": -375,
-        "cumulative": 147
+        "cumulative": 24
       },
       {
         "date": "2026-06-01",
         "net_vol": -225,
-        "cumulative": -78
+        "cumulative": -201
       },
       {
         "date": "2026-06-03",
         "net_vol": -180,
-        "cumulative": -258
+        "cumulative": -381
       },
       {
         "date": "2026-06-12",
         "net_vol": 155,
-        "cumulative": -103
+        "cumulative": -226
       },
       {
         "date": "2026-06-15",
         "net_vol": -155,
-        "cumulative": -258
+        "cumulative": -381
       },
       {
         "date": "2026-06-22",
         "net_vol": 88,
-        "cumulative": -170
+        "cumulative": -293
       },
       {
         "date": "2026-06-24",
         "net_vol": 181,
-        "cumulative": 11
+        "cumulative": -112
       },
       {
         "date": "2026-06-25",
         "net_vol": -269,
-        "cumulative": -258
+        "cumulative": -381
       },
       {
         "date": "2026-06-26",
         "net_vol": 104,
-        "cumulative": -154
+        "cumulative": -277
       },
       {
         "date": "2026-06-30",
         "net_vol": 66,
-        "cumulative": -88
+        "cumulative": -211
       },
       {
         "date": "2026-07-06",
         "net_vol": -210,
-        "cumulative": -298
+        "cumulative": -421
       },
       {
         "date": "2026-07-07",
         "net_vol": 135,
-        "cumulative": -163
+        "cumulative": -286
       },
       {
         "date": "2026-07-08",
         "net_vol": -45,
-        "cumulative": -208
+        "cumulative": -331
       },
       {
         "date": "2026-07-14",
         "net_vol": 98,
-        "cumulative": -110
+        "cumulative": -233
       },
       {
         "date": "2026-07-15",
         "net_vol": -176,
-        "cumulative": -286
+        "cumulative": -409
       },
       {
         "date": "2026-07-16",
         "net_vol": 637,
-        "cumulative": 351
+        "cumulative": 228
       },
       {
         "date": "2026-07-17",
         "net_vol": 1695,
-        "cumulative": 2046
+        "cumulative": 1923
       },
       {
         "date": "2026-07-20",
         "net_vol": 216,
-        "cumulative": 2262
+        "cumulative": 2139
       }
     ],
     "凱基-大安": [
@@ -8975,6 +8995,11 @@
         "date": "2026-07-15",
         "net_vol": -3,
         "cumulative": -257
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 49,
+        "cumulative": -208
       }
     ],
     "凱基-大里": [
@@ -9276,39 +9301,34 @@
     ],
     "凱基-彰化": [
       {
-        "date": "2026-05-22",
-        "net_vol": -159,
-        "cumulative": -159
-      },
-      {
         "date": "2026-06-12",
         "net_vol": 63,
-        "cumulative": -96
+        "cumulative": 63
       },
       {
         "date": "2026-06-17",
         "net_vol": -81,
-        "cumulative": -177
+        "cumulative": -18
       },
       {
         "date": "2026-07-01",
         "net_vol": -168,
-        "cumulative": -345
+        "cumulative": -186
       },
       {
         "date": "2026-07-02",
         "net_vol": 133,
-        "cumulative": -212
+        "cumulative": -53
       },
       {
         "date": "2026-07-15",
         "net_vol": -250,
-        "cumulative": -462
+        "cumulative": -303
       },
       {
         "date": "2026-07-16",
         "net_vol": -115,
-        "cumulative": -577
+        "cumulative": -418
       }
     ],
     "凱基-敦北": [
@@ -9330,14 +9350,9 @@
     ],
     "凱基-文心": [
       {
-        "date": "2026-05-22",
-        "net_vol": -340,
-        "cumulative": -340
-      },
-      {
         "date": "2026-07-01",
         "net_vol": -22,
-        "cumulative": -362
+        "cumulative": -22
       }
     ],
     "凱基-斗六": [
@@ -9380,6 +9395,11 @@
         "date": "2026-07-13",
         "net_vol": -220,
         "cumulative": -3030
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -221,
+        "cumulative": -3251
       }
     ],
     "凱基-新店": [
@@ -9507,119 +9527,114 @@
     ],
     "凱基-松山": [
       {
-        "date": "2026-05-22",
-        "net_vol": -53,
-        "cumulative": -53
-      },
-      {
         "date": "2026-05-26",
         "net_vol": -301,
-        "cumulative": -354
+        "cumulative": -301
       },
       {
         "date": "2026-05-27",
         "net_vol": -702,
-        "cumulative": -1056
+        "cumulative": -1003
       },
       {
         "date": "2026-05-28",
         "net_vol": -764,
-        "cumulative": -1820
+        "cumulative": -1767
       },
       {
         "date": "2026-05-29",
         "net_vol": -1147,
-        "cumulative": -2967
+        "cumulative": -2914
       },
       {
         "date": "2026-06-01",
         "net_vol": -2147,
-        "cumulative": -5114
+        "cumulative": -5061
       },
       {
         "date": "2026-06-05",
         "net_vol": -287,
-        "cumulative": -5401
+        "cumulative": -5348
       },
       {
         "date": "2026-06-09",
         "net_vol": -375,
-        "cumulative": -5776
+        "cumulative": -5723
       },
       {
         "date": "2026-06-10",
         "net_vol": -149,
-        "cumulative": -5925
+        "cumulative": -5872
       },
       {
         "date": "2026-06-11",
         "net_vol": -248,
-        "cumulative": -6173
+        "cumulative": -6120
       },
       {
         "date": "2026-06-16",
         "net_vol": -173,
-        "cumulative": -6346
+        "cumulative": -6293
       },
       {
         "date": "2026-06-17",
         "net_vol": -80,
-        "cumulative": -6426
+        "cumulative": -6373
       },
       {
         "date": "2026-06-18",
         "net_vol": -319,
-        "cumulative": -6745
+        "cumulative": -6692
       },
       {
         "date": "2026-06-19",
         "net_vol": -319,
-        "cumulative": -7064
+        "cumulative": -7011
       },
       {
         "date": "2026-06-22",
         "net_vol": 20,
-        "cumulative": -7044
+        "cumulative": -6991
       },
       {
         "date": "2026-06-29",
         "net_vol": -27,
-        "cumulative": -7071
+        "cumulative": -7018
       },
       {
         "date": "2026-06-30",
         "net_vol": -24,
-        "cumulative": -7095
+        "cumulative": -7042
       },
       {
         "date": "2026-07-01",
         "net_vol": -627,
-        "cumulative": -7722
+        "cumulative": -7669
       },
       {
         "date": "2026-07-03",
         "net_vol": -19,
-        "cumulative": -7741
+        "cumulative": -7688
       },
       {
         "date": "2026-07-08",
         "net_vol": 26,
-        "cumulative": -7715
+        "cumulative": -7662
       },
       {
         "date": "2026-07-15",
         "net_vol": 3452,
-        "cumulative": -4263
+        "cumulative": -4210
       },
       {
         "date": "2026-07-16",
         "net_vol": -41,
-        "cumulative": -4304
+        "cumulative": -4251
       },
       {
         "date": "2026-07-17",
         "net_vol": -171,
-        "cumulative": -4475
+        "cumulative": -4422
       }
     ],
     "凱基-板橋": [
@@ -9745,111 +9760,101 @@
     ],
     "凱基-永和": [
       {
-        "date": "2026-05-22",
-        "net_vol": 366,
-        "cumulative": 366
-      },
-      {
         "date": "2026-05-25",
         "net_vol": -188,
-        "cumulative": 178
+        "cumulative": -188
       },
       {
         "date": "2026-05-26",
         "net_vol": 875,
-        "cumulative": 1053
+        "cumulative": 687
       },
       {
         "date": "2026-05-27",
         "net_vol": -230,
-        "cumulative": 823
+        "cumulative": 457
       },
       {
         "date": "2026-05-28",
         "net_vol": 1009,
-        "cumulative": 1832
+        "cumulative": 1466
       },
       {
         "date": "2026-05-29",
         "net_vol": -456,
-        "cumulative": 1376
+        "cumulative": 1010
       },
       {
         "date": "2026-06-01",
         "net_vol": -1227,
-        "cumulative": 149
+        "cumulative": -217
       },
       {
         "date": "2026-06-03",
         "net_vol": 40,
-        "cumulative": 189
+        "cumulative": -177
       },
       {
         "date": "2026-06-08",
         "net_vol": -69,
-        "cumulative": 120
+        "cumulative": -246
       },
       {
         "date": "2026-06-09",
         "net_vol": 72,
-        "cumulative": 192
+        "cumulative": -174
       },
       {
         "date": "2026-06-10",
         "net_vol": -71,
-        "cumulative": 121
+        "cumulative": -245
       },
       {
         "date": "2026-06-12",
         "net_vol": 55,
-        "cumulative": 176
+        "cumulative": -190
       },
       {
         "date": "2026-06-18",
         "net_vol": -76,
-        "cumulative": 100
+        "cumulative": -266
       },
       {
         "date": "2026-06-19",
         "net_vol": -76,
-        "cumulative": 24
+        "cumulative": -342
       },
       {
         "date": "2026-06-22",
         "net_vol": 147,
-        "cumulative": 171
+        "cumulative": -195
       },
       {
         "date": "2026-06-23",
         "net_vol": -151,
-        "cumulative": 20
+        "cumulative": -346
       },
       {
         "date": "2026-07-06",
         "net_vol": 119,
-        "cumulative": 139
+        "cumulative": -227
       },
       {
         "date": "2026-07-20",
         "net_vol": -100,
-        "cumulative": 39
+        "cumulative": -327
       }
     ],
     "凱基-永康": [
       {
-        "date": "2026-05-22",
-        "net_vol": -21,
-        "cumulative": -21
-      },
-      {
         "date": "2026-06-25",
         "net_vol": -40,
-        "cumulative": -61
+        "cumulative": -40
       },
       {
         "date": "2026-07-06",
         "net_vol": -60,
-        "cumulative": -121
+        "cumulative": -100
       }
     ],
     "凱基-永華": [
@@ -9957,209 +9962,209 @@
     ],
     "凱基-站前": [
       {
-        "date": "2026-05-22",
-        "net_vol": 408,
-        "cumulative": 408
-      },
-      {
         "date": "2026-05-25",
         "net_vol": 1059,
-        "cumulative": 1467
+        "cumulative": 1059
       },
       {
         "date": "2026-05-26",
         "net_vol": -1712,
-        "cumulative": -245
+        "cumulative": -653
       },
       {
         "date": "2026-05-27",
         "net_vol": 84,
-        "cumulative": -161
+        "cumulative": -569
       },
       {
         "date": "2026-05-28",
         "net_vol": -681,
-        "cumulative": -842
+        "cumulative": -1250
       },
       {
         "date": "2026-05-29",
         "net_vol": 422,
-        "cumulative": -420
+        "cumulative": -828
       },
       {
         "date": "2026-06-01",
         "net_vol": -230,
-        "cumulative": -650
+        "cumulative": -1058
       },
       {
         "date": "2026-06-02",
         "net_vol": -1124,
-        "cumulative": -1774
+        "cumulative": -2182
       },
       {
         "date": "2026-06-03",
         "net_vol": 2017,
-        "cumulative": 243
+        "cumulative": -165
       },
       {
         "date": "2026-06-04",
         "net_vol": -73,
-        "cumulative": 170
+        "cumulative": -238
       },
       {
         "date": "2026-06-05",
         "net_vol": 82,
-        "cumulative": 252
+        "cumulative": -156
       },
       {
         "date": "2026-06-08",
         "net_vol": -571,
-        "cumulative": -319
+        "cumulative": -727
       },
       {
         "date": "2026-06-09",
         "net_vol": 1572,
-        "cumulative": 1253
+        "cumulative": 845
       },
       {
         "date": "2026-06-10",
         "net_vol": 557,
-        "cumulative": 1810
+        "cumulative": 1402
       },
       {
         "date": "2026-06-11",
         "net_vol": -192,
-        "cumulative": 1618
+        "cumulative": 1210
       },
       {
         "date": "2026-06-12",
         "net_vol": 1472,
-        "cumulative": 3090
+        "cumulative": 2682
       },
       {
         "date": "2026-06-15",
         "net_vol": 71,
-        "cumulative": 3161
+        "cumulative": 2753
       },
       {
         "date": "2026-06-16",
         "net_vol": -803,
-        "cumulative": 2358
+        "cumulative": 1950
       },
       {
         "date": "2026-06-17",
         "net_vol": 573,
-        "cumulative": 2931
+        "cumulative": 2523
       },
       {
         "date": "2026-06-18",
         "net_vol": -506,
-        "cumulative": 2425
+        "cumulative": 2017
       },
       {
         "date": "2026-06-19",
         "net_vol": -506,
-        "cumulative": 1919
+        "cumulative": 1511
       },
       {
         "date": "2026-06-22",
         "net_vol": 1677,
-        "cumulative": 3596
+        "cumulative": 3188
       },
       {
         "date": "2026-06-23",
         "net_vol": 1331,
-        "cumulative": 4927
+        "cumulative": 4519
       },
       {
         "date": "2026-06-24",
         "net_vol": -1885,
-        "cumulative": 3042
+        "cumulative": 2634
       },
       {
         "date": "2026-06-25",
         "net_vol": -1360,
-        "cumulative": 1682
+        "cumulative": 1274
       },
       {
         "date": "2026-06-26",
         "net_vol": -356,
-        "cumulative": 1326
+        "cumulative": 918
       },
       {
         "date": "2026-06-29",
         "net_vol": -2273,
-        "cumulative": -947
+        "cumulative": -1355
       },
       {
         "date": "2026-06-30",
         "net_vol": 16,
-        "cumulative": -931
+        "cumulative": -1339
       },
       {
         "date": "2026-07-01",
         "net_vol": -32,
-        "cumulative": -963
+        "cumulative": -1371
       },
       {
         "date": "2026-07-02",
         "net_vol": -60,
-        "cumulative": -1023
+        "cumulative": -1431
       },
       {
         "date": "2026-07-03",
         "net_vol": -290,
-        "cumulative": -1313
+        "cumulative": -1721
       },
       {
         "date": "2026-07-06",
         "net_vol": -505,
-        "cumulative": -1818
+        "cumulative": -2226
       },
       {
         "date": "2026-07-07",
         "net_vol": -351,
-        "cumulative": -2169
+        "cumulative": -2577
       },
       {
         "date": "2026-07-08",
         "net_vol": 421,
-        "cumulative": -1748
+        "cumulative": -2156
       },
       {
         "date": "2026-07-09",
         "net_vol": 189,
-        "cumulative": -1559
+        "cumulative": -1967
       },
       {
         "date": "2026-07-10",
         "net_vol": 189,
-        "cumulative": -1370
+        "cumulative": -1778
       },
       {
         "date": "2026-07-13",
         "net_vol": -268,
-        "cumulative": -1638
+        "cumulative": -2046
       },
       {
         "date": "2026-07-14",
         "net_vol": -5,
-        "cumulative": -1643
+        "cumulative": -2051
       },
       {
         "date": "2026-07-15",
         "net_vol": -20,
-        "cumulative": -1663
+        "cumulative": -2071
       },
       {
         "date": "2026-07-16",
         "net_vol": 1345,
-        "cumulative": -318
+        "cumulative": -726
       },
       {
         "date": "2026-07-17",
         "net_vol": -85,
-        "cumulative": -403
+        "cumulative": -811
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 67,
+        "cumulative": -744
       }
     ],
     "凱基-竹北": [
@@ -10192,110 +10197,105 @@
         "date": "2026-07-14",
         "net_vol": -60,
         "cumulative": 10
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -263,
+        "cumulative": -253
       }
     ],
     "凱基-竹科": [
       {
-        "date": "2026-05-22",
-        "net_vol": -49,
-        "cumulative": -49
-      },
-      {
         "date": "2026-05-25",
         "net_vol": -150,
-        "cumulative": -199
+        "cumulative": -150
       },
       {
         "date": "2026-05-26",
         "net_vol": 62,
-        "cumulative": -137
+        "cumulative": -88
       },
       {
         "date": "2026-05-27",
         "net_vol": 95,
-        "cumulative": -42
+        "cumulative": 7
       },
       {
         "date": "2026-05-28",
         "net_vol": -64,
-        "cumulative": -106
+        "cumulative": -57
       },
       {
         "date": "2026-06-02",
         "net_vol": -128,
-        "cumulative": -234
+        "cumulative": -185
       },
       {
         "date": "2026-06-03",
         "net_vol": 144,
-        "cumulative": -90
+        "cumulative": -41
       },
       {
         "date": "2026-06-08",
         "net_vol": -26,
-        "cumulative": -116
+        "cumulative": -67
       },
       {
         "date": "2026-06-15",
         "net_vol": 38,
-        "cumulative": -78
+        "cumulative": -29
       },
       {
         "date": "2026-06-17",
         "net_vol": -36,
-        "cumulative": -114
+        "cumulative": -65
       },
       {
         "date": "2026-06-22",
         "net_vol": -31,
-        "cumulative": -145
+        "cumulative": -96
       },
       {
         "date": "2026-06-24",
         "net_vol": -438,
-        "cumulative": -583
+        "cumulative": -534
       },
       {
         "date": "2026-06-25",
         "net_vol": -29,
-        "cumulative": -612
+        "cumulative": -563
       },
       {
         "date": "2026-07-03",
         "net_vol": -220,
-        "cumulative": -832
+        "cumulative": -783
       },
       {
         "date": "2026-07-06",
         "net_vol": 152,
-        "cumulative": -680
+        "cumulative": -631
       },
       {
         "date": "2026-07-16",
         "net_vol": 38,
-        "cumulative": -642
+        "cumulative": -593
       }
     ],
     "凱基-羅東": [
       {
-        "date": "2026-05-22",
-        "net_vol": -184,
-        "cumulative": -184
-      },
-      {
         "date": "2026-06-10",
         "net_vol": -101,
-        "cumulative": -285
+        "cumulative": -101
       },
       {
         "date": "2026-06-17",
         "net_vol": 56,
-        "cumulative": -229
+        "cumulative": -45
       },
       {
         "date": "2026-07-01",
         "net_vol": -27,
-        "cumulative": -256
+        "cumulative": -72
       }
     ],
     "凱基-興隆": [
@@ -10403,79 +10403,74 @@
     ],
     "凱基-雙和": [
       {
-        "date": "2026-05-22",
-        "net_vol": 525,
-        "cumulative": 525
-      },
-      {
         "date": "2026-05-25",
         "net_vol": -102,
-        "cumulative": 423
+        "cumulative": -102
       },
       {
         "date": "2026-05-26",
         "net_vol": -610,
-        "cumulative": -187
+        "cumulative": -712
       },
       {
         "date": "2026-05-27",
         "net_vol": 122,
-        "cumulative": -65
+        "cumulative": -590
       },
       {
         "date": "2026-05-28",
         "net_vol": -205,
-        "cumulative": -270
+        "cumulative": -795
       },
       {
         "date": "2026-06-01",
         "net_vol": 289,
-        "cumulative": 19
+        "cumulative": -506
       },
       {
         "date": "2026-06-02",
         "net_vol": 94,
-        "cumulative": 113
+        "cumulative": -412
       },
       {
         "date": "2026-06-03",
         "net_vol": -396,
-        "cumulative": -283
+        "cumulative": -808
       },
       {
         "date": "2026-06-04",
         "net_vol": 397,
-        "cumulative": 114
+        "cumulative": -411
       },
       {
         "date": "2026-06-22",
         "net_vol": -403,
-        "cumulative": -289
+        "cumulative": -814
       },
       {
         "date": "2026-06-24",
         "net_vol": 332,
-        "cumulative": 43
+        "cumulative": -482
       },
       {
         "date": "2026-06-30",
         "net_vol": -57,
-        "cumulative": -14
+        "cumulative": -539
       },
       {
         "date": "2026-07-06",
         "net_vol": -291,
-        "cumulative": -305
+        "cumulative": -830
       },
       {
         "date": "2026-07-08",
         "net_vol": 394,
-        "cumulative": 89
+        "cumulative": -436
       },
       {
         "date": "2026-07-13",
         "net_vol": 93,
-        "cumulative": 182
+        "cumulative": -343
       }
     ],
     "凱基-頭份": [
@@ -10678,426 +10673,426 @@
     ],
     "台灣摩根士丹利": [
       {
-        "date": "2026-05-22",
-        "net_vol": 10965,
-        "cumulative": 10965
-      },
-      {
         "date": "2026-05-25",
         "net_vol": 32996,
-        "cumulative": 43961
+        "cumulative": 32996
       },
       {
         "date": "2026-05-26",
         "net_vol": 54767,
-        "cumulative": 98728
+        "cumulative": 87763
       },
       {
         "date": "2026-05-27",
         "net_vol": 26766,
-        "cumulative": 125494
+        "cumulative": 114529
       },
       {
         "date": "2026-05-28",
         "net_vol": 30666,
-        "cumulative": 156160
+        "cumulative": 145195
       },
       {
         "date": "2026-05-29",
         "net_vol": -39982,
-        "cumulative": 116178
+        "cumulative": 105213
       },
       {
         "date": "2026-06-01",
         "net_vol": 35447,
-        "cumulative": 151625
+        "cumulative": 140660
       },
       {
         "date": "2026-06-02",
         "net_vol": 35415,
-        "cumulative": 187040
+        "cumulative": 176075
       },
       {
         "date": "2026-06-03",
         "net_vol": 19893,
-        "cumulative": 206933
+        "cumulative": 195968
       },
       {
         "date": "2026-06-04",
         "net_vol": 20127,
-        "cumulative": 227060
+        "cumulative": 216095
       },
       {
         "date": "2026-06-05",
         "net_vol": 12876,
-        "cumulative": 239936
+        "cumulative": 228971
       },
       {
         "date": "2026-06-08",
         "net_vol": -36388,
-        "cumulative": 203548
+        "cumulative": 192583
       },
       {
         "date": "2026-06-09",
         "net_vol": -1774,
-        "cumulative": 201774
+        "cumulative": 190809
       },
       {
         "date": "2026-06-10",
         "net_vol": 237,
-        "cumulative": 202011
+        "cumulative": 191046
       },
       {
         "date": "2026-06-11",
         "net_vol": 18031,
-        "cumulative": 220042
+        "cumulative": 209077
       },
       {
         "date": "2026-06-12",
         "net_vol": 38253,
-        "cumulative": 258295
+        "cumulative": 247330
       },
       {
         "date": "2026-06-15",
         "net_vol": 10284,
-        "cumulative": 268579
+        "cumulative": 257614
       },
       {
         "date": "2026-06-16",
         "net_vol": 12947,
-        "cumulative": 281526
+        "cumulative": 270561
       },
       {
         "date": "2026-06-17",
         "net_vol": 6083,
-        "cumulative": 287609
+        "cumulative": 276644
       },
       {
         "date": "2026-06-18",
         "net_vol": 14970,
-        "cumulative": 302579
+        "cumulative": 291614
       },
       {
         "date": "2026-06-19",
         "net_vol": 14970,
-        "cumulative": 317549
+        "cumulative": 306584
       },
       {
         "date": "2026-06-22",
         "net_vol": 14934,
-        "cumulative": 332483
+        "cumulative": 321518
       },
       {
         "date": "2026-06-23",
         "net_vol": 10923,
-        "cumulative": 343406
+        "cumulative": 332441
       },
       {
         "date": "2026-06-24",
         "net_vol": 6561,
-        "cumulative": 349967
+        "cumulative": 339002
       },
       {
         "date": "2026-06-25",
         "net_vol": 12270,
-        "cumulative": 362237
+        "cumulative": 351272
       },
       {
         "date": "2026-06-26",
         "net_vol": -17812,
-        "cumulative": 344425
+        "cumulative": 333460
       },
       {
         "date": "2026-06-29",
         "net_vol": -22053,
-        "cumulative": 322372
+        "cumulative": 311407
       },
       {
         "date": "2026-06-30",
         "net_vol": 31933,
-        "cumulative": 354305
+        "cumulative": 343340
       },
       {
         "date": "2026-07-01",
         "net_vol": 12747,
-        "cumulative": 367052
+        "cumulative": 356087
       },
       {
         "date": "2026-07-02",
         "net_vol": 10999,
-        "cumulative": 378051
+        "cumulative": 367086
       },
       {
         "date": "2026-07-03",
         "net_vol": 14276,
-        "cumulative": 392327
+        "cumulative": 381362
       },
       {
         "date": "2026-07-06",
         "net_vol": 14515,
-        "cumulative": 406842
+        "cumulative": 395877
       },
       {
         "date": "2026-07-07",
         "net_vol": 6182,
-        "cumulative": 413024
+        "cumulative": 402059
       },
       {
         "date": "2026-07-08",
         "net_vol": 30680,
-        "cumulative": 443704
+        "cumulative": 432739
       },
       {
         "date": "2026-07-09",
         "net_vol": 13138,
-        "cumulative": 456842
+        "cumulative": 445877
       },
       {
         "date": "2026-07-10",
         "net_vol": 13138,
-        "cumulative": 469980
+        "cumulative": 459015
       },
       {
         "date": "2026-07-13",
         "net_vol": 12775,
-        "cumulative": 482755
+        "cumulative": 471790
       },
       {
         "date": "2026-07-14",
         "net_vol": -14488,
-        "cumulative": 468267
+        "cumulative": 457302
       },
       {
         "date": "2026-07-15",
         "net_vol": 7625,
-        "cumulative": 475892
+        "cumulative": 464927
       },
       {
         "date": "2026-07-16",
         "net_vol": -1572,
-        "cumulative": 474320
+        "cumulative": 463355
       },
       {
         "date": "2026-07-17",
         "net_vol": 10698,
-        "cumulative": 485018
+        "cumulative": 474053
       },
       {
         "date": "2026-07-20",
         "net_vol": -30272,
-        "cumulative": 454746
+        "cumulative": 443781
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 49458,
+        "cumulative": 493239
       }
     ],
     "大和國泰": [
       {
-        "date": "2026-05-22",
-        "net_vol": 511,
-        "cumulative": 511
-      },
-      {
         "date": "2026-05-25",
         "net_vol": 528,
-        "cumulative": 1039
+        "cumulative": 528
       },
       {
         "date": "2026-05-26",
         "net_vol": 48,
-        "cumulative": 1087
+        "cumulative": 576
       },
       {
         "date": "2026-05-27",
         "net_vol": 222,
-        "cumulative": 1309
+        "cumulative": 798
       },
       {
         "date": "2026-05-28",
         "net_vol": 864,
-        "cumulative": 2173
+        "cumulative": 1662
       },
       {
         "date": "2026-05-29",
         "net_vol": 37,
-        "cumulative": 2210
+        "cumulative": 1699
       },
       {
         "date": "2026-06-01",
         "net_vol": -159,
-        "cumulative": 2051
+        "cumulative": 1540
       },
       {
         "date": "2026-06-02",
         "net_vol": 211,
-        "cumulative": 2262
+        "cumulative": 1751
       },
       {
         "date": "2026-06-03",
         "net_vol": 1805,
-        "cumulative": 4067
+        "cumulative": 3556
       },
       {
         "date": "2026-06-04",
         "net_vol": 3886,
-        "cumulative": 7953
+        "cumulative": 7442
       },
       {
         "date": "2026-06-05",
         "net_vol": 261,
-        "cumulative": 8214
+        "cumulative": 7703
       },
       {
         "date": "2026-06-08",
         "net_vol": 551,
-        "cumulative": 8765
+        "cumulative": 8254
       },
       {
         "date": "2026-06-09",
         "net_vol": 2929,
-        "cumulative": 11694
+        "cumulative": 11183
       },
       {
         "date": "2026-06-10",
         "net_vol": 5720,
-        "cumulative": 17414
+        "cumulative": 16903
       },
       {
         "date": "2026-06-11",
         "net_vol": 2589,
-        "cumulative": 20003
+        "cumulative": 19492
       },
       {
         "date": "2026-06-12",
         "net_vol": 1635,
-        "cumulative": 21638
+        "cumulative": 21127
       },
       {
         "date": "2026-06-15",
         "net_vol": -1871,
-        "cumulative": 19767
+        "cumulative": 19256
       },
       {
         "date": "2026-06-16",
         "net_vol": -1439,
-        "cumulative": 18328
+        "cumulative": 17817
       },
       {
         "date": "2026-06-17",
         "net_vol": 1381,
-        "cumulative": 19709
+        "cumulative": 19198
       },
       {
         "date": "2026-06-18",
         "net_vol": -203,
-        "cumulative": 19506
+        "cumulative": 18995
       },
       {
         "date": "2026-06-19",
         "net_vol": -203,
-        "cumulative": 19303
+        "cumulative": 18792
       },
       {
         "date": "2026-06-22",
         "net_vol": -487,
-        "cumulative": 18816
+        "cumulative": 18305
       },
       {
         "date": "2026-06-23",
         "net_vol": -4,
-        "cumulative": 18812
+        "cumulative": 18301
       },
       {
         "date": "2026-06-24",
         "net_vol": -611,
-        "cumulative": 18201
+        "cumulative": 17690
       },
       {
         "date": "2026-06-25",
         "net_vol": -267,
-        "cumulative": 17934
+        "cumulative": 17423
       },
       {
         "date": "2026-06-26",
         "net_vol": 2011,
-        "cumulative": 19945
+        "cumulative": 19434
       },
       {
         "date": "2026-06-29",
         "net_vol": 709,
-        "cumulative": 20654
+        "cumulative": 20143
       },
       {
         "date": "2026-06-30",
         "net_vol": 867,
-        "cumulative": 21521
+        "cumulative": 21010
       },
       {
         "date": "2026-07-01",
         "net_vol": -2958,
-        "cumulative": 18563
+        "cumulative": 18052
       },
       {
         "date": "2026-07-02",
         "net_vol": 37,
-        "cumulative": 18600
+        "cumulative": 18089
       },
       {
         "date": "2026-07-03",
         "net_vol": -4963,
-        "cumulative": 13637
+        "cumulative": 13126
       },
       {
         "date": "2026-07-06",
         "net_vol": 111,
-        "cumulative": 13748
+        "cumulative": 13237
       },
       {
         "date": "2026-07-07",
         "net_vol": -37,
-        "cumulative": 13711
+        "cumulative": 13200
       },
       {
         "date": "2026-07-08",
         "net_vol": -2376,
-        "cumulative": 11335
+        "cumulative": 10824
       },
       {
         "date": "2026-07-09",
         "net_vol": -625,
-        "cumulative": 10710
+        "cumulative": 10199
       },
       {
         "date": "2026-07-10",
         "net_vol": -625,
-        "cumulative": 10085
+        "cumulative": 9574
       },
       {
         "date": "2026-07-13",
         "net_vol": 275,
-        "cumulative": 10360
+        "cumulative": 9849
       },
       {
         "date": "2026-07-14",
         "net_vol": -792,
-        "cumulative": 9568
+        "cumulative": 9057
       },
       {
         "date": "2026-07-15",
         "net_vol": 1270,
-        "cumulative": 10838
+        "cumulative": 10327
       },
       {
         "date": "2026-07-16",
         "net_vol": -1293,
-        "cumulative": 9545
+        "cumulative": 9034
       },
       {
         "date": "2026-07-17",
         "net_vol": -59,
-        "cumulative": 9486
+        "cumulative": 8975
       },
       {
         "date": "2026-07-20",
         "net_vol": -4804,
-        "cumulative": 4682
+        "cumulative": 4171
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -3440,
+        "cumulative": 731
       }
     ],
     "富邦-七賢": [
@@ -11224,6 +11219,11 @@
         "date": "2026-07-16",
         "net_vol": 114,
         "cumulative": -1167
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 5,
+        "cumulative": -1162
       }
     ],
     "富邦-中壢": [
@@ -11321,6 +11321,11 @@
         "date": "2026-07-17",
         "net_vol": 38,
         "cumulative": -1750
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -21,
+        "cumulative": -1771
       }
     ],
     "富邦-二林": [
@@ -11332,214 +11337,214 @@
     ],
     "富邦-仁愛": [
       {
-        "date": "2026-05-22",
-        "net_vol": 103,
-        "cumulative": 103
-      },
-      {
         "date": "2026-05-25",
         "net_vol": -61,
-        "cumulative": 42
+        "cumulative": -61
       },
       {
         "date": "2026-05-26",
         "net_vol": -1214,
-        "cumulative": -1172
+        "cumulative": -1275
       },
       {
         "date": "2026-05-27",
         "net_vol": -1293,
-        "cumulative": -2465
+        "cumulative": -2568
       },
       {
         "date": "2026-05-28",
         "net_vol": -1437,
-        "cumulative": -3902
+        "cumulative": -4005
       },
       {
         "date": "2026-05-29",
         "net_vol": -134,
-        "cumulative": -4036
+        "cumulative": -4139
       },
       {
         "date": "2026-06-01",
         "net_vol": -318,
-        "cumulative": -4354
+        "cumulative": -4457
       },
       {
         "date": "2026-06-02",
         "net_vol": -957,
-        "cumulative": -5311
+        "cumulative": -5414
       },
       {
         "date": "2026-06-03",
         "net_vol": -217,
-        "cumulative": -5528
+        "cumulative": -5631
       },
       {
         "date": "2026-06-04",
         "net_vol": 109,
-        "cumulative": -5419
+        "cumulative": -5522
       },
       {
         "date": "2026-06-05",
         "net_vol": -296,
-        "cumulative": -5715
+        "cumulative": -5818
       },
       {
         "date": "2026-06-08",
         "net_vol": -309,
-        "cumulative": -6024
+        "cumulative": -6127
       },
       {
         "date": "2026-06-09",
         "net_vol": -15,
-        "cumulative": -6039
+        "cumulative": -6142
       },
       {
         "date": "2026-06-10",
         "net_vol": -186,
-        "cumulative": -6225
+        "cumulative": -6328
       },
       {
         "date": "2026-06-11",
         "net_vol": -163,
-        "cumulative": -6388
+        "cumulative": -6491
       },
       {
         "date": "2026-06-12",
         "net_vol": -92,
-        "cumulative": -6480
+        "cumulative": -6583
       },
       {
         "date": "2026-06-15",
         "net_vol": -44,
-        "cumulative": -6524
+        "cumulative": -6627
       },
       {
         "date": "2026-06-16",
         "net_vol": 89,
-        "cumulative": -6435
+        "cumulative": -6538
       },
       {
         "date": "2026-06-17",
         "net_vol": -951,
-        "cumulative": -7386
+        "cumulative": -7489
       },
       {
         "date": "2026-06-18",
         "net_vol": 126,
-        "cumulative": -7260
+        "cumulative": -7363
       },
       {
         "date": "2026-06-19",
         "net_vol": 126,
-        "cumulative": -7134
+        "cumulative": -7237
       },
       {
         "date": "2026-06-22",
         "net_vol": -206,
-        "cumulative": -7340
+        "cumulative": -7443
       },
       {
         "date": "2026-06-23",
         "net_vol": 326,
-        "cumulative": -7014
+        "cumulative": -7117
       },
       {
         "date": "2026-06-24",
         "net_vol": 519,
-        "cumulative": -6495
+        "cumulative": -6598
       },
       {
         "date": "2026-06-25",
         "net_vol": -2,
-        "cumulative": -6497
+        "cumulative": -6600
       },
       {
         "date": "2026-06-26",
         "net_vol": 462,
-        "cumulative": -6035
+        "cumulative": -6138
       },
       {
         "date": "2026-06-29",
         "net_vol": 63,
-        "cumulative": -5972
+        "cumulative": -6075
       },
       {
         "date": "2026-06-30",
         "net_vol": -219,
-        "cumulative": -6191
+        "cumulative": -6294
       },
       {
         "date": "2026-07-01",
         "net_vol": 433,
-        "cumulative": -5758
+        "cumulative": -5861
       },
       {
         "date": "2026-07-02",
         "net_vol": 353,
-        "cumulative": -5405
+        "cumulative": -5508
       },
       {
         "date": "2026-07-03",
         "net_vol": 421,
-        "cumulative": -4984
+        "cumulative": -5087
       },
       {
         "date": "2026-07-06",
         "net_vol": 200,
-        "cumulative": -4784
+        "cumulative": -4887
       },
       {
         "date": "2026-07-07",
         "net_vol": 466,
-        "cumulative": -4318
+        "cumulative": -4421
       },
       {
         "date": "2026-07-08",
         "net_vol": 131,
-        "cumulative": -4187
+        "cumulative": -4290
       },
       {
         "date": "2026-07-09",
         "net_vol": 236,
-        "cumulative": -3951
+        "cumulative": -4054
       },
       {
         "date": "2026-07-10",
         "net_vol": 236,
-        "cumulative": -3715
+        "cumulative": -3818
       },
       {
         "date": "2026-07-13",
         "net_vol": -41,
-        "cumulative": -3756
+        "cumulative": -3859
       },
       {
         "date": "2026-07-14",
         "net_vol": 258,
-        "cumulative": -3498
+        "cumulative": -3601
       },
       {
         "date": "2026-07-15",
         "net_vol": -957,
-        "cumulative": -4455
+        "cumulative": -4558
       },
       {
         "date": "2026-07-16",
         "net_vol": 223,
-        "cumulative": -4232
+        "cumulative": -4335
       },
       {
         "date": "2026-07-17",
         "net_vol": 419,
-        "cumulative": -3813
+        "cumulative": -3916
       },
       {
         "date": "2026-07-20",
         "net_vol": 113,
-        "cumulative": -3700
+        "cumulative": -3803
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -43,
+        "cumulative": -3846
       }
     ],
     "富邦-內湖": [
@@ -11895,6 +11900,11 @@
         "date": "2026-07-16",
         "net_vol": 162,
         "cumulative": -569
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -701,
+        "cumulative": -1270
       }
     ],
     "富邦-南員林": [
@@ -12330,78 +12340,83 @@
         "date": "2026-07-20",
         "net_vol": -338,
         "cumulative": -4602
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 14,
+        "cumulative": -4588
       }
     ],
     "富邦-台南": [
       {
-        "date": "2026-05-22",
-        "net_vol": -141,
-        "cumulative": -141
-      },
-      {
         "date": "2026-05-25",
         "net_vol": -71,
-        "cumulative": -212
+        "cumulative": -71
       },
       {
         "date": "2026-06-10",
         "net_vol": -48,
-        "cumulative": -260
+        "cumulative": -119
       },
       {
         "date": "2026-06-11",
         "net_vol": 78,
-        "cumulative": -182
+        "cumulative": -41
       },
       {
         "date": "2026-06-12",
         "net_vol": -77,
-        "cumulative": -259
+        "cumulative": -118
       },
       {
         "date": "2026-06-16",
         "net_vol": -58,
-        "cumulative": -317
+        "cumulative": -176
       },
       {
         "date": "2026-06-18",
         "net_vol": -57,
-        "cumulative": -374
+        "cumulative": -233
       },
       {
         "date": "2026-06-19",
         "net_vol": -57,
-        "cumulative": -431
+        "cumulative": -290
       },
       {
         "date": "2026-06-25",
         "net_vol": 152,
-        "cumulative": -279
+        "cumulative": -138
       },
       {
         "date": "2026-07-03",
         "net_vol": 479,
-        "cumulative": 200
+        "cumulative": 341
       },
       {
         "date": "2026-07-06",
         "net_vol": 60,
-        "cumulative": 260
+        "cumulative": 401
       },
       {
         "date": "2026-07-08",
         "net_vol": 242,
-        "cumulative": 502
+        "cumulative": 643
       },
       {
         "date": "2026-07-09",
         "net_vol": 44,
-        "cumulative": 546
+        "cumulative": 687
       },
       {
         "date": "2026-07-10",
         "net_vol": 44,
-        "cumulative": 590
+        "cumulative": 731
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 96,
+        "cumulative": 827
       }
     ],
     "富邦-台東": [
@@ -12447,101 +12462,91 @@
     ],
     "富邦-嘉義": [
       {
-        "date": "2026-05-22",
-        "net_vol": -993,
-        "cumulative": -993
-      },
-      {
         "date": "2026-05-25",
         "net_vol": -36,
-        "cumulative": -1029
+        "cumulative": -36
       },
       {
         "date": "2026-06-01",
         "net_vol": 16,
-        "cumulative": -1013
+        "cumulative": -20
       },
       {
         "date": "2026-06-02",
         "net_vol": -66,
-        "cumulative": -1079
+        "cumulative": -86
       },
       {
         "date": "2026-06-12",
         "net_vol": -130,
-        "cumulative": -1209
+        "cumulative": -216
       },
       {
         "date": "2026-06-16",
         "net_vol": -872,
-        "cumulative": -2081
+        "cumulative": -1088
       },
       {
         "date": "2026-06-17",
         "net_vol": 764,
-        "cumulative": -1317
+        "cumulative": -324
       },
       {
         "date": "2026-06-24",
         "net_vol": -602,
-        "cumulative": -1919
+        "cumulative": -926
       },
       {
         "date": "2026-06-29",
         "net_vol": -298,
-        "cumulative": -2217
+        "cumulative": -1224
       },
       {
         "date": "2026-07-02",
         "net_vol": 220,
-        "cumulative": -1997
+        "cumulative": -1004
       },
       {
         "date": "2026-07-08",
         "net_vol": -78,
-        "cumulative": -2075
+        "cumulative": -1082
       },
       {
         "date": "2026-07-13",
         "net_vol": 146,
-        "cumulative": -1929
+        "cumulative": -936
       }
     ],
     "富邦-基隆": [
       {
-        "date": "2026-05-22",
-        "net_vol": 183,
-        "cumulative": 183
-      },
-      {
         "date": "2026-06-01",
         "net_vol": -204,
-        "cumulative": -21
+        "cumulative": -204
       },
       {
         "date": "2026-06-08",
         "net_vol": -343,
-        "cumulative": -364
+        "cumulative": -547
       },
       {
         "date": "2026-06-11",
         "net_vol": -907,
-        "cumulative": -1271
+        "cumulative": -1454
       },
       {
         "date": "2026-06-16",
         "net_vol": 125,
-        "cumulative": -1146
+        "cumulative": -1329
       },
       {
         "date": "2026-06-29",
         "net_vol": -290,
-        "cumulative": -1436
+        "cumulative": -1619
       },
       {
         "date": "2026-07-14",
         "net_vol": -46,
-        "cumulative": -1482
+        "cumulative": -1665
       }
     ],
     "富邦-宜蘭": [
@@ -12592,433 +12597,428 @@
     ],
     "富邦-建國": [
       {
-        "date": "2026-05-22",
-        "net_vol": 934,
-        "cumulative": 934
-      },
-      {
         "date": "2026-05-25",
         "net_vol": -470,
-        "cumulative": 464
+        "cumulative": -470
       },
       {
         "date": "2026-05-26",
         "net_vol": -169,
-        "cumulative": 295
+        "cumulative": -639
       },
       {
         "date": "2026-05-27",
         "net_vol": -1712,
-        "cumulative": -1417
+        "cumulative": -2351
       },
       {
         "date": "2026-05-28",
         "net_vol": 907,
-        "cumulative": -510
+        "cumulative": -1444
       },
       {
         "date": "2026-05-29",
         "net_vol": -139,
-        "cumulative": -649
+        "cumulative": -1583
       },
       {
         "date": "2026-06-01",
         "net_vol": -43,
-        "cumulative": -692
+        "cumulative": -1626
       },
       {
         "date": "2026-06-02",
         "net_vol": 233,
-        "cumulative": -459
+        "cumulative": -1393
       },
       {
         "date": "2026-06-03",
         "net_vol": -224,
-        "cumulative": -683
+        "cumulative": -1617
       },
       {
         "date": "2026-06-04",
         "net_vol": 651,
-        "cumulative": -32
+        "cumulative": -966
       },
       {
         "date": "2026-06-05",
         "net_vol": 261,
-        "cumulative": 229
+        "cumulative": -705
       },
       {
         "date": "2026-06-08",
         "net_vol": 316,
-        "cumulative": 545
+        "cumulative": -389
       },
       {
         "date": "2026-06-09",
         "net_vol": 27,
-        "cumulative": 572
+        "cumulative": -362
       },
       {
         "date": "2026-06-10",
         "net_vol": -63,
-        "cumulative": 509
+        "cumulative": -425
       },
       {
         "date": "2026-06-12",
         "net_vol": -629,
-        "cumulative": -120
+        "cumulative": -1054
       },
       {
         "date": "2026-06-15",
         "net_vol": -1641,
-        "cumulative": -1761
+        "cumulative": -2695
       },
       {
         "date": "2026-06-16",
         "net_vol": -56,
-        "cumulative": -1817
+        "cumulative": -2751
       },
       {
         "date": "2026-06-17",
         "net_vol": -239,
-        "cumulative": -2056
+        "cumulative": -2990
       },
       {
         "date": "2026-06-18",
         "net_vol": 174,
-        "cumulative": -1882
+        "cumulative": -2816
       },
       {
         "date": "2026-06-19",
         "net_vol": 174,
-        "cumulative": -1708
+        "cumulative": -2642
       },
       {
         "date": "2026-06-22",
         "net_vol": -189,
-        "cumulative": -1897
+        "cumulative": -2831
       },
       {
         "date": "2026-06-23",
         "net_vol": 432,
-        "cumulative": -1465
+        "cumulative": -2399
       },
       {
         "date": "2026-06-24",
         "net_vol": 128,
-        "cumulative": -1337
+        "cumulative": -2271
       },
       {
         "date": "2026-06-25",
         "net_vol": 115,
-        "cumulative": -1222
+        "cumulative": -2156
       },
       {
         "date": "2026-06-26",
         "net_vol": 775,
-        "cumulative": -447
+        "cumulative": -1381
       },
       {
         "date": "2026-06-29",
         "net_vol": 255,
-        "cumulative": -192
+        "cumulative": -1126
       },
       {
         "date": "2026-06-30",
         "net_vol": -192,
-        "cumulative": -384
+        "cumulative": -1318
       },
       {
         "date": "2026-07-01",
         "net_vol": -764,
-        "cumulative": -1148
+        "cumulative": -2082
       },
       {
         "date": "2026-07-02",
         "net_vol": 838,
-        "cumulative": -310
+        "cumulative": -1244
       },
       {
         "date": "2026-07-03",
         "net_vol": 69,
-        "cumulative": -241
+        "cumulative": -1175
       },
       {
         "date": "2026-07-06",
         "net_vol": -227,
-        "cumulative": -468
+        "cumulative": -1402
       },
       {
         "date": "2026-07-07",
         "net_vol": 237,
-        "cumulative": -231
+        "cumulative": -1165
       },
       {
         "date": "2026-07-08",
         "net_vol": 97,
-        "cumulative": -134
+        "cumulative": -1068
       },
       {
         "date": "2026-07-09",
         "net_vol": -163,
-        "cumulative": -297
+        "cumulative": -1231
       },
       {
         "date": "2026-07-10",
         "net_vol": -163,
-        "cumulative": -460
+        "cumulative": -1394
       },
       {
         "date": "2026-07-13",
         "net_vol": -116,
-        "cumulative": -576
+        "cumulative": -1510
       },
       {
         "date": "2026-07-14",
         "net_vol": -49,
-        "cumulative": -625
+        "cumulative": -1559
       },
       {
         "date": "2026-07-15",
         "net_vol": -320,
-        "cumulative": -945
+        "cumulative": -1879
       },
       {
         "date": "2026-07-16",
         "net_vol": 146,
-        "cumulative": -799
+        "cumulative": -1733
       },
       {
         "date": "2026-07-17",
         "net_vol": -1511,
-        "cumulative": -2310
+        "cumulative": -3244
       },
       {
         "date": "2026-07-20",
         "net_vol": 755,
-        "cumulative": -1555
+        "cumulative": -2489
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -435,
+        "cumulative": -2924
       }
     ],
     "富邦-彰化": [
       {
-        "date": "2026-05-22",
-        "net_vol": 72,
-        "cumulative": 72
-      },
-      {
         "date": "2026-05-26",
         "net_vol": -116,
-        "cumulative": -44
+        "cumulative": -116
       },
       {
         "date": "2026-05-27",
         "net_vol": 53,
-        "cumulative": 9
+        "cumulative": -63
       },
       {
         "date": "2026-05-28",
         "net_vol": -30,
-        "cumulative": -21
+        "cumulative": -93
       },
       {
         "date": "2026-06-01",
         "net_vol": -140,
-        "cumulative": -161
+        "cumulative": -233
       },
       {
         "date": "2026-06-04",
         "net_vol": 75,
-        "cumulative": -86
+        "cumulative": -158
       },
       {
         "date": "2026-06-05",
         "net_vol": 47,
-        "cumulative": -39
+        "cumulative": -111
       },
       {
         "date": "2026-06-11",
         "net_vol": 40,
-        "cumulative": 1
+        "cumulative": -71
       },
       {
         "date": "2026-06-15",
         "net_vol": -155,
-        "cumulative": -154
+        "cumulative": -226
       },
       {
         "date": "2026-06-16",
         "net_vol": 70,
-        "cumulative": -84
+        "cumulative": -156
       },
       {
         "date": "2026-06-17",
         "net_vol": 31,
-        "cumulative": -53
+        "cumulative": -125
       },
       {
         "date": "2026-06-18",
         "net_vol": 103,
-        "cumulative": 50
+        "cumulative": -22
       },
       {
         "date": "2026-06-19",
         "net_vol": 103,
-        "cumulative": 153
+        "cumulative": 81
       },
       {
         "date": "2026-06-23",
         "net_vol": 395,
-        "cumulative": 548
+        "cumulative": 476
       },
       {
         "date": "2026-06-25",
         "net_vol": 89,
-        "cumulative": 637
+        "cumulative": 565
       },
       {
         "date": "2026-06-26",
         "net_vol": -797,
-        "cumulative": -160
+        "cumulative": -232
       },
       {
         "date": "2026-06-29",
         "net_vol": 197,
-        "cumulative": 37
+        "cumulative": -35
       },
       {
         "date": "2026-06-30",
         "net_vol": 381,
-        "cumulative": 418
+        "cumulative": 346
       },
       {
         "date": "2026-07-02",
         "net_vol": -50,
-        "cumulative": 368
+        "cumulative": 296
       },
       {
         "date": "2026-07-03",
         "net_vol": -31,
-        "cumulative": 337
+        "cumulative": 265
       },
       {
         "date": "2026-07-06",
         "net_vol": -38,
-        "cumulative": 299
+        "cumulative": 227
       }
     ],
     "富邦-敦南": [
       {
-        "date": "2026-05-22",
-        "net_vol": -51,
-        "cumulative": -51
-      },
-      {
         "date": "2026-05-26",
         "net_vol": 223,
-        "cumulative": 172
+        "cumulative": 223
       },
       {
         "date": "2026-05-28",
         "net_vol": 33,
-        "cumulative": 205
+        "cumulative": 256
       },
       {
         "date": "2026-05-29",
         "net_vol": -316,
-        "cumulative": -111
+        "cumulative": -60
       },
       {
         "date": "2026-06-01",
         "net_vol": -143,
-        "cumulative": -254
+        "cumulative": -203
       },
       {
         "date": "2026-06-12",
         "net_vol": -216,
-        "cumulative": -470
+        "cumulative": -419
       },
       {
         "date": "2026-06-16",
         "net_vol": -181,
-        "cumulative": -651
+        "cumulative": -600
       },
       {
         "date": "2026-06-18",
         "net_vol": -26,
-        "cumulative": -677
+        "cumulative": -626
       },
       {
         "date": "2026-06-19",
         "net_vol": -26,
-        "cumulative": -703
+        "cumulative": -652
       },
       {
         "date": "2026-06-24",
         "net_vol": -97,
-        "cumulative": -800
+        "cumulative": -749
       },
       {
         "date": "2026-06-25",
         "net_vol": -613,
-        "cumulative": -1413
+        "cumulative": -1362
       },
       {
         "date": "2026-06-26",
         "net_vol": -22,
-        "cumulative": -1435
+        "cumulative": -1384
       },
       {
         "date": "2026-07-01",
         "net_vol": -101,
-        "cumulative": -1536
+        "cumulative": -1485
       },
       {
         "date": "2026-07-02",
         "net_vol": -150,
-        "cumulative": -1686
+        "cumulative": -1635
       },
       {
         "date": "2026-07-03",
         "net_vol": -196,
-        "cumulative": -1882
+        "cumulative": -1831
       },
       {
         "date": "2026-07-06",
         "net_vol": -294,
-        "cumulative": -2176
+        "cumulative": -2125
       },
       {
         "date": "2026-07-07",
         "net_vol": -111,
-        "cumulative": -2287
+        "cumulative": -2236
       },
       {
         "date": "2026-07-08",
         "net_vol": -60,
-        "cumulative": -2347
+        "cumulative": -2296
       },
       {
         "date": "2026-07-09",
         "net_vol": 500,
-        "cumulative": -1847
+        "cumulative": -1796
       },
       {
         "date": "2026-07-10",
         "net_vol": 500,
-        "cumulative": -1347
+        "cumulative": -1296
       },
       {
         "date": "2026-07-14",
         "net_vol": 416,
-        "cumulative": -931
+        "cumulative": -880
       },
       {
         "date": "2026-07-16",
         "net_vol": -164,
-        "cumulative": -1095
+        "cumulative": -1044
       },
       {
         "date": "2026-07-20",
         "net_vol": -28,
-        "cumulative": -1123
+        "cumulative": -1072
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -17,
+        "cumulative": -1089
       }
     ],
     "富邦-斗六": [
@@ -13285,6 +13285,11 @@
         "date": "2026-07-16",
         "net_vol": 414,
         "cumulative": 311
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 197,
+        "cumulative": 508
       }
     ],
     "富邦-新營": [
@@ -13296,201 +13301,196 @@
     ],
     "富邦-新竹": [
       {
-        "date": "2026-05-22",
-        "net_vol": -211,
-        "cumulative": -211
-      },
-      {
         "date": "2026-05-25",
         "net_vol": -1171,
-        "cumulative": -1382
+        "cumulative": -1171
       },
       {
         "date": "2026-05-26",
         "net_vol": 39,
-        "cumulative": -1343
+        "cumulative": -1132
       },
       {
         "date": "2026-05-27",
         "net_vol": -22,
-        "cumulative": -1365
+        "cumulative": -1154
       },
       {
         "date": "2026-05-28",
         "net_vol": -132,
-        "cumulative": -1497
+        "cumulative": -1286
       },
       {
         "date": "2026-05-29",
         "net_vol": 31,
-        "cumulative": -1466
+        "cumulative": -1255
       },
       {
         "date": "2026-06-01",
         "net_vol": 20,
-        "cumulative": -1446
+        "cumulative": -1235
       },
       {
         "date": "2026-06-02",
         "net_vol": -56,
-        "cumulative": -1502
+        "cumulative": -1291
       },
       {
         "date": "2026-06-03",
         "net_vol": -33,
-        "cumulative": -1535
+        "cumulative": -1324
       },
       {
         "date": "2026-06-04",
         "net_vol": 21,
-        "cumulative": -1514
+        "cumulative": -1303
       },
       {
         "date": "2026-06-11",
         "net_vol": 53,
-        "cumulative": -1461
+        "cumulative": -1250
       },
       {
         "date": "2026-06-12",
         "net_vol": -36,
-        "cumulative": -1497
+        "cumulative": -1286
       },
       {
         "date": "2026-06-15",
         "net_vol": -315,
-        "cumulative": -1812
+        "cumulative": -1601
       },
       {
         "date": "2026-06-17",
         "net_vol": 34,
-        "cumulative": -1778
+        "cumulative": -1567
       },
       {
         "date": "2026-06-22",
         "net_vol": -97,
-        "cumulative": -1875
+        "cumulative": -1664
       },
       {
         "date": "2026-06-23",
         "net_vol": 61,
-        "cumulative": -1814
+        "cumulative": -1603
       },
       {
         "date": "2026-06-25",
         "net_vol": 14,
-        "cumulative": -1800
+        "cumulative": -1589
       },
       {
         "date": "2026-06-26",
         "net_vol": 90,
-        "cumulative": -1710
+        "cumulative": -1499
       },
       {
         "date": "2026-06-29",
         "net_vol": -96,
-        "cumulative": -1806
+        "cumulative": -1595
       },
       {
         "date": "2026-06-30",
         "net_vol": -26,
-        "cumulative": -1832
+        "cumulative": -1621
       },
       {
         "date": "2026-07-01",
         "net_vol": -568,
-        "cumulative": -2400
+        "cumulative": -2189
       },
       {
         "date": "2026-07-02",
         "net_vol": 65,
-        "cumulative": -2335
+        "cumulative": -2124
       },
       {
         "date": "2026-07-03",
         "net_vol": 27,
-        "cumulative": -2308
+        "cumulative": -2097
       },
       {
         "date": "2026-07-07",
         "net_vol": 313,
-        "cumulative": -1995
+        "cumulative": -1784
       },
       {
         "date": "2026-07-08",
         "net_vol": -87,
-        "cumulative": -2082
+        "cumulative": -1871
       },
       {
         "date": "2026-07-09",
         "net_vol": -102,
-        "cumulative": -2184
+        "cumulative": -1973
       },
       {
         "date": "2026-07-10",
         "net_vol": -102,
-        "cumulative": -2286
+        "cumulative": -2075
       },
       {
         "date": "2026-07-13",
         "net_vol": 91,
-        "cumulative": -2195
+        "cumulative": -1984
       },
       {
         "date": "2026-07-14",
         "net_vol": 5,
-        "cumulative": -2190
+        "cumulative": -1979
       },
       {
         "date": "2026-07-15",
         "net_vol": 47,
-        "cumulative": -2143
+        "cumulative": -1932
       },
       {
         "date": "2026-07-17",
         "net_vol": 76,
-        "cumulative": -2067
+        "cumulative": -1856
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -100,
+        "cumulative": -1956
       }
     ],
     "富邦-新莊": [
       {
-        "date": "2026-05-22",
-        "net_vol": -189,
-        "cumulative": -189
-      },
-      {
         "date": "2026-05-28",
         "net_vol": 72,
-        "cumulative": -117
+        "cumulative": 72
       },
       {
         "date": "2026-06-22",
         "net_vol": 175,
-        "cumulative": 58
+        "cumulative": 247
       },
       {
         "date": "2026-07-02",
         "net_vol": 113,
-        "cumulative": 171
+        "cumulative": 360
       },
       {
         "date": "2026-07-06",
         "net_vol": 136,
-        "cumulative": 307
+        "cumulative": 496
       },
       {
         "date": "2026-07-13",
         "net_vol": -84,
-        "cumulative": 223
+        "cumulative": 412
       },
       {
         "date": "2026-07-17",
         "net_vol": -53,
-        "cumulative": 170
+        "cumulative": 359
       },
       {
         "date": "2026-07-20",
         "net_vol": -52,
-        "cumulative": 118
+        "cumulative": 307
       }
     ],
     "富邦-木柵": [
@@ -13542,179 +13542,174 @@
     ],
     "富邦-板橋": [
       {
-        "date": "2026-05-22",
-        "net_vol": -42,
-        "cumulative": -42
-      },
-      {
         "date": "2026-05-25",
         "net_vol": -389,
-        "cumulative": -431
+        "cumulative": -389
       },
       {
         "date": "2026-05-26",
         "net_vol": -91,
-        "cumulative": -522
+        "cumulative": -480
       },
       {
         "date": "2026-05-27",
         "net_vol": 292,
-        "cumulative": -230
+        "cumulative": -188
       },
       {
         "date": "2026-05-29",
         "net_vol": -946,
-        "cumulative": -1176
+        "cumulative": -1134
       },
       {
         "date": "2026-06-01",
         "net_vol": -207,
-        "cumulative": -1383
+        "cumulative": -1341
       },
       {
         "date": "2026-06-04",
         "net_vol": 302,
-        "cumulative": -1081
+        "cumulative": -1039
       },
       {
         "date": "2026-06-05",
         "net_vol": -184,
-        "cumulative": -1265
+        "cumulative": -1223
       },
       {
         "date": "2026-06-08",
         "net_vol": 52,
-        "cumulative": -1213
+        "cumulative": -1171
       },
       {
         "date": "2026-06-09",
         "net_vol": -166,
-        "cumulative": -1379
+        "cumulative": -1337
       },
       {
         "date": "2026-06-10",
         "net_vol": 200,
-        "cumulative": -1179
+        "cumulative": -1137
       },
       {
         "date": "2026-06-11",
         "net_vol": -25,
-        "cumulative": -1204
+        "cumulative": -1162
       },
       {
         "date": "2026-06-15",
         "net_vol": 526,
-        "cumulative": -678
+        "cumulative": -636
       },
       {
         "date": "2026-06-16",
         "net_vol": 120,
-        "cumulative": -558
+        "cumulative": -516
       },
       {
         "date": "2026-06-17",
         "net_vol": -464,
-        "cumulative": -1022
+        "cumulative": -980
       },
       {
         "date": "2026-06-18",
         "net_vol": -137,
-        "cumulative": -1159
+        "cumulative": -1117
       },
       {
         "date": "2026-06-19",
         "net_vol": -137,
-        "cumulative": -1296
+        "cumulative": -1254
       },
       {
         "date": "2026-06-22",
         "net_vol": -326,
-        "cumulative": -1622
+        "cumulative": -1580
       },
       {
         "date": "2026-06-23",
         "net_vol": 85,
-        "cumulative": -1537
+        "cumulative": -1495
       },
       {
         "date": "2026-06-24",
         "net_vol": -669,
-        "cumulative": -2206
+        "cumulative": -2164
       },
       {
         "date": "2026-06-25",
         "net_vol": -385,
-        "cumulative": -2591
+        "cumulative": -2549
       },
       {
         "date": "2026-06-26",
         "net_vol": 208,
-        "cumulative": -2383
+        "cumulative": -2341
       },
       {
         "date": "2026-06-29",
         "net_vol": 406,
-        "cumulative": -1977
+        "cumulative": -1935
       },
       {
         "date": "2026-07-01",
         "net_vol": -39,
-        "cumulative": -2016
+        "cumulative": -1974
       },
       {
         "date": "2026-07-02",
         "net_vol": -196,
-        "cumulative": -2212
+        "cumulative": -2170
       },
       {
         "date": "2026-07-03",
         "net_vol": -328,
-        "cumulative": -2540
+        "cumulative": -2498
       },
       {
         "date": "2026-07-06",
         "net_vol": 262,
-        "cumulative": -2278
+        "cumulative": -2236
       },
       {
         "date": "2026-07-07",
         "net_vol": -52,
-        "cumulative": -2330
+        "cumulative": -2288
       },
       {
         "date": "2026-07-08",
         "net_vol": -206,
-        "cumulative": -2536
+        "cumulative": -2494
       },
       {
         "date": "2026-07-13",
         "net_vol": -73,
-        "cumulative": -2609
+        "cumulative": -2567
       },
       {
         "date": "2026-07-14",
         "net_vol": -76,
-        "cumulative": -2685
+        "cumulative": -2643
       },
       {
         "date": "2026-07-15",
         "net_vol": -200,
-        "cumulative": -2885
+        "cumulative": -2843
       },
       {
         "date": "2026-07-16",
         "net_vol": 148,
-        "cumulative": -2737
+        "cumulative": -2695
       },
       {
         "date": "2026-07-17",
         "net_vol": 66,
-        "cumulative": -2671
+        "cumulative": -2629
       },
       {
         "date": "2026-07-20",
         "net_vol": -169,
-        "cumulative": -2840
+        "cumulative": -2798
       }
     ],
     "富邦-桃園": [
@@ -13941,6 +13936,11 @@
         "date": "2026-07-20",
         "net_vol": -46,
         "cumulative": -130
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 194,
+        "cumulative": 64
       }
     ],
     "富邦-永康": [
@@ -14010,6 +14010,11 @@
         "date": "2026-07-14",
         "net_vol": -292,
         "cumulative": 78
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -505,
+        "cumulative": -427
       }
     ],
     "富邦-竹北": [
@@ -14061,116 +14066,106 @@
     ],
     "富邦-竹東": [
       {
-        "date": "2026-05-22",
-        "net_vol": -110,
-        "cumulative": -110
-      },
-      {
         "date": "2026-05-26",
         "net_vol": 91,
-        "cumulative": -19
+        "cumulative": 91
       },
       {
         "date": "2026-05-27",
         "net_vol": 135,
-        "cumulative": 116
+        "cumulative": 226
       },
       {
         "date": "2026-06-12",
         "net_vol": -69,
-        "cumulative": 47
+        "cumulative": 157
       },
       {
         "date": "2026-06-15",
         "net_vol": 10,
-        "cumulative": 57
+        "cumulative": 167
       },
       {
         "date": "2026-06-23",
         "net_vol": -102,
-        "cumulative": -45
+        "cumulative": 65
       },
       {
         "date": "2026-06-25",
         "net_vol": 90,
-        "cumulative": 45
+        "cumulative": 155
       },
       {
         "date": "2026-06-30",
         "net_vol": -85,
-        "cumulative": -40
+        "cumulative": 70
       },
       {
         "date": "2026-07-09",
         "net_vol": -17,
-        "cumulative": -57
+        "cumulative": 53
       },
       {
         "date": "2026-07-10",
         "net_vol": -17,
-        "cumulative": -74
+        "cumulative": 36
       },
       {
         "date": "2026-07-13",
         "net_vol": -93,
-        "cumulative": -167
+        "cumulative": -57
       }
     ],
     "富邦-竹科": [
       {
-        "date": "2026-05-22",
-        "net_vol": -30,
-        "cumulative": -30
-      },
-      {
         "date": "2026-05-28",
         "net_vol": 52,
-        "cumulative": 22
+        "cumulative": 52
       },
       {
         "date": "2026-06-02",
         "net_vol": -129,
-        "cumulative": -107
+        "cumulative": -77
       },
       {
         "date": "2026-06-04",
         "net_vol": -119,
-        "cumulative": -226
+        "cumulative": -196
       },
       {
         "date": "2026-06-23",
         "net_vol": -74,
-        "cumulative": -300
+        "cumulative": -270
       },
       {
         "date": "2026-06-26",
         "net_vol": 28,
-        "cumulative": -272
+        "cumulative": -242
       },
       {
         "date": "2026-06-29",
         "net_vol": 31,
-        "cumulative": -241
+        "cumulative": -211
       },
       {
         "date": "2026-06-30",
         "net_vol": -147,
-        "cumulative": -388
+        "cumulative": -358
       },
       {
         "date": "2026-07-03",
         "net_vol": -591,
-        "cumulative": -979
+        "cumulative": -949
       },
       {
         "date": "2026-07-07",
         "net_vol": 16,
-        "cumulative": -963
+        "cumulative": -933
       },
       {
         "date": "2026-07-14",
         "net_vol": -124,
-        "cumulative": -1087
+        "cumulative": -1057
       }
     ],
     "富邦-羅東": [
@@ -14223,6 +14218,11 @@
         "date": "2026-07-20",
         "net_vol": 150,
         "cumulative": -646
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 150,
+        "cumulative": -496
       }
     ],
     "富邦-花蓮": [
@@ -14380,184 +14380,184 @@
     ],
     "富邦-陽明": [
       {
-        "date": "2026-05-22",
-        "net_vol": -332,
-        "cumulative": -332
-      },
-      {
         "date": "2026-05-25",
         "net_vol": -919,
-        "cumulative": -1251
+        "cumulative": -919
       },
       {
         "date": "2026-05-26",
         "net_vol": -105,
-        "cumulative": -1356
+        "cumulative": -1024
       },
       {
         "date": "2026-05-27",
         "net_vol": 86,
-        "cumulative": -1270
+        "cumulative": -938
       },
       {
         "date": "2026-05-28",
         "net_vol": 66,
-        "cumulative": -1204
+        "cumulative": -872
       },
       {
         "date": "2026-05-29",
         "net_vol": -671,
-        "cumulative": -1875
+        "cumulative": -1543
       },
       {
         "date": "2026-06-01",
         "net_vol": 343,
-        "cumulative": -1532
+        "cumulative": -1200
       },
       {
         "date": "2026-06-03",
         "net_vol": -192,
-        "cumulative": -1724
+        "cumulative": -1392
       },
       {
         "date": "2026-06-04",
         "net_vol": -605,
-        "cumulative": -2329
+        "cumulative": -1997
       },
       {
         "date": "2026-06-09",
         "net_vol": -95,
-        "cumulative": -2424
+        "cumulative": -2092
       },
       {
         "date": "2026-06-10",
         "net_vol": 221,
-        "cumulative": -2203
+        "cumulative": -1871
       },
       {
         "date": "2026-06-12",
         "net_vol": -110,
-        "cumulative": -2313
+        "cumulative": -1981
       },
       {
         "date": "2026-06-15",
         "net_vol": 68,
-        "cumulative": -2245
+        "cumulative": -1913
       },
       {
         "date": "2026-06-16",
         "net_vol": 69,
-        "cumulative": -2176
+        "cumulative": -1844
       },
       {
         "date": "2026-06-17",
         "net_vol": 249,
-        "cumulative": -1927
+        "cumulative": -1595
       },
       {
         "date": "2026-06-18",
         "net_vol": 177,
-        "cumulative": -1750
+        "cumulative": -1418
       },
       {
         "date": "2026-06-19",
         "net_vol": 177,
-        "cumulative": -1573
+        "cumulative": -1241
       },
       {
         "date": "2026-06-22",
         "net_vol": 157,
-        "cumulative": -1416
+        "cumulative": -1084
       },
       {
         "date": "2026-06-23",
         "net_vol": 32,
-        "cumulative": -1384
+        "cumulative": -1052
       },
       {
         "date": "2026-06-24",
         "net_vol": 200,
-        "cumulative": -1184
+        "cumulative": -852
       },
       {
         "date": "2026-06-25",
         "net_vol": -19,
-        "cumulative": -1203
+        "cumulative": -871
       },
       {
         "date": "2026-06-26",
         "net_vol": 646,
-        "cumulative": -557
+        "cumulative": -225
       },
       {
         "date": "2026-06-29",
         "net_vol": 103,
-        "cumulative": -454
+        "cumulative": -122
       },
       {
         "date": "2026-06-30",
         "net_vol": 552,
-        "cumulative": 98
+        "cumulative": 430
       },
       {
         "date": "2026-07-01",
         "net_vol": -244,
-        "cumulative": -146
+        "cumulative": 186
       },
       {
         "date": "2026-07-02",
         "net_vol": 149,
-        "cumulative": 3
+        "cumulative": 335
       },
       {
         "date": "2026-07-03",
         "net_vol": -246,
-        "cumulative": -243
+        "cumulative": 89
       },
       {
         "date": "2026-07-06",
         "net_vol": -125,
-        "cumulative": -368
+        "cumulative": -36
       },
       {
         "date": "2026-07-07",
         "net_vol": 31,
-        "cumulative": -337
+        "cumulative": -5
       },
       {
         "date": "2026-07-09",
         "net_vol": 732,
-        "cumulative": 395
+        "cumulative": 727
       },
       {
         "date": "2026-07-10",
         "net_vol": 732,
-        "cumulative": 1127
+        "cumulative": 1459
       },
       {
         "date": "2026-07-13",
         "net_vol": -309,
-        "cumulative": 818
+        "cumulative": 1150
       },
       {
         "date": "2026-07-14",
         "net_vol": -176,
-        "cumulative": 642
+        "cumulative": 974
       },
       {
         "date": "2026-07-15",
         "net_vol": -149,
-        "cumulative": 493
+        "cumulative": 825
       },
       {
         "date": "2026-07-17",
         "net_vol": 6,
-        "cumulative": 499
+        "cumulative": 831
       },
       {
         "date": "2026-07-20",
         "net_vol": -160,
-        "cumulative": 339
+        "cumulative": 671
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -395,
+        "cumulative": 276
       }
     ],
     "富邦-青埔": [
@@ -14738,1486 +14738,1486 @@
     ],
     "富邦證券": [
       {
-        "date": "2026-05-22",
-        "net_vol": -843,
-        "cumulative": -843
-      },
-      {
         "date": "2026-05-25",
         "net_vol": -18902,
-        "cumulative": -19745
+        "cumulative": -18902
       },
       {
         "date": "2026-05-26",
         "net_vol": 9144,
-        "cumulative": -10601
+        "cumulative": -9758
       },
       {
         "date": "2026-05-27",
         "net_vol": 13363,
-        "cumulative": 2762
+        "cumulative": 3605
       },
       {
         "date": "2026-05-28",
         "net_vol": -10984,
-        "cumulative": -8222
+        "cumulative": -7379
       },
       {
         "date": "2026-05-29",
         "net_vol": 130,
-        "cumulative": -8092
+        "cumulative": -7249
       },
       {
         "date": "2026-06-01",
         "net_vol": -10089,
-        "cumulative": -18181
+        "cumulative": -17338
       },
       {
         "date": "2026-06-02",
         "net_vol": -28804,
-        "cumulative": -46985
+        "cumulative": -46142
       },
       {
         "date": "2026-06-03",
         "net_vol": -4622,
-        "cumulative": -51607
+        "cumulative": -50764
       },
       {
         "date": "2026-06-04",
         "net_vol": -28936,
-        "cumulative": -80543
+        "cumulative": -79700
       },
       {
         "date": "2026-06-05",
         "net_vol": -22840,
-        "cumulative": -103383
+        "cumulative": -102540
       },
       {
         "date": "2026-06-08",
         "net_vol": -23494,
-        "cumulative": -126877
+        "cumulative": -126034
       },
       {
         "date": "2026-06-09",
         "net_vol": -53947,
-        "cumulative": -180824
+        "cumulative": -179981
       },
       {
         "date": "2026-06-10",
         "net_vol": -37288,
-        "cumulative": -218112
+        "cumulative": -217269
       },
       {
         "date": "2026-06-11",
         "net_vol": 4534,
-        "cumulative": -213578
+        "cumulative": -212735
       },
       {
         "date": "2026-06-12",
         "net_vol": -10318,
-        "cumulative": -223896
+        "cumulative": -223053
       },
       {
         "date": "2026-06-15",
         "net_vol": -6875,
-        "cumulative": -230771
+        "cumulative": -229928
       },
       {
         "date": "2026-06-16",
         "net_vol": 7868,
-        "cumulative": -222903
+        "cumulative": -222060
       },
       {
         "date": "2026-06-17",
         "net_vol": -11420,
-        "cumulative": -234323
+        "cumulative": -233480
       },
       {
         "date": "2026-06-18",
         "net_vol": -145,
-        "cumulative": -234468
+        "cumulative": -233625
       },
       {
         "date": "2026-06-19",
         "net_vol": -145,
-        "cumulative": -234613
+        "cumulative": -233770
       },
       {
         "date": "2026-06-22",
         "net_vol": 2428,
-        "cumulative": -232185
+        "cumulative": -231342
       },
       {
         "date": "2026-06-23",
         "net_vol": 6203,
-        "cumulative": -225982
+        "cumulative": -225139
       },
       {
         "date": "2026-06-24",
         "net_vol": 3185,
-        "cumulative": -222797
+        "cumulative": -221954
       },
       {
         "date": "2026-06-25",
         "net_vol": -73,
-        "cumulative": -222870
+        "cumulative": -222027
       },
       {
         "date": "2026-06-26",
         "net_vol": -12478,
-        "cumulative": -235348
+        "cumulative": -234505
       },
       {
         "date": "2026-06-29",
         "net_vol": 5553,
-        "cumulative": -229795
+        "cumulative": -228952
       },
       {
         "date": "2026-06-30",
         "net_vol": -1898,
-        "cumulative": -231693
+        "cumulative": -230850
       },
       {
         "date": "2026-07-01",
         "net_vol": -9760,
-        "cumulative": -241453
+        "cumulative": -240610
       },
       {
         "date": "2026-07-02",
         "net_vol": 14187,
-        "cumulative": -227266
+        "cumulative": -226423
       },
       {
         "date": "2026-07-03",
         "net_vol": 9690,
-        "cumulative": -217576
+        "cumulative": -216733
       },
       {
         "date": "2026-07-06",
         "net_vol": 5490,
-        "cumulative": -212086
+        "cumulative": -211243
       },
       {
         "date": "2026-07-07",
         "net_vol": -2213,
-        "cumulative": -214299
+        "cumulative": -213456
       },
       {
         "date": "2026-07-08",
         "net_vol": -22586,
-        "cumulative": -236885
+        "cumulative": -236042
       },
       {
         "date": "2026-07-09",
         "net_vol": -8365,
-        "cumulative": -245250
+        "cumulative": -244407
       },
       {
         "date": "2026-07-10",
         "net_vol": -8365,
-        "cumulative": -253615
+        "cumulative": -252772
       },
       {
         "date": "2026-07-13",
         "net_vol": -24520,
-        "cumulative": -278135
+        "cumulative": -277292
       },
       {
         "date": "2026-07-14",
         "net_vol": -6591,
-        "cumulative": -284726
+        "cumulative": -283883
       },
       {
         "date": "2026-07-15",
         "net_vol": -4342,
-        "cumulative": -289068
+        "cumulative": -288225
       },
       {
         "date": "2026-07-16",
         "net_vol": -5069,
-        "cumulative": -294137
+        "cumulative": -293294
       },
       {
         "date": "2026-07-17",
         "net_vol": -45254,
-        "cumulative": -339391
+        "cumulative": -338548
       },
       {
         "date": "2026-07-20",
         "net_vol": -4145,
-        "cumulative": -343536
+        "cumulative": -342693
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -9481,
+        "cumulative": -352174
       }
     ],
     "摩根大通": [
       {
-        "date": "2026-05-22",
-        "net_vol": 14757,
-        "cumulative": 14757
-      },
-      {
         "date": "2026-05-25",
         "net_vol": 13223,
-        "cumulative": 27980
+        "cumulative": 13223
       },
       {
         "date": "2026-05-26",
         "net_vol": 17768,
-        "cumulative": 45748
+        "cumulative": 30991
       },
       {
         "date": "2026-05-27",
         "net_vol": -5850,
-        "cumulative": 39898
+        "cumulative": 25141
       },
       {
         "date": "2026-05-28",
         "net_vol": -12844,
-        "cumulative": 27054
+        "cumulative": 12297
       },
       {
         "date": "2026-05-29",
         "net_vol": 26473,
-        "cumulative": 53527
+        "cumulative": 38770
       },
       {
         "date": "2026-06-01",
         "net_vol": -7959,
-        "cumulative": 45568
+        "cumulative": 30811
       },
       {
         "date": "2026-06-02",
         "net_vol": -31727,
-        "cumulative": 13841
+        "cumulative": -916
       },
       {
         "date": "2026-06-03",
         "net_vol": 9526,
-        "cumulative": 23367
+        "cumulative": 8610
       },
       {
         "date": "2026-06-04",
         "net_vol": 15461,
-        "cumulative": 38828
+        "cumulative": 24071
       },
       {
         "date": "2026-06-05",
         "net_vol": -13618,
-        "cumulative": 25210
+        "cumulative": 10453
       },
       {
         "date": "2026-06-08",
         "net_vol": 3584,
-        "cumulative": 28794
+        "cumulative": 14037
       },
       {
         "date": "2026-06-09",
         "net_vol": 672,
-        "cumulative": 29466
+        "cumulative": 14709
       },
       {
         "date": "2026-06-10",
         "net_vol": 15831,
-        "cumulative": 45297
+        "cumulative": 30540
       },
       {
         "date": "2026-06-11",
         "net_vol": -558,
-        "cumulative": 44739
+        "cumulative": 29982
       },
       {
         "date": "2026-06-12",
         "net_vol": 12099,
-        "cumulative": 56838
+        "cumulative": 42081
       },
       {
         "date": "2026-06-15",
         "net_vol": 8328,
-        "cumulative": 65166
+        "cumulative": 50409
       },
       {
         "date": "2026-06-16",
         "net_vol": 5589,
-        "cumulative": 70755
+        "cumulative": 55998
       },
       {
         "date": "2026-06-17",
         "net_vol": -4564,
-        "cumulative": 66191
+        "cumulative": 51434
       },
       {
         "date": "2026-06-18",
         "net_vol": 23590,
-        "cumulative": 89781
+        "cumulative": 75024
       },
       {
         "date": "2026-06-19",
         "net_vol": 23590,
-        "cumulative": 113371
+        "cumulative": 98614
       },
       {
         "date": "2026-06-22",
         "net_vol": -9801,
-        "cumulative": 103570
+        "cumulative": 88813
       },
       {
         "date": "2026-06-23",
         "net_vol": -929,
-        "cumulative": 102641
+        "cumulative": 87884
       },
       {
         "date": "2026-06-24",
         "net_vol": -13160,
-        "cumulative": 89481
+        "cumulative": 74724
       },
       {
         "date": "2026-06-25",
         "net_vol": -3765,
-        "cumulative": 85716
+        "cumulative": 70959
       },
       {
         "date": "2026-06-26",
         "net_vol": -11828,
-        "cumulative": 73888
+        "cumulative": 59131
       },
       {
         "date": "2026-06-29",
         "net_vol": -2294,
-        "cumulative": 71594
+        "cumulative": 56837
       },
       {
         "date": "2026-06-30",
         "net_vol": 17163,
-        "cumulative": 88757
+        "cumulative": 74000
       },
       {
         "date": "2026-07-01",
         "net_vol": 12918,
-        "cumulative": 101675
+        "cumulative": 86918
       },
       {
         "date": "2026-07-02",
         "net_vol": -4914,
-        "cumulative": 96761
+        "cumulative": 82004
       },
       {
         "date": "2026-07-03",
         "net_vol": 6820,
-        "cumulative": 103581
+        "cumulative": 88824
       },
       {
         "date": "2026-07-06",
         "net_vol": -11035,
-        "cumulative": 92546
+        "cumulative": 77789
       },
       {
         "date": "2026-07-07",
         "net_vol": -3033,
-        "cumulative": 89513
+        "cumulative": 74756
       },
       {
         "date": "2026-07-08",
         "net_vol": 13201,
-        "cumulative": 102714
+        "cumulative": 87957
       },
       {
         "date": "2026-07-09",
         "net_vol": 11074,
-        "cumulative": 113788
+        "cumulative": 99031
       },
       {
         "date": "2026-07-10",
         "net_vol": 11074,
-        "cumulative": 124862
+        "cumulative": 110105
       },
       {
         "date": "2026-07-13",
         "net_vol": 35146,
-        "cumulative": 160008
+        "cumulative": 145251
       },
       {
         "date": "2026-07-14",
         "net_vol": 14353,
-        "cumulative": 174361
+        "cumulative": 159604
       },
       {
         "date": "2026-07-15",
         "net_vol": -19353,
-        "cumulative": 155008
+        "cumulative": 140251
       },
       {
         "date": "2026-07-16",
         "net_vol": 17542,
-        "cumulative": 172550
+        "cumulative": 157793
       },
       {
         "date": "2026-07-17",
         "net_vol": -15307,
-        "cumulative": 157243
+        "cumulative": 142486
       },
       {
         "date": "2026-07-20",
         "net_vol": 21174,
-        "cumulative": 178417
+        "cumulative": 163660
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -11438,
+        "cumulative": 152222
       }
     ],
     "新加坡商瑞銀": [
       {
-        "date": "2026-05-22",
-        "net_vol": -13651,
-        "cumulative": -13651
-      },
-      {
         "date": "2026-05-25",
         "net_vol": -8786,
-        "cumulative": -22437
+        "cumulative": -8786
       },
       {
         "date": "2026-05-26",
         "net_vol": -17969,
-        "cumulative": -40406
+        "cumulative": -26755
       },
       {
         "date": "2026-05-27",
         "net_vol": -10248,
-        "cumulative": -50654
+        "cumulative": -37003
       },
       {
         "date": "2026-05-28",
         "net_vol": -6825,
-        "cumulative": -57479
+        "cumulative": -43828
       },
       {
         "date": "2026-05-29",
         "net_vol": -14262,
-        "cumulative": -71741
+        "cumulative": -58090
       },
       {
         "date": "2026-06-01",
         "net_vol": -4358,
-        "cumulative": -76099
+        "cumulative": -62448
       },
       {
         "date": "2026-06-02",
         "net_vol": -2456,
-        "cumulative": -78555
+        "cumulative": -64904
       },
       {
         "date": "2026-06-03",
         "net_vol": -11216,
-        "cumulative": -89771
+        "cumulative": -76120
       },
       {
         "date": "2026-06-04",
         "net_vol": 614,
-        "cumulative": -89157
+        "cumulative": -75506
       },
       {
         "date": "2026-06-05",
         "net_vol": 1231,
-        "cumulative": -87926
+        "cumulative": -74275
       },
       {
         "date": "2026-06-08",
         "net_vol": -20774,
-        "cumulative": -108700
+        "cumulative": -95049
       },
       {
         "date": "2026-06-09",
         "net_vol": -1974,
-        "cumulative": -110674
+        "cumulative": -97023
       },
       {
         "date": "2026-06-10",
         "net_vol": -6212,
-        "cumulative": -116886
+        "cumulative": -103235
       },
       {
         "date": "2026-06-11",
         "net_vol": 19003,
-        "cumulative": -97883
+        "cumulative": -84232
       },
       {
         "date": "2026-06-12",
         "net_vol": 28673,
-        "cumulative": -69210
+        "cumulative": -55559
       },
       {
         "date": "2026-06-15",
         "net_vol": -20698,
-        "cumulative": -89908
+        "cumulative": -76257
       },
       {
         "date": "2026-06-16",
         "net_vol": -1324,
-        "cumulative": -91232
+        "cumulative": -77581
       },
       {
         "date": "2026-06-17",
         "net_vol": 11903,
-        "cumulative": -79329
+        "cumulative": -65678
       },
       {
         "date": "2026-06-18",
         "net_vol": -3957,
-        "cumulative": -83286
+        "cumulative": -69635
       },
       {
         "date": "2026-06-19",
         "net_vol": -3957,
-        "cumulative": -87243
+        "cumulative": -73592
       },
       {
         "date": "2026-06-22",
         "net_vol": -5119,
-        "cumulative": -92362
+        "cumulative": -78711
       },
       {
         "date": "2026-06-23",
         "net_vol": -19679,
-        "cumulative": -112041
+        "cumulative": -98390
       },
       {
         "date": "2026-06-24",
         "net_vol": -17173,
-        "cumulative": -129214
+        "cumulative": -115563
       },
       {
         "date": "2026-06-25",
         "net_vol": 1890,
-        "cumulative": -127324
+        "cumulative": -113673
       },
       {
         "date": "2026-06-26",
         "net_vol": -24322,
-        "cumulative": -151646
+        "cumulative": -137995
       },
       {
         "date": "2026-06-29",
         "net_vol": -23529,
-        "cumulative": -175175
+        "cumulative": -161524
       },
       {
         "date": "2026-06-30",
         "net_vol": -15178,
-        "cumulative": -190353
+        "cumulative": -176702
       },
       {
         "date": "2026-07-01",
         "net_vol": -5896,
-        "cumulative": -196249
+        "cumulative": -182598
       },
       {
         "date": "2026-07-02",
         "net_vol": -8928,
-        "cumulative": -205177
+        "cumulative": -191526
       },
       {
         "date": "2026-07-03",
         "net_vol": -3348,
-        "cumulative": -208525
+        "cumulative": -194874
       },
       {
         "date": "2026-07-06",
         "net_vol": -2731,
-        "cumulative": -211256
+        "cumulative": -197605
       },
       {
         "date": "2026-07-07",
         "net_vol": 1646,
-        "cumulative": -209610
+        "cumulative": -195959
       },
       {
         "date": "2026-07-08",
         "net_vol": 5916,
-        "cumulative": -203694
+        "cumulative": -190043
       },
       {
         "date": "2026-07-09",
         "net_vol": -5319,
-        "cumulative": -209013
+        "cumulative": -195362
       },
       {
         "date": "2026-07-10",
         "net_vol": -5319,
-        "cumulative": -214332
+        "cumulative": -200681
       },
       {
         "date": "2026-07-13",
         "net_vol": 10822,
-        "cumulative": -203510
+        "cumulative": -189859
       },
       {
         "date": "2026-07-14",
         "net_vol": -17409,
-        "cumulative": -220919
+        "cumulative": -207268
       },
       {
         "date": "2026-07-15",
         "net_vol": 14207,
-        "cumulative": -206712
+        "cumulative": -193061
       },
       {
         "date": "2026-07-16",
         "net_vol": -11201,
-        "cumulative": -217913
+        "cumulative": -204262
       },
       {
         "date": "2026-07-17",
         "net_vol": -7464,
-        "cumulative": -225377
+        "cumulative": -211726
       },
       {
         "date": "2026-07-20",
         "net_vol": -4240,
-        "cumulative": -229617
+        "cumulative": -215966
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": -34,
+        "cumulative": -216000
       }
     ],
     "港商野村": [
       {
-        "date": "2026-05-22",
-        "net_vol": 7176,
-        "cumulative": 7176
-      },
-      {
         "date": "2026-05-25",
         "net_vol": 4155,
-        "cumulative": 11331
+        "cumulative": 4155
       },
       {
         "date": "2026-05-26",
         "net_vol": 571,
-        "cumulative": 11902
+        "cumulative": 4726
       },
       {
         "date": "2026-05-27",
         "net_vol": 4048,
-        "cumulative": 15950
+        "cumulative": 8774
       },
       {
         "date": "2026-05-28",
         "net_vol": -10922,
-        "cumulative": 5028
+        "cumulative": -2148
       },
       {
         "date": "2026-05-29",
         "net_vol": 4863,
-        "cumulative": 9891
+        "cumulative": 2715
       },
       {
         "date": "2026-06-01",
         "net_vol": -6488,
-        "cumulative": 3403
+        "cumulative": -3773
       },
       {
         "date": "2026-06-02",
         "net_vol": -2637,
-        "cumulative": 766
+        "cumulative": -6410
       },
       {
         "date": "2026-06-03",
         "net_vol": 2968,
-        "cumulative": 3734
+        "cumulative": -3442
       },
       {
         "date": "2026-06-04",
         "net_vol": 1562,
-        "cumulative": 5296
+        "cumulative": -1880
       },
       {
         "date": "2026-06-05",
         "net_vol": 3835,
-        "cumulative": 9131
+        "cumulative": 1955
       },
       {
         "date": "2026-06-08",
         "net_vol": 4821,
-        "cumulative": 13952
+        "cumulative": 6776
       },
       {
         "date": "2026-06-09",
         "net_vol": -378,
-        "cumulative": 13574
+        "cumulative": 6398
       },
       {
         "date": "2026-06-10",
         "net_vol": -358,
-        "cumulative": 13216
+        "cumulative": 6040
       },
       {
         "date": "2026-06-11",
         "net_vol": 234,
-        "cumulative": 13450
+        "cumulative": 6274
       },
       {
         "date": "2026-06-12",
         "net_vol": 8555,
-        "cumulative": 22005
+        "cumulative": 14829
       },
       {
         "date": "2026-06-15",
         "net_vol": -6513,
-        "cumulative": 15492
+        "cumulative": 8316
       },
       {
         "date": "2026-06-16",
         "net_vol": 6469,
-        "cumulative": 21961
+        "cumulative": 14785
       },
       {
         "date": "2026-06-17",
         "net_vol": 4785,
-        "cumulative": 26746
+        "cumulative": 19570
       },
       {
         "date": "2026-06-18",
         "net_vol": -8845,
-        "cumulative": 17901
+        "cumulative": 10725
       },
       {
         "date": "2026-06-19",
         "net_vol": -8845,
-        "cumulative": 9056
+        "cumulative": 1880
       },
       {
         "date": "2026-06-22",
         "net_vol": -952,
-        "cumulative": 8104
+        "cumulative": 928
       },
       {
         "date": "2026-06-23",
         "net_vol": 7973,
-        "cumulative": 16077
+        "cumulative": 8901
       },
       {
         "date": "2026-06-24",
         "net_vol": -9537,
-        "cumulative": 6540
+        "cumulative": -636
       },
       {
         "date": "2026-06-25",
         "net_vol": 166,
-        "cumulative": 6706
+        "cumulative": -470
       },
       {
         "date": "2026-06-26",
         "net_vol": 3120,
-        "cumulative": 9826
+        "cumulative": 2650
       },
       {
         "date": "2026-06-29",
         "net_vol": -1344,
-        "cumulative": 8482
+        "cumulative": 1306
       },
       {
         "date": "2026-06-30",
         "net_vol": -1257,
-        "cumulative": 7225
+        "cumulative": 49
       },
       {
         "date": "2026-07-01",
         "net_vol": -1171,
-        "cumulative": 6054
+        "cumulative": -1122
       },
       {
         "date": "2026-07-02",
         "net_vol": -8741,
-        "cumulative": -2687
+        "cumulative": -9863
       },
       {
         "date": "2026-07-03",
         "net_vol": -3573,
-        "cumulative": -6260
+        "cumulative": -13436
       },
       {
         "date": "2026-07-06",
         "net_vol": -4934,
-        "cumulative": -11194
+        "cumulative": -18370
       },
       {
         "date": "2026-07-07",
         "net_vol": -1614,
-        "cumulative": -12808
+        "cumulative": -19984
       },
       {
         "date": "2026-07-08",
         "net_vol": 269,
-        "cumulative": -12539
+        "cumulative": -19715
       },
       {
         "date": "2026-07-09",
         "net_vol": -4523,
-        "cumulative": -17062
+        "cumulative": -24238
       },
       {
         "date": "2026-07-10",
         "net_vol": -4523,
-        "cumulative": -21585
+        "cumulative": -28761
       },
       {
         "date": "2026-07-13",
         "net_vol": 496,
-        "cumulative": -21089
+        "cumulative": -28265
       },
       {
         "date": "2026-07-14",
         "net_vol": -4204,
-        "cumulative": -25293
+        "cumulative": -32469
       },
       {
         "date": "2026-07-15",
         "net_vol": 8297,
-        "cumulative": -16996
+        "cumulative": -24172
       },
       {
         "date": "2026-07-16",
         "net_vol": 3042,
-        "cumulative": -13954
+        "cumulative": -21130
       },
       {
         "date": "2026-07-17",
         "net_vol": 10490,
-        "cumulative": -3464
+        "cumulative": -10640
       },
       {
         "date": "2026-07-20",
         "net_vol": 3317,
-        "cumulative": -147
+        "cumulative": -7323
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 8841,
+        "cumulative": 1518
       }
     ],
     "港商麥格理": [
       {
-        "date": "2026-05-22",
-        "net_vol": -1126,
-        "cumulative": -1126
-      },
-      {
         "date": "2026-05-25",
         "net_vol": 983,
-        "cumulative": -143
+        "cumulative": 983
       },
       {
         "date": "2026-05-26",
         "net_vol": -1145,
-        "cumulative": -1288
+        "cumulative": -162
       },
       {
         "date": "2026-05-27",
         "net_vol": -900,
-        "cumulative": -2188
+        "cumulative": -1062
       },
       {
         "date": "2026-05-28",
         "net_vol": 10156,
-        "cumulative": 7968
+        "cumulative": 9094
       },
       {
         "date": "2026-05-29",
         "net_vol": -2967,
-        "cumulative": 5001
+        "cumulative": 6127
       },
       {
         "date": "2026-06-01",
         "net_vol": -8599,
-        "cumulative": -3598
+        "cumulative": -2472
       },
       {
         "date": "2026-06-02",
         "net_vol": -3141,
-        "cumulative": -6739
+        "cumulative": -5613
       },
       {
         "date": "2026-06-03",
         "net_vol": -132,
-        "cumulative": -6871
+        "cumulative": -5745
       },
       {
         "date": "2026-06-04",
         "net_vol": -3200,
-        "cumulative": -10071
+        "cumulative": -8945
       },
       {
         "date": "2026-06-05",
         "net_vol": -8274,
-        "cumulative": -18345
+        "cumulative": -17219
       },
       {
         "date": "2026-06-08",
         "net_vol": -1710,
-        "cumulative": -20055
+        "cumulative": -18929
       },
       {
         "date": "2026-06-09",
         "net_vol": 8703,
-        "cumulative": -11352
+        "cumulative": -10226
       },
       {
         "date": "2026-06-10",
         "net_vol": 4027,
-        "cumulative": -7325
+        "cumulative": -6199
       },
       {
         "date": "2026-06-11",
         "net_vol": 10527,
-        "cumulative": 3202
+        "cumulative": 4328
       },
       {
         "date": "2026-06-12",
         "net_vol": -459,
-        "cumulative": 2743
+        "cumulative": 3869
       },
       {
         "date": "2026-06-15",
         "net_vol": 586,
-        "cumulative": 3329
+        "cumulative": 4455
       },
       {
         "date": "2026-06-16",
         "net_vol": 1760,
-        "cumulative": 5089
+        "cumulative": 6215
       },
       {
         "date": "2026-06-17",
         "net_vol": -2354,
-        "cumulative": 2735
+        "cumulative": 3861
       },
       {
         "date": "2026-06-18",
         "net_vol": -10951,
-        "cumulative": -8216
+        "cumulative": -7090
       },
       {
         "date": "2026-06-19",
         "net_vol": -10951,
-        "cumulative": -19167
+        "cumulative": -18041
       },
       {
         "date": "2026-06-22",
         "net_vol": 3974,
-        "cumulative": -15193
+        "cumulative": -14067
       },
       {
         "date": "2026-06-23",
         "net_vol": 866,
-        "cumulative": -14327
+        "cumulative": -13201
       },
       {
         "date": "2026-06-24",
         "net_vol": -1718,
-        "cumulative": -16045
+        "cumulative": -14919
       },
       {
         "date": "2026-06-25",
         "net_vol": 2521,
-        "cumulative": -13524
+        "cumulative": -12398
       },
       {
         "date": "2026-06-26",
         "net_vol": -42,
-        "cumulative": -13566
+        "cumulative": -12440
       },
       {
         "date": "2026-06-29",
         "net_vol": -2124,
-        "cumulative": -15690
+        "cumulative": -14564
       },
       {
         "date": "2026-06-30",
         "net_vol": -6305,
-        "cumulative": -21995
+        "cumulative": -20869
       },
       {
         "date": "2026-07-01",
         "net_vol": 518,
-        "cumulative": -21477
+        "cumulative": -20351
       },
       {
         "date": "2026-07-02",
         "net_vol": -3227,
-        "cumulative": -24704
+        "cumulative": -23578
       },
       {
         "date": "2026-07-03",
         "net_vol": -3574,
-        "cumulative": -28278
+        "cumulative": -27152
       },
       {
         "date": "2026-07-06",
         "net_vol": 1100,
-        "cumulative": -27178
+        "cumulative": -26052
       },
       {
         "date": "2026-07-07",
         "net_vol": 1058,
-        "cumulative": -26120
+        "cumulative": -24994
       },
       {
         "date": "2026-07-08",
         "net_vol": 3055,
-        "cumulative": -23065
+        "cumulative": -21939
       },
       {
         "date": "2026-07-09",
         "net_vol": 1653,
-        "cumulative": -21412
+        "cumulative": -20286
       },
       {
         "date": "2026-07-10",
         "net_vol": 1653,
-        "cumulative": -19759
+        "cumulative": -18633
       },
       {
         "date": "2026-07-13",
         "net_vol": 1608,
-        "cumulative": -18151
+        "cumulative": -17025
       },
       {
         "date": "2026-07-14",
         "net_vol": 23671,
-        "cumulative": 5520
+        "cumulative": 6646
       },
       {
         "date": "2026-07-15",
         "net_vol": 1794,
-        "cumulative": 7314
+        "cumulative": 8440
       },
       {
         "date": "2026-07-16",
         "net_vol": 2009,
-        "cumulative": 9323
+        "cumulative": 10449
       },
       {
         "date": "2026-07-17",
         "net_vol": 15011,
-        "cumulative": 24334
+        "cumulative": 25460
       },
       {
         "date": "2026-07-20",
         "net_vol": 2006,
-        "cumulative": 26340
+        "cumulative": 27466
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 9085,
+        "cumulative": 36551
       }
     ],
     "美商高盛": [
       {
-        "date": "2026-05-22",
-        "net_vol": 12579,
-        "cumulative": 12579
-      },
-      {
         "date": "2026-05-25",
         "net_vol": 3538,
-        "cumulative": 16117
+        "cumulative": 3538
       },
       {
         "date": "2026-05-26",
         "net_vol": 15420,
-        "cumulative": 31537
+        "cumulative": 18958
       },
       {
         "date": "2026-05-27",
         "net_vol": 24602,
-        "cumulative": 56139
+        "cumulative": 43560
       },
       {
         "date": "2026-05-28",
         "net_vol": -9759,
-        "cumulative": 46380
+        "cumulative": 33801
       },
       {
         "date": "2026-05-29",
         "net_vol": 31744,
-        "cumulative": 78124
+        "cumulative": 65545
       },
       {
         "date": "2026-06-01",
         "net_vol": 79,
-        "cumulative": 78203
+        "cumulative": 65624
       },
       {
         "date": "2026-06-02",
         "net_vol": 26733,
-        "cumulative": 104936
+        "cumulative": 92357
       },
       {
         "date": "2026-06-03",
         "net_vol": -1202,
-        "cumulative": 103734
+        "cumulative": 91155
       },
       {
         "date": "2026-06-04",
         "net_vol": 25372,
-        "cumulative": 129106
+        "cumulative": 116527
       },
       {
         "date": "2026-06-05",
         "net_vol": 35922,
-        "cumulative": 165028
+        "cumulative": 152449
       },
       {
         "date": "2026-06-08",
         "net_vol": 3946,
-        "cumulative": 168974
+        "cumulative": 156395
       },
       {
         "date": "2026-06-09",
         "net_vol": -6451,
-        "cumulative": 162523
+        "cumulative": 149944
       },
       {
         "date": "2026-06-10",
         "net_vol": -9248,
-        "cumulative": 153275
+        "cumulative": 140696
       },
       {
         "date": "2026-06-11",
         "net_vol": 2100,
-        "cumulative": 155375
+        "cumulative": 142796
       },
       {
         "date": "2026-06-12",
         "net_vol": 17796,
-        "cumulative": 173171
+        "cumulative": 160592
       },
       {
         "date": "2026-06-15",
         "net_vol": 15901,
-        "cumulative": 189072
+        "cumulative": 176493
       },
       {
         "date": "2026-06-16",
         "net_vol": 1539,
-        "cumulative": 190611
+        "cumulative": 178032
       },
       {
         "date": "2026-06-17",
         "net_vol": 12421,
-        "cumulative": 203032
+        "cumulative": 190453
       },
       {
         "date": "2026-06-18",
         "net_vol": 23541,
-        "cumulative": 226573
+        "cumulative": 213994
       },
       {
         "date": "2026-06-19",
         "net_vol": 23541,
-        "cumulative": 250114
+        "cumulative": 237535
       },
       {
         "date": "2026-06-22",
         "net_vol": 2171,
-        "cumulative": 252285
+        "cumulative": 239706
       },
       {
         "date": "2026-06-23",
         "net_vol": 7214,
-        "cumulative": 259499
+        "cumulative": 246920
       },
       {
         "date": "2026-06-24",
         "net_vol": -26277,
-        "cumulative": 233222
+        "cumulative": 220643
       },
       {
         "date": "2026-06-25",
         "net_vol": 10689,
-        "cumulative": 243911
+        "cumulative": 231332
       },
       {
         "date": "2026-06-26",
         "net_vol": -14962,
-        "cumulative": 228949
+        "cumulative": 216370
       },
       {
         "date": "2026-06-29",
         "net_vol": 1296,
-        "cumulative": 230245
+        "cumulative": 217666
       },
       {
         "date": "2026-06-30",
         "net_vol": -11661,
-        "cumulative": 218584
+        "cumulative": 206005
       },
       {
         "date": "2026-07-01",
         "net_vol": 8064,
-        "cumulative": 226648
+        "cumulative": 214069
       },
       {
         "date": "2026-07-02",
         "net_vol": -2824,
-        "cumulative": 223824
+        "cumulative": 211245
       },
       {
         "date": "2026-07-03",
         "net_vol": 15906,
-        "cumulative": 239730
+        "cumulative": 227151
       },
       {
         "date": "2026-07-06",
         "net_vol": -2336,
-        "cumulative": 237394
+        "cumulative": 224815
       },
       {
         "date": "2026-07-07",
         "net_vol": -12864,
-        "cumulative": 224530
+        "cumulative": 211951
       },
       {
         "date": "2026-07-08",
         "net_vol": 4635,
-        "cumulative": 229165
+        "cumulative": 216586
       },
       {
         "date": "2026-07-09",
         "net_vol": -792,
-        "cumulative": 228373
+        "cumulative": 215794
       },
       {
         "date": "2026-07-10",
         "net_vol": -792,
-        "cumulative": 227581
+        "cumulative": 215002
       },
       {
         "date": "2026-07-13",
         "net_vol": 1435,
-        "cumulative": 229016
+        "cumulative": 216437
       },
       {
         "date": "2026-07-14",
         "net_vol": -1496,
-        "cumulative": 227520
+        "cumulative": 214941
       },
       {
         "date": "2026-07-15",
         "net_vol": 13222,
-        "cumulative": 240742
+        "cumulative": 228163
       },
       {
         "date": "2026-07-16",
         "net_vol": -2062,
-        "cumulative": 238680
+        "cumulative": 226101
       },
       {
         "date": "2026-07-17",
         "net_vol": -14312,
-        "cumulative": 224368
+        "cumulative": 211789
       },
       {
         "date": "2026-07-20",
         "net_vol": 8235,
-        "cumulative": 232603
+        "cumulative": 220024
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 27254,
+        "cumulative": 247278
       }
     ],
     "美林": [
       {
-        "date": "2026-05-22",
-        "net_vol": 4822,
-        "cumulative": 4822
-      },
-      {
         "date": "2026-05-25",
         "net_vol": 17588,
-        "cumulative": 22410
+        "cumulative": 17588
       },
       {
         "date": "2026-05-26",
         "net_vol": -2901,
-        "cumulative": 19509
+        "cumulative": 14687
       },
       {
         "date": "2026-05-27",
         "net_vol": 6760,
-        "cumulative": 26269
+        "cumulative": 21447
       },
       {
         "date": "2026-05-28",
         "net_vol": 5752,
-        "cumulative": 32021
+        "cumulative": 27199
       },
       {
         "date": "2026-05-29",
         "net_vol": 40460,
-        "cumulative": 72481
+        "cumulative": 67659
       },
       {
         "date": "2026-06-01",
         "net_vol": 2813,
-        "cumulative": 75294
+        "cumulative": 70472
       },
       {
         "date": "2026-06-02",
         "net_vol": -1250,
-        "cumulative": 74044
+        "cumulative": 69222
       },
       {
         "date": "2026-06-03",
         "net_vol": 33220,
-        "cumulative": 107264
+        "cumulative": 102442
       },
       {
         "date": "2026-06-04",
         "net_vol": 12112,
-        "cumulative": 119376
+        "cumulative": 114554
       },
       {
         "date": "2026-06-05",
         "net_vol": -424,
-        "cumulative": 118952
+        "cumulative": 114130
       },
       {
         "date": "2026-06-08",
         "net_vol": 6467,
-        "cumulative": 125419
+        "cumulative": 120597
       },
       {
         "date": "2026-06-09",
         "net_vol": -5724,
-        "cumulative": 119695
+        "cumulative": 114873
       },
       {
         "date": "2026-06-10",
         "net_vol": -13999,
-        "cumulative": 105696
+        "cumulative": 100874
       },
       {
         "date": "2026-06-11",
         "net_vol": -9598,
-        "cumulative": 96098
+        "cumulative": 91276
       },
       {
         "date": "2026-06-12",
         "net_vol": -17530,
-        "cumulative": 78568
+        "cumulative": 73746
       },
       {
         "date": "2026-06-15",
         "net_vol": -1622,
-        "cumulative": 76946
+        "cumulative": 72124
       },
       {
         "date": "2026-06-16",
         "net_vol": -3043,
-        "cumulative": 73903
+        "cumulative": 69081
       },
       {
         "date": "2026-06-17",
         "net_vol": 448,
-        "cumulative": 74351
+        "cumulative": 69529
       },
       {
         "date": "2026-06-18",
         "net_vol": 1734,
-        "cumulative": 76085
+        "cumulative": 71263
       },
       {
         "date": "2026-06-19",
         "net_vol": 1734,
-        "cumulative": 77819
+        "cumulative": 72997
       },
       {
         "date": "2026-06-22",
         "net_vol": 6073,
-        "cumulative": 83892
+        "cumulative": 79070
       },
       {
         "date": "2026-06-23",
         "net_vol": -6493,
-        "cumulative": 77399
+        "cumulative": 72577
       },
       {
         "date": "2026-06-24",
         "net_vol": -9922,
-        "cumulative": 67477
+        "cumulative": 62655
       },
       {
         "date": "2026-06-25",
         "net_vol": -8654,
-        "cumulative": 58823
+        "cumulative": 54001
       },
       {
         "date": "2026-06-26",
         "net_vol": -123,
-        "cumulative": 58700
+        "cumulative": 53878
       },
       {
         "date": "2026-06-29",
         "net_vol": -8231,
-        "cumulative": 50469
+        "cumulative": 45647
       },
       {
         "date": "2026-06-30",
         "net_vol": -3074,
-        "cumulative": 47395
+        "cumulative": 42573
       },
       {
         "date": "2026-07-01",
         "net_vol": 4576,
-        "cumulative": 51971
+        "cumulative": 47149
       },
       {
         "date": "2026-07-02",
         "net_vol": -7833,
-        "cumulative": 44138
+        "cumulative": 39316
       },
       {
         "date": "2026-07-03",
         "net_vol": -9259,
-        "cumulative": 34879
+        "cumulative": 30057
       },
       {
         "date": "2026-07-06",
         "net_vol": -5731,
-        "cumulative": 29148
+        "cumulative": 24326
       },
       {
         "date": "2026-07-07",
         "net_vol": -10787,
-        "cumulative": 18361
+        "cumulative": 13539
       },
       {
         "date": "2026-07-08",
         "net_vol": 7897,
-        "cumulative": 26258
+        "cumulative": 21436
       },
       {
         "date": "2026-07-09",
         "net_vol": -5166,
-        "cumulative": 21092
+        "cumulative": 16270
       },
       {
         "date": "2026-07-10",
         "net_vol": -5166,
-        "cumulative": 15926
+        "cumulative": 11104
       },
       {
         "date": "2026-07-13",
         "net_vol": -1722,
-        "cumulative": 14204
+        "cumulative": 9382
       },
       {
         "date": "2026-07-14",
         "net_vol": 9185,
-        "cumulative": 23389
+        "cumulative": 18567
       },
       {
         "date": "2026-07-15",
         "net_vol": 2313,
-        "cumulative": 25702
+        "cumulative": 20880
       },
       {
         "date": "2026-07-16",
         "net_vol": 3977,
-        "cumulative": 29679
+        "cumulative": 24857
       },
       {
         "date": "2026-07-17",
         "net_vol": -4434,
-        "cumulative": 25245
+        "cumulative": 20423
       },
       {
         "date": "2026-07-20",
         "net_vol": -4546,
-        "cumulative": 20699
+        "cumulative": 15877
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 7518,
+        "cumulative": 23395
       }
     ],
     "群益金鼎-高盛": [
@@ -16300,6 +16300,11 @@
         "date": "2026-07-20",
         "net_vol": -306,
         "cumulative": -2379
+      },
+      {
+        "date": "2026-07-21",
+        "net_vol": 165,
+        "cumulative": -2214
       }
     ]
   }
