@@ -2429,5 +2429,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.319691780514937,
     "three_inst_ratio_change_20": 0.479691780514937
+  },
+  {
+    "date": "2026-08-04",
+    "code": "2425",
+    "name": "承啟",
+    "market": "TWSE",
+    "foreign_ratio": 8.31,
+    "trust_ratio": 0.22072806249849802,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.530728062498499,
+    "three_inst_ratio_change_20": -1.3392719375015005
+  },
+  {
+    "date": "2026-08-05",
+    "code": "2425",
+    "name": "承啟",
+    "market": "TWSE",
+    "foreign_ratio": 9.41,
+    "trust_ratio": 0.22072806249849802,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.630728062498498,
+    "three_inst_ratio_change_20": -0.37927193750150145
   }
 ]

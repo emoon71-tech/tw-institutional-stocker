@@ -2429,5 +2429,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.6709588477513,
     "three_inst_ratio_change_20": -0.21639243653369888
+  },
+  {
+    "date": "2026-08-04",
+    "code": "2204",
+    "name": "中華",
+    "market": "TWSE",
+    "foreign_ratio": 17.63,
+    "trust_ratio": -0.1576215564709145,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.472378443529085,
+    "three_inst_ratio_change_20": -0.46482526669874247
+  },
+  {
+    "date": "2026-08-05",
+    "code": "2204",
+    "name": "中華",
+    "market": "TWSE",
+    "foreign_ratio": 18.45,
+    "trust_ratio": -0.27750009951765825,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.17249990048234,
+    "three_inst_ratio_change_20": 0.24401570984904097
   }
 ]

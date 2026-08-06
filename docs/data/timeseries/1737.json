@@ -2418,5 +2418,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.81,
     "three_inst_ratio_change_20": 0.030000000000001137
+  },
+  {
+    "date": "2026-08-04",
+    "code": "1737",
+    "name": "臺鹽",
+    "market": "TWSE",
+    "foreign_ratio": 8.78,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.78,
+    "three_inst_ratio_change_20": 0.009999999999999787
+  },
+  {
+    "date": "2026-08-05",
+    "code": "1737",
+    "name": "臺鹽",
+    "market": "TWSE",
+    "foreign_ratio": 8.68,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.68,
+    "three_inst_ratio_change_20": -0.08999999999999986
   }
 ]

@@ -2429,5 +2429,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.78,
     "three_inst_ratio_change_20": -0.08419098733463415
+  },
+  {
+    "date": "2026-08-04",
+    "code": "3040",
+    "name": "遠見",
+    "market": "TWSE",
+    "foreign_ratio": 0.75,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.75,
+    "three_inst_ratio_change_20": -0.1441909873346342
+  },
+  {
+    "date": "2026-08-05",
+    "code": "3040",
+    "name": "遠見",
+    "market": "TWSE",
+    "foreign_ratio": 0.81,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.81,
+    "three_inst_ratio_change_20": -0.06419098733463413
   }
 ]

@@ -2429,5 +2429,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.100009625631316,
     "three_inst_ratio_change_20": -2.1500000000000004
+  },
+  {
+    "date": "2026-08-04",
+    "code": "2332",
+    "name": "友訊",
+    "market": "TWSE",
+    "foreign_ratio": 10.93,
+    "trust_ratio": 0.01000962563131614,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.940009625631316,
+    "three_inst_ratio_change_20": 0.5
+  },
+  {
+    "date": "2026-08-05",
+    "code": "2332",
+    "name": "友訊",
+    "market": "TWSE",
+    "foreign_ratio": 9.56,
+    "trust_ratio": 0.01000962563131614,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.570009625631316,
+    "three_inst_ratio_change_20": -1.2699999999999996
   }
 ]

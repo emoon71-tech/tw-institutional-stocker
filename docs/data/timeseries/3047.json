@@ -2429,5 +2429,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.0022245792083853,
     "three_inst_ratio_change_20": 0.33000000000000007
+  },
+  {
+    "date": "2026-08-04",
+    "code": "3047",
+    "name": "訊舟",
+    "market": "TWSE",
+    "foreign_ratio": 3.12,
+    "trust_ratio": 0.0022245792083850904,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.1222245792083854,
+    "three_inst_ratio_change_20": -0.009999999999999787
+  },
+  {
+    "date": "2026-08-05",
+    "code": "3047",
+    "name": "訊舟",
+    "market": "TWSE",
+    "foreign_ratio": 3.1,
+    "trust_ratio": 0.0022245792083850904,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.1022245792083853,
+    "three_inst_ratio_change_20": 0.03000000000000025
   }
 ]

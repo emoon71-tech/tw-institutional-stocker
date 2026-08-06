@@ -2429,5 +2429,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.970907681763668,
     "three_inst_ratio_change_20": 0.37189573074264626
+  },
+  {
+    "date": "2026-08-04",
+    "code": "1718",
+    "name": "中纖",
+    "market": "TWSE",
+    "foreign_ratio": 6.35,
+    "trust_ratio": 0.18209398770392113,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.532093987703921,
+    "three_inst_ratio_change_20": -0.37691796331710137
+  },
+  {
+    "date": "2026-08-05",
+    "code": "1718",
+    "name": "中纖",
+    "market": "TWSE",
+    "foreign_ratio": 6.12,
+    "trust_ratio": 0.18221261829794644,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.302212618297947,
+    "three_inst_ratio_change_20": -0.7967993327230749
   }
 ]

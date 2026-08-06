@@ -2429,5 +2429,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.769708817560145,
     "three_inst_ratio_change_20": -0.46000000000000085
+  },
+  {
+    "date": "2026-08-04",
+    "code": "2405",
+    "name": "輔信",
+    "market": "TWSE",
+    "foreign_ratio": 4.98,
+    "trust_ratio": -0.00029118243985394484,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.979708817560146,
+    "three_inst_ratio_change_20": -0.33999999999999986
+  },
+  {
+    "date": "2026-08-05",
+    "code": "2405",
+    "name": "輔信",
+    "market": "TWSE",
+    "foreign_ratio": 5.03,
+    "trust_ratio": -0.00029118243985394484,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.029708817560146,
+    "three_inst_ratio_change_20": -0.09999999999999964
   }
 ]

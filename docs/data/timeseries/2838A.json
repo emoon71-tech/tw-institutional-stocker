@@ -427,5 +427,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.20500000000000002,
     "three_inst_ratio_change_20": 0.09000000000000001
+  },
+  {
+    "date": "2026-08-04",
+    "code": "2838A",
+    "name": "聯邦銀甲特",
+    "market": "TWSE",
+    "foreign_ratio": 0.2,
+    "trust_ratio": 0.005,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.20500000000000002,
+    "three_inst_ratio_change_20": 0.09000000000000001
+  },
+  {
+    "date": "2026-08-05",
+    "code": "2838A",
+    "name": "聯邦銀甲特",
+    "market": "TWSE",
+    "foreign_ratio": 0.21,
+    "trust_ratio": 0.005,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.215,
+    "three_inst_ratio_change_20": 0.09999999999999999
   }
 ]

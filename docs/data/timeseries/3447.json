@@ -2385,5 +2385,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.52,
     "three_inst_ratio_change_20": 0.91
+  },
+  {
+    "date": "2026-08-04",
+    "code": "3447",
+    "name": "展達",
+    "market": "TWSE",
+    "foreign_ratio": 1.6,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6,
+    "three_inst_ratio_change_20": 1.0
+  },
+  {
+    "date": "2026-08-05",
+    "code": "3447",
+    "name": "展達",
+    "market": "TWSE",
+    "foreign_ratio": 1.65,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.65,
+    "three_inst_ratio_change_20": 1.1099999999999999
   }
 ]

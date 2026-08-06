@@ -2429,5 +2429,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.82,
     "three_inst_ratio_change_20": 0.1299999999999999
+  },
+  {
+    "date": "2026-08-04",
+    "code": "6215",
+    "name": "和椿",
+    "market": "TWSE",
+    "foreign_ratio": 6.87,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.87,
+    "three_inst_ratio_change_20": 0.8100000000000005
+  },
+  {
+    "date": "2026-08-05",
+    "code": "6215",
+    "name": "和椿",
+    "market": "TWSE",
+    "foreign_ratio": 7.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.0,
+    "three_inst_ratio_change_20": 1.0
   }
 ]

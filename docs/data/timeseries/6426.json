@@ -2385,5 +2385,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.831983432444364,
     "three_inst_ratio_change_20": 1.1300000000000008
+  },
+  {
+    "date": "2026-08-04",
+    "code": "6426",
+    "name": "統新",
+    "market": "TWSE",
+    "foreign_ratio": 9.64,
+    "trust_ratio": 0.08198343244436365,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.721983432444365,
+    "three_inst_ratio_change_20": 0.3600000000000012
+  },
+  {
+    "date": "2026-08-05",
+    "code": "6426",
+    "name": "統新",
+    "market": "TWSE",
+    "foreign_ratio": 8.35,
+    "trust_ratio": 0.08198343244436365,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.431983432444364,
+    "three_inst_ratio_change_20": -0.47000000000000064
   }
 ]

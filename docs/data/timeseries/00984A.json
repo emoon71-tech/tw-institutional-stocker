@@ -2385,5 +2385,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1229213394480377,
     "three_inst_ratio_change_20": -0.21544943586489107
+  },
+  {
+    "date": "2026-08-04",
+    "code": "00984A",
+    "name": "主動安聯台灣高息",
+    "market": "TWSE",
+    "foreign_ratio": 0.99,
+    "trust_ratio": 0.12386116539594286,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.113861165395943,
+    "three_inst_ratio_change_20": 0.21807935224949648
+  },
+  {
+    "date": "2026-08-05",
+    "code": "00984A",
+    "name": "主動安聯台灣高息",
+    "market": "TWSE",
+    "foreign_ratio": 1.0,
+    "trust_ratio": 0.12386116539594286,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.123861165395943,
+    "three_inst_ratio_change_20": 0.7835711613511008
   }
 ]
