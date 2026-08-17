@@ -2506,5 +2506,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.44,
     "three_inst_ratio_change_20": -1.0900000000000003
+  },
+  {
+    "date": "2026-08-13",
+    "code": "4934",
+    "name": "太極",
+    "market": "TWSE",
+    "foreign_ratio": 3.5,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.5,
+    "three_inst_ratio_change_20": -0.8499999999999996
+  },
+  {
+    "date": "2026-08-14",
+    "code": "4934",
+    "name": "太極",
+    "market": "TWSE",
+    "foreign_ratio": 3.45,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.45,
+    "three_inst_ratio_change_20": -0.5800000000000001
   }
 ]

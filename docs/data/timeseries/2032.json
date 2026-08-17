@@ -2462,5 +2462,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.05,
     "three_inst_ratio_change_20": 0.3099999999999996
+  },
+  {
+    "date": "2026-08-13",
+    "code": "2032",
+    "name": "新鋼",
+    "market": "TWSE",
+    "foreign_ratio": 3.94,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.94,
+    "three_inst_ratio_change_20": 0.18000000000000016
+  },
+  {
+    "date": "2026-08-14",
+    "code": "2032",
+    "name": "新鋼",
+    "market": "TWSE",
+    "foreign_ratio": 3.8,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.8,
+    "three_inst_ratio_change_20": 0.1499999999999999
   }
 ]

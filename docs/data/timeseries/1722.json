@@ -2506,5 +2506,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.84214,
     "three_inst_ratio_change_20": -0.23622071428571534
+  },
+  {
+    "date": "2026-08-13",
+    "code": "1722",
+    "name": "台肥",
+    "market": "TWSE",
+    "foreign_ratio": 8.34,
+    "trust_ratio": -0.6580640816326531,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.681935918367347,
+    "three_inst_ratio_change_20": -0.366118673469388
+  },
+  {
+    "date": "2026-08-14",
+    "code": "1722",
+    "name": "台肥",
+    "market": "TWSE",
+    "foreign_ratio": 8.2,
+    "trust_ratio": -0.6580640816326531,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.541935918367346,
+    "three_inst_ratio_change_20": -0.5174452040816346
   }
 ]

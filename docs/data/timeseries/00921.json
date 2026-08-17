@@ -2462,5 +2462,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.45,
     "three_inst_ratio_change_20": -0.8400000000000001
+  },
+  {
+    "date": "2026-08-13",
+    "code": "00921",
+    "name": "兆豐龍頭等權重",
+    "market": "TWSE",
+    "foreign_ratio": 1.55,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.55,
+    "three_inst_ratio_change_20": -0.3799999999999999
+  },
+  {
+    "date": "2026-08-14",
+    "code": "00921",
+    "name": "兆豐龍頭等權重",
+    "market": "TWSE",
+    "foreign_ratio": 2.19,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.19,
+    "three_inst_ratio_change_20": 0.27
   }
 ]

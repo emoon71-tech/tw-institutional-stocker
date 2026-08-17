@@ -2506,5 +2506,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4,
     "three_inst_ratio_change_20": -1.83
+  },
+  {
+    "date": "2026-08-13",
+    "code": "00675L",
+    "name": "富邦臺灣加權正2",
+    "market": "TWSE",
+    "foreign_ratio": 0.36,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.36,
+    "three_inst_ratio_change_20": -0.15000000000000002
+  },
+  {
+    "date": "2026-08-14",
+    "code": "00675L",
+    "name": "富邦臺灣加權正2",
+    "market": "TWSE",
+    "foreign_ratio": 0.43,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.43,
+    "three_inst_ratio_change_20": 0.08000000000000002
   }
 ]

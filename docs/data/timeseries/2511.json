@@ -2506,5 +2506,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.64,
     "three_inst_ratio_change_20": -0.17999999999999972
+  },
+  {
+    "date": "2026-08-13",
+    "code": "2511",
+    "name": "太子",
+    "market": "TWSE",
+    "foreign_ratio": 2.65,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.65,
+    "three_inst_ratio_change_20": -0.20000000000000018
+  },
+  {
+    "date": "2026-08-14",
+    "code": "2511",
+    "name": "太子",
+    "market": "TWSE",
+    "foreign_ratio": 2.58,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.58,
+    "three_inst_ratio_change_20": -0.2999999999999998
   }
 ]

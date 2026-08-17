@@ -2506,5 +2506,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.920045548100465,
     "three_inst_ratio_change_20": -0.40000000000000036
+  },
+  {
+    "date": "2026-08-13",
+    "code": "1611",
+    "name": "中電",
+    "market": "TWSE",
+    "foreign_ratio": 9.9,
+    "trust_ratio": 4.55481004641872e-05,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.900045548100465,
+    "three_inst_ratio_change_20": -0.40000000000000036
+  },
+  {
+    "date": "2026-08-14",
+    "code": "1611",
+    "name": "中電",
+    "market": "TWSE",
+    "foreign_ratio": 9.95,
+    "trust_ratio": 4.55481004641872e-05,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.950045548100464,
+    "three_inst_ratio_change_20": -0.2400000000000002
   }
 ]

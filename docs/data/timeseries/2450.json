@@ -2506,5 +2506,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.2566238488690553,
     "three_inst_ratio_change_20": -0.08000000000000007
+  },
+  {
+    "date": "2026-08-13",
+    "code": "2450",
+    "name": "神腦",
+    "market": "TWSE",
+    "foreign_ratio": 1.27,
+    "trust_ratio": -0.003376151130944608,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.2666238488690553,
+    "three_inst_ratio_change_20": -0.06000000000000005
+  },
+  {
+    "date": "2026-08-14",
+    "code": "2450",
+    "name": "神腦",
+    "market": "TWSE",
+    "foreign_ratio": 1.24,
+    "trust_ratio": -0.003376151130944608,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.2366238488690553,
+    "three_inst_ratio_change_20": -0.10000000000000009
   }
 ]

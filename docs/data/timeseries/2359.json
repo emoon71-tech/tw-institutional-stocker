@@ -2506,5 +2506,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.421337957849584,
     "three_inst_ratio_change_20": 2.389999999999999
+  },
+  {
+    "date": "2026-08-13",
+    "code": "2359",
+    "name": "所羅門",
+    "market": "TWSE",
+    "foreign_ratio": 10.06,
+    "trust_ratio": -0.018662042150414986,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.041337957849585,
+    "three_inst_ratio_change_20": 4.39
+  },
+  {
+    "date": "2026-08-14",
+    "code": "2359",
+    "name": "所羅門",
+    "market": "TWSE",
+    "foreign_ratio": 11.93,
+    "trust_ratio": -0.018662042150414986,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.911337957849584,
+    "three_inst_ratio_change_20": 7.5699999999999985
   }
 ]

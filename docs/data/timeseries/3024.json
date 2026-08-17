@@ -2506,5 +2506,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.0525256397900202,
     "three_inst_ratio_change_20": 0.5499999999999998
+  },
+  {
+    "date": "2026-08-13",
+    "code": "3024",
+    "name": "憶聲",
+    "market": "TWSE",
+    "foreign_ratio": 3.0,
+    "trust_ratio": 0.0025256397900203283,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.0025256397900204,
+    "three_inst_ratio_change_20": 0.3700000000000001
+  },
+  {
+    "date": "2026-08-14",
+    "code": "3024",
+    "name": "憶聲",
+    "market": "TWSE",
+    "foreign_ratio": 3.12,
+    "trust_ratio": 0.0025256397900203283,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.1225256397900205,
+    "three_inst_ratio_change_20": 0.3200000000000003
   }
 ]

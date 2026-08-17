@@ -2352,5 +2352,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.45,
     "three_inst_ratio_change_20": 0.10000000000000003
+  },
+  {
+    "date": "2026-08-13",
+    "code": "2910",
+    "name": "統領",
+    "market": "TWSE",
+    "foreign_ratio": 0.44,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.44,
+    "three_inst_ratio_change_20": 0.09000000000000002
+  },
+  {
+    "date": "2026-08-14",
+    "code": "2910",
+    "name": "統領",
+    "market": "TWSE",
+    "foreign_ratio": 0.44,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.44,
+    "three_inst_ratio_change_20": 0.07
   }
 ]

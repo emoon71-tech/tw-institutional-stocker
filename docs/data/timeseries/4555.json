@@ -2506,5 +2506,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.8214288234526164,
     "three_inst_ratio_change_20": 0.9499999999999997
+  },
+  {
+    "date": "2026-08-13",
+    "code": "4555",
+    "name": "氣立",
+    "market": "TWSE",
+    "foreign_ratio": 4.17,
+    "trust_ratio": 0.0014288234526167066,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.171428823452617,
+    "three_inst_ratio_change_20": 1.1800000000000002
+  },
+  {
+    "date": "2026-08-14",
+    "code": "4555",
+    "name": "氣立",
+    "market": "TWSE",
+    "foreign_ratio": 4.02,
+    "trust_ratio": 0.0014288234526167066,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.0214288234526165,
+    "three_inst_ratio_change_20": 1.1400000000000001
   }
 ]

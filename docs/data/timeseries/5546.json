@@ -2242,5 +2242,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.85,
     "three_inst_ratio_change_20": 0.020000000000003126
+  },
+  {
+    "date": "2026-08-13",
+    "code": "5546",
+    "name": "永固-KY",
+    "market": "TWSE",
+    "foreign_ratio": 53.84,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 53.84,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-08-14",
+    "code": "5546",
+    "name": "永固-KY",
+    "market": "TWSE",
+    "foreign_ratio": 53.83,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 53.83,
+    "three_inst_ratio_change_20": -0.020000000000003126
   }
 ]

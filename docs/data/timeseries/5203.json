@@ -2506,5 +2506,27 @@
     "dealer_ratio": -0.005041431111049494,
     "three_inst_ratio": 10.05857391777804,
     "three_inst_ratio_change_20": -0.6799999999999997
+  },
+  {
+    "date": "2026-08-13",
+    "code": "5203",
+    "name": "訊連",
+    "market": "TWSE",
+    "foreign_ratio": 9.97,
+    "trust_ratio": -0.016384651110910853,
+    "dealer_ratio": -0.005041431111049494,
+    "three_inst_ratio": 9.94857391777804,
+    "three_inst_ratio_change_20": -0.8199999999999985
+  },
+  {
+    "date": "2026-08-14",
+    "code": "5203",
+    "name": "訊連",
+    "market": "TWSE",
+    "foreign_ratio": 9.92,
+    "trust_ratio": -0.016384651110910853,
+    "dealer_ratio": -0.005041431111049494,
+    "three_inst_ratio": 9.89857391777804,
+    "three_inst_ratio_change_20": -0.8800000000000008
   }
 ]

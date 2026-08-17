@@ -2462,5 +2462,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.21,
     "three_inst_ratio_change_20": -0.020000000000000018
+  },
+  {
+    "date": "2026-08-13",
+    "code": "00861",
+    "name": "元大全球未來通訊",
+    "market": "TWSE",
+    "foreign_ratio": 1.24,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.24,
+    "three_inst_ratio_change_20": 0.010000000000000009
+  },
+  {
+    "date": "2026-08-14",
+    "code": "00861",
+    "name": "元大全球未來通訊",
+    "market": "TWSE",
+    "foreign_ratio": 1.19,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.19,
+    "three_inst_ratio_change_20": 0.21999999999999997
   }
 ]

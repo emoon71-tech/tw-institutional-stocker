@@ -2506,5 +2506,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.14,
     "three_inst_ratio_change_20": 0.7800000000000002
+  },
+  {
+    "date": "2026-08-13",
+    "code": "3149",
+    "name": "正達",
+    "market": "TWSE",
+    "foreign_ratio": 3.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.52,
+    "three_inst_ratio_change_20": 0.7600000000000002
+  },
+  {
+    "date": "2026-08-14",
+    "code": "3149",
+    "name": "正達",
+    "market": "TWSE",
+    "foreign_ratio": 3.4,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.4,
+    "three_inst_ratio_change_20": 1.1400000000000001
   }
 ]

@@ -2506,5 +2506,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.102991219783396,
     "three_inst_ratio_change_20": 0.17091631360951354
+  },
+  {
+    "date": "2026-08-13",
+    "code": "2486",
+    "name": "一詮",
+    "market": "TWSE",
+    "foreign_ratio": 12.17,
+    "trust_ratio": 1.039847741595319,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.209847741595318,
+    "three_inst_ratio_change_20": -0.17446217332342506
+  },
+  {
+    "date": "2026-08-14",
+    "code": "2486",
+    "name": "一詮",
+    "market": "TWSE",
+    "foreign_ratio": 12.16,
+    "trust_ratio": 1.039847741595319,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.199847741595319,
+    "three_inst_ratio_change_20": 1.3955378266765752
   }
 ]

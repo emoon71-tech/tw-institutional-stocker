@@ -2506,5 +2506,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.23,
     "three_inst_ratio_change_20": 0.31000000000000005
+  },
+  {
+    "date": "2026-08-13",
+    "code": "9908",
+    "name": "大台北",
+    "market": "TWSE",
+    "foreign_ratio": 2.21,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.21,
+    "three_inst_ratio_change_20": 0.29000000000000004
+  },
+  {
+    "date": "2026-08-14",
+    "code": "9908",
+    "name": "大台北",
+    "market": "TWSE",
+    "foreign_ratio": 2.2,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.2,
+    "three_inst_ratio_change_20": 0.26000000000000023
   }
 ]

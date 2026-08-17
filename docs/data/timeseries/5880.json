@@ -2506,5 +2506,27 @@
     "dealer_ratio": -0.000382808758999641,
     "three_inst_ratio": 16.865172943058496,
     "three_inst_ratio_change_20": 0.4583798491047233
+  },
+  {
+    "date": "2026-08-13",
+    "code": "5880",
+    "name": "合庫金",
+    "market": "TWSE",
+    "foreign_ratio": 16.66,
+    "trust_ratio": 0.19742904502319586,
+    "dealer_ratio": -0.000382808758999641,
+    "three_inst_ratio": 16.857046236264196,
+    "three_inst_ratio_change_20": 0.4123300909123202
+  },
+  {
+    "date": "2026-08-14",
+    "code": "5880",
+    "name": "合庫金",
+    "market": "TWSE",
+    "foreign_ratio": 16.65,
+    "trust_ratio": 0.19735908746861758,
+    "dealer_ratio": -0.000382808758999641,
+    "three_inst_ratio": 16.846976278709615,
+    "three_inst_ratio_change_20": 0.35966589423649964
   }
 ]

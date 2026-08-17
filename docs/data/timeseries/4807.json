@@ -2352,5 +2352,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 68.1,
     "three_inst_ratio_change_20": 1.1400000000000006
+  },
+  {
+    "date": "2026-08-13",
+    "code": "4807",
+    "name": "日成-KY",
+    "market": "TWSE",
+    "foreign_ratio": 68.15,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 68.15,
+    "three_inst_ratio_change_20": 0.6500000000000057
+  },
+  {
+    "date": "2026-08-14",
+    "code": "4807",
+    "name": "日成-KY",
+    "market": "TWSE",
+    "foreign_ratio": 68.23,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 68.23,
+    "three_inst_ratio_change_20": 0.5
   }
 ]
