@@ -2539,5 +2539,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.16,
     "three_inst_ratio_change_20": 0.08000000000000007
+  },
+  {
+    "date": "2026-08-18",
+    "code": "4133",
+    "name": "亞諾法",
+    "market": "TWSE",
+    "foreign_ratio": 12.16,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.16,
+    "three_inst_ratio_change_20": 0.07000000000000028
+  },
+  {
+    "date": "2026-08-19",
+    "code": "4133",
+    "name": "亞諾法",
+    "market": "TWSE",
+    "foreign_ratio": 12.14,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.14,
+    "three_inst_ratio_change_20": -0.02999999999999936
+  },
+  {
+    "date": "2026-08-20",
+    "code": "4133",
+    "name": "亞諾法",
+    "market": "TWSE",
+    "foreign_ratio": 12.14,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.14,
+    "three_inst_ratio_change_20": 0.23000000000000043
   }
 ]

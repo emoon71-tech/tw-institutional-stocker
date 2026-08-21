@@ -2539,5 +2539,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.0208046982532832,
     "three_inst_ratio_change_20": 0.020804698253283238
+  },
+  {
+    "date": "2026-08-18",
+    "code": "9930",
+    "name": "中聯資源",
+    "market": "TWSE",
+    "foreign_ratio": 2.01,
+    "trust_ratio": 0.0008046982532833459,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.010804698253283,
+    "three_inst_ratio_change_20": -0.019195301746716797
+  },
+  {
+    "date": "2026-08-19",
+    "code": "9930",
+    "name": "中聯資源",
+    "market": "TWSE",
+    "foreign_ratio": 2.02,
+    "trust_ratio": 0.0008046982532833459,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.0208046982532832,
+    "three_inst_ratio_change_20": 0.030804698253283247
+  },
+  {
+    "date": "2026-08-20",
+    "code": "9930",
+    "name": "中聯資源",
+    "market": "TWSE",
+    "foreign_ratio": 2.02,
+    "trust_ratio": 0.0008046982532833459,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.0208046982532832,
+    "three_inst_ratio_change_20": 0.050804698253283265
   }
 ]

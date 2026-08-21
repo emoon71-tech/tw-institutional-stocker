@@ -2495,5 +2495,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.11,
     "three_inst_ratio_change_20": -0.8499999999999999
+  },
+  {
+    "date": "2026-08-18",
+    "code": "2482",
+    "name": "連宇",
+    "market": "TWSE",
+    "foreign_ratio": 0.97,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.97,
+    "three_inst_ratio_change_20": -1.07
+  },
+  {
+    "date": "2026-08-19",
+    "code": "2482",
+    "name": "連宇",
+    "market": "TWSE",
+    "foreign_ratio": 0.95,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.95,
+    "three_inst_ratio_change_20": -1.1300000000000001
+  },
+  {
+    "date": "2026-08-20",
+    "code": "2482",
+    "name": "連宇",
+    "market": "TWSE",
+    "foreign_ratio": 1.04,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.04,
+    "three_inst_ratio_change_20": -0.8
   }
 ]

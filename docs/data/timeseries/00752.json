@@ -2495,5 +2495,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1187783030604628,
     "three_inst_ratio_change_20": -1.5242372594873732
+  },
+  {
+    "date": "2026-08-18",
+    "code": "00752",
+    "name": "中信中國50",
+    "market": "TWSE",
+    "foreign_ratio": 0.7,
+    "trust_ratio": 0.3887783030604628,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.0887783030604627,
+    "three_inst_ratio_change_20": -1.544237259487373
+  },
+  {
+    "date": "2026-08-19",
+    "code": "00752",
+    "name": "中信中國50",
+    "market": "TWSE",
+    "foreign_ratio": 0.69,
+    "trust_ratio": 0.3895355178485174,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.0795355178485173,
+    "three_inst_ratio_change_20": -1.4334800446993183
+  },
+  {
+    "date": "2026-08-20",
+    "code": "00752",
+    "name": "中信中國50",
+    "market": "TWSE",
+    "foreign_ratio": 0.69,
+    "trust_ratio": 0.3895355178485174,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.0795355178485173,
+    "three_inst_ratio_change_20": -1.423480044699318
   }
 ]

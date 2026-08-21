@@ -2495,5 +2495,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.53,
     "three_inst_ratio_change_20": -0.98
+  },
+  {
+    "date": "2026-08-18",
+    "code": "3135",
+    "name": "凌航",
+    "market": "TWSE",
+    "foreign_ratio": 2.13,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.13,
+    "three_inst_ratio_change_20": -1.42
+  },
+  {
+    "date": "2026-08-19",
+    "code": "3135",
+    "name": "凌航",
+    "market": "TWSE",
+    "foreign_ratio": 2.03,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.03,
+    "three_inst_ratio_change_20": -1.4100000000000001
+  },
+  {
+    "date": "2026-08-20",
+    "code": "3135",
+    "name": "凌航",
+    "market": "TWSE",
+    "foreign_ratio": 2.79,
+    "trust_ratio": 0.33901175536054606,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.129011755360546,
+    "three_inst_ratio_change_20": -0.19098824463945396
   }
 ]

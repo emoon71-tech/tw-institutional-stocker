@@ -2539,5 +2539,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.9727558389254926,
     "three_inst_ratio_change_20": -0.08971907614551544
+  },
+  {
+    "date": "2026-08-18",
+    "code": "1615",
+    "name": "大山",
+    "market": "TWSE",
+    "foreign_ratio": 0.92,
+    "trust_ratio": 0.022755838925492645,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.9427558389254926,
+    "three_inst_ratio_change_20": 0.0002809238544847492
+  },
+  {
+    "date": "2026-08-19",
+    "code": "1615",
+    "name": "大山",
+    "market": "TWSE",
+    "foreign_ratio": 0.95,
+    "trust_ratio": 0.022755838925492645,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.9727558389254926,
+    "three_inst_ratio_change_20": 0.14028092385448465
+  },
+  {
+    "date": "2026-08-20",
+    "code": "1615",
+    "name": "大山",
+    "market": "TWSE",
+    "foreign_ratio": 0.97,
+    "trust_ratio": 0.022755838925492645,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.9927558389254926,
+    "three_inst_ratio_change_20": 0.16028092385448467
   }
 ]

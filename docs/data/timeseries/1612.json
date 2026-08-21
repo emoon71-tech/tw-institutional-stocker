@@ -2539,5 +2539,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.978791327847844,
     "three_inst_ratio_change_20": -0.001790367176685237
+  },
+  {
+    "date": "2026-08-18",
+    "code": "1612",
+    "name": "宏泰",
+    "market": "TWSE",
+    "foreign_ratio": 15.44,
+    "trust_ratio": 0.5837293192389676,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.023729319238967,
+    "three_inst_ratio_change_20": 0.0612493709861095
+  },
+  {
+    "date": "2026-08-19",
+    "code": "1612",
+    "name": "宏泰",
+    "market": "TWSE",
+    "foreign_ratio": 15.48,
+    "trust_ratio": 0.5837293192389676,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.063729319238966,
+    "three_inst_ratio_change_20": 0.1670286029397534
+  },
+  {
+    "date": "2026-08-20",
+    "code": "1612",
+    "name": "宏泰",
+    "market": "TWSE",
+    "foreign_ratio": 15.51,
+    "trust_ratio": 0.5837293192389676,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.093729319238967,
+    "three_inst_ratio_change_20": 0.25702860293975505
   }
 ]

@@ -2539,5 +2539,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.256709511702724,
     "three_inst_ratio_change_20": 0.06638149287397521
+  },
+  {
+    "date": "2026-08-18",
+    "code": "9941",
+    "name": "裕融",
+    "market": "TWSE",
+    "foreign_ratio": 4.85,
+    "trust_ratio": 2.2054934661822068,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.055493466182206,
+    "three_inst_ratio_change_20": -0.0848345526465426
+  },
+  {
+    "date": "2026-08-19",
+    "code": "9941",
+    "name": "裕融",
+    "market": "TWSE",
+    "foreign_ratio": 4.9,
+    "trust_ratio": 2.2054934661822068,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.105493466182207,
+    "three_inst_ratio_change_20": 0.05682865018394789
+  },
+  {
+    "date": "2026-08-20",
+    "code": "9941",
+    "name": "裕融",
+    "market": "TWSE",
+    "foreign_ratio": 5.05,
+    "trust_ratio": 2.219738570851119,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.269738570851119,
+    "three_inst_ratio_change_20": 0.3710737548528602
   }
 ]

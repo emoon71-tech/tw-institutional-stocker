@@ -2539,5 +2539,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.815173774196957,
     "three_inst_ratio_change_20": 0.23048557271804881
+  },
+  {
+    "date": "2026-08-18",
+    "code": "1519",
+    "name": "華城",
+    "market": "TWSE",
+    "foreign_ratio": 18.24,
+    "trust_ratio": 0.3651737741969564,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.605173774196956,
+    "three_inst_ratio_change_20": -0.04951442728195232
+  },
+  {
+    "date": "2026-08-19",
+    "code": "1519",
+    "name": "華城",
+    "market": "TWSE",
+    "foreign_ratio": 18.19,
+    "trust_ratio": 0.33226395330444064,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.522263953304442,
+    "three_inst_ratio_change_20": -0.16242424817446732
+  },
+  {
+    "date": "2026-08-20",
+    "code": "1519",
+    "name": "華城",
+    "market": "TWSE",
+    "foreign_ratio": 18.08,
+    "trust_ratio": 0.33226395330444064,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.41226395330444,
+    "three_inst_ratio_change_20": -0.35242424817447215
   }
 ]

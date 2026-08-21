@@ -2539,5 +2539,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.86,
     "three_inst_ratio_change_20": 0.11999999999999922
+  },
+  {
+    "date": "2026-08-18",
+    "code": "3356",
+    "name": "奇偶",
+    "market": "TWSE",
+    "foreign_ratio": 9.73,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.73,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-08-19",
+    "code": "3356",
+    "name": "奇偶",
+    "market": "TWSE",
+    "foreign_ratio": 9.37,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.37,
+    "three_inst_ratio_change_20": -0.370000000000001
+  },
+  {
+    "date": "2026-08-20",
+    "code": "3356",
+    "name": "奇偶",
+    "market": "TWSE",
+    "foreign_ratio": 9.33,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.33,
+    "three_inst_ratio_change_20": -0.34999999999999964
   }
 ]

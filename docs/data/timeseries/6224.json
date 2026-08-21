@@ -2539,5 +2539,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.3,
     "three_inst_ratio_change_20": 0.040000000000000036
+  },
+  {
+    "date": "2026-08-18",
+    "code": "6224",
+    "name": "聚鼎",
+    "market": "TWSE",
+    "foreign_ratio": 6.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.28,
+    "three_inst_ratio_change_20": 0.08000000000000007
+  },
+  {
+    "date": "2026-08-19",
+    "code": "6224",
+    "name": "聚鼎",
+    "market": "TWSE",
+    "foreign_ratio": 6.51,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.51,
+    "three_inst_ratio_change_20": 0.54
+  },
+  {
+    "date": "2026-08-20",
+    "code": "6224",
+    "name": "聚鼎",
+    "market": "TWSE",
+    "foreign_ratio": 6.92,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.92,
+    "three_inst_ratio_change_20": 0.96
   }
 ]

@@ -2539,5 +2539,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.32,
     "three_inst_ratio_change_20": 0.120000000000001
+  },
+  {
+    "date": "2026-08-18",
+    "code": "2601",
+    "name": "益航",
+    "market": "TWSE",
+    "foreign_ratio": 13.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.42,
+    "three_inst_ratio_change_20": 0.3100000000000005
+  },
+  {
+    "date": "2026-08-19",
+    "code": "2601",
+    "name": "益航",
+    "market": "TWSE",
+    "foreign_ratio": 13.02,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.02,
+    "three_inst_ratio_change_20": -0.08000000000000007
+  },
+  {
+    "date": "2026-08-20",
+    "code": "2601",
+    "name": "益航",
+    "market": "TWSE",
+    "foreign_ratio": 12.99,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.99,
+    "three_inst_ratio_change_20": -0.08000000000000007
   }
 ]

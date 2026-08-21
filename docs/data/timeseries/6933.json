@@ -2495,5 +2495,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.78044006341896,
     "three_inst_ratio_change_20": 1.3499999999999979
+  },
+  {
+    "date": "2026-08-18",
+    "code": "6933",
+    "name": "AMAX-KY",
+    "market": "TWSE",
+    "foreign_ratio": 29.6,
+    "trust_ratio": 0.010440063418961514,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 29.610440063418963,
+    "three_inst_ratio_change_20": 1.2000000000000028
+  },
+  {
+    "date": "2026-08-19",
+    "code": "6933",
+    "name": "AMAX-KY",
+    "market": "TWSE",
+    "foreign_ratio": 29.51,
+    "trust_ratio": 0.010440063418961514,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 29.520440063418963,
+    "three_inst_ratio_change_20": 1.2200000000000024
+  },
+  {
+    "date": "2026-08-20",
+    "code": "6933",
+    "name": "AMAX-KY",
+    "market": "TWSE",
+    "foreign_ratio": 29.44,
+    "trust_ratio": 0.010440063418961514,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 29.450440063418963,
+    "three_inst_ratio_change_20": 1.0800000000000018
   }
 ]

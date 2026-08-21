@@ -2495,5 +2495,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.33,
     "three_inst_ratio_change_20": 0.10999999999999988
+  },
+  {
+    "date": "2026-08-18",
+    "code": "5244",
+    "name": "弘凱",
+    "market": "TWSE",
+    "foreign_ratio": 2.33,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.33,
+    "three_inst_ratio_change_20": 0.06000000000000005
+  },
+  {
+    "date": "2026-08-19",
+    "code": "5244",
+    "name": "弘凱",
+    "market": "TWSE",
+    "foreign_ratio": 2.34,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.34,
+    "three_inst_ratio_change_20": -0.06000000000000005
+  },
+  {
+    "date": "2026-08-20",
+    "code": "5244",
+    "name": "弘凱",
+    "market": "TWSE",
+    "foreign_ratio": 2.51,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.51,
+    "three_inst_ratio_change_20": 0.2899999999999996
   }
 ]

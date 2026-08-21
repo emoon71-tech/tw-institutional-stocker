@@ -900,5 +900,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.07400216008640345,
     "three_inst_ratio_change_20": -0.010000000000000009
+  },
+  {
+    "date": "2026-08-18",
+    "code": "2882A",
+    "name": "國泰特",
+    "market": "TWSE",
+    "foreign_ratio": 0.02,
+    "trust_ratio": 0.057362294491779674,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.07736229449177967,
+    "three_inst_ratio_change_20": -0.0066398655946237894
+  },
+  {
+    "date": "2026-08-19",
+    "code": "2882A",
+    "name": "國泰特",
+    "market": "TWSE",
+    "foreign_ratio": 0.02,
+    "trust_ratio": 0.06216248649945998,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.08216248649945998,
+    "three_inst_ratio_change_20": 0.008160326413056529
   }
 ]

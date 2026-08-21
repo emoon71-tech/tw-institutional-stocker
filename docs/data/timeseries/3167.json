@@ -2539,5 +2539,38 @@
     "dealer_ratio": -0.05362320189255048,
     "three_inst_ratio": 15.862348170847229,
     "three_inst_ratio_change_20": -2.08379311907297
+  },
+  {
+    "date": "2026-08-18",
+    "code": "3167",
+    "name": "大量",
+    "market": "TWSE",
+    "foreign_ratio": 10.74,
+    "trust_ratio": 5.1982901661158545,
+    "dealer_ratio": -0.05362320189255048,
+    "three_inst_ratio": 15.884666964223305,
+    "three_inst_ratio_change_20": -2.0006047200192416
+  },
+  {
+    "date": "2026-08-19",
+    "code": "3167",
+    "name": "大量",
+    "market": "TWSE",
+    "foreign_ratio": 10.21,
+    "trust_ratio": 5.197173016076426,
+    "dealer_ratio": -0.05362320189255048,
+    "three_inst_ratio": 15.353549814183877,
+    "three_inst_ratio_change_20": -2.2748015684026885
+  },
+  {
+    "date": "2026-08-20",
+    "code": "3167",
+    "name": "大量",
+    "market": "TWSE",
+    "foreign_ratio": 10.48,
+    "trust_ratio": 6.1501019997086255,
+    "dealer_ratio": -0.05362320189255048,
+    "three_inst_ratio": 16.576478797816076,
+    "three_inst_ratio_change_20": -1.8026092823259425
   }
 ]

@@ -2539,5 +2539,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 52.445201511520985,
     "three_inst_ratio_change_20": 0.25
+  },
+  {
+    "date": "2026-08-18",
+    "code": "5284",
+    "name": "jpp-KY",
+    "market": "TWSE",
+    "foreign_ratio": 51.59,
+    "trust_ratio": 0.7052015115209792,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 52.295201511520986,
+    "three_inst_ratio_change_20": 0.23000000000000398
+  },
+  {
+    "date": "2026-08-19",
+    "code": "5284",
+    "name": "jpp-KY",
+    "market": "TWSE",
+    "foreign_ratio": 51.58,
+    "trust_ratio": 0.7052015115209792,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 52.28520151152098,
+    "three_inst_ratio_change_20": 0.28999999999999915
+  },
+  {
+    "date": "2026-08-20",
+    "code": "5284",
+    "name": "jpp-KY",
+    "market": "TWSE",
+    "foreign_ratio": 51.49,
+    "trust_ratio": 0.7052015115209792,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 52.195201511520985,
+    "three_inst_ratio_change_20": -0.00999999999999801
   }
 ]

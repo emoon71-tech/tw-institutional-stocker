@@ -2539,5 +2539,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.4804886762567,
     "three_inst_ratio_change_20": 0.13194570619900148
+  },
+  {
+    "date": "2026-08-18",
+    "code": "2610",
+    "name": "華航",
+    "market": "TWSE",
+    "foreign_ratio": 15.0,
+    "trust_ratio": 0.3005636729654826,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.300563672965483,
+    "three_inst_ratio_change_20": -0.18255311495534166
+  },
+  {
+    "date": "2026-08-19",
+    "code": "2610",
+    "name": "華航",
+    "market": "TWSE",
+    "foreign_ratio": 14.82,
+    "trust_ratio": 0.3044702158585104,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.12447021585851,
+    "three_inst_ratio_change_20": -0.3689546106206958
+  },
+  {
+    "date": "2026-08-20",
+    "code": "2610",
+    "name": "華航",
+    "market": "TWSE",
+    "foreign_ratio": 14.81,
+    "trust_ratio": 0.30765756257039506,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.117657562570395,
+    "three_inst_ratio_change_20": -0.10903343808707433
   }
 ]

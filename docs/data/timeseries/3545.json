@@ -2528,5 +2528,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.70324880546274,
     "three_inst_ratio_change_20": 1.0426971623909704
+  },
+  {
+    "date": "2026-08-18",
+    "code": "3545",
+    "name": "敦泰",
+    "market": "TWSE",
+    "foreign_ratio": 14.89,
+    "trust_ratio": 0.2332488054627392,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.12324880546274,
+    "three_inst_ratio_change_20": 0.06269716239097001
+  },
+  {
+    "date": "2026-08-19",
+    "code": "3545",
+    "name": "敦泰",
+    "market": "TWSE",
+    "foreign_ratio": 15.02,
+    "trust_ratio": 0.25572515872081425,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.275725158720814,
+    "three_inst_ratio_change_20": 0.3051735156490434
+  },
+  {
+    "date": "2026-08-20",
+    "code": "3545",
+    "name": "敦泰",
+    "market": "TWSE",
+    "foreign_ratio": 15.01,
+    "trust_ratio": 0.25572515872081425,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.265725158720814,
+    "three_inst_ratio_change_20": 0.3651735156490439
   }
 ]

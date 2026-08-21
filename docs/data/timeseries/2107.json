@@ -2539,5 +2539,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.507128172088063,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-08-18",
+    "code": "2107",
+    "name": "厚生",
+    "market": "TWSE",
+    "foreign_ratio": 6.51,
+    "trust_ratio": 0.01712817208806252,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.527128172088062,
+    "three_inst_ratio_change_20": -0.03000000000000025
+  },
+  {
+    "date": "2026-08-19",
+    "code": "2107",
+    "name": "厚生",
+    "market": "TWSE",
+    "foreign_ratio": 6.55,
+    "trust_ratio": 0.01712817208806252,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.567128172088062,
+    "three_inst_ratio_change_20": 0.04999999999999982
+  },
+  {
+    "date": "2026-08-20",
+    "code": "2107",
+    "name": "厚生",
+    "market": "TWSE",
+    "foreign_ratio": 6.57,
+    "trust_ratio": 0.01712817208806252,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.587128172088063,
+    "three_inst_ratio_change_20": 0.11000000000000032
   }
 ]

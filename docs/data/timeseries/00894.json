@@ -2495,5 +2495,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4032713348668,
     "three_inst_ratio_change_20": -0.5686029143396237
+  },
+  {
+    "date": "2026-08-18",
+    "code": "00894",
+    "name": "中信小資高價30",
+    "market": "TWSE",
+    "foreign_ratio": 0.2,
+    "trust_ratio": 0.0832713348668,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.2832713348668,
+    "three_inst_ratio_change_20": -1.3686029143396237
+  },
+  {
+    "date": "2026-08-19",
+    "code": "00894",
+    "name": "中信小資高價30",
+    "market": "TWSE",
+    "foreign_ratio": 0.34,
+    "trust_ratio": 0.08214990337285956,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.42214990337285957,
+    "three_inst_ratio_change_20": -1.0597243458335641
+  },
+  {
+    "date": "2026-08-20",
+    "code": "00894",
+    "name": "中信小資高價30",
+    "market": "TWSE",
+    "foreign_ratio": 0.37,
+    "trust_ratio": 0.08214990337285956,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.45214990337285954,
+    "three_inst_ratio_change_20": -1.3797243458335642
   }
 ]
