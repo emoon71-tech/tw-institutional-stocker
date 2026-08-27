@@ -2605,5 +2605,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.43,
     "three_inst_ratio_change_20": -0.7999999999999998
+  },
+  {
+    "date": "2026-08-26",
+    "code": "6477",
+    "name": "安集",
+    "market": "TWSE",
+    "foreign_ratio": 2.51,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.51,
+    "three_inst_ratio_change_20": -1.2000000000000002
+  },
+  {
+    "date": "2026-08-27",
+    "code": "6477",
+    "name": "安集",
+    "market": "TWSE",
+    "foreign_ratio": 3.38,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.38,
+    "three_inst_ratio_change_20": -0.050000000000000266
   }
 ]

@@ -2605,5 +2605,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.795861852854936,
     "three_inst_ratio_change_20": 0.6384799205690728
+  },
+  {
+    "date": "2026-08-26",
+    "code": "0050",
+    "name": "元大台灣50",
+    "market": "TWSE",
+    "foreign_ratio": 5.06,
+    "trust_ratio": 1.847277122456745,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.907277122456745,
+    "three_inst_ratio_change_20": 0.4843477117472643
+  },
+  {
+    "date": "2026-08-27",
+    "code": "0050",
+    "name": "元大台灣50",
+    "market": "TWSE",
+    "foreign_ratio": 5.09,
+    "trust_ratio": 1.8481876523333558,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.938187652333355,
+    "three_inst_ratio_change_20": 0.29045170240797713
   }
 ]

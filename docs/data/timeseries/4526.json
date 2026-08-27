@@ -2605,5 +2605,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.83,
     "three_inst_ratio_change_20": 0.2999999999999998
+  },
+  {
+    "date": "2026-08-26",
+    "code": "4526",
+    "name": "東台",
+    "market": "TWSE",
+    "foreign_ratio": 6.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.85,
+    "three_inst_ratio_change_20": 0.3199999999999994
+  },
+  {
+    "date": "2026-08-27",
+    "code": "4526",
+    "name": "東台",
+    "market": "TWSE",
+    "foreign_ratio": 6.81,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.81,
+    "three_inst_ratio_change_20": 0.6199999999999992
   }
 ]

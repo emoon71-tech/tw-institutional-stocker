@@ -2605,5 +2605,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.25,
     "three_inst_ratio_change_20": 0.120000000000001
+  },
+  {
+    "date": "2026-08-26",
+    "code": "4960",
+    "name": "誠美材",
+    "market": "TWSE",
+    "foreign_ratio": 19.21,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.21,
+    "three_inst_ratio_change_20": -0.21000000000000085
+  },
+  {
+    "date": "2026-08-27",
+    "code": "4960",
+    "name": "誠美材",
+    "market": "TWSE",
+    "foreign_ratio": 19.37,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.37,
+    "three_inst_ratio_change_20": -0.09999999999999787
   }
 ]

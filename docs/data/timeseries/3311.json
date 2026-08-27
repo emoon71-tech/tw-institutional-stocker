@@ -2605,5 +2605,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.64,
     "three_inst_ratio_change_20": -0.13999999999999968
+  },
+  {
+    "date": "2026-08-26",
+    "code": "3311",
+    "name": "閎暉",
+    "market": "TWSE",
+    "foreign_ratio": 2.73,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.73,
+    "three_inst_ratio_change_20": 0.029999999999999805
+  },
+  {
+    "date": "2026-08-27",
+    "code": "3311",
+    "name": "閎暉",
+    "market": "TWSE",
+    "foreign_ratio": 2.68,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.68,
+    "three_inst_ratio_change_20": -0.1299999999999999
   }
 ]

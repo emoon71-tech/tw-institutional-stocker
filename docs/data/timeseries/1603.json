@@ -2605,5 +2605,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.0652168106506408,
     "three_inst_ratio_change_20": 0.55
+  },
+  {
+    "date": "2026-08-26",
+    "code": "1603",
+    "name": "華電",
+    "market": "TWSE",
+    "foreign_ratio": 2.05,
+    "trust_ratio": 0.005216810650640624,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.0552168106506405,
+    "three_inst_ratio_change_20": 0.4099999999999999
+  },
+  {
+    "date": "2026-08-27",
+    "code": "1603",
+    "name": "華電",
+    "market": "TWSE",
+    "foreign_ratio": 2.1,
+    "trust_ratio": 0.005216810650640624,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.105216810650641,
+    "three_inst_ratio_change_20": 0.43000000000000016
   }
 ]

@@ -2605,5 +2605,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.0,
     "three_inst_ratio_change_20": -0.03000000000000025
+  },
+  {
+    "date": "2026-08-26",
+    "code": "1201",
+    "name": "味全",
+    "market": "TWSE",
+    "foreign_ratio": 5.02,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.02,
+    "three_inst_ratio_change_20": -0.08000000000000007
+  },
+  {
+    "date": "2026-08-27",
+    "code": "1201",
+    "name": "味全",
+    "market": "TWSE",
+    "foreign_ratio": 5.03,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.03,
+    "three_inst_ratio_change_20": -0.16000000000000014
   }
 ]

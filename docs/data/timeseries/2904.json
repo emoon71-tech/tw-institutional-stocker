@@ -2451,5 +2451,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.59,
     "three_inst_ratio_change_20": -0.13
+  },
+  {
+    "date": "2026-08-26",
+    "code": "2904",
+    "name": "匯僑",
+    "market": "TWSE",
+    "foreign_ratio": 0.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.61,
+    "three_inst_ratio_change_20": -0.12
+  },
+  {
+    "date": "2026-08-27",
+    "code": "2904",
+    "name": "匯僑",
+    "market": "TWSE",
+    "foreign_ratio": 0.6,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6,
+    "three_inst_ratio_change_20": -0.13
   }
 ]

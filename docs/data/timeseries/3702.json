@@ -2605,5 +2605,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.233278090836517,
     "three_inst_ratio_change_20": -1.2415511621426774
+  },
+  {
+    "date": "2026-08-26",
+    "code": "3702",
+    "name": "大聯大",
+    "market": "TWSE",
+    "foreign_ratio": 33.32,
+    "trust_ratio": -4.285493213147348,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 29.034506786852653,
+    "three_inst_ratio_change_20": -1.3947968793935352
+  },
+  {
+    "date": "2026-08-27",
+    "code": "3702",
+    "name": "大聯大",
+    "market": "TWSE",
+    "foreign_ratio": 33.12,
+    "trust_ratio": -4.286503747133135,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 28.833496252866862,
+    "three_inst_ratio_change_20": -1.6877095949996352
   }
 ]

@@ -2605,5 +2605,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.902248728813559,
     "three_inst_ratio_change_20": 0.12340483050847428
+  },
+  {
+    "date": "2026-08-26",
+    "code": "2504",
+    "name": "國產",
+    "market": "TWSE",
+    "foreign_ratio": 6.24,
+    "trust_ratio": -1.3880055084745764,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.851994491525424,
+    "three_inst_ratio_change_20": -0.004476525423728894
+  },
+  {
+    "date": "2026-08-27",
+    "code": "2504",
+    "name": "國產",
+    "market": "TWSE",
+    "foreign_ratio": 6.21,
+    "trust_ratio": -1.389446186440678,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.8205538135593216,
+    "three_inst_ratio_change_20": -0.07684940677966168
   }
 ]

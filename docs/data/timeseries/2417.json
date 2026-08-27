@@ -2605,5 +2605,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.54,
     "three_inst_ratio_change_20": -0.33999999999999986
+  },
+  {
+    "date": "2026-08-26",
+    "code": "2417",
+    "name": "圓剛",
+    "market": "TWSE",
+    "foreign_ratio": 2.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.61,
+    "three_inst_ratio_change_20": -0.56
+  },
+  {
+    "date": "2026-08-27",
+    "code": "2417",
+    "name": "圓剛",
+    "market": "TWSE",
+    "foreign_ratio": 2.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.85,
+    "three_inst_ratio_change_20": -0.3700000000000001
   }
 ]

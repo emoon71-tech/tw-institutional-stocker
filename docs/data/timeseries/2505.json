@@ -2605,5 +2605,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.67,
     "three_inst_ratio_change_20": -0.08999999999999986
+  },
+  {
+    "date": "2026-08-26",
+    "code": "2505",
+    "name": "國揚",
+    "market": "TWSE",
+    "foreign_ratio": 3.81,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.81,
+    "three_inst_ratio_change_20": 0.010000000000000231
+  },
+  {
+    "date": "2026-08-27",
+    "code": "2505",
+    "name": "國揚",
+    "market": "TWSE",
+    "foreign_ratio": 3.78,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.78,
+    "three_inst_ratio_change_20": -0.020000000000000018
   }
 ]

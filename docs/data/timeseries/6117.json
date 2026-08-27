@@ -2561,5 +2561,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.08,
     "three_inst_ratio_change_20": -0.25
+  },
+  {
+    "date": "2026-08-26",
+    "code": "6117",
+    "name": "迎廣",
+    "market": "TWSE",
+    "foreign_ratio": 1.1,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1,
+    "three_inst_ratio_change_20": -0.20999999999999996
+  },
+  {
+    "date": "2026-08-27",
+    "code": "6117",
+    "name": "迎廣",
+    "market": "TWSE",
+    "foreign_ratio": 1.15,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.15,
+    "three_inst_ratio_change_20": -0.2200000000000002
   }
 ]

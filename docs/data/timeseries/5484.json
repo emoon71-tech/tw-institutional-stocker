@@ -2561,5 +2561,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1485030164219097,
     "three_inst_ratio_change_20": -0.050000000000000044
+  },
+  {
+    "date": "2026-08-26",
+    "code": "5484",
+    "name": "慧友",
+    "market": "TWSE",
+    "foreign_ratio": 1.19,
+    "trust_ratio": -0.0014969835780901484,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1885030164219097,
+    "three_inst_ratio_change_20": 0.010000000000000009
+  },
+  {
+    "date": "2026-08-27",
+    "code": "5484",
+    "name": "慧友",
+    "market": "TWSE",
+    "foreign_ratio": 1.26,
+    "trust_ratio": -0.0014969835780901484,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.2585030164219098,
+    "three_inst_ratio_change_20": 0.09000000000000008
   }
 ]

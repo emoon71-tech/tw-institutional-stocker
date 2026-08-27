@@ -2605,5 +2605,27 @@
     "dealer_ratio": -0.1212859545552806,
     "three_inst_ratio": 23.849975739992463,
     "three_inst_ratio_change_20": 0.08748455250270482
+  },
+  {
+    "date": "2026-08-26",
+    "code": "9904",
+    "name": "寶成",
+    "market": "TWSE",
+    "foreign_ratio": 28.55,
+    "trust_ratio": -4.722393574469471,
+    "dealer_ratio": -0.1212859545552806,
+    "three_inst_ratio": 23.70632047097525,
+    "three_inst_ratio_change_20": -0.28725664494051983
+  },
+  {
+    "date": "2026-08-27",
+    "code": "9904",
+    "name": "寶成",
+    "market": "TWSE",
+    "foreign_ratio": 28.35,
+    "trust_ratio": -4.726228259223819,
+    "dealer_ratio": -0.1212859545552806,
+    "three_inst_ratio": 23.502485786220902,
+    "three_inst_ratio_change_20": -0.7406013723631553
   }
 ]

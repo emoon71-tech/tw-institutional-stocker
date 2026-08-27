@@ -2605,5 +2605,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.75019850204831,
     "three_inst_ratio_change_20": 0.3118383973285255
+  },
+  {
+    "date": "2026-08-26",
+    "code": "6285",
+    "name": "啟碁",
+    "market": "TWSE",
+    "foreign_ratio": 23.7,
+    "trust_ratio": 0.0987153852510993,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.7987153852511,
+    "three_inst_ratio_change_20": -0.09253929258839833
+  },
+  {
+    "date": "2026-08-27",
+    "code": "6285",
+    "name": "啟碁",
+    "market": "TWSE",
+    "foreign_ratio": 23.72,
+    "trust_ratio": 0.09271672595972492,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.812716725959724,
+    "three_inst_ratio_change_20": -0.07741999221326168
   }
 ]

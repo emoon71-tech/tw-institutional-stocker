@@ -2605,5 +2605,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.53468974507034,
     "three_inst_ratio_change_20": 0.01989955755696471
+  },
+  {
+    "date": "2026-08-26",
+    "code": "1444",
+    "name": "力麗",
+    "market": "TWSE",
+    "foreign_ratio": 5.33,
+    "trust_ratio": 0.2246897450703399,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.55468974507034,
+    "three_inst_ratio_change_20": -0.010100442443034652
+  },
+  {
+    "date": "2026-08-27",
+    "code": "1444",
+    "name": "力麗",
+    "market": "TWSE",
+    "foreign_ratio": 5.32,
+    "trust_ratio": 0.22318310842480787,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.543183108424808,
+    "three_inst_ratio_change_20": -0.013515485506241376
   }
 ]

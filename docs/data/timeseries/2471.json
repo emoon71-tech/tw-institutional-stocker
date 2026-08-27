@@ -2561,5 +2561,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.586348683674508,
     "three_inst_ratio_change_20": 1.04
+  },
+  {
+    "date": "2026-08-26",
+    "code": "2471",
+    "name": "資通",
+    "market": "TWSE",
+    "foreign_ratio": 4.7,
+    "trust_ratio": 0.006348683674508067,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.706348683674508,
+    "three_inst_ratio_change_20": 1.3400000000000003
+  },
+  {
+    "date": "2026-08-27",
+    "code": "2471",
+    "name": "資通",
+    "market": "TWSE",
+    "foreign_ratio": 4.75,
+    "trust_ratio": 0.006348683674508067,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.756348683674508,
+    "three_inst_ratio_change_20": 1.33
   }
 ]

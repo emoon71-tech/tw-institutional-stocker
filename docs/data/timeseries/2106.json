@@ -2605,5 +2605,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.45798626019751,
     "three_inst_ratio_change_20": -0.10999999999999943
+  },
+  {
+    "date": "2026-08-26",
+    "code": "2106",
+    "name": "建大",
+    "market": "TWSE",
+    "foreign_ratio": 8.43,
+    "trust_ratio": -0.012013739802490339,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.417986260197509,
+    "three_inst_ratio_change_20": -0.20000000000000107
+  },
+  {
+    "date": "2026-08-27",
+    "code": "2106",
+    "name": "建大",
+    "market": "TWSE",
+    "foreign_ratio": 8.35,
+    "trust_ratio": -0.012013739802490339,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.337986260197509,
+    "three_inst_ratio_change_20": -0.3100000000000005
   }
 ]

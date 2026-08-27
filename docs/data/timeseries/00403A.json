@@ -823,5 +823,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.28,
     "three_inst_ratio_change_20": 2.7299999999999995
+  },
+  {
+    "date": "2026-08-26",
+    "code": "00403A",
+    "name": "主動統一升級50",
+    "market": "TWSE",
+    "foreign_ratio": 3.73,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.73,
+    "three_inst_ratio_change_20": 2.5
+  },
+  {
+    "date": "2026-08-27",
+    "code": "00403A",
+    "name": "主動統一升級50",
+    "market": "TWSE",
+    "foreign_ratio": 2.02,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.02,
+    "three_inst_ratio_change_20": 0.3600000000000001
   }
 ]
