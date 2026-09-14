@@ -1131,5 +1131,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.78,
     "three_inst_ratio_change_20": 0.72
+  },
+  {
+    "date": "2026-09-11",
+    "code": "6225",
+    "name": "天瀚",
+    "market": "TWSE",
+    "foreign_ratio": 0.6,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6,
+    "three_inst_ratio_change_20": 0.54
+  },
+  {
+    "date": "2026-09-14",
+    "code": "6225",
+    "name": "天瀚",
+    "market": "TWSE",
+    "foreign_ratio": 0.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.52,
+    "three_inst_ratio_change_20": 0.46
   }
 ]

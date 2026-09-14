@@ -2693,5 +2693,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.3005807213365244,
     "three_inst_ratio_change_20": -0.7199999999999998
+  },
+  {
+    "date": "2026-09-11",
+    "code": "4989",
+    "name": "榮科",
+    "market": "TWSE",
+    "foreign_ratio": 0.92,
+    "trust_ratio": 0.010580721336524353,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.9305807213365244,
+    "three_inst_ratio_change_20": -1.1
+  },
+  {
+    "date": "2026-09-14",
+    "code": "4989",
+    "name": "榮科",
+    "market": "TWSE",
+    "foreign_ratio": 1.02,
+    "trust_ratio": 0.010580721336524353,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.0305807213365243,
+    "three_inst_ratio_change_20": -0.9199999999999999
   }
 ]

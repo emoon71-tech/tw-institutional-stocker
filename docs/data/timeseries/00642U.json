@@ -2737,5 +2737,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.64,
     "three_inst_ratio_change_20": 0.18000000000000016
+  },
+  {
+    "date": "2026-09-11",
+    "code": "00642U",
+    "name": "期元大S&P石油",
+    "market": "TWSE",
+    "foreign_ratio": 2.31,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.31,
+    "three_inst_ratio_change_20": -0.1200000000000001
+  },
+  {
+    "date": "2026-09-14",
+    "code": "00642U",
+    "name": "期元大S&P石油",
+    "market": "TWSE",
+    "foreign_ratio": 2.47,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.47,
+    "three_inst_ratio_change_20": 0.050000000000000266
   }
 ]

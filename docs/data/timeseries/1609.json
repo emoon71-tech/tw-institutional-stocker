@@ -2737,5 +2737,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.223440628214119,
     "three_inst_ratio_change_20": -0.002292228744501301
+  },
+  {
+    "date": "2026-09-11",
+    "code": "1609",
+    "name": "大亞",
+    "market": "TWSE",
+    "foreign_ratio": 13.4,
+    "trust_ratio": -0.09655937178588142,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.303440628214119,
+    "three_inst_ratio_change_20": -0.08229222874450137
+  },
+  {
+    "date": "2026-09-14",
+    "code": "1609",
+    "name": "大亞",
+    "market": "TWSE",
+    "foreign_ratio": 13.38,
+    "trust_ratio": -0.09655937178588142,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.28344062821412,
+    "three_inst_ratio_change_20": 0.2877077712554996
   }
 ]

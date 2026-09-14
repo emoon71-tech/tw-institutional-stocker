@@ -2737,5 +2737,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 38.38877069751376,
     "three_inst_ratio_change_20": -0.3999999999999986
+  },
+  {
+    "date": "2026-09-11",
+    "code": "3673",
+    "name": "TPK-KY",
+    "market": "TWSE",
+    "foreign_ratio": 38.38,
+    "trust_ratio": 0.028770697513765913,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 38.408770697513766,
+    "three_inst_ratio_change_20": -0.46999999999999886
+  },
+  {
+    "date": "2026-09-14",
+    "code": "3673",
+    "name": "TPK-KY",
+    "market": "TWSE",
+    "foreign_ratio": 38.59,
+    "trust_ratio": 0.028770697513765913,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 38.61877069751377,
+    "three_inst_ratio_change_20": -0.3399999999999963
   }
 ]

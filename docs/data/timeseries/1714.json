@@ -2737,5 +2737,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.705910364444122,
     "three_inst_ratio_change_20": 0.1102487470751008
+  },
+  {
+    "date": "2026-09-11",
+    "code": "1714",
+    "name": "和桐",
+    "market": "TWSE",
+    "foreign_ratio": 16.0,
+    "trust_ratio": 0.24591036444412068,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.24591036444412,
+    "three_inst_ratio_change_20": -0.42975125292489835
+  },
+  {
+    "date": "2026-09-14",
+    "code": "1714",
+    "name": "和桐",
+    "market": "TWSE",
+    "foreign_ratio": 16.24,
+    "trust_ratio": 0.24591036444412068,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.48591036444412,
+    "three_inst_ratio_change_20": -0.6397512529249028
   }
 ]

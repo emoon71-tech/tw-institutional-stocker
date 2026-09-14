@@ -2737,5 +2737,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.93,
     "three_inst_ratio_change_20": 0.040000000000000036
+  },
+  {
+    "date": "2026-09-11",
+    "code": "1321",
+    "name": "大洋",
+    "market": "TWSE",
+    "foreign_ratio": 6.93,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.93,
+    "three_inst_ratio_change_20": 0.0699999999999994
+  },
+  {
+    "date": "2026-09-14",
+    "code": "1321",
+    "name": "大洋",
+    "market": "TWSE",
+    "foreign_ratio": 6.89,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.89,
+    "three_inst_ratio_change_20": 0.02999999999999936
   }
 ]

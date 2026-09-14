@@ -2693,5 +2693,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.4662277721268784,
     "three_inst_ratio_change_20": -0.24377222787312158
+  },
+  {
+    "date": "2026-09-11",
+    "code": "00982A",
+    "name": "主動群益台灣強棒",
+    "market": "TWSE",
+    "foreign_ratio": 1.0,
+    "trust_ratio": 0.2064604890414347,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.2064604890414348,
+    "three_inst_ratio_change_20": -0.6735395109585651
+  },
+  {
+    "date": "2026-09-14",
+    "code": "00982A",
+    "name": "主動群益台灣強棒",
+    "market": "TWSE",
+    "foreign_ratio": 0.84,
+    "trust_ratio": 0.2064604890414347,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.0464604890414346,
+    "three_inst_ratio_change_20": -0.8235395109585655
   }
 ]

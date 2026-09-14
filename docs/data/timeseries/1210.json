@@ -2737,5 +2737,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.565530968030924,
     "three_inst_ratio_change_20": -0.09673167015051831
+  },
+  {
+    "date": "2026-09-11",
+    "code": "1210",
+    "name": "大成",
+    "market": "TWSE",
+    "foreign_ratio": 7.53,
+    "trust_ratio": 5.055530968030923,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.585530968030923,
+    "three_inst_ratio_change_20": 0.07326832984948162
+  },
+  {
+    "date": "2026-09-14",
+    "code": "1210",
+    "name": "大成",
+    "market": "TWSE",
+    "foreign_ratio": 7.64,
+    "trust_ratio": 5.055530968030923,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.695530968030923,
+    "three_inst_ratio_change_20": 0.31326832984948183
   }
 ]

@@ -2737,5 +2737,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7089546910850828,
     "three_inst_ratio_change_20": -0.8500000000000001
+  },
+  {
+    "date": "2026-09-11",
+    "code": "1528",
+    "name": "恩德",
+    "market": "TWSE",
+    "foreign_ratio": 2.19,
+    "trust_ratio": -0.001045308914917081,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.188954691085083,
+    "three_inst_ratio_change_20": -0.5
+  },
+  {
+    "date": "2026-09-14",
+    "code": "1528",
+    "name": "恩德",
+    "market": "TWSE",
+    "foreign_ratio": 2.67,
+    "trust_ratio": -0.001045308914917081,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.6689546910850828,
+    "three_inst_ratio_change_20": 0.0
   }
 ]

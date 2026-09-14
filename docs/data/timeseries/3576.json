@@ -2737,5 +2737,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.969578571108793,
     "three_inst_ratio_change_20": 0.05000000000000071
+  },
+  {
+    "date": "2026-09-11",
+    "code": "3576",
+    "name": "聯合再生",
+    "market": "TWSE",
+    "foreign_ratio": 14.93,
+    "trust_ratio": -0.0004214288912081471,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.929578571108792,
+    "three_inst_ratio_change_20": -0.08999999999999986
+  },
+  {
+    "date": "2026-09-14",
+    "code": "3576",
+    "name": "聯合再生",
+    "market": "TWSE",
+    "foreign_ratio": 14.91,
+    "trust_ratio": -0.0004214288912081471,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.909578571108792,
+    "three_inst_ratio_change_20": 0.040000000000000924
   }
 ]

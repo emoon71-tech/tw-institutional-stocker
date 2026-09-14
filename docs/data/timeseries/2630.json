@@ -2693,5 +2693,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.6,
     "three_inst_ratio_change_20": -0.94
+  },
+  {
+    "date": "2026-09-11",
+    "code": "2630",
+    "name": "亞航",
+    "market": "TWSE",
+    "foreign_ratio": 2.59,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.59,
+    "three_inst_ratio_change_20": -1.08
+  },
+  {
+    "date": "2026-09-14",
+    "code": "2630",
+    "name": "亞航",
+    "market": "TWSE",
+    "foreign_ratio": 2.53,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.53,
+    "three_inst_ratio_change_20": -0.9900000000000002
   }
 ]

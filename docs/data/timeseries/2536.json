@@ -2737,5 +2737,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.0812018918306245,
     "three_inst_ratio_change_20": -2.29
+  },
+  {
+    "date": "2026-09-11",
+    "code": "2536",
+    "name": "宏普",
+    "market": "TWSE",
+    "foreign_ratio": 5.09,
+    "trust_ratio": 0.0012018918306246438,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.091201891830624,
+    "three_inst_ratio_change_20": -1.6500000000000004
+  },
+  {
+    "date": "2026-09-14",
+    "code": "2536",
+    "name": "宏普",
+    "market": "TWSE",
+    "foreign_ratio": 5.16,
+    "trust_ratio": 0.0012018918306246438,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.161201891830625,
+    "three_inst_ratio_change_20": -1.42
   }
 ]

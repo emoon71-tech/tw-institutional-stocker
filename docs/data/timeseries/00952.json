@@ -2693,5 +2693,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.58,
     "three_inst_ratio_change_20": 0.08999999999999986
+  },
+  {
+    "date": "2026-09-11",
+    "code": "00952",
+    "name": "凱基台灣AI50",
+    "market": "TWSE",
+    "foreign_ratio": 3.57,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.57,
+    "three_inst_ratio_change_20": -0.020000000000000018
+  },
+  {
+    "date": "2026-09-14",
+    "code": "00952",
+    "name": "凱基台灣AI50",
+    "market": "TWSE",
+    "foreign_ratio": 3.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.52,
+    "three_inst_ratio_change_20": -0.06999999999999984
   }
 ]

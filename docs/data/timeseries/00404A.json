@@ -724,5 +724,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.75,
     "three_inst_ratio_change_20": -0.99
+  },
+  {
+    "date": "2026-09-11",
+    "code": "00404A",
+    "name": "主動聯博動能50",
+    "market": "TWSE",
+    "foreign_ratio": 0.55,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.55,
+    "three_inst_ratio_change_20": -2.0700000000000003
+  },
+  {
+    "date": "2026-09-14",
+    "code": "00404A",
+    "name": "主動聯博動能50",
+    "market": "TWSE",
+    "foreign_ratio": 0.59,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.59,
+    "three_inst_ratio_change_20": -2.22
   }
 ]

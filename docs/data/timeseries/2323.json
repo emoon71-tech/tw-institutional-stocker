@@ -2737,5 +2737,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.279440690709905,
     "three_inst_ratio_change_20": -0.4727539400602083
+  },
+  {
+    "date": "2026-09-11",
+    "code": "2323",
+    "name": "中環",
+    "market": "TWSE",
+    "foreign_ratio": 10.32,
+    "trust_ratio": 0.12944069070990488,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.449440690709904,
+    "three_inst_ratio_change_20": -0.6827539400602092
+  },
+  {
+    "date": "2026-09-14",
+    "code": "2323",
+    "name": "中環",
+    "market": "TWSE",
+    "foreign_ratio": 10.24,
+    "trust_ratio": 0.12944069070990488,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.369440690709904,
+    "three_inst_ratio_change_20": -1.7799999999999994
   }
 ]
