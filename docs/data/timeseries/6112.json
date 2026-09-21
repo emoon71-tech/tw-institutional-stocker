@@ -2792,5 +2792,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.93,
     "three_inst_ratio_change_20": 0.19999999999999996
+  },
+  {
+    "date": "2026-09-18",
+    "code": "6112",
+    "name": "邁達特",
+    "market": "TWSE",
+    "foreign_ratio": 2.86,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.86,
+    "three_inst_ratio_change_20": 1.15
+  },
+  {
+    "date": "2026-09-21",
+    "code": "6112",
+    "name": "邁達特",
+    "market": "TWSE",
+    "foreign_ratio": 1.96,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.96,
+    "three_inst_ratio_change_20": 0.24
   }
 ]

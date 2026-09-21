@@ -2748,5 +2748,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.24,
     "three_inst_ratio_change_20": 0.01999999999999999
+  },
+  {
+    "date": "2026-09-18",
+    "code": "00753L",
+    "name": "中信中國50正2",
+    "market": "TWSE",
+    "foreign_ratio": 0.8,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.8,
+    "three_inst_ratio_change_20": 0.6000000000000001
+  },
+  {
+    "date": "2026-09-21",
+    "code": "00753L",
+    "name": "中信中國50正2",
+    "market": "TWSE",
+    "foreign_ratio": 1.04,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.04,
+    "three_inst_ratio_change_20": 0.92
   }
 ]

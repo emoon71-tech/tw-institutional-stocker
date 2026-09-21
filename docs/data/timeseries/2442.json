@@ -2792,5 +2792,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.36,
     "three_inst_ratio_change_20": -1.18
+  },
+  {
+    "date": "2026-09-18",
+    "code": "2442",
+    "name": "新美齊",
+    "market": "TWSE",
+    "foreign_ratio": 1.29,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.29,
+    "three_inst_ratio_change_20": -1.56
+  },
+  {
+    "date": "2026-09-21",
+    "code": "2442",
+    "name": "新美齊",
+    "market": "TWSE",
+    "foreign_ratio": 1.31,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.31,
+    "three_inst_ratio_change_20": -1.25
   }
 ]

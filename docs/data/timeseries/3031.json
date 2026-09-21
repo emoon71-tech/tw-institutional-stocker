@@ -2792,5 +2792,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.25,
     "three_inst_ratio_change_20": 0.43000000000000016
+  },
+  {
+    "date": "2026-09-18",
+    "code": "3031",
+    "name": "佰鴻",
+    "market": "TWSE",
+    "foreign_ratio": 2.38,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.38,
+    "three_inst_ratio_change_20": -0.3400000000000003
+  },
+  {
+    "date": "2026-09-21",
+    "code": "3031",
+    "name": "佰鴻",
+    "market": "TWSE",
+    "foreign_ratio": 2.18,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.18,
+    "three_inst_ratio_change_20": -0.31000000000000005
   }
 ]

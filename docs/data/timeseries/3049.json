@@ -2792,5 +2792,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.0880050137222077,
     "three_inst_ratio_change_20": -0.5100000000000002
+  },
+  {
+    "date": "2026-09-18",
+    "code": "3049",
+    "name": "精金",
+    "market": "TWSE",
+    "foreign_ratio": 2.11,
+    "trust_ratio": -0.0019949862777923705,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.1080050137222077,
+    "three_inst_ratio_change_20": -0.3900000000000001
+  },
+  {
+    "date": "2026-09-21",
+    "code": "3049",
+    "name": "精金",
+    "market": "TWSE",
+    "foreign_ratio": 2.16,
+    "trust_ratio": -0.0019949862777923705,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.158005013722208,
+    "three_inst_ratio_change_20": -0.31999999999999984
   }
 ]

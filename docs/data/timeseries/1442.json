@@ -2792,5 +2792,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.10192244048312737,
     "three_inst_ratio_change_20": 0.21000000000000085
+  },
+  {
+    "date": "2026-09-18",
+    "code": "1442",
+    "name": "名軒",
+    "market": "TWSE",
+    "foreign_ratio": 8.57,
+    "trust_ratio": -8.628077559516873,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": -0.05807755951687277,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-21",
+    "code": "1442",
+    "name": "名軒",
+    "market": "TWSE",
+    "foreign_ratio": 8.52,
+    "trust_ratio": -8.628077559516873,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": -0.10807755951687348,
+    "three_inst_ratio_change_20": -0.05000000000000071
   }
 ]

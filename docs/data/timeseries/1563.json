@@ -2671,5 +2671,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.36,
     "three_inst_ratio_change_20": 0.09000000000000075
+  },
+  {
+    "date": "2026-09-18",
+    "code": "1563",
+    "name": "巧新",
+    "market": "TWSE",
+    "foreign_ratio": 4.24,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.24,
+    "three_inst_ratio_change_20": -0.13999999999999968
+  },
+  {
+    "date": "2026-09-21",
+    "code": "1563",
+    "name": "巧新",
+    "market": "TWSE",
+    "foreign_ratio": 4.17,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.17,
+    "three_inst_ratio_change_20": -0.15000000000000036
   }
 ]

@@ -2792,5 +2792,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.09315301647273,
     "three_inst_ratio_change_20": -0.25027558728267607
+  },
+  {
+    "date": "2026-09-18",
+    "code": "2461",
+    "name": "光群雷",
+    "market": "TWSE",
+    "foreign_ratio": 9.16,
+    "trust_ratio": 0.003153016472729616,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.16315301647273,
+    "three_inst_ratio_change_20": -0.20027558728267536
+  },
+  {
+    "date": "2026-09-21",
+    "code": "2461",
+    "name": "光群雷",
+    "market": "TWSE",
+    "foreign_ratio": 9.12,
+    "trust_ratio": 0.003153016472729616,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.12315301647273,
+    "three_inst_ratio_change_20": -0.7802755872826772
   }
 ]

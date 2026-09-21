@@ -2792,5 +2792,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.195474886721058,
     "three_inst_ratio_change_20": 0.051529082411764904
+  },
+  {
+    "date": "2026-09-18",
+    "code": "1907",
+    "name": "永豐餘",
+    "market": "TWSE",
+    "foreign_ratio": 13.02,
+    "trust_ratio": 0.17547488672105876,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.195474886721058,
+    "three_inst_ratio_change_20": -0.028470917588235167
+  },
+  {
+    "date": "2026-09-21",
+    "code": "1907",
+    "name": "永豐餘",
+    "market": "TWSE",
+    "foreign_ratio": 13.01,
+    "trust_ratio": 0.17571579666272213,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.185715796662722,
+    "three_inst_ratio_change_20": -0.04823000764657159
   }
 ]

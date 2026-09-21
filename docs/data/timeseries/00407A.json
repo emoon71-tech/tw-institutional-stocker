@@ -669,5 +669,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.73,
     "three_inst_ratio_change_20": -2.12
+  },
+  {
+    "date": "2026-09-18",
+    "code": "00407A",
+    "name": "主動凱基台灣",
+    "market": "TWSE",
+    "foreign_ratio": 2.34,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.34,
+    "three_inst_ratio_change_20": -1.44
+  },
+  {
+    "date": "2026-09-21",
+    "code": "00407A",
+    "name": "主動凱基台灣",
+    "market": "TWSE",
+    "foreign_ratio": 2.3,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.3,
+    "three_inst_ratio_change_20": -1.4400000000000004
   }
 ]

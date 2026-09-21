@@ -2792,5 +2792,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.67,
     "three_inst_ratio_change_20": -0.33000000000000007
+  },
+  {
+    "date": "2026-09-18",
+    "code": "2506",
+    "name": "太設",
+    "market": "TWSE",
+    "foreign_ratio": 4.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.35,
+    "three_inst_ratio_change_20": -0.6300000000000008
+  },
+  {
+    "date": "2026-09-21",
+    "code": "2506",
+    "name": "太設",
+    "market": "TWSE",
+    "foreign_ratio": 4.3,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.3,
+    "three_inst_ratio_change_20": -0.6600000000000001
   }
 ]

@@ -2792,5 +2792,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.6570946975076133,
     "three_inst_ratio_change_20": -0.030455478053859952
+  },
+  {
+    "date": "2026-09-18",
+    "code": "3694",
+    "name": "海華",
+    "market": "TWSE",
+    "foreign_ratio": 2.53,
+    "trust_ratio": -1.832905302492387,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6970946975076129,
+    "three_inst_ratio_change_20": 0.01954452194613987
+  },
+  {
+    "date": "2026-09-21",
+    "code": "3694",
+    "name": "海華",
+    "market": "TWSE",
+    "foreign_ratio": 2.61,
+    "trust_ratio": -1.832905302492387,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.777094697507613,
+    "three_inst_ratio_change_20": 0.059544521946139906
   }
 ]

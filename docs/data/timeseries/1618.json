@@ -2792,5 +2792,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.22,
     "three_inst_ratio_change_20": 0.3500000000000001
+  },
+  {
+    "date": "2026-09-18",
+    "code": "1618",
+    "name": "合機",
+    "market": "TWSE",
+    "foreign_ratio": 2.32,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.32,
+    "three_inst_ratio_change_20": 0.46999999999999975
+  },
+  {
+    "date": "2026-09-21",
+    "code": "1618",
+    "name": "合機",
+    "market": "TWSE",
+    "foreign_ratio": 2.3,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.3,
+    "three_inst_ratio_change_20": 0.3999999999999999
   }
 ]

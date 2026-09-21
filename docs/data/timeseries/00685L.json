@@ -2748,5 +2748,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.24,
     "three_inst_ratio_change_20": -0.09000000000000002
+  },
+  {
+    "date": "2026-09-18",
+    "code": "00685L",
+    "name": "群益臺灣加權正2",
+    "market": "TWSE",
+    "foreign_ratio": 0.29,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.29,
+    "three_inst_ratio_change_20": -0.09000000000000002
+  },
+  {
+    "date": "2026-09-21",
+    "code": "00685L",
+    "name": "群益臺灣加權正2",
+    "market": "TWSE",
+    "foreign_ratio": 0.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.35,
+    "three_inst_ratio_change_20": 0.02999999999999997
   }
 ]

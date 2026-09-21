@@ -2792,5 +2792,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.6102638686536204,
     "three_inst_ratio_change_20": -1.23
+  },
+  {
+    "date": "2026-09-18",
+    "code": "2338",
+    "name": "光罩",
+    "market": "TWSE",
+    "foreign_ratio": 3.3,
+    "trust_ratio": 0.00026386865362052614,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.3002638686536203,
+    "three_inst_ratio_change_20": -1.5300000000000002
+  },
+  {
+    "date": "2026-09-21",
+    "code": "2338",
+    "name": "光罩",
+    "market": "TWSE",
+    "foreign_ratio": 3.21,
+    "trust_ratio": 0.00026386865362052614,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.2102638686536205,
+    "three_inst_ratio_change_20": -1.63
   }
 ]
