@@ -1,261 +1,3817 @@
 {
-  "source_date": "2026-10-01",
-  "generated_at": "2026-10-01T17:28:58.643418",
+  "source_date": "2026-10-02",
+  "generated_at": "2026-10-02T16:37:26.700978",
   "schema_version": "v0.1",
   "note": "TOP 15 完整分點，不過濾。健診儀用此計算主力分點雷達 v0.1",
-  "stocks_count": 3,
+  "stocks_count": 20,
   "stocks": {
-    "2330": {
-      "stock_id": "2330",
+    "2303": {
+      "stock_id": "2303",
       "stock_name": "",
       "market": "",
-      "total_volume": 20772,
-      "buy_top5_sum": 6655,
-      "sell_top5_sum": 4133,
-      "broker_concentration_buy_top5": 32.04,
-      "broker_concentration_sell_top5": 19.9,
+      "total_volume": 75836,
+      "buy_top5_sum": 17504,
+      "sell_top5_sum": 14600,
+      "broker_concentration_buy_top5": 23.08,
+      "broker_concentration_sell_top5": 19.25,
       "buy_top15": [
         {
-          "broker_id": "1470",
-          "broker_name": "台灣摩根士丹利",
-          "buy": 3798,
-          "sell": 972,
-          "net": 2826,
-          "ratio": 14.27
+          "broker_id": "1650",
+          "broker_name": "新加坡商瑞銀",
+          "buy": 8581,
+          "sell": 3505,
+          "net": 5076,
+          "ratio": 5.06
         },
         {
           "broker_id": "9800",
           "broker_name": "元大證券",
-          "buy": 2289,
-          "sell": 298,
-          "net": 1991,
-          "ratio": 10.05
-        },
-        {
-          "broker_id": "9268",
-          "broker_name": "凱基-台北",
-          "buy": 844,
-          "sell": 190,
-          "net": 654,
-          "ratio": 3.3
-        },
-        {
-          "broker_id": "8880",
-          "broker_name": "國泰證券",
-          "buy": 640,
-          "sell": 4,
-          "net": 636,
-          "ratio": 3.21
-        },
-        {
-          "broker_id": "1480",
-          "broker_name": "美商高盛",
-          "buy": 1500,
-          "sell": 952,
-          "net": 548,
-          "ratio": 2.77
-        },
-        {
-          "broker_id": "0039004100300030",
-          "broker_name": "永豐金證券",
-          "buy": 745,
-          "sell": 218,
-          "net": 527,
-          "ratio": 2.66
+          "buy": 13000,
+          "sell": 9101,
+          "net": 3899,
+          "ratio": 3.89
         },
         {
           "broker_id": "9600",
           "broker_name": "富邦證券",
-          "buy": 678,
-          "sell": 215,
-          "net": 463,
-          "ratio": 2.34
+          "buy": 6147,
+          "sell": 2721,
+          "net": 3426,
+          "ratio": 3.41
         },
         {
-          "broker_id": "5850",
-          "broker_name": "統一",
-          "buy": 270,
-          "sell": 69,
-          "net": 201,
-          "ratio": 1.01
+          "broker_id": "1480",
+          "broker_name": "美商高盛",
+          "buy": 6596,
+          "sell": 3582,
+          "net": 3014,
+          "ratio": 3.0
         },
         {
-          "broker_id": "0039003200300046",
-          "broker_name": "凱基-站前",
-          "buy": 245,
-          "sell": 51,
-          "net": 194,
-          "ratio": 0.98
+          "broker_id": "003700370039005a",
+          "broker_name": "國票-安和",
+          "buy": 2175,
+          "sell": 86,
+          "net": 2089,
+          "ratio": 2.08
+        },
+        {
+          "broker_id": "0039004100300030",
+          "broker_name": "永豐金證券",
+          "buy": 1312,
+          "sell": 632,
+          "net": 680,
+          "ratio": 0.68
         },
         {
           "broker_id": "6160",
           "broker_name": "中國信託",
-          "buy": 266,
-          "sell": 89,
-          "net": 177,
-          "ratio": 0.89
+          "buy": 1403,
+          "sell": 764,
+          "net": 639,
+          "ratio": 0.64
         },
         {
-          "broker_id": "1590",
-          "broker_name": "花旗環球",
-          "buy": 703,
-          "sell": 532,
-          "net": 171,
-          "ratio": 0.86
+          "broker_id": "9216",
+          "broker_name": "凱基-信義",
+          "buy": 825,
+          "sell": 341,
+          "net": 484,
+          "ratio": 0.48
         },
         {
-          "broker_id": "8900",
-          "broker_name": "法銀巴黎",
-          "buy": 148,
+          "broker_id": "1560",
+          "broker_name": "港商野村",
+          "buy": 492,
+          "sell": 36,
+          "net": 456,
+          "ratio": 0.45
+        },
+        {
+          "broker_id": "9377",
+          "broker_name": "華南永昌-虎尾",
+          "buy": 451,
+          "sell": 65,
+          "net": 386,
+          "ratio": 0.38
+        },
+        {
+          "broker_id": "9326",
+          "broker_name": "華南永昌-南京",
+          "buy": 357,
+          "sell": 59,
+          "net": 298,
+          "ratio": 0.3
+        },
+        {
+          "broker_id": "0039004100390068",
+          "broker_name": "永豐金-台南",
+          "buy": 554,
+          "sell": 257,
+          "net": 297,
+          "ratio": 0.3
+        },
+        {
+          "broker_id": "0039004100380031",
+          "broker_name": "永豐金-匯立",
+          "buy": 271,
           "sell": 0,
-          "net": 148,
-          "ratio": 0.75
+          "net": 271,
+          "ratio": 0.27
         },
         {
-          "broker_id": "8890",
-          "broker_name": "大和國泰",
-          "buy": 175,
-          "sell": 31,
-          "net": 144,
-          "ratio": 0.73
+          "broker_id": "0039003800390047",
+          "broker_name": "元大-大同",
+          "buy": 325,
+          "sell": 58,
+          "net": 267,
+          "ratio": 0.27
         },
         {
-          "broker_id": "9100",
-          "broker_name": "群益金鼎",
-          "buy": 159,
-          "sell": 35,
-          "net": 124,
-          "ratio": 0.63
-        },
-        {
-          "broker_id": "0039004200300030",
-          "broker_name": "台新",
-          "buy": 231,
-          "sell": 118,
-          "net": 113,
-          "ratio": 0.57
+          "broker_id": "0038003800340043",
+          "broker_name": "玉山-信義",
+          "buy": 304,
+          "sell": 54,
+          "net": 250,
+          "ratio": 0.25
         }
       ],
       "sell_top15": [
         {
           "broker_id": "8440",
           "broker_name": "摩根大通",
-          "buy": 1504,
-          "sell": 3870,
-          "net": -2366,
-          "ratio": 11.94
+          "buy": 861,
+          "sell": 5606,
+          "net": -4745,
+          "ratio": 4.73
         },
         {
-          "broker_id": "1440",
-          "broker_name": "美林",
-          "buy": 595,
-          "sell": 1445,
-          "net": -850,
-          "ratio": 4.29
+          "broker_id": "7000",
+          "broker_name": "兆豐證券",
+          "buy": 57,
+          "sell": 2799,
+          "net": -2742,
+          "ratio": 2.73
+        },
+        {
+          "broker_id": "1590",
+          "broker_name": "花旗環球",
+          "buy": 344,
+          "sell": 2828,
+          "net": -2484,
+          "ratio": 2.48
+        },
+        {
+          "broker_id": "9268",
+          "broker_name": "凱基-台北",
+          "buy": 2172,
+          "sell": 4651,
+          "net": -2479,
+          "ratio": 2.47
+        },
+        {
+          "broker_id": "1360",
+          "broker_name": "港商麥格理",
+          "buy": 0,
+          "sell": 2150,
+          "net": -2150,
+          "ratio": 2.14
         },
         {
           "broker_id": "9200",
           "broker_name": "凱基",
-          "buy": 78,
-          "sell": 504,
-          "net": -426,
-          "ratio": 2.15
+          "buy": 91,
+          "sell": 2074,
+          "net": -1983,
+          "ratio": 1.98
         },
         {
-          "broker_id": "1650",
-          "broker_name": "新加坡商瑞銀",
-          "buy": 533,
-          "sell": 826,
-          "net": -293,
-          "ratio": 1.48
+          "broker_id": "1470",
+          "broker_name": "台灣摩根士丹利",
+          "buy": 1564,
+          "sell": 2665,
+          "net": -1101,
+          "ratio": 1.1
         },
         {
-          "broker_id": "9872",
-          "broker_name": "元大-復北",
-          "buy": 26,
-          "sell": 224,
-          "net": -198,
-          "ratio": 1.0
+          "broker_id": "5850",
+          "broker_name": "統一",
+          "buy": 1932,
+          "sell": 2974,
+          "net": -1042,
+          "ratio": 1.04
         },
         {
           "broker_id": "8960",
           "broker_name": "香港上海匯豐",
-          "buy": 63,
-          "sell": 260,
-          "net": -197,
-          "ratio": 0.99
+          "buy": 98,
+          "sell": 1072,
+          "net": -974,
+          "ratio": 0.97
         },
         {
-          "broker_id": "0039003100330052",
-          "broker_name": "群益金鼎-北高雄",
-          "buy": 0,
-          "sell": 189,
-          "net": -189,
-          "ratio": 0.95
+          "broker_id": "1440",
+          "broker_name": "美林",
+          "buy": 1036,
+          "sell": 1944,
+          "net": -908,
+          "ratio": 0.9
+        },
+        {
+          "broker_id": "0039004200300030",
+          "broker_name": "台新",
+          "buy": 456,
+          "sell": 1281,
+          "net": -825,
+          "ratio": 0.82
+        },
+        {
+          "broker_id": "1260",
+          "broker_name": "宏遠證券",
+          "buy": 465,
+          "sell": 1271,
+          "net": -806,
+          "ratio": 0.8
+        },
+        {
+          "broker_id": "8900",
+          "broker_name": "法銀巴黎",
+          "buy": 4,
+          "sell": 516,
+          "net": -512,
+          "ratio": 0.51
+        },
+        {
+          "broker_id": "0039003800390057",
+          "broker_name": "元大-豐原站前",
+          "buy": 186,
+          "sell": 694,
+          "net": -508,
+          "ratio": 0.51
+        },
+        {
+          "broker_id": "0037003700390075",
+          "broker_name": "國票-長城",
+          "buy": 37,
+          "sell": 518,
+          "net": -481,
+          "ratio": 0.48
+        }
+      ]
+    },
+    "2308": {
+      "stock_id": "2308",
+      "stock_name": "",
+      "market": "",
+      "total_volume": 5661,
+      "buy_top5_sum": 765,
+      "sell_top5_sum": 1617,
+      "broker_concentration_buy_top5": 13.51,
+      "broker_concentration_sell_top5": 28.56,
+      "buy_top15": [
+        {
+          "broker_id": "9200",
+          "broker_name": "凱基",
+          "buy": 308,
+          "sell": 12,
+          "net": 296,
+          "ratio": 4.92
+        },
+        {
+          "broker_id": "0039003200300046",
+          "broker_name": "凱基-站前",
+          "buy": 226,
+          "sell": 30,
+          "net": 196,
+          "ratio": 3.26
+        },
+        {
+          "broker_id": "1360",
+          "broker_name": "港商麥格理",
+          "buy": 137,
+          "sell": 12,
+          "net": 125,
+          "ratio": 2.08
+        },
+        {
+          "broker_id": "0039004100380031",
+          "broker_name": "永豐金-匯立",
+          "buy": 79,
+          "sell": 3,
+          "net": 76,
+          "ratio": 1.26
+        },
+        {
+          "broker_id": "7000",
+          "broker_name": "兆豐證券",
+          "buy": 82,
+          "sell": 10,
+          "net": 72,
+          "ratio": 1.2
+        },
+        {
+          "broker_id": "1650",
+          "broker_name": "新加坡商瑞銀",
+          "buy": 406,
+          "sell": 348,
+          "net": 58,
+          "ratio": 0.96
+        },
+        {
+          "broker_id": "0039004100300030",
+          "broker_name": "永豐金證券",
+          "buy": 110,
+          "sell": 56,
+          "net": 54,
+          "ratio": 0.9
+        },
+        {
+          "broker_id": "0037003700390063",
+          "broker_name": "國票-敦北法人",
+          "buy": 50,
+          "sell": 0,
+          "net": 50,
+          "ratio": 0.83
+        },
+        {
+          "broker_id": "5850",
+          "broker_name": "統一",
+          "buy": 63,
+          "sell": 15,
+          "net": 48,
+          "ratio": 0.8
         },
         {
           "broker_id": "8888",
           "broker_name": "國泰-敦南",
-          "buy": 70,
-          "sell": 229,
-          "net": -159,
-          "ratio": 0.8
+          "buy": 99,
+          "sell": 57,
+          "net": 42,
+          "ratio": 0.7
         },
         {
-          "broker_id": "6165",
-          "broker_name": "中國信託-新竹",
-          "buy": 21,
-          "sell": 110,
-          "net": -89,
-          "ratio": 0.45
+          "broker_id": "0039004200300030",
+          "broker_name": "台新",
+          "buy": 51,
+          "sell": 15,
+          "net": 36,
+          "ratio": 0.6
+        },
+        {
+          "broker_id": "9268",
+          "broker_name": "凱基-台北",
+          "buy": 266,
+          "sell": 233,
+          "net": 33,
+          "ratio": 0.55
+        },
+        {
+          "broker_id": "0039004200320030",
+          "broker_name": "台新-台北",
+          "buy": 26,
+          "sell": 2,
+          "net": 24,
+          "ratio": 0.4
+        },
+        {
+          "broker_id": "0039004200320072",
+          "broker_name": "台新-城東",
+          "buy": 33,
+          "sell": 9,
+          "net": 24,
+          "ratio": 0.4
+        },
+        {
+          "broker_id": "0039004200320035",
+          "broker_name": "台新-五權西",
+          "buy": 24,
+          "sell": 0,
+          "net": 24,
+          "ratio": 0.4
+        }
+      ],
+      "sell_top15": [
+        {
+          "broker_id": "1440",
+          "broker_name": "美林",
+          "buy": 61,
+          "sell": 486,
+          "net": -425,
+          "ratio": 7.06
+        },
+        {
+          "broker_id": "8880",
+          "broker_name": "國泰證券",
+          "buy": 17,
+          "sell": 387,
+          "net": -370,
+          "ratio": 6.15
+        },
+        {
+          "broker_id": "1560",
+          "broker_name": "港商野村",
+          "buy": 64,
+          "sell": 393,
+          "net": -329,
+          "ratio": 5.47
+        },
+        {
+          "broker_id": "8900",
+          "broker_name": "法銀巴黎",
+          "buy": 0,
+          "sell": 318,
+          "net": -318,
+          "ratio": 5.29
+        },
+        {
+          "broker_id": "1470",
+          "broker_name": "台灣摩根士丹利",
+          "buy": 389,
+          "sell": 564,
+          "net": -175,
+          "ratio": 2.91
+        },
+        {
+          "broker_id": "9600",
+          "broker_name": "富邦證券",
+          "buy": 63,
+          "sell": 204,
+          "net": -141,
+          "ratio": 2.34
+        },
+        {
+          "broker_id": "8440",
+          "broker_name": "摩根大通",
+          "buy": 284,
+          "sell": 397,
+          "net": -113,
+          "ratio": 1.88
+        },
+        {
+          "broker_id": "1590",
+          "broker_name": "花旗環球",
+          "buy": 246,
+          "sell": 348,
+          "net": -102,
+          "ratio": 1.7
+        },
+        {
+          "broker_id": "003900380034004b",
+          "broker_name": "元大-館前",
+          "buy": 5,
+          "sell": 82,
+          "net": -77,
+          "ratio": 1.28
+        },
+        {
+          "broker_id": "0039003800390057",
+          "broker_name": "元大-豐原站前",
+          "buy": 2,
+          "sell": 48,
+          "net": -46,
+          "ratio": 0.76
+        },
+        {
+          "broker_id": "9623",
+          "broker_name": "富邦-台北",
+          "buy": 6,
+          "sell": 25,
+          "net": -19,
+          "ratio": 0.32
+        },
+        {
+          "broker_id": "0035003300380044",
+          "broker_name": "第一金-忠孝",
+          "buy": 3,
+          "sell": 21,
+          "net": -18,
+          "ratio": 0.3
+        },
+        {
+          "broker_id": "1261",
+          "broker_name": "宏遠-民生",
+          "buy": 0,
+          "sell": 15,
+          "net": -15,
+          "ratio": 0.25
+        },
+        {
+          "broker_id": "9352",
+          "broker_name": "華南永昌-桃園",
+          "buy": 2,
+          "sell": 16,
+          "net": -14,
+          "ratio": 0.23
+        },
+        {
+          "broker_id": "1480",
+          "broker_name": "美商高盛",
+          "buy": 384,
+          "sell": 397,
+          "net": -13,
+          "ratio": 0.22
+        }
+      ]
+    },
+    "2317": {
+      "stock_id": "2317",
+      "stock_name": "",
+      "market": "",
+      "total_volume": 26372,
+      "buy_top5_sum": 2716,
+      "sell_top5_sum": 14994,
+      "broker_concentration_buy_top5": 10.3,
+      "broker_concentration_sell_top5": 56.86,
+      "buy_top15": [
+        {
+          "broker_id": "0039004100380031",
+          "broker_name": "永豐金-匯立",
+          "buy": 1629,
+          "sell": 2,
+          "net": 1627,
+          "ratio": 5.52
+        },
+        {
+          "broker_id": "8888",
+          "broker_name": "國泰-敦南",
+          "buy": 639,
+          "sell": 253,
+          "net": 386,
+          "ratio": 1.31
+        },
+        {
+          "broker_id": "8900",
+          "broker_name": "法銀巴黎",
+          "buy": 300,
+          "sell": 39,
+          "net": 261,
+          "ratio": 0.89
+        },
+        {
+          "broker_id": "9835",
+          "broker_name": "元大-員林中山",
+          "buy": 242,
+          "sell": 16,
+          "net": 226,
+          "ratio": 0.77
+        },
+        {
+          "broker_id": "5857",
+          "broker_name": "統一-新竹",
+          "buy": 218,
+          "sell": 2,
+          "net": 216,
+          "ratio": 0.73
+        },
+        {
+          "broker_id": "8560",
+          "broker_name": "新光",
+          "buy": 259,
+          "sell": 66,
+          "net": 193,
+          "ratio": 0.65
+        },
+        {
+          "broker_id": "8882",
+          "broker_name": "國泰-台中",
+          "buy": 223,
+          "sell": 33,
+          "net": 190,
+          "ratio": 0.64
+        },
+        {
+          "broker_id": "003600310036004b",
+          "broker_name": "中國信託-高雄",
+          "buy": 150,
+          "sell": 2,
+          "net": 148,
+          "ratio": 0.5
+        },
+        {
+          "broker_id": "9604",
+          "broker_name": "富邦-陽明",
+          "buy": 162,
+          "sell": 15,
+          "net": 147,
+          "ratio": 0.5
+        },
+        {
+          "broker_id": "8885",
+          "broker_name": "國泰-桃園",
+          "buy": 153,
+          "sell": 8,
+          "net": 145,
+          "ratio": 0.49
+        },
+        {
+          "broker_id": "9211",
+          "broker_name": "凱基-台南",
+          "buy": 143,
+          "sell": 1,
+          "net": 142,
+          "ratio": 0.48
+        },
+        {
+          "broker_id": "8884",
+          "broker_name": "國泰-台南",
+          "buy": 194,
+          "sell": 65,
+          "net": 129,
+          "ratio": 0.44
+        },
+        {
+          "broker_id": "003800380038004b",
+          "broker_name": "國泰-板橋",
+          "buy": 152,
+          "sell": 24,
+          "net": 128,
+          "ratio": 0.43
+        },
+        {
+          "broker_id": "9676",
+          "broker_name": "富邦-仁愛",
+          "buy": 140,
+          "sell": 15,
+          "net": 125,
+          "ratio": 0.42
         },
         {
           "broker_id": "8561",
           "broker_name": "新光-台中",
+          "buy": 157,
+          "sell": 34,
+          "net": 123,
+          "ratio": 0.42
+        }
+      ],
+      "sell_top15": [
+        {
+          "broker_id": "8440",
+          "broker_name": "摩根大通",
+          "buy": 285,
+          "sell": 4550,
+          "net": -4265,
+          "ratio": 14.47
+        },
+        {
+          "broker_id": "1440",
+          "broker_name": "美林",
+          "buy": 582,
+          "sell": 4654,
+          "net": -4072,
+          "ratio": 13.82
+        },
+        {
+          "broker_id": "1470",
+          "broker_name": "台灣摩根士丹利",
+          "buy": 366,
+          "sell": 3529,
+          "net": -3163,
+          "ratio": 10.73
+        },
+        {
+          "broker_id": "1480",
+          "broker_name": "美商高盛",
+          "buy": 217,
+          "sell": 2967,
+          "net": -2750,
+          "ratio": 9.33
+        },
+        {
+          "broker_id": "1590",
+          "broker_name": "花旗環球",
+          "buy": 408,
+          "sell": 1152,
+          "net": -744,
+          "ratio": 2.52
+        },
+        {
+          "broker_id": "9800",
+          "broker_name": "元大證券",
+          "buy": 1057,
+          "sell": 1747,
+          "net": -690,
+          "ratio": 2.34
+        },
+        {
+          "broker_id": "9200",
+          "broker_name": "凱基",
+          "buy": 33,
+          "sell": 462,
+          "net": -429,
+          "ratio": 1.46
+        },
+        {
+          "broker_id": "9268",
+          "broker_name": "凱基-台北",
+          "buy": 288,
+          "sell": 716,
+          "net": -428,
+          "ratio": 1.45
+        },
+        {
+          "broker_id": "8960",
+          "broker_name": "香港上海匯豐",
+          "buy": 35,
+          "sell": 364,
+          "net": -329,
+          "ratio": 1.12
+        },
+        {
+          "broker_id": "1560",
+          "broker_name": "港商野村",
+          "buy": 39,
+          "sell": 321,
+          "net": -282,
+          "ratio": 0.96
+        },
+        {
+          "broker_id": "5380",
+          "broker_name": "第一金",
+          "buy": 43,
+          "sell": 310,
+          "net": -267,
+          "ratio": 0.91
+        },
+        {
+          "broker_id": "0035003300380049",
+          "broker_name": "第一金-頭份",
+          "buy": 22,
+          "sell": 259,
+          "net": -237,
+          "ratio": 0.8
+        },
+        {
+          "broker_id": "5850",
+          "broker_name": "統一",
+          "buy": 44,
+          "sell": 240,
+          "net": -196,
+          "ratio": 0.67
+        },
+        {
+          "broker_id": "0039004100300030",
+          "broker_name": "永豐金證券",
+          "buy": 120,
+          "sell": 273,
+          "net": -153,
+          "ratio": 0.52
+        },
+        {
+          "broker_id": "9315",
+          "broker_name": "華南永昌-大甲",
+          "buy": 4,
+          "sell": 67,
+          "net": -63,
+          "ratio": 0.21
+        }
+      ]
+    },
+    "2330": {
+      "stock_id": "2330",
+      "stock_name": "",
+      "market": "",
+      "total_volume": 15584,
+      "buy_top5_sum": 2101,
+      "sell_top5_sum": 5591,
+      "broker_concentration_buy_top5": 13.48,
+      "broker_concentration_sell_top5": 35.88,
+      "buy_top15": [
+        {
+          "broker_id": "1440",
+          "broker_name": "美林",
+          "buy": 1221,
+          "sell": 558,
+          "net": 663,
+          "ratio": 4.38
+        },
+        {
+          "broker_id": "9800",
+          "broker_name": "元大證券",
+          "buy": 1115,
+          "sell": 698,
+          "net": 417,
+          "ratio": 2.75
+        },
+        {
+          "broker_id": "0039004100300030",
+          "broker_name": "永豐金證券",
+          "buy": 774,
+          "sell": 375,
+          "net": 399,
+          "ratio": 2.63
+        },
+        {
+          "broker_id": "0039004200320030",
+          "broker_name": "台新-台北",
+          "buy": 362,
+          "sell": 1,
+          "net": 361,
+          "ratio": 2.38
+        },
+        {
+          "broker_id": "6160",
+          "broker_name": "中國信託",
+          "buy": 299,
+          "sell": 38,
+          "net": 261,
+          "ratio": 1.72
+        },
+        {
+          "broker_id": "0039004200300030",
+          "broker_name": "台新",
+          "buy": 234,
+          "sell": 36,
+          "net": 198,
+          "ratio": 1.31
+        },
+        {
+          "broker_id": "9100",
+          "broker_name": "群益金鼎",
+          "buy": 348,
+          "sell": 159,
+          "net": 189,
+          "ratio": 1.25
+        },
+        {
+          "broker_id": "0039004200320035",
+          "broker_name": "台新-五權西",
+          "buy": 157,
+          "sell": 3,
+          "net": 154,
+          "ratio": 1.02
+        },
+        {
+          "broker_id": "8880",
+          "broker_name": "國泰證券",
+          "buy": 137,
+          "sell": 6,
+          "net": 131,
+          "ratio": 0.86
+        },
+        {
+          "broker_id": "6161",
+          "broker_name": "中國信託-三重",
+          "buy": 104,
+          "sell": 2,
+          "net": 102,
+          "ratio": 0.67
+        },
+        {
+          "broker_id": "8888",
+          "broker_name": "國泰-敦南",
+          "buy": 161,
+          "sell": 60,
+          "net": 101,
+          "ratio": 0.67
+        },
+        {
+          "broker_id": "0039003800390065",
+          "broker_name": "元大-中和",
+          "buy": 102,
+          "sell": 3,
+          "net": 99,
+          "ratio": 0.65
+        },
+        {
+          "broker_id": "5850",
+          "broker_name": "統一",
+          "buy": 109,
+          "sell": 17,
+          "net": 92,
+          "ratio": 0.61
+        },
+        {
+          "broker_id": "9334",
+          "broker_name": "華南永昌-世貿",
+          "buy": 86,
+          "sell": 1,
+          "net": 85,
+          "ratio": 0.56
+        },
+        {
+          "broker_id": "8840",
+          "broker_name": "玉山證券",
+          "buy": 95,
+          "sell": 19,
+          "net": 76,
+          "ratio": 0.5
+        }
+      ],
+      "sell_top15": [
+        {
+          "broker_id": "1650",
+          "broker_name": "新加坡商瑞銀",
+          "buy": 583,
+          "sell": 2691,
+          "net": -2108,
+          "ratio": 13.92
+        },
+        {
+          "broker_id": "1590",
+          "broker_name": "花旗環球",
+          "buy": 257,
+          "sell": 2250,
+          "net": -1993,
+          "ratio": 13.16
+        },
+        {
+          "broker_id": "1470",
+          "broker_name": "台灣摩根士丹利",
+          "buy": 391,
+          "sell": 1321,
+          "net": -930,
+          "ratio": 6.14
+        },
+        {
+          "broker_id": "8890",
+          "broker_name": "大和國泰",
+          "buy": 124,
+          "sell": 414,
+          "net": -290,
+          "ratio": 1.91
+        },
+        {
+          "broker_id": "0039004100380031",
+          "broker_name": "永豐金-匯立",
+          "buy": 964,
+          "sell": 1234,
+          "net": -270,
+          "ratio": 1.78
+        },
+        {
+          "broker_id": "8900",
+          "broker_name": "法銀巴黎",
+          "buy": 37,
+          "sell": 285,
+          "net": -248,
+          "ratio": 1.64
+        },
+        {
+          "broker_id": "1360",
+          "broker_name": "港商麥格理",
+          "buy": 34,
+          "sell": 201,
+          "net": -167,
+          "ratio": 1.1
+        },
+        {
+          "broker_id": "9676",
+          "broker_name": "富邦-仁愛",
+          "buy": 39,
+          "sell": 205,
+          "net": -166,
+          "ratio": 1.1
+        },
+        {
+          "broker_id": "1480",
+          "broker_name": "美商高盛",
+          "buy": 767,
+          "sell": 894,
+          "net": -127,
+          "ratio": 0.84
+        },
+        {
+          "broker_id": "9200",
+          "broker_name": "凱基",
+          "buy": 48,
+          "sell": 114,
+          "net": -66,
+          "ratio": 0.44
+        },
+        {
+          "broker_id": "9268",
+          "broker_name": "凱基-台北",
+          "buy": 371,
+          "sell": 428,
+          "net": -57,
+          "ratio": 0.38
+        },
+        {
+          "broker_id": "8580",
+          "broker_name": "聯邦證券",
           "buy": 7,
-          "sell": 87,
-          "net": -80,
-          "ratio": 0.4
+          "sell": 53,
+          "net": -46,
+          "ratio": 0.3
         },
         {
-          "broker_id": "0039004100380039",
-          "broker_name": "永豐金-敦北",
-          "buy": 6,
-          "sell": 85,
-          "net": -79,
-          "ratio": 0.4
+          "broker_id": "003900410039004a",
+          "broker_name": "永豐金-板新",
+          "buy": 10,
+          "sell": 55,
+          "net": -45,
+          "ratio": 0.3
         },
         {
-          "broker_id": "0039003200300047",
-          "broker_name": "凱基-彰化",
+          "broker_id": "8960",
+          "broker_name": "香港上海匯豐",
+          "buy": 74,
+          "sell": 112,
+          "net": -38,
+          "ratio": 0.25
+        },
+        {
+          "broker_id": "5261",
+          "broker_name": "美好-蘆洲",
+          "buy": 3,
+          "sell": 23,
+          "net": -20,
+          "ratio": 0.13
+        }
+      ]
+    },
+    "2345": {
+      "stock_id": "2345",
+      "stock_name": "",
+      "market": "",
+      "total_volume": 4161,
+      "buy_top5_sum": 976,
+      "sell_top5_sum": 982,
+      "broker_concentration_buy_top5": 23.46,
+      "broker_concentration_sell_top5": 23.6,
+      "buy_top15": [
+        {
+          "broker_id": "8900",
+          "broker_name": "法銀巴黎",
+          "buy": 416,
+          "sell": 9,
+          "net": 407,
+          "ratio": 7.71
+        },
+        {
+          "broker_id": "8880",
+          "broker_name": "國泰證券",
+          "buy": 220,
+          "sell": 9,
+          "net": 211,
+          "ratio": 4.0
+        },
+        {
+          "broker_id": "9600",
+          "broker_name": "富邦證券",
+          "buy": 198,
+          "sell": 18,
+          "net": 180,
+          "ratio": 3.41
+        },
+        {
+          "broker_id": "7000",
+          "broker_name": "兆豐證券",
+          "buy": 100,
+          "sell": 6,
+          "net": 94,
+          "ratio": 1.78
+        },
+        {
+          "broker_id": "9200",
+          "broker_name": "凱基",
+          "buy": 97,
+          "sell": 13,
+          "net": 84,
+          "ratio": 1.59
+        },
+        {
+          "broker_id": "003700370039005a",
+          "broker_name": "國票-安和",
+          "buy": 77,
+          "sell": 2,
+          "net": 75,
+          "ratio": 1.42
+        },
+        {
+          "broker_id": "0039003100380073",
+          "broker_name": "群益金鼎-丹鳳",
+          "buy": 61,
+          "sell": 1,
+          "net": 60,
+          "ratio": 1.14
+        },
+        {
+          "broker_id": "8890",
+          "broker_name": "大和國泰",
+          "buy": 54,
+          "sell": 0,
+          "net": 54,
+          "ratio": 1.02
+        },
+        {
+          "broker_id": "0037003000300049",
+          "broker_name": "兆豐-北高雄",
+          "buy": 59,
+          "sell": 20,
+          "net": 39,
+          "ratio": 0.74
+        },
+        {
+          "broker_id": "0039004100380046",
+          "broker_name": "永豐金-敦南",
+          "buy": 42,
+          "sell": 5,
+          "net": 37,
+          "ratio": 0.7
+        },
+        {
+          "broker_id": "0039004100380031",
+          "broker_name": "永豐金-匯立",
+          "buy": 34,
+          "sell": 0,
+          "net": 34,
+          "ratio": 0.64
+        },
+        {
+          "broker_id": "5850",
+          "broker_name": "統一",
+          "buy": 78,
+          "sell": 54,
+          "net": 24,
+          "ratio": 0.45
+        },
+        {
+          "broker_id": "9871",
+          "broker_name": "元大-忠孝",
+          "buy": 25,
+          "sell": 1,
+          "net": 24,
+          "ratio": 0.45
+        },
+        {
+          "broker_id": "0039003800310053",
+          "broker_name": "元大-崇德",
+          "buy": 23,
+          "sell": 0,
+          "net": 23,
+          "ratio": 0.44
+        },
+        {
+          "broker_id": "1560",
+          "broker_name": "港商野村",
+          "buy": 22,
+          "sell": 0,
+          "net": 22,
+          "ratio": 0.42
+        }
+      ],
+      "sell_top15": [
+        {
+          "broker_id": "1470",
+          "broker_name": "台灣摩根士丹利",
+          "buy": 225,
+          "sell": 531,
+          "net": -306,
+          "ratio": 5.8
+        },
+        {
+          "broker_id": "1650",
+          "broker_name": "新加坡商瑞銀",
+          "buy": 153,
+          "sell": 386,
+          "net": -233,
+          "ratio": 4.41
+        },
+        {
+          "broker_id": "9100",
+          "broker_name": "群益金鼎",
+          "buy": 64,
+          "sell": 250,
+          "net": -186,
+          "ratio": 3.52
+        },
+        {
+          "broker_id": "9875",
+          "broker_name": "元大-土城永寧",
           "buy": 0,
-          "sell": 68,
-          "net": -68,
-          "ratio": 0.34
+          "sell": 153,
+          "net": -153,
+          "ratio": 2.9
+        },
+        {
+          "broker_id": "9216",
+          "broker_name": "凱基-信義",
+          "buy": 1,
+          "sell": 105,
+          "net": -104,
+          "ratio": 1.97
+        },
+        {
+          "broker_id": "9268",
+          "broker_name": "凱基-台北",
+          "buy": 157,
+          "sell": 253,
+          "net": -96,
+          "ratio": 1.82
+        },
+        {
+          "broker_id": "8440",
+          "broker_name": "摩根大通",
+          "buy": 118,
+          "sell": 179,
+          "net": -61,
+          "ratio": 1.16
+        },
+        {
+          "broker_id": "003900380031007a",
+          "broker_name": "元大-大統",
+          "buy": 3,
+          "sell": 51,
+          "net": -48,
+          "ratio": 0.91
+        },
+        {
+          "broker_id": "8560",
+          "broker_name": "新光",
+          "buy": 39,
+          "sell": 74,
+          "net": -35,
+          "ratio": 0.66
+        },
+        {
+          "broker_id": "1440",
+          "broker_name": "美林",
+          "buy": 45,
+          "sell": 78,
+          "net": -33,
+          "ratio": 0.63
+        },
+        {
+          "broker_id": "1590",
+          "broker_name": "花旗環球",
+          "buy": 19,
+          "sell": 46,
+          "net": -27,
+          "ratio": 0.51
+        },
+        {
+          "broker_id": "1360",
+          "broker_name": "港商麥格理",
+          "buy": 0,
+          "sell": 24,
+          "net": -24,
+          "ratio": 0.45
+        },
+        {
+          "broker_id": "8960",
+          "broker_name": "香港上海匯豐",
+          "buy": 2,
+          "sell": 26,
+          "net": -24,
+          "ratio": 0.45
+        },
+        {
+          "broker_id": "6160",
+          "broker_name": "中國信託",
+          "buy": 27,
+          "sell": 49,
+          "net": -22,
+          "ratio": 0.42
+        },
+        {
+          "broker_id": "1480",
+          "broker_name": "美商高盛",
+          "buy": 431,
+          "sell": 450,
+          "net": -19,
+          "ratio": 0.36
+        }
+      ]
+    },
+    "2379": {
+      "stock_id": "2379",
+      "stock_name": "",
+      "market": "",
+      "total_volume": 1846,
+      "buy_top5_sum": 453,
+      "sell_top5_sum": 591,
+      "broker_concentration_buy_top5": 24.54,
+      "broker_concentration_sell_top5": 32.02,
+      "buy_top15": [
+        {
+          "broker_id": "1440",
+          "broker_name": "美林",
+          "buy": 232,
+          "sell": 107,
+          "net": 125,
+          "ratio": 7.65
+        },
+        {
+          "broker_id": "8840",
+          "broker_name": "玉山證券",
+          "buy": 111,
+          "sell": 3,
+          "net": 108,
+          "ratio": 6.61
+        },
+        {
+          "broker_id": "1560",
+          "broker_name": "港商野村",
+          "buy": 127,
+          "sell": 28,
+          "net": 99,
+          "ratio": 6.06
+        },
+        {
+          "broker_id": "9800",
+          "broker_name": "元大證券",
+          "buy": 136,
+          "sell": 39,
+          "net": 97,
+          "ratio": 5.94
+        },
+        {
+          "broker_id": "6160",
+          "broker_name": "中國信託",
+          "buy": 26,
+          "sell": 2,
+          "net": 24,
+          "ratio": 1.47
+        },
+        {
+          "broker_id": "8841",
+          "broker_name": "玉山-雙和",
+          "buy": 19,
+          "sell": 1,
+          "net": 18,
+          "ratio": 1.1
+        },
+        {
+          "broker_id": "0039003800310053",
+          "broker_name": "元大-崇德",
+          "buy": 15,
+          "sell": 0,
+          "net": 15,
+          "ratio": 0.92
+        },
+        {
+          "broker_id": "0039003100330059",
+          "broker_name": "群益金鼎-館前",
+          "buy": 11,
+          "sell": 0,
+          "net": 11,
+          "ratio": 0.67
+        },
+        {
+          "broker_id": "8888",
+          "broker_name": "國泰-敦南",
+          "buy": 21,
+          "sell": 12,
+          "net": 9,
+          "ratio": 0.55
+        },
+        {
+          "broker_id": "0039003600330041",
+          "broker_name": "富邦-八德",
+          "buy": 9,
+          "sell": 0,
+          "net": 9,
+          "ratio": 0.55
+        },
+        {
+          "broker_id": "0039004100380031",
+          "broker_name": "永豐金-匯立",
+          "buy": 9,
+          "sell": 0,
+          "net": 9,
+          "ratio": 0.55
+        },
+        {
+          "broker_id": "6164",
+          "broker_name": "中國信託-文心",
+          "buy": 9,
+          "sell": 2,
+          "net": 7,
+          "ratio": 0.43
+        },
+        {
+          "broker_id": "003800380038004b",
+          "broker_name": "國泰-板橋",
+          "buy": 10,
+          "sell": 4,
+          "net": 6,
+          "ratio": 0.37
         },
         {
           "broker_id": "9658",
           "broker_name": "富邦-建國",
           "buy": 6,
-          "sell": 63,
-          "net": -57,
-          "ratio": 0.29
+          "sell": 0,
+          "net": 6,
+          "ratio": 0.37
+        },
+        {
+          "broker_id": "0039004200320045",
+          "broker_name": "台新-城中",
+          "buy": 6,
+          "sell": 0,
+          "net": 6,
+          "ratio": 0.37
+        }
+      ],
+      "sell_top15": [
+        {
+          "broker_id": "8440",
+          "broker_name": "摩根大通",
+          "buy": 10,
+          "sell": 311,
+          "net": -301,
+          "ratio": 18.43
+        },
+        {
+          "broker_id": "1480",
+          "broker_name": "美商高盛",
+          "buy": 50,
+          "sell": 137,
+          "net": -87,
+          "ratio": 5.33
+        },
+        {
+          "broker_id": "1470",
+          "broker_name": "台灣摩根士丹利",
+          "buy": 87,
+          "sell": 166,
+          "net": -79,
+          "ratio": 4.84
+        },
+        {
+          "broker_id": "0039004100300030",
+          "broker_name": "永豐金證券",
+          "buy": 30,
+          "sell": 95,
+          "net": -65,
+          "ratio": 3.98
+        },
+        {
+          "broker_id": "8900",
+          "broker_name": "法銀巴黎",
+          "buy": 0,
+          "sell": 59,
+          "net": -59,
+          "ratio": 3.61
+        },
+        {
+          "broker_id": "1590",
+          "broker_name": "花旗環球",
+          "buy": 11,
+          "sell": 56,
+          "net": -45,
+          "ratio": 2.76
+        },
+        {
+          "broker_id": "9268",
+          "broker_name": "凱基-台北",
+          "buy": 67,
+          "sell": 98,
+          "net": -31,
+          "ratio": 1.9
+        },
+        {
+          "broker_id": "9100",
+          "broker_name": "群益金鼎",
+          "buy": 11,
+          "sell": 39,
+          "net": -28,
+          "ratio": 1.71
+        },
+        {
+          "broker_id": "1650",
+          "broker_name": "新加坡商瑞銀",
+          "buy": 4,
+          "sell": 27,
+          "net": -23,
+          "ratio": 1.41
+        },
+        {
+          "broker_id": "8882",
+          "broker_name": "國泰-台中",
+          "buy": 7,
+          "sell": 29,
+          "net": -22,
+          "ratio": 1.35
+        },
+        {
+          "broker_id": "8960",
+          "broker_name": "香港上海匯豐",
+          "buy": 7,
+          "sell": 26,
+          "net": -19,
+          "ratio": 1.16
+        },
+        {
+          "broker_id": "9600",
+          "broker_name": "富邦證券",
+          "buy": 1,
+          "sell": 18,
+          "net": -17,
+          "ratio": 1.04
+        },
+        {
+          "broker_id": "1360",
+          "broker_name": "港商麥格理",
+          "buy": 0,
+          "sell": 13,
+          "net": -13,
+          "ratio": 0.8
+        },
+        {
+          "broker_id": "0039004100390058",
+          "broker_name": "永豐金-竹科",
+          "buy": 1,
+          "sell": 13,
+          "net": -12,
+          "ratio": 0.73
+        },
+        {
+          "broker_id": "2180",
+          "broker_name": "亞東",
+          "buy": 0,
+          "sell": 12,
+          "net": -12,
+          "ratio": 0.73
+        }
+      ]
+    },
+    "2382": {
+      "stock_id": "2382",
+      "stock_name": "",
+      "market": "",
+      "total_volume": 11166,
+      "buy_top5_sum": 1664,
+      "sell_top5_sum": 5271,
+      "broker_concentration_buy_top5": 14.9,
+      "broker_concentration_sell_top5": 47.21,
+      "buy_top15": [
+        {
+          "broker_id": "8840",
+          "broker_name": "玉山證券",
+          "buy": 619,
+          "sell": 16,
+          "net": 603,
+          "ratio": 5.85
+        },
+        {
+          "broker_id": "1480",
+          "broker_name": "美商高盛",
+          "buy": 839,
+          "sell": 291,
+          "net": 548,
+          "ratio": 5.32
+        },
+        {
+          "broker_id": "8440",
+          "broker_name": "摩根大通",
+          "buy": 554,
+          "sell": 270,
+          "net": 284,
+          "ratio": 2.76
+        },
+        {
+          "broker_id": "003900380039004e",
+          "broker_name": "元大-內湖",
+          "buy": 124,
+          "sell": 6,
+          "net": 118,
+          "ratio": 1.14
+        },
+        {
+          "broker_id": "9300",
+          "broker_name": "華南永昌",
+          "buy": 112,
+          "sell": 1,
+          "net": 111,
+          "ratio": 1.08
+        },
+        {
+          "broker_id": "8450",
+          "broker_name": "康和",
+          "buy": 107,
+          "sell": 0,
+          "net": 107,
+          "ratio": 1.04
+        },
+        {
+          "broker_id": "8888",
+          "broker_name": "國泰-敦南",
+          "buy": 125,
+          "sell": 42,
+          "net": 83,
+          "ratio": 0.81
+        },
+        {
+          "broker_id": "0039004100380039",
+          "broker_name": "永豐金-敦北",
+          "buy": 79,
+          "sell": 0,
+          "net": 79,
+          "ratio": 0.77
         },
         {
           "broker_id": "9636",
           "broker_name": "富邦-中壢",
-          "buy": 5,
-          "sell": 61,
-          "net": -56,
-          "ratio": 0.28
+          "buy": 66,
+          "sell": 4,
+          "net": 62,
+          "ratio": 0.6
+        },
+        {
+          "broker_id": "0039004100390057",
+          "broker_name": "永豐金-市政",
+          "buy": 58,
+          "sell": 0,
+          "net": 58,
+          "ratio": 0.56
+        },
+        {
+          "broker_id": "5857",
+          "broker_name": "統一-新竹",
+          "buy": 63,
+          "sell": 6,
+          "net": 57,
+          "ratio": 0.55
+        },
+        {
+          "broker_id": "5856",
+          "broker_name": "統一-台中",
+          "buy": 59,
+          "sell": 2,
+          "net": 57,
+          "ratio": 0.55
+        },
+        {
+          "broker_id": "0039003800320042",
+          "broker_name": "元大-博愛",
+          "buy": 56,
+          "sell": 0,
+          "net": 56,
+          "ratio": 0.54
+        },
+        {
+          "broker_id": "0037003000300050",
+          "broker_name": "兆豐-南京",
+          "buy": 56,
+          "sell": 1,
+          "net": 55,
+          "ratio": 0.53
+        },
+        {
+          "broker_id": "6164",
+          "broker_name": "中國信託-文心",
+          "buy": 56,
+          "sell": 2,
+          "net": 54,
+          "ratio": 0.52
+        }
+      ],
+      "sell_top15": [
+        {
+          "broker_id": "1440",
+          "broker_name": "美林",
+          "buy": 631,
+          "sell": 2763,
+          "net": -2132,
+          "ratio": 20.69
+        },
+        {
+          "broker_id": "1470",
+          "broker_name": "台灣摩根士丹利",
+          "buy": 89,
+          "sell": 1720,
+          "net": -1631,
+          "ratio": 15.83
+        },
+        {
+          "broker_id": "9800",
+          "broker_name": "元大證券",
+          "buy": 536,
+          "sell": 1082,
+          "net": -546,
+          "ratio": 5.3
+        },
+        {
+          "broker_id": "0039004200300030",
+          "broker_name": "台新",
+          "buy": 40,
+          "sell": 571,
+          "net": -531,
+          "ratio": 5.15
+        },
+        {
+          "broker_id": "9600",
+          "broker_name": "富邦證券",
+          "buy": 11,
+          "sell": 442,
+          "net": -431,
+          "ratio": 4.18
+        },
+        {
+          "broker_id": "0039004200320030",
+          "broker_name": "台新-台北",
+          "buy": 12,
+          "sell": 305,
+          "net": -293,
+          "ratio": 2.84
+        },
+        {
+          "broker_id": "1650",
+          "broker_name": "新加坡商瑞銀",
+          "buy": 367,
+          "sell": 611,
+          "net": -244,
+          "ratio": 2.37
+        },
+        {
+          "broker_id": "1590",
+          "broker_name": "花旗環球",
+          "buy": 83,
+          "sell": 314,
+          "net": -231,
+          "ratio": 2.24
+        },
+        {
+          "broker_id": "9268",
+          "broker_name": "凱基-台北",
+          "buy": 118,
+          "sell": 207,
+          "net": -89,
+          "ratio": 0.86
+        },
+        {
+          "broker_id": "0039004200310068",
+          "broker_name": "台新-台中",
+          "buy": 18,
+          "sell": 52,
+          "net": -34,
+          "ratio": 0.33
+        },
+        {
+          "broker_id": "9200",
+          "broker_name": "凱基",
+          "buy": 2,
+          "sell": 29,
+          "net": -27,
+          "ratio": 0.26
+        },
+        {
+          "broker_id": "003900410039004c",
+          "broker_name": "永豐金-台中",
+          "buy": 8,
+          "sell": 31,
+          "net": -23,
+          "ratio": 0.22
+        },
+        {
+          "broker_id": "0039004100390059",
+          "broker_name": "永豐金-板盛",
+          "buy": 1,
+          "sell": 23,
+          "net": -22,
+          "ratio": 0.21
+        },
+        {
+          "broker_id": "8900",
+          "broker_name": "法銀巴黎",
+          "buy": 1,
+          "sell": 22,
+          "net": -21,
+          "ratio": 0.2
+        },
+        {
+          "broker_id": "0039004200310038",
+          "broker_name": "台新-建北",
+          "buy": 2,
+          "sell": 21,
+          "net": -19,
+          "ratio": 0.18
+        }
+      ]
+    },
+    "2412": {
+      "stock_id": "2412",
+      "stock_name": "",
+      "market": "",
+      "total_volume": 12280,
+      "buy_top5_sum": 4755,
+      "sell_top5_sum": 3663,
+      "broker_concentration_buy_top5": 38.72,
+      "broker_concentration_sell_top5": 29.83,
+      "buy_top15": [
+        {
+          "broker_id": "1440",
+          "broker_name": "美林",
+          "buy": 1604,
+          "sell": 4,
+          "net": 1600,
+          "ratio": 15.98
+        },
+        {
+          "broker_id": "1480",
+          "broker_name": "美商高盛",
+          "buy": 1088,
+          "sell": 123,
+          "net": 965,
+          "ratio": 9.64
+        },
+        {
+          "broker_id": "1470",
+          "broker_name": "台灣摩根士丹利",
+          "buy": 914,
+          "sell": 52,
+          "net": 862,
+          "ratio": 8.61
+        },
+        {
+          "broker_id": "9268",
+          "broker_name": "凱基-台北",
+          "buy": 979,
+          "sell": 269,
+          "net": 710,
+          "ratio": 7.09
+        },
+        {
+          "broker_id": "1650",
+          "broker_name": "新加坡商瑞銀",
+          "buy": 737,
+          "sell": 119,
+          "net": 618,
+          "ratio": 6.17
+        },
+        {
+          "broker_id": "9207",
+          "broker_name": "凱基-永和",
+          "buy": 480,
+          "sell": 0,
+          "net": 480,
+          "ratio": 4.8
+        },
+        {
+          "broker_id": "0039004100300030",
+          "broker_name": "永豐金證券",
+          "buy": 563,
+          "sell": 143,
+          "net": 420,
+          "ratio": 4.2
+        },
+        {
+          "broker_id": "9800",
+          "broker_name": "元大證券",
+          "buy": 290,
+          "sell": 101,
+          "net": 189,
+          "ratio": 1.89
+        },
+        {
+          "broker_id": "0039004100380031",
+          "broker_name": "永豐金-匯立",
+          "buy": 139,
+          "sell": 0,
+          "net": 139,
+          "ratio": 1.39
+        },
+        {
+          "broker_id": "8880",
+          "broker_name": "國泰證券",
+          "buy": 120,
+          "sell": 0,
+          "net": 120,
+          "ratio": 1.2
+        },
+        {
+          "broker_id": "6160",
+          "broker_name": "中國信託",
+          "buy": 99,
+          "sell": 36,
+          "net": 63,
+          "ratio": 0.63
+        },
+        {
+          "broker_id": "8960",
+          "broker_name": "香港上海匯豐",
+          "buy": 46,
+          "sell": 5,
+          "net": 41,
+          "ratio": 0.41
+        },
+        {
+          "broker_id": "5320",
+          "broker_name": "高橋",
+          "buy": 43,
+          "sell": 6,
+          "net": 37,
+          "ratio": 0.37
+        },
+        {
+          "broker_id": "1560",
+          "broker_name": "港商野村",
+          "buy": 16,
+          "sell": 0,
+          "net": 16,
+          "ratio": 0.16
+        },
+        {
+          "broker_id": "6210",
+          "broker_name": "新百王",
+          "buy": 16,
+          "sell": 1,
+          "net": 15,
+          "ratio": 0.15
+        }
+      ],
+      "sell_top15": [
+        {
+          "broker_id": "9200",
+          "broker_name": "凱基",
+          "buy": 31,
+          "sell": 1204,
+          "net": -1173,
+          "ratio": 11.72
+        },
+        {
+          "broker_id": "9100",
+          "broker_name": "群益金鼎",
+          "buy": 560,
+          "sell": 1414,
+          "net": -854,
+          "ratio": 8.53
+        },
+        {
+          "broker_id": "1590",
+          "broker_name": "花旗環球",
+          "buy": 146,
+          "sell": 933,
+          "net": -787,
+          "ratio": 7.86
+        },
+        {
+          "broker_id": "9359",
+          "broker_name": "華南永昌-中正",
+          "buy": 0,
+          "sell": 745,
+          "net": -745,
+          "ratio": 7.44
+        },
+        {
+          "broker_id": "0039004200300030",
+          "broker_name": "台新",
+          "buy": 2,
+          "sell": 106,
+          "net": -104,
+          "ratio": 1.04
+        },
+        {
+          "broker_id": "1360",
+          "broker_name": "港商麥格理",
+          "buy": 0,
+          "sell": 100,
+          "net": -100,
+          "ratio": 1.0
+        },
+        {
+          "broker_id": "0039004200310033",
+          "broker_name": "台新-三民",
+          "buy": 0,
+          "sell": 89,
+          "net": -89,
+          "ratio": 0.89
+        },
+        {
+          "broker_id": "0039004200310067",
+          "broker_name": "台新-高雄",
+          "buy": 0,
+          "sell": 87,
+          "net": -87,
+          "ratio": 0.87
+        },
+        {
+          "broker_id": "8440",
+          "broker_name": "摩根大通",
+          "buy": 98,
+          "sell": 166,
+          "net": -68,
+          "ratio": 0.68
+        },
+        {
+          "broker_id": "9306",
+          "broker_name": "華南永昌-台南",
+          "buy": 0,
+          "sell": 65,
+          "net": -65,
+          "ratio": 0.65
+        },
+        {
+          "broker_id": "9892",
+          "broker_name": "元大-屏東",
+          "buy": 0,
+          "sell": 51,
+          "net": -51,
+          "ratio": 0.51
+        },
+        {
+          "broker_id": "9131",
+          "broker_name": "群益金鼎-民權",
+          "buy": 0,
+          "sell": 50,
+          "net": -50,
+          "ratio": 0.5
+        },
+        {
+          "broker_id": "0035003300380045",
+          "broker_name": "第一金-自由",
+          "buy": 0,
+          "sell": 47,
+          "net": -47,
+          "ratio": 0.47
+        },
+        {
+          "broker_id": "8560",
+          "broker_name": "新光",
+          "buy": 0,
+          "sell": 44,
+          "net": -44,
+          "ratio": 0.44
+        },
+        {
+          "broker_id": "8888",
+          "broker_name": "國泰-敦南",
+          "buy": 3,
+          "sell": 45,
+          "net": -42,
+          "ratio": 0.42
+        }
+      ]
+    },
+    "2454": {
+      "stock_id": "2454",
+      "stock_name": "",
+      "market": "",
+      "total_volume": 3824,
+      "buy_top5_sum": 423,
+      "sell_top5_sum": 1225,
+      "broker_concentration_buy_top5": 11.06,
+      "broker_concentration_sell_top5": 32.03,
+      "buy_top15": [
+        {
+          "broker_id": "8880",
+          "broker_name": "國泰證券",
+          "buy": 143,
+          "sell": 10,
+          "net": 133,
+          "ratio": 2.97
+        },
+        {
+          "broker_id": "1440",
+          "broker_name": "美林",
+          "buy": 217,
+          "sell": 136,
+          "net": 81,
+          "ratio": 1.81
+        },
+        {
+          "broker_id": "9100",
+          "broker_name": "群益金鼎",
+          "buy": 112,
+          "sell": 36,
+          "net": 76,
+          "ratio": 1.7
+        },
+        {
+          "broker_id": "9200",
+          "broker_name": "凱基",
+          "buy": 78,
+          "sell": 9,
+          "net": 69,
+          "ratio": 1.54
+        },
+        {
+          "broker_id": "0039004100380031",
+          "broker_name": "永豐金-匯立",
+          "buy": 77,
+          "sell": 13,
+          "net": 64,
+          "ratio": 1.43
+        },
+        {
+          "broker_id": "9600",
+          "broker_name": "富邦證券",
+          "buy": 70,
+          "sell": 13,
+          "net": 57,
+          "ratio": 1.27
+        },
+        {
+          "broker_id": "7000",
+          "broker_name": "兆豐證券",
+          "buy": 48,
+          "sell": 0,
+          "net": 48,
+          "ratio": 1.07
+        },
+        {
+          "broker_id": "8888",
+          "broker_name": "國泰-敦南",
+          "buy": 90,
+          "sell": 51,
+          "net": 39,
+          "ratio": 0.87
+        },
+        {
+          "broker_id": "6160",
+          "broker_name": "中國信託",
+          "buy": 39,
+          "sell": 8,
+          "net": 31,
+          "ratio": 0.69
+        },
+        {
+          "broker_id": "0037003700390063",
+          "broker_name": "國票-敦北法人",
+          "buy": 24,
+          "sell": 1,
+          "net": 23,
+          "ratio": 0.51
+        },
+        {
+          "broker_id": "0035003300380045",
+          "broker_name": "第一金-自由",
+          "buy": 21,
+          "sell": 0,
+          "net": 21,
+          "ratio": 0.47
+        },
+        {
+          "broker_id": "9300",
+          "broker_name": "華南永昌",
+          "buy": 25,
+          "sell": 5,
+          "net": 20,
+          "ratio": 0.45
+        },
+        {
+          "broker_id": "0039004100390053",
+          "broker_name": "永豐金-南京",
+          "buy": 16,
+          "sell": 0,
+          "net": 16,
+          "ratio": 0.36
+        },
+        {
+          "broker_id": "1560",
+          "broker_name": "港商野村",
+          "buy": 20,
+          "sell": 5,
+          "net": 15,
+          "ratio": 0.34
         },
         {
           "broker_id": "8580",
           "broker_name": "聯邦證券",
+          "buy": 17,
+          "sell": 3,
+          "net": 14,
+          "ratio": 0.31
+        }
+      ],
+      "sell_top15": [
+        {
+          "broker_id": "1590",
+          "broker_name": "花旗環球",
+          "buy": 65,
+          "sell": 434,
+          "net": -369,
+          "ratio": 8.24
+        },
+        {
+          "broker_id": "1650",
+          "broker_name": "新加坡商瑞銀",
+          "buy": 57,
+          "sell": 371,
+          "net": -314,
+          "ratio": 7.02
+        },
+        {
+          "broker_id": "1480",
+          "broker_name": "美商高盛",
+          "buy": 90,
+          "sell": 345,
+          "net": -255,
+          "ratio": 5.7
+        },
+        {
+          "broker_id": "1470",
+          "broker_name": "台灣摩根士丹利",
+          "buy": 148,
+          "sell": 332,
+          "net": -184,
+          "ratio": 4.11
+        },
+        {
+          "broker_id": "8440",
+          "broker_name": "摩根大通",
+          "buy": 414,
+          "sell": 517,
+          "net": -103,
+          "ratio": 2.3
+        },
+        {
+          "broker_id": "9268",
+          "broker_name": "凱基-台北",
+          "buy": 94,
+          "sell": 183,
+          "net": -89,
+          "ratio": 1.99
+        },
+        {
+          "broker_id": "9800",
+          "broker_name": "元大證券",
+          "buy": 126,
+          "sell": 214,
+          "net": -88,
+          "ratio": 1.97
+        },
+        {
+          "broker_id": "0039004100300030",
+          "broker_name": "永豐金證券",
+          "buy": 64,
+          "sell": 147,
+          "net": -83,
+          "ratio": 1.85
+        },
+        {
+          "broker_id": "8960",
+          "broker_name": "香港上海匯豐",
+          "buy": 9,
+          "sell": 50,
+          "net": -41,
+          "ratio": 0.92
+        },
+        {
+          "broker_id": "8900",
+          "broker_name": "法銀巴黎",
+          "buy": 11,
+          "sell": 49,
+          "net": -38,
+          "ratio": 0.85
+        },
+        {
+          "broker_id": "0039003200300044",
+          "broker_name": "凱基-市府",
           "buy": 4,
-          "sell": 60,
-          "net": -56,
-          "ratio": 0.28
+          "sell": 38,
+          "net": -34,
+          "ratio": 0.76
+        },
+        {
+          "broker_id": "1360",
+          "broker_name": "港商麥格理",
+          "buy": 24,
+          "sell": 58,
+          "net": -34,
+          "ratio": 0.76
+        },
+        {
+          "broker_id": "8450",
+          "broker_name": "康和",
+          "buy": 6,
+          "sell": 32,
+          "net": -26,
+          "ratio": 0.58
+        },
+        {
+          "broker_id": "9326",
+          "broker_name": "華南永昌-南京",
+          "buy": 9,
+          "sell": 34,
+          "net": -25,
+          "ratio": 0.56
+        },
+        {
+          "broker_id": "0039004100390068",
+          "broker_name": "永豐金-台南",
+          "buy": 6,
+          "sell": 23,
+          "net": -17,
+          "ratio": 0.38
+        }
+      ]
+    },
+    "2603": {
+      "stock_id": "2603",
+      "stock_name": "",
+      "market": "",
+      "total_volume": 7444,
+      "buy_top5_sum": 3066,
+      "sell_top5_sum": 1849,
+      "broker_concentration_buy_top5": 41.19,
+      "broker_concentration_sell_top5": 24.84,
+      "buy_top15": [
+        {
+          "broker_id": "9800",
+          "broker_name": "元大證券",
+          "buy": 1389,
+          "sell": 91,
+          "net": 1298,
+          "ratio": 23.09
+        },
+        {
+          "broker_id": "1480",
+          "broker_name": "美商高盛",
+          "buy": 863,
+          "sell": 102,
+          "net": 761,
+          "ratio": 13.54
+        },
+        {
+          "broker_id": "8440",
+          "broker_name": "摩根大通",
+          "buy": 418,
+          "sell": 35,
+          "net": 383,
+          "ratio": 6.81
+        },
+        {
+          "broker_id": "1590",
+          "broker_name": "花旗環球",
+          "buy": 453,
+          "sell": 132,
+          "net": 321,
+          "ratio": 5.71
+        },
+        {
+          "broker_id": "5850",
+          "broker_name": "統一",
+          "buy": 310,
+          "sell": 7,
+          "net": 303,
+          "ratio": 5.39
+        },
+        {
+          "broker_id": "9268",
+          "broker_name": "凱基-台北",
+          "buy": 302,
+          "sell": 38,
+          "net": 264,
+          "ratio": 4.7
+        },
+        {
+          "broker_id": "1650",
+          "broker_name": "新加坡商瑞銀",
+          "buy": 294,
+          "sell": 86,
+          "net": 208,
+          "ratio": 3.7
+        },
+        {
+          "broker_id": "1440",
+          "broker_name": "美林",
+          "buy": 171,
+          "sell": 19,
+          "net": 152,
+          "ratio": 2.7
+        },
+        {
+          "broker_id": "1560",
+          "broker_name": "港商野村",
+          "buy": 110,
+          "sell": 5,
+          "net": 105,
+          "ratio": 1.87
+        },
+        {
+          "broker_id": "1470",
+          "broker_name": "台灣摩根士丹利",
+          "buy": 523,
+          "sell": 448,
+          "net": 75,
+          "ratio": 1.33
+        },
+        {
+          "broker_id": "8960",
+          "broker_name": "香港上海匯豐",
+          "buy": 33,
+          "sell": 1,
+          "net": 32,
+          "ratio": 0.57
+        },
+        {
+          "broker_id": "0039003100330049",
+          "broker_name": "群益金鼎-萬華",
+          "buy": 30,
+          "sell": 0,
+          "net": 30,
+          "ratio": 0.53
+        },
+        {
+          "broker_id": "9100",
+          "broker_name": "群益金鼎",
+          "buy": 31,
+          "sell": 13,
+          "net": 18,
+          "ratio": 0.32
+        },
+        {
+          "broker_id": "0039004200320061",
+          "broker_name": "台新-松德",
+          "buy": 23,
+          "sell": 5,
+          "net": 18,
+          "ratio": 0.32
+        },
+        {
+          "broker_id": "9339",
+          "broker_name": "華南永昌-竹北",
+          "buy": 18,
+          "sell": 1,
+          "net": 17,
+          "ratio": 0.3
+        }
+      ],
+      "sell_top15": [
+        {
+          "broker_id": "9200",
+          "broker_name": "凱基",
+          "buy": 7,
+          "sell": 1136,
+          "net": -1129,
+          "ratio": 20.09
+        },
+        {
+          "broker_id": "9600",
+          "broker_name": "富邦證券",
+          "buy": 20,
+          "sell": 325,
+          "net": -305,
+          "ratio": 5.43
+        },
+        {
+          "broker_id": "5380",
+          "broker_name": "第一金",
+          "buy": 0,
+          "sell": 160,
+          "net": -160,
+          "ratio": 2.85
+        },
+        {
+          "broker_id": "6160",
+          "broker_name": "中國信託",
+          "buy": 10,
+          "sell": 152,
+          "net": -142,
+          "ratio": 2.53
+        },
+        {
+          "broker_id": "9636",
+          "broker_name": "富邦-中壢",
+          "buy": 0,
+          "sell": 113,
+          "net": -113,
+          "ratio": 2.01
+        },
+        {
+          "broker_id": "9891",
+          "broker_name": "元大-永和",
+          "buy": 16,
+          "sell": 112,
+          "net": -96,
+          "ratio": 1.71
+        },
+        {
+          "broker_id": "8888",
+          "broker_name": "國泰-敦南",
+          "buy": 16,
+          "sell": 102,
+          "net": -86,
+          "ratio": 1.53
+        },
+        {
+          "broker_id": "9186",
+          "broker_name": "群益金鼎-新竹",
+          "buy": 0,
+          "sell": 52,
+          "net": -52,
+          "ratio": 0.93
+        },
+        {
+          "broker_id": "9898",
+          "broker_name": "元大-新莊",
+          "buy": 4,
+          "sell": 55,
+          "net": -51,
+          "ratio": 0.91
+        },
+        {
+          "broker_id": "7000",
+          "broker_name": "兆豐證券",
+          "buy": 0,
+          "sell": 50,
+          "net": -50,
+          "ratio": 0.89
+        },
+        {
+          "broker_id": "0037003000300053",
+          "broker_name": "兆豐-大同",
+          "buy": 0,
+          "sell": 48,
+          "net": -48,
+          "ratio": 0.85
+        },
+        {
+          "broker_id": "8840",
+          "broker_name": "玉山證券",
+          "buy": 5,
+          "sell": 53,
+          "net": -48,
+          "ratio": 0.85
+        },
+        {
+          "broker_id": "0037003000300064",
+          "broker_name": "兆豐-彰化",
+          "buy": 0,
+          "sell": 43,
+          "net": -43,
+          "ratio": 0.76
+        },
+        {
+          "broker_id": "0038003800380041",
+          "broker_name": "國泰-館前",
+          "buy": 2,
+          "sell": 42,
+          "net": -40,
+          "ratio": 0.71
+        },
+        {
+          "broker_id": "8380",
+          "broker_name": "安泰",
+          "buy": 1,
+          "sell": 33,
+          "net": -32,
+          "ratio": 0.57
+        }
+      ]
+    },
+    "2609": {
+      "stock_id": "2609",
+      "stock_name": "",
+      "market": "",
+      "total_volume": 11401,
+      "buy_top5_sum": 6150,
+      "sell_top5_sum": 1578,
+      "broker_concentration_buy_top5": 53.94,
+      "broker_concentration_sell_top5": 13.84,
+      "buy_top15": [
+        {
+          "broker_id": "1480",
+          "broker_name": "美商高盛",
+          "buy": 2956,
+          "sell": 433,
+          "net": 2523,
+          "ratio": 21.63
+        },
+        {
+          "broker_id": "1470",
+          "broker_name": "台灣摩根士丹利",
+          "buy": 1756,
+          "sell": 175,
+          "net": 1581,
+          "ratio": 13.56
+        },
+        {
+          "broker_id": "1590",
+          "broker_name": "花旗環球",
+          "buy": 1449,
+          "sell": 216,
+          "net": 1233,
+          "ratio": 10.57
+        },
+        {
+          "broker_id": "1560",
+          "broker_name": "港商野村",
+          "buy": 627,
+          "sell": 3,
+          "net": 624,
+          "ratio": 5.35
+        },
+        {
+          "broker_id": "0039003800310067",
+          "broker_name": "元大-大里",
+          "buy": 219,
+          "sell": 30,
+          "net": 189,
+          "ratio": 1.62
+        },
+        {
+          "broker_id": "0039004100390044",
+          "broker_name": "永豐金-忠孝",
+          "buy": 100,
+          "sell": 7,
+          "net": 93,
+          "ratio": 0.8
+        },
+        {
+          "broker_id": "9268",
+          "broker_name": "凱基-台北",
+          "buy": 309,
+          "sell": 232,
+          "net": 77,
+          "ratio": 0.66
+        },
+        {
+          "broker_id": "8960",
+          "broker_name": "香港上海匯豐",
+          "buy": 56,
+          "sell": 0,
+          "net": 56,
+          "ratio": 0.48
+        },
+        {
+          "broker_id": "9800",
+          "broker_name": "元大證券",
+          "buy": 436,
+          "sell": 391,
+          "net": 45,
+          "ratio": 0.39
+        },
+        {
+          "broker_id": "0039004100390048",
+          "broker_name": "永豐金-新莊",
+          "buy": 30,
+          "sell": 3,
+          "net": 27,
+          "ratio": 0.23
+        },
+        {
+          "broker_id": "7790",
+          "broker_name": "國票證券",
+          "buy": 29,
+          "sell": 3,
+          "net": 26,
+          "ratio": 0.22
+        },
+        {
+          "broker_id": "003900360031004d",
+          "broker_name": "富邦-木柵",
+          "buy": 24,
+          "sell": 1,
+          "net": 23,
+          "ratio": 0.2
+        },
+        {
+          "broker_id": "0039003800310046",
+          "broker_name": "元大-福營",
+          "buy": 31,
+          "sell": 12,
+          "net": 19,
+          "ratio": 0.16
+        },
+        {
+          "broker_id": "0038003800340042",
+          "broker_name": "玉山-台中",
+          "buy": 63,
+          "sell": 45,
+          "net": 18,
+          "ratio": 0.15
+        },
+        {
+          "broker_id": "0037003000300067",
+          "broker_name": "兆豐-南門",
+          "buy": 20,
+          "sell": 4,
+          "net": 16,
+          "ratio": 0.14
+        }
+      ],
+      "sell_top15": [
+        {
+          "broker_id": "6460",
+          "broker_name": "大昌",
+          "buy": 8,
+          "sell": 516,
+          "net": -508,
+          "ratio": 4.36
+        },
+        {
+          "broker_id": "8440",
+          "broker_name": "摩根大通",
+          "buy": 8,
+          "sell": 381,
+          "net": -373,
+          "ratio": 3.2
+        },
+        {
+          "broker_id": "1650",
+          "broker_name": "新加坡商瑞銀",
+          "buy": 473,
+          "sell": 738,
+          "net": -265,
+          "ratio": 2.27
+        },
+        {
+          "broker_id": "003600310036004b",
+          "broker_name": "中國信託-高雄",
+          "buy": 2,
+          "sell": 223,
+          "net": -221,
+          "ratio": 1.89
+        },
+        {
+          "broker_id": "1440",
+          "broker_name": "美林",
+          "buy": 59,
+          "sell": 270,
+          "net": -211,
+          "ratio": 1.81
+        },
+        {
+          "broker_id": "0037003700390050",
+          "broker_name": "國票-九鼎",
+          "buy": 4,
+          "sell": 146,
+          "net": -142,
+          "ratio": 1.22
+        },
+        {
+          "broker_id": "8888",
+          "broker_name": "國泰-敦南",
+          "buy": 89,
+          "sell": 214,
+          "net": -125,
+          "ratio": 1.07
+        },
+        {
+          "broker_id": "003900380030004b",
+          "broker_name": "元大-竹科",
+          "buy": 6,
+          "sell": 124,
+          "net": -118,
+          "ratio": 1.01
+        },
+        {
+          "broker_id": "0039004100300030",
+          "broker_name": "永豐金證券",
+          "buy": 55,
+          "sell": 166,
+          "net": -111,
+          "ratio": 0.95
+        },
+        {
+          "broker_id": "6168",
+          "broker_name": "中國信託-嘉義",
+          "buy": 2,
+          "sell": 96,
+          "net": -94,
+          "ratio": 0.81
+        },
+        {
+          "broker_id": "0039003600310046",
+          "broker_name": "富邦-公益",
+          "buy": 1,
+          "sell": 85,
+          "net": -84,
+          "ratio": 0.72
+        },
+        {
+          "broker_id": "7006",
+          "broker_name": "兆豐-台南",
+          "buy": 0,
+          "sell": 84,
+          "net": -84,
+          "ratio": 0.72
+        },
+        {
+          "broker_id": "9600",
+          "broker_name": "富邦證券",
+          "buy": 23,
+          "sell": 105,
+          "net": -82,
+          "ratio": 0.7
+        },
+        {
+          "broker_id": "7005",
+          "broker_name": "兆豐-台中港",
+          "buy": 3,
+          "sell": 73,
+          "net": -70,
+          "ratio": 0.6
+        },
+        {
+          "broker_id": "9621",
+          "broker_name": "富邦-花蓮",
+          "buy": 6,
+          "sell": 75,
+          "net": -69,
+          "ratio": 0.59
+        }
+      ]
+    },
+    "2615": {
+      "stock_id": "2615",
+      "stock_name": "",
+      "market": "",
+      "total_volume": 4815,
+      "buy_top5_sum": 1572,
+      "sell_top5_sum": 1571,
+      "broker_concentration_buy_top5": 32.65,
+      "broker_concentration_sell_top5": 32.63,
+      "buy_top15": [
+        {
+          "broker_id": "8440",
+          "broker_name": "摩根大通",
+          "buy": 893,
+          "sell": 7,
+          "net": 886,
+          "ratio": 19.1
+        },
+        {
+          "broker_id": "9268",
+          "broker_name": "凱基-台北",
+          "buy": 470,
+          "sell": 201,
+          "net": 269,
+          "ratio": 5.8
+        },
+        {
+          "broker_id": "1560",
+          "broker_name": "港商野村",
+          "buy": 247,
+          "sell": 26,
+          "net": 221,
+          "ratio": 4.76
+        },
+        {
+          "broker_id": "1470",
+          "broker_name": "台灣摩根士丹利",
+          "buy": 376,
+          "sell": 235,
+          "net": 141,
+          "ratio": 3.04
+        },
+        {
+          "broker_id": "8880",
+          "broker_name": "國泰證券",
+          "buy": 55,
+          "sell": 0,
+          "net": 55,
+          "ratio": 1.19
+        },
+        {
+          "broker_id": "9223",
+          "broker_name": "凱基-豐中",
+          "buy": 52,
+          "sell": 0,
+          "net": 52,
+          "ratio": 1.12
+        },
+        {
+          "broker_id": "9272",
+          "broker_name": "凱基-竹科",
+          "buy": 51,
+          "sell": 0,
+          "net": 51,
+          "ratio": 1.1
+        },
+        {
+          "broker_id": "6451",
+          "broker_name": "永全-南崁",
+          "buy": 50,
+          "sell": 0,
+          "net": 50,
+          "ratio": 1.08
+        },
+        {
+          "broker_id": "9100",
+          "broker_name": "群益金鼎",
+          "buy": 44,
+          "sell": 9,
+          "net": 35,
+          "ratio": 0.75
+        },
+        {
+          "broker_id": "003500330038004d",
+          "broker_name": "第一金-嘉義",
+          "buy": 33,
+          "sell": 0,
+          "net": 33,
+          "ratio": 0.71
+        },
+        {
+          "broker_id": "8565",
+          "broker_name": "新光-桃園",
+          "buy": 45,
+          "sell": 17,
+          "net": 28,
+          "ratio": 0.6
+        },
+        {
+          "broker_id": "8888",
+          "broker_name": "國泰-敦南",
+          "buy": 95,
+          "sell": 67,
+          "net": 28,
+          "ratio": 0.6
+        },
+        {
+          "broker_id": "0039003600310043",
+          "broker_name": "富邦-南京",
+          "buy": 27,
+          "sell": 1,
+          "net": 26,
+          "ratio": 0.56
+        },
+        {
+          "broker_id": "1650",
+          "broker_name": "新加坡商瑞銀",
+          "buy": 119,
+          "sell": 95,
+          "net": 24,
+          "ratio": 0.52
+        },
+        {
+          "broker_id": "003900360031005a",
+          "broker_name": "富邦-永康",
+          "buy": 20,
+          "sell": 0,
+          "net": 20,
+          "ratio": 0.43
+        }
+      ],
+      "sell_top15": [
+        {
+          "broker_id": "9676",
+          "broker_name": "富邦-仁愛",
+          "buy": 16,
+          "sell": 807,
+          "net": -791,
+          "ratio": 17.05
+        },
+        {
+          "broker_id": "8960",
+          "broker_name": "香港上海匯豐",
+          "buy": 0,
+          "sell": 224,
+          "net": -224,
+          "ratio": 4.83
+        },
+        {
+          "broker_id": "0038003800380041",
+          "broker_name": "國泰-館前",
+          "buy": 22,
+          "sell": 212,
+          "net": -190,
+          "ratio": 4.1
+        },
+        {
+          "broker_id": "1480",
+          "broker_name": "美商高盛",
+          "buy": 160,
+          "sell": 346,
+          "net": -186,
+          "ratio": 4.01
+        },
+        {
+          "broker_id": "1590",
+          "broker_name": "花旗環球",
+          "buy": 1,
+          "sell": 181,
+          "net": -180,
+          "ratio": 3.88
+        },
+        {
+          "broker_id": "9300",
+          "broker_name": "華南永昌",
+          "buy": 4,
+          "sell": 97,
+          "net": -93,
+          "ratio": 2.01
+        },
+        {
+          "broker_id": "1440",
+          "broker_name": "美林",
+          "buy": 63,
+          "sell": 146,
+          "net": -83,
+          "ratio": 1.79
+        },
+        {
+          "broker_id": "5380",
+          "broker_name": "第一金",
+          "buy": 1,
+          "sell": 40,
+          "net": -39,
+          "ratio": 0.84
+        },
+        {
+          "broker_id": "9835",
+          "broker_name": "元大-員林中山",
+          "buy": 4,
+          "sell": 34,
+          "net": -30,
+          "ratio": 0.65
+        },
+        {
+          "broker_id": "9229",
+          "broker_name": "凱基-中山",
+          "buy": 0,
+          "sell": 30,
+          "net": -30,
+          "ratio": 0.65
+        },
+        {
+          "broker_id": "9200",
+          "broker_name": "凱基",
+          "buy": 0,
+          "sell": 29,
+          "net": -29,
+          "ratio": 0.63
+        },
+        {
+          "broker_id": "003800380034004a",
+          "broker_name": "玉山-大里",
+          "buy": 2,
+          "sell": 27,
+          "net": -25,
+          "ratio": 0.54
+        },
+        {
+          "broker_id": "0039004100370039",
+          "broker_name": "永豐金-埔里",
+          "buy": 2,
+          "sell": 23,
+          "net": -21,
+          "ratio": 0.45
+        },
+        {
+          "broker_id": "8843",
+          "broker_name": "玉山-高雄",
+          "buy": 2,
+          "sell": 22,
+          "net": -20,
+          "ratio": 0.43
+        },
+        {
+          "broker_id": "9309",
+          "broker_name": "華南永昌-古亭",
+          "buy": 1,
+          "sell": 20,
+          "net": -19,
+          "ratio": 0.41
+        }
+      ]
+    },
+    "2618": {
+      "stock_id": "2618",
+      "stock_name": "",
+      "market": "",
+      "total_volume": 10921,
+      "buy_top5_sum": 3989,
+      "sell_top5_sum": 2253,
+      "broker_concentration_buy_top5": 36.53,
+      "broker_concentration_sell_top5": 20.63,
+      "buy_top15": [
+        {
+          "broker_id": "9800",
+          "broker_name": "元大證券",
+          "buy": 2046,
+          "sell": 312,
+          "net": 1734,
+          "ratio": 20.25
+        },
+        {
+          "broker_id": "1470",
+          "broker_name": "台灣摩根士丹利",
+          "buy": 1463,
+          "sell": 305,
+          "net": 1158,
+          "ratio": 13.52
+        },
+        {
+          "broker_id": "1650",
+          "broker_name": "新加坡商瑞銀",
+          "buy": 1057,
+          "sell": 288,
+          "net": 769,
+          "ratio": 8.98
+        },
+        {
+          "broker_id": "8890",
+          "broker_name": "大和國泰",
+          "buy": 216,
+          "sell": 0,
+          "net": 216,
+          "ratio": 2.52
+        },
+        {
+          "broker_id": "0039004100380031",
+          "broker_name": "永豐金-匯立",
+          "buy": 140,
+          "sell": 28,
+          "net": 112,
+          "ratio": 1.31
+        },
+        {
+          "broker_id": "0035003800350048",
+          "broker_name": "統一-桃園",
+          "buy": 112,
+          "sell": 0,
+          "net": 112,
+          "ratio": 1.31
+        },
+        {
+          "broker_id": "0039003800390047",
+          "broker_name": "元大-大同",
+          "buy": 73,
+          "sell": 3,
+          "net": 70,
+          "ratio": 0.82
+        },
+        {
+          "broker_id": "1480",
+          "broker_name": "美商高盛",
+          "buy": 654,
+          "sell": 584,
+          "net": 70,
+          "ratio": 0.82
+        },
+        {
+          "broker_id": "9100",
+          "broker_name": "群益金鼎",
+          "buy": 51,
+          "sell": 4,
+          "net": 47,
+          "ratio": 0.55
+        },
+        {
+          "broker_id": "9623",
+          "broker_name": "富邦-台北",
+          "buy": 38,
+          "sell": 15,
+          "net": 23,
+          "ratio": 0.27
+        },
+        {
+          "broker_id": "0039003200300046",
+          "broker_name": "凱基-站前",
+          "buy": 23,
+          "sell": 1,
+          "net": 22,
+          "ratio": 0.26
+        },
+        {
+          "broker_id": "6160",
+          "broker_name": "中國信託",
+          "buy": 32,
+          "sell": 14,
+          "net": 18,
+          "ratio": 0.21
+        },
+        {
+          "broker_id": "8880",
+          "broker_name": "國泰證券",
+          "buy": 17,
+          "sell": 0,
+          "net": 17,
+          "ratio": 0.2
+        },
+        {
+          "broker_id": "9266",
+          "broker_name": "凱基-新豐",
+          "buy": 13,
+          "sell": 0,
+          "net": 13,
+          "ratio": 0.15
+        },
+        {
+          "broker_id": "0039003600320041",
+          "broker_name": "富邦-南港",
+          "buy": 11,
+          "sell": 1,
+          "net": 10,
+          "ratio": 0.12
+        }
+      ],
+      "sell_top15": [
+        {
+          "broker_id": "9200",
+          "broker_name": "凱基",
+          "buy": 0,
+          "sell": 691,
+          "net": -691,
+          "ratio": 8.07
+        },
+        {
+          "broker_id": "8440",
+          "broker_name": "摩根大通",
+          "buy": 228,
+          "sell": 783,
+          "net": -555,
+          "ratio": 6.48
+        },
+        {
+          "broker_id": "9268",
+          "broker_name": "凱基-台北",
+          "buy": 504,
+          "sell": 986,
+          "net": -482,
+          "ratio": 5.63
+        },
+        {
+          "broker_id": "0038003400350055",
+          "broker_name": "康和-台北",
+          "buy": 1,
+          "sell": 289,
+          "net": -288,
+          "ratio": 3.36
+        },
+        {
+          "broker_id": "8560",
+          "broker_name": "新光",
+          "buy": 27,
+          "sell": 264,
+          "net": -237,
+          "ratio": 2.77
+        },
+        {
+          "broker_id": "8960",
+          "broker_name": "香港上海匯豐",
+          "buy": 55,
+          "sell": 225,
+          "net": -170,
+          "ratio": 1.99
+        },
+        {
+          "broker_id": "1590",
+          "broker_name": "花旗環球",
+          "buy": 631,
+          "sell": 782,
+          "net": -151,
+          "ratio": 1.76
+        },
+        {
+          "broker_id": "1560",
+          "broker_name": "港商野村",
+          "buy": 32,
+          "sell": 177,
+          "net": -145,
+          "ratio": 1.69
+        },
+        {
+          "broker_id": "0035003300380045",
+          "broker_name": "第一金-自由",
+          "buy": 0,
+          "sell": 130,
+          "net": -130,
+          "ratio": 1.52
+        },
+        {
+          "broker_id": "9256",
+          "broker_name": "凱基-南崁",
+          "buy": 2,
+          "sell": 130,
+          "net": -128,
+          "ratio": 1.49
+        },
+        {
+          "broker_id": "9600",
+          "broker_name": "富邦證券",
+          "buy": 0,
+          "sell": 104,
+          "net": -104,
+          "ratio": 1.21
+        },
+        {
+          "broker_id": "0039004100300030",
+          "broker_name": "永豐金證券",
+          "buy": 108,
+          "sell": 207,
+          "net": -99,
+          "ratio": 1.16
+        },
+        {
+          "broker_id": "0039004200310031",
+          "broker_name": "台新-新營",
+          "buy": 5,
+          "sell": 95,
+          "net": -90,
+          "ratio": 1.05
+        },
+        {
+          "broker_id": "8900",
+          "broker_name": "法銀巴黎",
+          "buy": 0,
+          "sell": 62,
+          "net": -62,
+          "ratio": 0.72
+        },
+        {
+          "broker_id": "003900360031004e",
+          "broker_name": "富邦-青埔",
+          "buy": 2,
+          "sell": 50,
+          "net": -48,
+          "ratio": 0.56
+        }
+      ]
+    },
+    "2881": {
+      "stock_id": "2881",
+      "stock_name": "",
+      "market": "",
+      "total_volume": 13027,
+      "buy_top5_sum": 4042,
+      "sell_top5_sum": 3597,
+      "broker_concentration_buy_top5": 31.03,
+      "broker_concentration_sell_top5": 27.61,
+      "buy_top15": [
+        {
+          "broker_id": "0039004100380031",
+          "broker_name": "永豐金-匯立",
+          "buy": 2116,
+          "sell": 0,
+          "net": 2116,
+          "ratio": 20.64
+        },
+        {
+          "broker_id": "9200",
+          "broker_name": "凱基",
+          "buy": 664,
+          "sell": 2,
+          "net": 662,
+          "ratio": 6.46
+        },
+        {
+          "broker_id": "1470",
+          "broker_name": "台灣摩根士丹利",
+          "buy": 1311,
+          "sell": 763,
+          "net": 548,
+          "ratio": 5.35
+        },
+        {
+          "broker_id": "8880",
+          "broker_name": "國泰證券",
+          "buy": 456,
+          "sell": 0,
+          "net": 456,
+          "ratio": 4.45
+        },
+        {
+          "broker_id": "1650",
+          "broker_name": "新加坡商瑞銀",
+          "buy": 453,
+          "sell": 193,
+          "net": 260,
+          "ratio": 2.54
+        },
+        {
+          "broker_id": "9600",
+          "broker_name": "富邦證券",
+          "buy": 190,
+          "sell": 2,
+          "net": 188,
+          "ratio": 1.83
+        },
+        {
+          "broker_id": "1560",
+          "broker_name": "港商野村",
+          "buy": 116,
+          "sell": 1,
+          "net": 115,
+          "ratio": 1.12
+        },
+        {
+          "broker_id": "1040",
+          "broker_name": "臺銀",
+          "buy": 116,
+          "sell": 27,
+          "net": 89,
+          "ratio": 0.87
+        },
+        {
+          "broker_id": "9658",
+          "broker_name": "富邦-建國",
+          "buy": 59,
+          "sell": 3,
+          "net": 56,
+          "ratio": 0.55
+        },
+        {
+          "broker_id": "9229",
+          "broker_name": "凱基-中山",
+          "buy": 40,
+          "sell": 0,
+          "net": 40,
+          "ratio": 0.39
+        },
+        {
+          "broker_id": "9623",
+          "broker_name": "富邦-台北",
+          "buy": 63,
+          "sell": 25,
+          "net": 38,
+          "ratio": 0.37
+        },
+        {
+          "broker_id": "9897",
+          "broker_name": "元大-土城",
+          "buy": 25,
+          "sell": 0,
+          "net": 25,
+          "ratio": 0.24
+        },
+        {
+          "broker_id": "9359",
+          "broker_name": "華南永昌-中正",
+          "buy": 20,
+          "sell": 0,
+          "net": 20,
+          "ratio": 0.2
+        },
+        {
+          "broker_id": "0039003800310051",
+          "broker_name": "元大-太平",
+          "buy": 21,
+          "sell": 1,
+          "net": 20,
+          "ratio": 0.2
+        },
+        {
+          "broker_id": "0035003800350046",
+          "broker_name": "統一-彰化",
+          "buy": 20,
+          "sell": 0,
+          "net": 20,
+          "ratio": 0.2
+        }
+      ],
+      "sell_top15": [
+        {
+          "broker_id": "1590",
+          "broker_name": "花旗環球",
+          "buy": 313,
+          "sell": 1445,
+          "net": -1132,
+          "ratio": 11.04
+        },
+        {
+          "broker_id": "9227",
+          "broker_name": "凱基-城中",
+          "buy": 2,
+          "sell": 955,
+          "net": -953,
+          "ratio": 9.3
+        },
+        {
+          "broker_id": "9800",
+          "broker_name": "元大證券",
+          "buy": 370,
+          "sell": 1274,
+          "net": -904,
+          "ratio": 8.82
+        },
+        {
+          "broker_id": "8440",
+          "broker_name": "摩根大通",
+          "buy": 90,
+          "sell": 463,
+          "net": -373,
+          "ratio": 3.64
+        },
+        {
+          "broker_id": "9100",
+          "broker_name": "群益金鼎",
+          "buy": 25,
+          "sell": 260,
+          "net": -235,
+          "ratio": 2.29
+        },
+        {
+          "broker_id": "0039004100300030",
+          "broker_name": "永豐金證券",
+          "buy": 43,
+          "sell": 267,
+          "net": -224,
+          "ratio": 2.19
+        },
+        {
+          "broker_id": "9268",
+          "broker_name": "凱基-台北",
+          "buy": 876,
+          "sell": 995,
+          "net": -119,
+          "ratio": 1.16
+        },
+        {
+          "broker_id": "6160",
+          "broker_name": "中國信託",
+          "buy": 1,
+          "sell": 88,
+          "net": -87,
+          "ratio": 0.85
+        },
+        {
+          "broker_id": "1480",
+          "broker_name": "美商高盛",
+          "buy": 751,
+          "sell": 826,
+          "net": -75,
+          "ratio": 0.73
+        },
+        {
+          "broker_id": "8900",
+          "broker_name": "法銀巴黎",
+          "buy": 0,
+          "sell": 75,
+          "net": -75,
+          "ratio": 0.73
+        },
+        {
+          "broker_id": "1440",
+          "broker_name": "美林",
+          "buy": 452,
+          "sell": 517,
+          "net": -65,
+          "ratio": 0.63
+        },
+        {
+          "broker_id": "0039004200320062",
+          "broker_name": "台新-板橋",
+          "buy": 1,
+          "sell": 52,
+          "net": -51,
+          "ratio": 0.5
+        },
+        {
+          "broker_id": "9105",
+          "broker_name": "群益金鼎-高盛",
+          "buy": 0,
+          "sell": 46,
+          "net": -46,
+          "ratio": 0.45
+        },
+        {
+          "broker_id": "0039003200310043",
+          "broker_name": "凱基-民權",
+          "buy": 0,
+          "sell": 41,
+          "net": -41,
+          "ratio": 0.4
+        },
+        {
+          "broker_id": "0039004200300030",
+          "broker_name": "台新",
+          "buy": 14,
+          "sell": 53,
+          "net": -39,
+          "ratio": 0.38
+        }
+      ]
+    },
+    "2882": {
+      "stock_id": "2882",
+      "stock_name": "",
+      "market": "",
+      "total_volume": 16032,
+      "buy_top5_sum": 5064,
+      "sell_top5_sum": 3689,
+      "broker_concentration_buy_top5": 31.59,
+      "broker_concentration_sell_top5": 23.01,
+      "buy_top15": [
+        {
+          "broker_id": "8960",
+          "broker_name": "香港上海匯豐",
+          "buy": 1436,
+          "sell": 18,
+          "net": 1418,
+          "ratio": 10.79
+        },
+        {
+          "broker_id": "1650",
+          "broker_name": "新加坡商瑞銀",
+          "buy": 1529,
+          "sell": 202,
+          "net": 1327,
+          "ratio": 10.1
+        },
+        {
+          "broker_id": "1480",
+          "broker_name": "美商高盛",
+          "buy": 1459,
+          "sell": 445,
+          "net": 1014,
+          "ratio": 7.72
+        },
+        {
+          "broker_id": "8450",
+          "broker_name": "康和",
+          "buy": 790,
+          "sell": 0,
+          "net": 790,
+          "ratio": 6.01
+        },
+        {
+          "broker_id": "8880",
+          "broker_name": "國泰證券",
+          "buy": 517,
+          "sell": 2,
+          "net": 515,
+          "ratio": 3.92
+        },
+        {
+          "broker_id": "9300",
+          "broker_name": "華南永昌",
+          "buy": 396,
+          "sell": 0,
+          "net": 396,
+          "ratio": 3.01
+        },
+        {
+          "broker_id": "1560",
+          "broker_name": "港商野村",
+          "buy": 380,
+          "sell": 36,
+          "net": 344,
+          "ratio": 2.62
+        },
+        {
+          "broker_id": "8840",
+          "broker_name": "玉山證券",
+          "buy": 397,
+          "sell": 173,
+          "net": 224,
+          "ratio": 1.7
+        },
+        {
+          "broker_id": "0039004100380031",
+          "broker_name": "永豐金-匯立",
+          "buy": 149,
+          "sell": 0,
+          "net": 149,
+          "ratio": 1.13
+        },
+        {
+          "broker_id": "1040",
+          "broker_name": "臺銀",
+          "buy": 96,
+          "sell": 2,
+          "net": 94,
+          "ratio": 0.72
+        },
+        {
+          "broker_id": "0039003800390050",
+          "broker_name": "元大-敦南",
+          "buy": 80,
+          "sell": 0,
+          "net": 80,
+          "ratio": 0.61
+        },
+        {
+          "broker_id": "1440",
+          "broker_name": "美林",
+          "buy": 611,
+          "sell": 545,
+          "net": 66,
+          "ratio": 0.5
+        },
+        {
+          "broker_id": "9366",
+          "broker_name": "華南永昌-豐原",
+          "buy": 50,
+          "sell": 0,
+          "net": 50,
+          "ratio": 0.38
+        },
+        {
+          "broker_id": "1260",
+          "broker_name": "宏遠證券",
+          "buy": 50,
+          "sell": 0,
+          "net": 50,
+          "ratio": 0.38
+        },
+        {
+          "broker_id": "9229",
+          "broker_name": "凱基-中山",
+          "buy": 49,
+          "sell": 0,
+          "net": 49,
+          "ratio": 0.37
+        }
+      ],
+      "sell_top15": [
+        {
+          "broker_id": "5850",
+          "broker_name": "統一",
+          "buy": 0,
+          "sell": 875,
+          "net": -875,
+          "ratio": 6.66
+        },
+        {
+          "broker_id": "8900",
+          "broker_name": "法銀巴黎",
+          "buy": 3,
+          "sell": 772,
+          "net": -769,
+          "ratio": 5.85
+        },
+        {
+          "broker_id": "9200",
+          "broker_name": "凱基",
+          "buy": 61,
+          "sell": 812,
+          "net": -751,
+          "ratio": 5.72
+        },
+        {
+          "broker_id": "1590",
+          "broker_name": "花旗環球",
+          "buy": 300,
+          "sell": 962,
+          "net": -662,
+          "ratio": 5.04
+        },
+        {
+          "broker_id": "1470",
+          "broker_name": "台灣摩根士丹利",
+          "buy": 529,
+          "sell": 1161,
+          "net": -632,
+          "ratio": 4.81
+        },
+        {
+          "broker_id": "1360",
+          "broker_name": "港商麥格理",
+          "buy": 0,
+          "sell": 397,
+          "net": -397,
+          "ratio": 3.02
+        },
+        {
+          "broker_id": "9800",
+          "broker_name": "元大證券",
+          "buy": 905,
+          "sell": 1243,
+          "net": -338,
+          "ratio": 2.57
+        },
+        {
+          "broker_id": "0039004100390042",
+          "broker_name": "永豐金-中和",
+          "buy": 10,
+          "sell": 218,
+          "net": -208,
+          "ratio": 1.58
+        },
+        {
+          "broker_id": "0039004100300030",
+          "broker_name": "永豐金證券",
+          "buy": 57,
+          "sell": 255,
+          "net": -198,
+          "ratio": 1.51
+        },
+        {
+          "broker_id": "9600",
+          "broker_name": "富邦證券",
+          "buy": 74,
+          "sell": 224,
+          "net": -150,
+          "ratio": 1.14
+        },
+        {
+          "broker_id": "9268",
+          "broker_name": "凱基-台北",
+          "buy": 223,
+          "sell": 341,
+          "net": -118,
+          "ratio": 0.9
+        },
+        {
+          "broker_id": "8888",
+          "broker_name": "國泰-敦南",
+          "buy": 63,
+          "sell": 166,
+          "net": -103,
+          "ratio": 0.78
+        },
+        {
+          "broker_id": "7008",
+          "broker_name": "兆豐-三重",
+          "buy": 120,
+          "sell": 220,
+          "net": -100,
+          "ratio": 0.76
+        },
+        {
+          "broker_id": "0039004200320072",
+          "broker_name": "台新-城東",
+          "buy": 0,
+          "sell": 100,
+          "net": -100,
+          "ratio": 0.76
+        },
+        {
+          "broker_id": "003900310038004a",
+          "broker_name": "群益金鼎-永和",
+          "buy": 218,
+          "sell": 297,
+          "net": -79,
+          "ratio": 0.6
         }
       ]
     },
@@ -263,253 +3819,761 @@
       "stock_id": "2891",
       "stock_name": "",
       "market": "",
-      "total_volume": 37028,
-      "buy_top5_sum": 8499,
-      "sell_top5_sum": 14976,
-      "broker_concentration_buy_top5": 22.95,
-      "broker_concentration_sell_top5": 40.45,
+      "total_volume": 23942,
+      "buy_top5_sum": 4157,
+      "sell_top5_sum": 6424,
+      "broker_concentration_buy_top5": 17.36,
+      "broker_concentration_sell_top5": 26.83,
       "buy_top15": [
+        {
+          "broker_id": "9100",
+          "broker_name": "群益金鼎",
+          "buy": 1041,
+          "sell": 12,
+          "net": 1029,
+          "ratio": 5.45
+        },
         {
           "broker_id": "0039004100300030",
           "broker_name": "永豐金證券",
-          "buy": 3239,
-          "sell": 1000,
-          "net": 2239,
-          "ratio": 7.82
-        },
-        {
-          "broker_id": "8450",
-          "broker_name": "康和",
-          "buy": 1878,
-          "sell": 0,
-          "net": 1878,
-          "ratio": 6.56
-        },
-        {
-          "broker_id": "9800",
-          "broker_name": "元大證券",
-          "buy": 4454,
-          "sell": 2655,
-          "net": 1799,
-          "ratio": 6.28
-        },
-        {
-          "broker_id": "0037003700390063",
-          "broker_name": "國票-敦北法人",
-          "buy": 1422,
-          "sell": 26,
-          "net": 1396,
-          "ratio": 4.87
-        },
-        {
-          "broker_id": "7000",
-          "broker_name": "兆豐證券",
-          "buy": 1205,
-          "sell": 18,
-          "net": 1187,
-          "ratio": 4.14
-        },
-        {
-          "broker_id": "0039004100380031",
-          "broker_name": "永豐金-匯立",
-          "buy": 590,
-          "sell": 99,
-          "net": 491,
-          "ratio": 1.71
-        },
-        {
-          "broker_id": "1590",
-          "broker_name": "花旗環球",
-          "buy": 625,
-          "sell": 144,
-          "net": 481,
-          "ratio": 1.68
-        },
-        {
-          "broker_id": "1360",
-          "broker_name": "港商麥格理",
-          "buy": 310,
-          "sell": 40,
-          "net": 270,
-          "ratio": 0.94
-        },
-        {
-          "broker_id": "003900380031006a",
-          "broker_name": "元大-士林",
-          "buy": 266,
-          "sell": 0,
-          "net": 266,
-          "ratio": 0.93
-        },
-        {
-          "broker_id": "8888",
-          "broker_name": "國泰-敦南",
-          "buy": 423,
-          "sell": 161,
-          "net": 262,
-          "ratio": 0.91
-        },
-        {
-          "broker_id": "9334",
-          "broker_name": "華南永昌-世貿",
-          "buy": 174,
-          "sell": 0,
-          "net": 174,
-          "ratio": 0.61
-        },
-        {
-          "broker_id": "9200",
-          "broker_name": "凱基",
-          "buy": 215,
-          "sell": 68,
-          "net": 147,
-          "ratio": 0.51
-        },
-        {
-          "broker_id": "0039003100380045",
-          "broker_name": "群益金鼎-南京",
-          "buy": 166,
-          "sell": 47,
-          "net": 119,
-          "ratio": 0.42
-        },
-        {
-          "broker_id": "0039004100390037",
-          "broker_name": "永豐金-新竹",
-          "buy": 110,
-          "sell": 4,
-          "net": 106,
-          "ratio": 0.37
-        },
-        {
-          "broker_id": "0039003200310059",
-          "broker_name": "凱基-東勢",
-          "buy": 167,
-          "sell": 65,
-          "net": 102,
-          "ratio": 0.36
-        }
-      ],
-      "sell_top15": [
-        {
-          "broker_id": "8960",
-          "broker_name": "香港上海匯豐",
-          "buy": 955,
-          "sell": 4883,
-          "net": -3928,
-          "ratio": 13.71
-        },
-        {
-          "broker_id": "1650",
-          "broker_name": "新加坡商瑞銀",
-          "buy": 557,
-          "sell": 4382,
-          "net": -3825,
-          "ratio": 13.35
-        },
-        {
-          "broker_id": "1470",
-          "broker_name": "台灣摩根士丹利",
-          "buy": 1063,
-          "sell": 3641,
-          "net": -2578,
-          "ratio": 9.0
-        },
-        {
-          "broker_id": "8440",
-          "broker_name": "摩根大通",
-          "buy": 740,
-          "sell": 3195,
-          "net": -2455,
-          "ratio": 8.57
-        },
-        {
-          "broker_id": "1480",
-          "broker_name": "美商高盛",
-          "buy": 450,
-          "sell": 2640,
-          "net": -2190,
-          "ratio": 7.64
-        },
-        {
-          "broker_id": "9268",
-          "broker_name": "凱基-台北",
-          "buy": 443,
-          "sell": 948,
-          "net": -505,
-          "ratio": 1.76
+          "buy": 1243,
+          "sell": 296,
+          "net": 947,
+          "ratio": 5.02
         },
         {
           "broker_id": "1440",
           "broker_name": "美林",
-          "buy": 618,
-          "sell": 937,
-          "net": -319,
-          "ratio": 1.11
+          "buy": 1203,
+          "sell": 295,
+          "net": 908,
+          "ratio": 4.81
         },
         {
-          "broker_id": "5850",
-          "broker_name": "統一",
-          "buy": 103,
-          "sell": 364,
-          "net": -261,
-          "ratio": 0.91
+          "broker_id": "1470",
+          "broker_name": "台灣摩根士丹利",
+          "buy": 1294,
+          "sell": 601,
+          "net": 693,
+          "ratio": 3.67
+        },
+        {
+          "broker_id": "1480",
+          "broker_name": "美商高盛",
+          "buy": 1860,
+          "sell": 1280,
+          "net": 580,
+          "ratio": 3.07
+        },
+        {
+          "broker_id": "8840",
+          "broker_name": "玉山證券",
+          "buy": 559,
+          "sell": 0,
+          "net": 559,
+          "ratio": 2.96
+        },
+        {
+          "broker_id": "9300",
+          "broker_name": "華南永昌",
+          "buy": 519,
+          "sell": 0,
+          "net": 519,
+          "ratio": 2.75
+        },
+        {
+          "broker_id": "1650",
+          "broker_name": "新加坡商瑞銀",
+          "buy": 725,
+          "sell": 237,
+          "net": 488,
+          "ratio": 2.58
+        },
+        {
+          "broker_id": "003800380038004b",
+          "broker_name": "國泰-板橋",
+          "buy": 477,
+          "sell": 6,
+          "net": 471,
+          "ratio": 2.49
+        },
+        {
+          "broker_id": "8888",
+          "broker_name": "國泰-敦南",
+          "buy": 419,
+          "sell": 55,
+          "net": 364,
+          "ratio": 1.93
         },
         {
           "broker_id": "9647",
           "broker_name": "富邦-新竹",
-          "buy": 36,
-          "sell": 239,
-          "net": -203,
-          "ratio": 0.71
+          "buy": 126,
+          "sell": 0,
+          "net": 126,
+          "ratio": 0.67
         },
         {
-          "broker_id": "9600",
-          "broker_name": "富邦證券",
-          "buy": 6,
-          "sell": 84,
-          "net": -78,
-          "ratio": 0.27
+          "broker_id": "8584",
+          "broker_name": "聯邦-雙和",
+          "buy": 100,
+          "sell": 3,
+          "net": 97,
+          "ratio": 0.51
         },
         {
-          "broker_id": "8880",
-          "broker_name": "國泰證券",
-          "buy": 19,
-          "sell": 97,
-          "net": -78,
-          "ratio": 0.27
+          "broker_id": "6160",
+          "broker_name": "中國信託",
+          "buy": 83,
+          "sell": 8,
+          "net": 75,
+          "ratio": 0.4
         },
         {
-          "broker_id": "0039004200300030",
-          "broker_name": "台新",
-          "buy": 70,
-          "sell": 144,
-          "net": -74,
-          "ratio": 0.26
+          "broker_id": "0037003000300049",
+          "broker_name": "兆豐-北高雄",
+          "buy": 66,
+          "sell": 0,
+          "net": 66,
+          "ratio": 0.35
         },
         {
-          "broker_id": "8581",
-          "broker_name": "聯邦-高雄",
-          "buy": 2,
-          "sell": 74,
-          "net": -72,
-          "ratio": 0.25
+          "broker_id": "0039003800310067",
+          "broker_name": "元大-大里",
+          "buy": 64,
+          "sell": 3,
+          "net": 61,
+          "ratio": 0.32
+        }
+      ],
+      "sell_top15": [
+        {
+          "broker_id": "8440",
+          "broker_name": "摩根大通",
+          "buy": 544,
+          "sell": 2690,
+          "net": -2146,
+          "ratio": 11.36
         },
         {
           "broker_id": "8900",
           "broker_name": "法銀巴黎",
-          "buy": 33,
-          "sell": 101,
-          "net": -68,
-          "ratio": 0.24
+          "buy": 0,
+          "sell": 1447,
+          "net": -1447,
+          "ratio": 7.66
         },
         {
-          "broker_id": "003900360032004a",
-          "broker_name": "富邦-三峽",
-          "buy": 0,
+          "broker_id": "9800",
+          "broker_name": "元大證券",
+          "buy": 1990,
+          "sell": 3170,
+          "net": -1180,
+          "ratio": 6.25
+        },
+        {
+          "broker_id": "9200",
+          "broker_name": "凱基",
+          "buy": 183,
+          "sell": 1301,
+          "net": -1118,
+          "ratio": 5.92
+        },
+        {
+          "broker_id": "1590",
+          "broker_name": "花旗環球",
+          "buy": 879,
+          "sell": 1412,
+          "net": -533,
+          "ratio": 2.82
+        },
+        {
+          "broker_id": "9268",
+          "broker_name": "凱基-台北",
+          "buy": 897,
+          "sell": 1417,
+          "net": -520,
+          "ratio": 2.75
+        },
+        {
+          "broker_id": "0039004100380031",
+          "broker_name": "永豐金-匯立",
+          "buy": 377,
+          "sell": 834,
+          "net": -457,
+          "ratio": 2.42
+        },
+        {
+          "broker_id": "5850",
+          "broker_name": "統一",
+          "buy": 7,
+          "sell": 460,
+          "net": -453,
+          "ratio": 2.4
+        },
+        {
+          "broker_id": "9600",
+          "broker_name": "富邦證券",
+          "buy": 75,
+          "sell": 502,
+          "net": -427,
+          "ratio": 2.26
+        },
+        {
+          "broker_id": "6163",
+          "broker_name": "中國信託-永康",
+          "buy": 15,
+          "sell": 331,
+          "net": -316,
+          "ratio": 1.67
+        },
+        {
+          "broker_id": "8960",
+          "broker_name": "香港上海匯豐",
+          "buy": 18,
+          "sell": 214,
+          "net": -196,
+          "ratio": 1.04
+        },
+        {
+          "broker_id": "8843",
+          "broker_name": "玉山-高雄",
+          "buy": 7,
+          "sell": 155,
+          "net": -148,
+          "ratio": 0.78
+        },
+        {
+          "broker_id": "9657",
+          "broker_name": "富邦-苗栗",
+          "buy": 12,
+          "sell": 77,
+          "net": -65,
+          "ratio": 0.34
+        },
+        {
+          "broker_id": "0039004200300030",
+          "broker_name": "台新",
+          "buy": 36,
+          "sell": 93,
+          "net": -57,
+          "ratio": 0.3
+        },
+        {
+          "broker_id": "9202",
+          "broker_name": "凱基-中港",
+          "buy": 7,
+          "sell": 60,
+          "net": -53,
+          "ratio": 0.28
+        }
+      ]
+    },
+    "3006": {
+      "stock_id": "3006",
+      "stock_name": "",
+      "market": "",
+      "total_volume": 6510,
+      "buy_top5_sum": 2006,
+      "sell_top5_sum": 781,
+      "broker_concentration_buy_top5": 30.81,
+      "broker_concentration_sell_top5": 12.0,
+      "buy_top15": [
+        {
+          "broker_id": "1650",
+          "broker_name": "新加坡商瑞銀",
+          "buy": 828,
+          "sell": 139,
+          "net": 689,
+          "ratio": 7.57
+        },
+        {
+          "broker_id": "1480",
+          "broker_name": "美商高盛",
+          "buy": 979,
+          "sell": 410,
+          "net": 569,
+          "ratio": 6.25
+        },
+        {
+          "broker_id": "9268",
+          "broker_name": "凱基-台北",
+          "buy": 595,
+          "sell": 335,
+          "net": 260,
+          "ratio": 2.86
+        },
+        {
+          "broker_id": "8440",
+          "broker_name": "摩根大通",
+          "buy": 437,
+          "sell": 191,
+          "net": 246,
+          "ratio": 2.7
+        },
+        {
+          "broker_id": "9658",
+          "broker_name": "富邦-建國",
+          "buy": 263,
+          "sell": 21,
+          "net": 242,
+          "ratio": 2.66
+        },
+        {
+          "broker_id": "9800",
+          "broker_name": "元大證券",
+          "buy": 852,
+          "sell": 663,
+          "net": 189,
+          "ratio": 2.08
+        },
+        {
+          "broker_id": "1560",
+          "broker_name": "港商野村",
+          "buy": 175,
+          "sell": 24,
+          "net": 151,
+          "ratio": 1.66
+        },
+        {
+          "broker_id": "1118",
+          "broker_name": "台灣企銀-豐原",
+          "buy": 391,
+          "sell": 284,
+          "net": 107,
+          "ratio": 1.18
+        },
+        {
+          "broker_id": "9216",
+          "broker_name": "凱基-信義",
+          "buy": 100,
+          "sell": 5,
+          "net": 95,
+          "ratio": 1.04
+        },
+        {
+          "broker_id": "1440",
+          "broker_name": "美林",
+          "buy": 91,
+          "sell": 0,
+          "net": 91,
+          "ratio": 1.0
+        },
+        {
+          "broker_id": "9600",
+          "broker_name": "富邦證券",
+          "buy": 68,
+          "sell": 7,
+          "net": 61,
+          "ratio": 0.67
+        },
+        {
+          "broker_id": "5389",
+          "broker_name": "第一金-中山",
+          "buy": 50,
+          "sell": 0,
+          "net": 50,
+          "ratio": 0.55
+        },
+        {
+          "broker_id": "5850",
+          "broker_name": "統一",
+          "buy": 84,
+          "sell": 34,
+          "net": 50,
+          "ratio": 0.55
+        },
+        {
+          "broker_id": "9255",
+          "broker_name": "凱基-和平",
+          "buy": 50,
+          "sell": 4,
+          "net": 46,
+          "ratio": 0.51
+        },
+        {
+          "broker_id": "8560",
+          "broker_name": "新光",
+          "buy": 93,
           "sell": 55,
-          "net": -55,
-          "ratio": 0.19
+          "net": 38,
+          "ratio": 0.42
+        }
+      ],
+      "sell_top15": [
+        {
+          "broker_id": "0039004100390050",
+          "broker_name": "永豐金-竹北",
+          "buy": 8,
+          "sell": 226,
+          "net": -218,
+          "ratio": 2.4
+        },
+        {
+          "broker_id": "0039003800390047",
+          "broker_name": "元大-大同",
+          "buy": 3,
+          "sell": 189,
+          "net": -186,
+          "ratio": 2.04
+        },
+        {
+          "broker_id": "0039003800330055",
+          "broker_name": "元大-頭份",
+          "buy": 7,
+          "sell": 159,
+          "net": -152,
+          "ratio": 1.67
+        },
+        {
+          "broker_id": "0037003000300056",
+          "broker_name": "兆豐-新竹",
+          "buy": 11,
+          "sell": 142,
+          "net": -131,
+          "ratio": 1.44
+        },
+        {
+          "broker_id": "0039004100390058",
+          "broker_name": "永豐金-竹科",
+          "buy": 3,
+          "sell": 97,
+          "net": -94,
+          "ratio": 1.03
+        },
+        {
+          "broker_id": "003900380039006a",
+          "broker_name": "元大-樹林",
+          "buy": 12,
+          "sell": 91,
+          "net": -79,
+          "ratio": 0.87
+        },
+        {
+          "broker_id": "8888",
+          "broker_name": "國泰-敦南",
+          "buy": 143,
+          "sell": 209,
+          "net": -66,
+          "ratio": 0.73
+        },
+        {
+          "broker_id": "9897",
+          "broker_name": "元大-土城",
+          "buy": 0,
+          "sell": 61,
+          "net": -61,
+          "ratio": 0.67
+        },
+        {
+          "broker_id": "9256",
+          "broker_name": "凱基-南崁",
+          "buy": 0,
+          "sell": 41,
+          "net": -41,
+          "ratio": 0.45
+        },
+        {
+          "broker_id": "9212",
+          "broker_name": "凱基-東港",
+          "buy": 1,
+          "sell": 41,
+          "net": -40,
+          "ratio": 0.44
+        },
+        {
+          "broker_id": "003900380031006a",
+          "broker_name": "元大-士林",
+          "buy": 1,
+          "sell": 38,
+          "net": -37,
+          "ratio": 0.41
+        },
+        {
+          "broker_id": "003900310038004b",
+          "broker_name": "群益金鼎-東湖",
+          "buy": 7,
+          "sell": 42,
+          "net": -35,
+          "ratio": 0.38
+        },
+        {
+          "broker_id": "9667",
+          "broker_name": "富邦-台南",
+          "buy": 5,
+          "sell": 39,
+          "net": -34,
+          "ratio": 0.37
+        },
+        {
+          "broker_id": "0039003800310053",
+          "broker_name": "元大-崇德",
+          "buy": 7,
+          "sell": 38,
+          "net": -31,
+          "ratio": 0.34
+        },
+        {
+          "broker_id": "0039004200320062",
+          "broker_name": "台新-板橋",
+          "buy": 10,
+          "sell": 41,
+          "net": -31,
+          "ratio": 0.34
+        }
+      ]
+    },
+    "3034": {
+      "stock_id": "3034",
+      "stock_name": "",
+      "market": "",
+      "total_volume": 3062,
+      "buy_top5_sum": 364,
+      "sell_top5_sum": 1194,
+      "broker_concentration_buy_top5": 11.89,
+      "broker_concentration_sell_top5": 38.99,
+      "buy_top15": [
+        {
+          "broker_id": "9800",
+          "broker_name": "元大證券",
+          "buy": 308,
+          "sell": 194,
+          "net": 114,
+          "ratio": 3.99
+        },
+        {
+          "broker_id": "9600",
+          "broker_name": "富邦證券",
+          "buy": 150,
+          "sell": 72,
+          "net": 78,
+          "ratio": 2.73
+        },
+        {
+          "broker_id": "1590",
+          "broker_name": "花旗環球",
+          "buy": 138,
+          "sell": 72,
+          "net": 66,
+          "ratio": 2.31
+        },
+        {
+          "broker_id": "8960",
+          "broker_name": "香港上海匯豐",
+          "buy": 64,
+          "sell": 1,
+          "net": 63,
+          "ratio": 2.21
+        },
+        {
+          "broker_id": "0039003800310044",
+          "broker_name": "元大-南投",
+          "buy": 43,
+          "sell": 0,
+          "net": 43,
+          "ratio": 1.51
+        },
+        {
+          "broker_id": "9634",
+          "broker_name": "富邦-羅東",
+          "buy": 38,
+          "sell": 0,
+          "net": 38,
+          "ratio": 1.33
+        },
+        {
+          "broker_id": "8888",
+          "broker_name": "國泰-敦南",
+          "buy": 55,
+          "sell": 18,
+          "net": 37,
+          "ratio": 1.3
+        },
+        {
+          "broker_id": "0039003800390057",
+          "broker_name": "元大-豐原站前",
+          "buy": 18,
+          "sell": 0,
+          "net": 18,
+          "ratio": 0.63
+        },
+        {
+          "broker_id": "0039004100300030",
+          "broker_name": "永豐金證券",
+          "buy": 35,
+          "sell": 18,
+          "net": 17,
+          "ratio": 0.6
+        },
+        {
+          "broker_id": "0037003000300058",
+          "broker_name": "兆豐-永和",
+          "buy": 16,
+          "sell": 0,
+          "net": 16,
+          "ratio": 0.56
+        },
+        {
+          "broker_id": "1232",
+          "broker_name": "彰銀-七賢",
+          "buy": 15,
+          "sell": 0,
+          "net": 15,
+          "ratio": 0.53
+        },
+        {
+          "broker_id": "5855",
+          "broker_name": "統一-台南",
+          "buy": 14,
+          "sell": 0,
+          "net": 14,
+          "ratio": 0.49
+        },
+        {
+          "broker_id": "8560",
+          "broker_name": "新光",
+          "buy": 23,
+          "sell": 9,
+          "net": 14,
+          "ratio": 0.49
+        },
+        {
+          "broker_id": "0039004200300030",
+          "broker_name": "台新",
+          "buy": 14,
+          "sell": 1,
+          "net": 13,
+          "ratio": 0.46
+        },
+        {
+          "broker_id": "0038003800380041",
+          "broker_name": "國泰-館前",
+          "buy": 17,
+          "sell": 4,
+          "net": 13,
+          "ratio": 0.46
+        }
+      ],
+      "sell_top15": [
+        {
+          "broker_id": "1470",
+          "broker_name": "台灣摩根士丹利",
+          "buy": 35,
+          "sell": 409,
+          "net": -374,
+          "ratio": 13.1
+        },
+        {
+          "broker_id": "1480",
+          "broker_name": "美商高盛",
+          "buy": 44,
+          "sell": 357,
+          "net": -313,
+          "ratio": 10.96
+        },
+        {
+          "broker_id": "1440",
+          "broker_name": "美林",
+          "buy": 20,
+          "sell": 243,
+          "net": -223,
+          "ratio": 7.81
+        },
+        {
+          "broker_id": "1650",
+          "broker_name": "新加坡商瑞銀",
+          "buy": 158,
+          "sell": 311,
+          "net": -153,
+          "ratio": 5.36
+        },
+        {
+          "broker_id": "8440",
+          "broker_name": "摩根大通",
+          "buy": 168,
+          "sell": 299,
+          "net": -131,
+          "ratio": 4.59
+        },
+        {
+          "broker_id": "9268",
+          "broker_name": "凱基-台北",
+          "buy": 48,
+          "sell": 127,
+          "net": -79,
+          "ratio": 2.77
+        },
+        {
+          "broker_id": "6160",
+          "broker_name": "中國信託",
+          "buy": 5,
+          "sell": 78,
+          "net": -73,
+          "ratio": 2.56
+        },
+        {
+          "broker_id": "0039004100380031",
+          "broker_name": "永豐金-匯立",
+          "buy": 0,
+          "sell": 56,
+          "net": -56,
+          "ratio": 1.96
+        },
+        {
+          "broker_id": "5850",
+          "broker_name": "統一",
+          "buy": 3,
+          "sell": 57,
+          "net": -54,
+          "ratio": 1.89
+        },
+        {
+          "broker_id": "1560",
+          "broker_name": "港商野村",
+          "buy": 0,
+          "sell": 52,
+          "net": -52,
+          "ratio": 1.82
+        },
+        {
+          "broker_id": "0037003700390063",
+          "broker_name": "國票-敦北法人",
+          "buy": 0,
+          "sell": 49,
+          "net": -49,
+          "ratio": 1.72
+        },
+        {
+          "broker_id": "0039004200320037",
+          "broker_name": "台新-林園",
+          "buy": 7,
+          "sell": 26,
+          "net": -19,
+          "ratio": 0.67
+        },
+        {
+          "broker_id": "0039004100390058",
+          "broker_name": "永豐金-竹科",
+          "buy": 3,
+          "sell": 16,
+          "net": -13,
+          "ratio": 0.46
+        },
+        {
+          "broker_id": "003800380038004b",
+          "broker_name": "國泰-板橋",
+          "buy": 6,
+          "sell": 14,
+          "net": -8,
+          "ratio": 0.28
+        },
+        {
+          "broker_id": "0039003800310042",
+          "broker_name": "元大-竹北",
+          "buy": 13,
+          "sell": 20,
+          "net": -7,
+          "ratio": 0.25
         }
       ]
     },
@@ -517,253 +4581,507 @@
       "stock_id": "3037",
       "stock_name": "",
       "market": "",
-      "total_volume": 11179,
-      "buy_top5_sum": 2243,
-      "sell_top5_sum": 1539,
-      "broker_concentration_buy_top5": 20.06,
-      "broker_concentration_sell_top5": 13.77,
+      "total_volume": 15989,
+      "buy_top5_sum": 5707,
+      "sell_top5_sum": 983,
+      "broker_concentration_buy_top5": 35.69,
+      "broker_concentration_sell_top5": 6.15,
       "buy_top15": [
         {
-          "broker_id": "9800",
-          "broker_name": "元大證券",
-          "buy": 2506,
-          "sell": 1526,
-          "net": 980,
-          "ratio": 6.32
-        },
-        {
-          "broker_id": "1470",
-          "broker_name": "台灣摩根士丹利",
-          "buy": 1104,
-          "sell": 639,
-          "net": 465,
-          "ratio": 3.0
-        },
-        {
-          "broker_id": "1650",
-          "broker_name": "新加坡商瑞銀",
-          "buy": 886,
-          "sell": 454,
-          "net": 432,
-          "ratio": 2.79
-        },
-        {
-          "broker_id": "8880",
-          "broker_name": "國泰證券",
-          "buy": 213,
-          "sell": 24,
-          "net": 189,
-          "ratio": 1.22
-        },
-        {
-          "broker_id": "9268",
-          "broker_name": "凱基-台北",
-          "buy": 939,
-          "sell": 762,
-          "net": 177,
-          "ratio": 1.14
-        },
-        {
-          "broker_id": "5850",
-          "broker_name": "統一",
-          "buy": 186,
-          "sell": 46,
-          "net": 140,
-          "ratio": 0.9
-        },
-        {
-          "broker_id": "9600",
-          "broker_name": "富邦證券",
-          "buy": 279,
-          "sell": 151,
-          "net": 128,
-          "ratio": 0.83
-        },
-        {
-          "broker_id": "9200",
-          "broker_name": "凱基",
-          "buy": 128,
-          "sell": 20,
-          "net": 108,
-          "ratio": 0.7
-        },
-        {
-          "broker_id": "0039004100300030",
-          "broker_name": "永豐金證券",
-          "buy": 190,
-          "sell": 84,
-          "net": 106,
-          "ratio": 0.68
-        },
-        {
-          "broker_id": "0037003700390063",
-          "broker_name": "國票-敦北法人",
-          "buy": 131,
-          "sell": 62,
-          "net": 69,
-          "ratio": 0.45
-        },
-        {
-          "broker_id": "5600",
-          "broker_name": "永興",
-          "buy": 51,
-          "sell": 0,
-          "net": 51,
-          "ratio": 0.33
-        },
-        {
-          "broker_id": "0039003200300046",
-          "broker_name": "凱基-站前",
-          "buy": 91,
-          "sell": 41,
-          "net": 50,
-          "ratio": 0.32
-        },
-        {
-          "broker_id": "8440",
-          "broker_name": "摩根大通",
-          "buy": 256,
-          "sell": 212,
-          "net": 44,
-          "ratio": 0.28
-        },
-        {
-          "broker_id": "0039004200320038",
-          "broker_name": "台新-北新莊",
-          "buy": 44,
-          "sell": 3,
-          "net": 41,
-          "ratio": 0.26
-        },
-        {
-          "broker_id": "0038003800340041",
-          "broker_name": "玉山-士林",
-          "buy": 53,
-          "sell": 14,
-          "net": 39,
-          "ratio": 0.25
-        }
-      ],
-      "sell_top15": [
-        {
-          "broker_id": "1560",
-          "broker_name": "港商野村",
-          "buy": 95,
-          "sell": 681,
-          "net": -586,
-          "ratio": 3.78
-        },
-        {
-          "broker_id": "1360",
-          "broker_name": "港商麥格理",
-          "buy": 7,
-          "sell": 349,
-          "net": -342,
-          "ratio": 2.21
-        },
-        {
-          "broker_id": "6161",
-          "broker_name": "中國信託-三重",
-          "buy": 57,
-          "sell": 262,
-          "net": -205,
-          "ratio": 1.32
-        },
-        {
-          "broker_id": "9875",
-          "broker_name": "元大-土城永寧",
-          "buy": 5,
-          "sell": 209,
-          "net": -204,
-          "ratio": 1.32
-        },
-        {
-          "broker_id": "0039004100390044",
-          "broker_name": "永豐金-忠孝",
-          "buy": 4,
-          "sell": 206,
-          "net": -202,
-          "ratio": 1.3
+          "broker_id": "1440",
+          "broker_name": "美林",
+          "buy": 2313,
+          "sell": 169,
+          "net": 2144,
+          "ratio": 11.54
         },
         {
           "broker_id": "1480",
           "broker_name": "美商高盛",
-          "buy": 975,
-          "sell": 1141,
-          "net": -166,
-          "ratio": 1.07
+          "buy": 2557,
+          "sell": 679,
+          "net": 1878,
+          "ratio": 10.11
         },
         {
-          "broker_id": "0037003000300049",
-          "broker_name": "兆豐-北高雄",
-          "buy": 2,
-          "sell": 100,
-          "net": -98,
-          "ratio": 0.63
+          "broker_id": "7000",
+          "broker_name": "兆豐證券",
+          "buy": 720,
+          "sell": 12,
+          "net": 708,
+          "ratio": 3.81
         },
         {
-          "broker_id": "8888",
-          "broker_name": "國泰-敦南",
-          "buy": 333,
-          "sell": 405,
-          "net": -72,
-          "ratio": 0.46
-        },
-        {
-          "broker_id": "6160",
-          "broker_name": "中國信託",
-          "buy": 74,
-          "sell": 120,
-          "net": -46,
-          "ratio": 0.3
+          "broker_id": "1470",
+          "broker_name": "台灣摩根士丹利",
+          "buy": 1337,
+          "sell": 707,
+          "net": 630,
+          "ratio": 3.39
         },
         {
           "broker_id": "1590",
           "broker_name": "花旗環球",
-          "buy": 35,
-          "sell": 79,
-          "net": -44,
-          "ratio": 0.28
+          "buy": 568,
+          "sell": 221,
+          "net": 347,
+          "ratio": 1.87
         },
         {
-          "broker_id": "9636",
-          "broker_name": "富邦-中壢",
-          "buy": 19,
-          "sell": 57,
-          "net": -38,
-          "ratio": 0.25
+          "broker_id": "9800",
+          "broker_name": "元大證券",
+          "buy": 2181,
+          "sell": 1920,
+          "net": 261,
+          "ratio": 1.41
         },
         {
-          "broker_id": "9339",
-          "broker_name": "華南永昌-竹北",
-          "buy": 5,
-          "sell": 42,
-          "net": -37,
-          "ratio": 0.24
+          "broker_id": "8880",
+          "broker_name": "國泰證券",
+          "buy": 347,
+          "sell": 109,
+          "net": 238,
+          "ratio": 1.28
         },
         {
-          "broker_id": "9623",
-          "broker_name": "富邦-台北",
+          "broker_id": "1650",
+          "broker_name": "新加坡商瑞銀",
+          "buy": 342,
+          "sell": 133,
+          "net": 209,
+          "ratio": 1.13
+        },
+        {
+          "broker_id": "0039004100380031",
+          "broker_name": "永豐金-匯立",
+          "buy": 126,
+          "sell": 0,
+          "net": 126,
+          "ratio": 0.68
+        },
+        {
+          "broker_id": "8440",
+          "broker_name": "摩根大通",
+          "buy": 401,
+          "sell": 290,
+          "net": 111,
+          "ratio": 0.6
+        },
+        {
+          "broker_id": "9200",
+          "broker_name": "凱基",
+          "buy": 380,
+          "sell": 269,
+          "net": 111,
+          "ratio": 0.6
+        },
+        {
+          "broker_id": "5850",
+          "broker_name": "統一",
+          "buy": 120,
+          "sell": 40,
+          "net": 80,
+          "ratio": 0.43
+        },
+        {
+          "broker_id": "0037003700390063",
+          "broker_name": "國票-敦北法人",
+          "buy": 137,
+          "sell": 58,
+          "net": 79,
+          "ratio": 0.43
+        },
+        {
+          "broker_id": "1360",
+          "broker_name": "港商麥格理",
+          "buy": 79,
+          "sell": 0,
+          "net": 79,
+          "ratio": 0.43
+        },
+        {
+          "broker_id": "0037003000300049",
+          "broker_name": "兆豐-北高雄",
+          "buy": 81,
+          "sell": 6,
+          "net": 75,
+          "ratio": 0.4
+        }
+      ],
+      "sell_top15": [
+        {
+          "broker_id": "8888",
+          "broker_name": "國泰-敦南",
+          "buy": 207,
+          "sell": 425,
+          "net": -218,
+          "ratio": 1.17
+        },
+        {
+          "broker_id": "0039004100300030",
+          "broker_name": "永豐金證券",
+          "buy": 71,
+          "sell": 275,
+          "net": -204,
+          "ratio": 1.1
+        },
+        {
+          "broker_id": "9600",
+          "broker_name": "富邦證券",
+          "buy": 539,
+          "sell": 727,
+          "net": -188,
+          "ratio": 1.01
+        },
+        {
+          "broker_id": "1560",
+          "broker_name": "港商野村",
+          "buy": 90,
+          "sell": 279,
+          "net": -189,
+          "ratio": 1.02
+        },
+        {
+          "broker_id": "003500380035006d",
+          "broker_name": "統一-竹南",
+          "buy": 4,
+          "sell": 188,
+          "net": -184,
+          "ratio": 0.99
+        },
+        {
+          "broker_id": "8560",
+          "broker_name": "新光",
+          "buy": 55,
+          "sell": 195,
+          "net": -140,
+          "ratio": 0.75
+        },
+        {
+          "broker_id": "9268",
+          "broker_name": "凱基-台北",
+          "buy": 1140,
+          "sell": 1235,
+          "net": -95,
+          "ratio": 0.51
+        },
+        {
+          "broker_id": "0035003800350055",
+          "broker_name": "統一-南京",
+          "buy": 25,
+          "sell": 105,
+          "net": -80,
+          "ratio": 0.43
+        },
+        {
+          "broker_id": "0039004200300030",
+          "broker_name": "台新",
+          "buy": 58,
+          "sell": 130,
+          "net": -72,
+          "ratio": 0.39
+        },
+        {
+          "broker_id": "1260",
+          "broker_name": "宏遠證券",
+          "buy": 11,
+          "sell": 80,
+          "net": -69,
+          "ratio": 0.37
+        },
+        {
+          "broker_id": "003800380038004b",
+          "broker_name": "國泰-板橋",
+          "buy": 38,
+          "sell": 100,
+          "net": -62,
+          "ratio": 0.33
+        },
+        {
+          "broker_id": "0039004100390078",
+          "broker_name": "永豐金-桃園",
+          "buy": 9,
+          "sell": 70,
+          "net": -61,
+          "ratio": 0.33
+        },
+        {
+          "broker_id": "6160",
+          "broker_name": "中國信託",
           "buy": 26,
-          "sell": 60,
-          "net": -34,
-          "ratio": 0.22
+          "sell": 85,
+          "net": -59,
+          "ratio": 0.32
         },
         {
-          "broker_id": "003900380030004b",
-          "broker_name": "元大-竹科",
-          "buy": 26,
-          "sell": 60,
-          "net": -34,
-          "ratio": 0.22
+          "broker_id": "0039003100380078",
+          "broker_name": "群益金鼎-延平",
+          "buy": 0,
+          "sell": 56,
+          "net": -56,
+          "ratio": 0.3
+        },
+        {
+          "broker_id": "9100",
+          "broker_name": "群益金鼎",
+          "buy": 294,
+          "sell": 350,
+          "net": -56,
+          "ratio": 0.3
+        }
+      ]
+    },
+    "3711": {
+      "stock_id": "3711",
+      "stock_name": "",
+      "market": "",
+      "total_volume": 12277,
+      "buy_top5_sum": 3652,
+      "sell_top5_sum": 3182,
+      "broker_concentration_buy_top5": 29.75,
+      "broker_concentration_sell_top5": 25.92,
+      "buy_top15": [
+        {
+          "broker_id": "8440",
+          "broker_name": "摩根大通",
+          "buy": 1475,
+          "sell": 356,
+          "net": 1119,
+          "ratio": 9.53
+        },
+        {
+          "broker_id": "1480",
+          "broker_name": "美商高盛",
+          "buy": 1195,
+          "sell": 182,
+          "net": 1013,
+          "ratio": 8.62
+        },
+        {
+          "broker_id": "9800",
+          "broker_name": "元大證券",
+          "buy": 1153,
+          "sell": 524,
+          "net": 629,
+          "ratio": 5.36
+        },
+        {
+          "broker_id": "1360",
+          "broker_name": "港商麥格理",
+          "buy": 606,
+          "sell": 0,
+          "net": 606,
+          "ratio": 5.16
+        },
+        {
+          "broker_id": "1470",
+          "broker_name": "台灣摩根士丹利",
+          "buy": 552,
+          "sell": 267,
+          "net": 285,
+          "ratio": 2.43
+        },
+        {
+          "broker_id": "0039004200320030",
+          "broker_name": "台新-台北",
+          "buy": 257,
+          "sell": 5,
+          "net": 252,
+          "ratio": 2.15
+        },
+        {
+          "broker_id": "8890",
+          "broker_name": "大和國泰",
+          "buy": 200,
+          "sell": 0,
+          "net": 200,
+          "ratio": 1.7
+        },
+        {
+          "broker_id": "9600",
+          "broker_name": "富邦證券",
+          "buy": 215,
+          "sell": 17,
+          "net": 198,
+          "ratio": 1.69
+        },
+        {
+          "broker_id": "1230",
+          "broker_name": "彰銀",
+          "buy": 171,
+          "sell": 5,
+          "net": 166,
+          "ratio": 1.41
+        },
+        {
+          "broker_id": "0039004100300030",
+          "broker_name": "永豐金證券",
+          "buy": 296,
+          "sell": 157,
+          "net": 139,
+          "ratio": 1.18
+        },
+        {
+          "broker_id": "8450",
+          "broker_name": "康和",
+          "buy": 126,
+          "sell": 2,
+          "net": 124,
+          "ratio": 1.06
+        },
+        {
+          "broker_id": "9268",
+          "broker_name": "凱基-台北",
+          "buy": 369,
+          "sell": 297,
+          "net": 72,
+          "ratio": 0.61
+        },
+        {
+          "broker_id": "9315",
+          "broker_name": "華南永昌-大甲",
+          "buy": 56,
+          "sell": 2,
+          "net": 54,
+          "ratio": 0.46
+        },
+        {
+          "broker_id": "7000",
+          "broker_name": "兆豐證券",
+          "buy": 50,
+          "sell": 3,
+          "net": 47,
+          "ratio": 0.4
+        },
+        {
+          "broker_id": "1560",
+          "broker_name": "港商野村",
+          "buy": 70,
+          "sell": 24,
+          "net": 46,
+          "ratio": 0.39
+        }
+      ],
+      "sell_top15": [
+        {
+          "broker_id": "5850",
+          "broker_name": "統一",
+          "buy": 61,
+          "sell": 2285,
+          "net": -2224,
+          "ratio": 18.93
+        },
+        {
+          "broker_id": "1650",
+          "broker_name": "新加坡商瑞銀",
+          "buy": 556,
+          "sell": 899,
+          "net": -343,
+          "ratio": 2.92
+        },
+        {
+          "broker_id": "9100",
+          "broker_name": "群益金鼎",
+          "buy": 186,
+          "sell": 423,
+          "net": -237,
+          "ratio": 2.02
+        },
+        {
+          "broker_id": "1590",
+          "broker_name": "花旗環球",
+          "buy": 236,
+          "sell": 455,
+          "net": -219,
+          "ratio": 1.86
         },
         {
           "broker_id": "1440",
           "broker_name": "美林",
-          "buy": 317,
-          "sell": 351,
-          "net": -34,
-          "ratio": 0.22
+          "buy": 277,
+          "sell": 436,
+          "net": -159,
+          "ratio": 1.35
+        },
+        {
+          "broker_id": "9216",
+          "broker_name": "凱基-信義",
+          "buy": 2,
+          "sell": 151,
+          "net": -149,
+          "ratio": 1.27
+        },
+        {
+          "broker_id": "8900",
+          "broker_name": "法銀巴黎",
+          "buy": 4,
+          "sell": 138,
+          "net": -134,
+          "ratio": 1.14
+        },
+        {
+          "broker_id": "6160",
+          "broker_name": "中國信託",
+          "buy": 12,
+          "sell": 108,
+          "net": -96,
+          "ratio": 0.82
+        },
+        {
+          "broker_id": "1020",
+          "broker_name": "合庫證券",
+          "buy": 24,
+          "sell": 110,
+          "net": -86,
+          "ratio": 0.73
+        },
+        {
+          "broker_id": "8840",
+          "broker_name": "玉山證券",
+          "buy": 14,
+          "sell": 82,
+          "net": -68,
+          "ratio": 0.58
+        },
+        {
+          "broker_id": "003900410039004d",
+          "broker_name": "永豐金-南投",
+          "buy": 11,
+          "sell": 79,
+          "net": -68,
+          "ratio": 0.58
+        },
+        {
+          "broker_id": "0031003200360055",
+          "broker_name": "宏遠-館前",
+          "buy": 2,
+          "sell": 61,
+          "net": -59,
+          "ratio": 0.5
+        },
+        {
+          "broker_id": "9874",
+          "broker_name": "元大-雙和",
+          "buy": 6,
+          "sell": 52,
+          "net": -46,
+          "ratio": 0.39
+        },
+        {
+          "broker_id": "0037003700390075",
+          "broker_name": "國票-長城",
+          "buy": 5,
+          "sell": 42,
+          "net": -37,
+          "ratio": 0.32
+        },
+        {
+          "broker_id": "8888",
+          "broker_name": "國泰-敦南",
+          "buy": 129,
+          "sell": 165,
+          "net": -36,
+          "ratio": 0.31
         }
       ]
     }
